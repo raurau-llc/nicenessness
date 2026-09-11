@@ -870,5 +870,818 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T037",
+    "slug": "concealed-rivet-denim",
+    "title": "補強の金具を布で隠す\nデニムトラウザー",
+    "deck": "丈夫にした服が、座る場所を傷つけないように。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "作業着・補強の設計"
+      }
+    ],
+    "eras": [
+      "1930s"
+    ],
+    "period": "1934〜37年",
+    "place": "米国",
+    "context": "補強の金具を布で隠すデニムトラウザー",
+    "tags": [
+      "デニム",
+      "リベット",
+      "ポケット",
+      "働く"
+    ],
+    "category": "DRESS / 着る",
+    "opening": "ポケットを丈夫にする金具が、鞍の革を傷つける。1934年に米国で出願された衣服の特許には、そんな困りごとが書かれている。服を強くするだけでは、仕事の道具として十分ではなかった。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "strain",
+        "title": "力がかかる角を、金具で支える。",
+        "paragraphs": [
+          "ポケットの角や、パンツの股。1935年に成立したこの特許は、負荷の大きい場所に銅のリベットを打って補強する方法を説明している。",
+          "縫い目の端に見える小さな金具は、布を支えるものだった。その役割を知ると、ポケットの周りを見る目が変わってくる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "服は、椅子や鞍にも触れる。",
+        "paragraphs": [
+          "特許が挙げるのは、牧畜に携わる人の鞍だけではない。農業や屋外の仕事をする人が使う自動車や、家の家具も、突き出たリベットで傷つくことがある。",
+          "そこで提案されたのが、補強の金具を布で覆うつくり。強度を担う部品を残しながら、外側へ出さない。服と、その人が座る場所を一緒に考えた工夫だ。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "hidden",
+        "title": "見えなくなっても、補強は残る。",
+        "paragraphs": [
+          "Levi Straussは自社の歴史として、1937年に501の後ろポケットのリベットを隠したと紹介している。補強を保ち、鞍や家具を傷つけないためだったという。",
+          "1935年の特許に書かれた提案と、1937年の製品変更の説明。この二つを同じ出来事にまとめずに見ると、当時の作業着が向き合っていた問題が具体的になる。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "表から金具が消えても、そこに何もないとは限らない。触れるものを傷つけず、服の強さを保つ。その両方を考えた跡が、布の下にある。",
+    "bridge_title": "長い作業着を、丸みのあるショーツへ。",
+    "bridge": "NICENESSのB.STUは、1930年代米国のデニムトラウザーを参照したバレルショーツ。12.5ozの米綿デニムを使い、立体的な丸みを持つ形へ組み替えている。",
+    "bridge_refs": [
+      "F06",
+      "F07",
+      "F08"
+    ],
+    "boundary": "NICENESSが参照したメーカーや原品は特定されていない。B.STUがこの特許や501を直接参考にした、あるいは隠しリベットを採用したという説明ではない。",
+    "product_title": "作業着の参照を、ショーツの量感へ。",
+    "product_paragraphs": [
+      "SS25のB.STUは、1930年代の米国デニムトラウザーを参照し、立体的なバレル型のショーツへ再構成した一着。",
+      "使用するのは12.5ozの米綿セルビッチデニム。古い作業着の参照先と、現在の生地や丸みのある形を分けて見ると、何を新しく考えた服なのかが見えてくる。"
+    ],
+    "product_refs": [
+      "F06",
+      "F07",
+      "F08"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-11",
+    "modifiedAt": "2026-09-11",
+    "products": [
+      {
+        "id": "b-stu-ss25",
+        "model": "B.STU",
+        "season": "SS25",
+        "number": "NN-5202J15",
+        "url": "https://www.niceness.jp/products/b-stu",
+        "retained": "1930年代アメリカのデニムトラウザー",
+        "changed": "12.5oz米綿セルビッチデニム、硫化染料による経年変化、立体的バレルショーツ。",
+        "factRefs": [
+          "F06",
+          "F07",
+          "F08"
+        ],
+        "sourceKey": "6dc5f6860e9bf728"
+      },
+      {
+        "id": "stu-aw24",
+        "model": "STU",
+        "season": "AW24",
+        "number": "NN-1404T14",
+        "url": "https://www.niceness.jp/products/stu",
+        "retained": "1930年代アメリカのデニムトラウザー",
+        "changed": "12.5oz米綿セルビッチデニム、エイジング加工と三つ杢綿ツイードの裏地。ユース文化を加えたリバーシブルのバレルショーツ。",
+        "factRefs": [
+          "F06",
+          "F07",
+          "F08"
+        ],
+        "sourceKey": "fc7683179cd76057"
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "US1999927A — Riveted garment",
+        "publisher": "Milton Grunbaum／米国特許公報、Google Patents収録",
+        "url": "https://patents.google.com/patent/US1999927A/en",
+        "kind": "history"
+      },
+      {
+        "id": "M01",
+        "title": "The 80-Year Coverup",
+        "publisher": "Levi Strauss & Co.／Tracey Panek",
+        "url": "https://www.levistrauss.com/2017/07/06/80-year-cover/",
+        "kind": "maker"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS B.STU",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/b-stu",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS BOLAN",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/bolan",
+        "kind": "brand"
+      },
+      {
+        "id": "B03",
+        "title": "NICENESS E.STU",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/e-stu",
+        "kind": "brand"
+      },
+      {
+        "id": "B04",
+        "title": "NICENESS STU",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/stu",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T048",
+    "slug": "paisley-shawl",
+    "title": "曲がった滴形を織り込む\nペイズリーショール",
+    "deck": "肩にまとう布が海を渡り、柄の名前も変わっていく。",
+    "regions": [
+      {
+        "id": "kashmir",
+        "name": "カシミール",
+        "role": "ショールの製作"
+      },
+      {
+        "id": "uk",
+        "name": "英国・ペイズリー",
+        "role": "模倣品の製織・呼称"
+      }
+    ],
+    "eras": [
+      "1700s",
+      "1800s"
+    ],
+    "period": "18〜19世紀",
+    "place": "カシミール・英国・ペイズリー",
+    "context": "曲がった滴形を織り込むペイズリーショール",
+    "tags": [
+      "ショール",
+      "ペイズリー",
+      "織り",
+      "文様"
+    ],
+    "category": "MAKE / つくる",
+    "opening": "肩を覆う布に、先端の曲がった滴のような形が並ぶ。いまペイズリーと呼ばれる柄をたどると、カシミールでつくられ、ヨーロッパへ渡ったショールに行き着く。柄の名前には、布をつくる町と、まとう人の流行が重なっている。",
+    "opening_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "shawl",
+        "title": "遠くで織られた布を、肩にまとう。",
+        "paragraphs": [
+          "RISD美術館によると、カシミール製ショールは18世紀半ばからヨーロッパへ輸入され、1790年代末には上層の女性たちの間で流行した。",
+          "誰がどこで織り、誰がまとうのか。一枚の布の製作地と着用地は、同じとは限らない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "name",
+        "title": "織物の町が、柄の呼び名になる。",
+        "paragraphs": [
+          "ヨーロッパでは、機械織りの模倣品もつくられた。その生産地の一つだったスコットランドのペイズリーという地名がショールの通称となり、20世紀初めまでには柄自体の名前にもなったと、RISD美術館は説明する。",
+          "インドやペルシアでbuta、botehと呼ばれる形の由来には、複数の説がある。ペイズリーという名前だけから、文様の生まれた場所や意味を一つに決めることはできない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      },
+      {
+        "id": "edge",
+        "title": "別の布に見えても、一枚で織る。",
+        "paragraphs": [
+          "メトロポリタン美術館に残る1830〜50年のショールには、二色の外縁がある。別布を接いだように見える部分も、一枚に織られているという。製作地はスコットランドの可能性があるとされている。",
+          "柄を見る楽しみは、形を見分けることだけではない。その境目がどうつくられたのかにも、織る人の仕事が残っている。"
+        ],
+        "fact_ids": [
+          "F04"
+        ]
+      }
+    ],
+    "closing": "柄が海を渡ると、つくり方や呼び名も動いていく。ペイズリーの曲線を、一つの起源の記号ではなく、布の移動と仕事の重なりとして眺めてみたい。",
+    "bridge_title": "大きな一枚の柄を、服にする。",
+    "bridge": "NICENESSのDASとGYANは、葵・笹蔓・羊歯・雲の文様を混ぜた独自のペイズリーを、大判の綿布へ手捺染した服。DASはパーカ、GYANはトラッカー型へと構成している。",
+    "bridge_refs": [
+      "F06"
+    ],
+    "boundary": "歴史上の特定のショールやバンダナを、そのまま原図にしたという説明はない。カシミールのショール史と、NICENESSが組み合わせた現代の柄は区別して見たい。",
+    "product_title": "柄を先につくり、布を服へ組み立てる。",
+    "product_paragraphs": [
+      "SS25のDASでは、180cm四方の綿布に独自のペイズリーを手捺染し、折り畳むように衣服へ構成している。",
+      "葵や笹蔓、羊歯、雲を混ぜた柄は、NICENESSによる組み合わせ。ショールを織った歴史と並べると、布の上に柄をつくり、身体を包む形へ変える、別の仕事が見えてくる。"
+    ],
+    "product_refs": [
+      "F06"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-11",
+    "modifiedAt": "2026-09-11",
+    "products": [
+      {
+        "id": "das-ss25",
+        "model": "DAS",
+        "season": "SS25",
+        "number": "NN-0502B15",
+        "url": "https://www.niceness.jp/products/das",
+        "retained": "ペイズリー柄",
+        "changed": "日本の葵・笹蔓・羊歯・雲を混ぜた柄を大判綿布に手捺染し、サルベージ型のパーカにする。",
+        "factRefs": [
+          "F06"
+        ],
+        "sourceKey": "816e94fbb593f6cc"
+      },
+      {
+        "id": "gyan-ss25",
+        "model": "GYAN",
+        "season": "SS25",
+        "number": "NN-0501B15",
+        "url": "https://www.niceness.jp/products/gyan",
+        "retained": "ペイズリー柄",
+        "changed": "日本の葵・笹蔓・羊歯・雲を混ぜた柄を大判綿布に手捺染し、トラッカー型にする。",
+        "factRefs": [
+          "F06"
+        ],
+        "sourceKey": "fca8f13911cc2052"
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "What's in a Name? The Paisley Pattern in Kashmir Shawls",
+        "publisher": "RISD Museum／Madelyn Shaw",
+        "url": "https://risdmuseum.org/exhibitions-events/exhibitions/whats-name-paisley-pattern-kashmir-shawls",
+        "kind": "history"
+      },
+      {
+        "id": "E02",
+        "title": "Shawl 2009.300.2963",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/157846",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS DAS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/das",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS GYAN",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/gyan",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T062",
+    "slug": "messenger-bag",
+    "title": "走行中のずれを抑える\nメッセンジャーバッグ",
+    "deck": "自転車に乗る身体と、背中で運ぶ荷物の間に。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "自転車配達・バッグの設計"
+      }
+    ],
+    "eras": [
+      "1980s",
+      "1990s",
+      "2000s"
+    ],
+    "period": "1989年以降・現代の機能",
+    "place": "米国",
+    "context": "走行中のずれを抑えるメッセンジャーバッグ",
+    "tags": [
+      "バッグ",
+      "自転車",
+      "配達",
+      "ストラップ"
+    ],
+    "category": "CARRY / 運ぶ",
+    "opening": "ペダルを踏む身体と、背中に載せた荷物。バッグを肩に掛けられることと、走っている間にずれにくいことは、少し違う。メッセンジャーバッグのストラップには、その違いを埋める役目がある。",
+    "opening_refs": [
+      "F05"
+    ],
+    "sections": [
+      {
+        "id": "courier",
+        "title": "配達する人が、バッグをつくる。",
+        "paragraphs": [
+          "Timbuk2は、自転車配達員だったRob Honeycuttが1989年、サンフランシスコのミッション地区でClassic Messenger Bagを生んだと、自社の歴史を紹介している。",
+          "毎日ものを運ぶ仕事から、運ぶ道具をつくる側へ。これはメーカーが伝える一つの出発点であり、すべてのメッセンジャーバッグの始まりを示すものではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "strap",
+        "title": "肩に掛けたあと、ずれを抑える。",
+        "paragraphs": [
+          "ChromeはCitizenのスタビライザーストラップを、走行中のバッグのずれを防ぐための構造と説明している。肩で重さを支えるだけでなく、動いているときの位置を保つ。",
+          "同社は通勤・通学などに使うCitizenと、職業メッセンジャー向けのBerlinを分け、後者には大荷物用のベルトや四点式ハーネスを挙げている。運ぶ量や使い方が違えば、支えるつくりも変わる。"
+        ],
+        "fact_ids": [
+          "F04",
+          "F05"
+        ]
+      },
+      {
+        "id": "release",
+        "title": "降ろす動作にも、工夫がある。",
+        "paragraphs": [
+          "Chromeの創業の物語には、廃車のOldsmobileから取ったシートベルト金具が登場する。1995年に始まった同社は、素早く着脱するために、その金具をバッグへ使ったと説明する。",
+          "背負っている間の安定と、降ろすときの速さ。同じバッグの中に、異なる動作への工夫が同居している。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "バッグを見るとき、容量だけでなく、動いているときと降ろすときの身体を思い浮かべる。ベルトや金具が、使う人の一日の動作につながってくる。",
+    "bridge_title": "配達のバッグと、工具を運ぶ袋を重ねる。",
+    "bridge": "NICENESSのD.LANDSは、現代のメッセンジャーバッグと1920〜50年代米国のツールバッグを参照するバッグ。黒を重ね染めしたデニムに、レザーのショルダーストラップを合わせている。",
+    "bridge_refs": [
+      "F06",
+      "F07"
+    ],
+    "boundary": "Timbuk2やChromeを直接の原型とする説明はない。ここで紹介した安定化ベルトや金具が、D.LANDSに採用されていると示すものでもない。",
+    "product_title": "二つの運ぶ道具を、デニムで組み直す。",
+    "product_paragraphs": [
+      "AW25のD.LANDSは、ツールバッグと現代のメッセンジャーバッグを組み合わせて考えた形に、レザーの肩紐を備える。",
+      "黒を重ね染めしたデニムのD.LANDS、14ozデニムのI.LANDS、先染めグレンチェックを洗い加工したZ.LANDS。同じ複合参照でも、素材によって表情を変えている。"
+    ],
+    "product_refs": [
+      "F06",
+      "F07"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-11",
+    "modifiedAt": "2026-09-11",
+    "products": [
+      {
+        "id": "d-lands-aw25",
+        "model": "D.LANDS",
+        "season": "AW25",
+        "number": "NN-4506A16",
+        "url": "https://www.niceness.jp/products/d-lands",
+        "retained": "現代メッセンジャーバッグと1920〜50年代米国ツールバッグへの参照",
+        "changed": "素材を替え、レザーのショルダーストラップを備えるバッグへ再構成。",
+        "factRefs": [
+          "F06",
+          "F07"
+        ],
+        "sourceKey": "2df8e160c1597e46"
+      },
+      {
+        "id": "i-lands-aw25",
+        "model": "I.LANDS",
+        "season": "AW25",
+        "number": "NN-4505A16",
+        "url": "https://www.niceness.jp/products/i-lands",
+        "retained": "現代メッセンジャーバッグと1920〜50年代米国ツールバッグへの参照",
+        "changed": "素材を替え、レザーのショルダーストラップを備えるバッグへ再構成。",
+        "factRefs": [
+          "F06",
+          "F07"
+        ],
+        "sourceKey": "be907aa52c813aba"
+      },
+      {
+        "id": "z-lands-aw25",
+        "model": "Z.LANDS",
+        "season": "AW25",
+        "number": "NN-4504A16",
+        "url": "https://www.niceness.jp/products/z-lands",
+        "retained": "現代メッセンジャーバッグと1920〜50年代米国ツールバッグへの参照",
+        "changed": "素材を替え、レザーのショルダーストラップを備えるバッグへ再構成。",
+        "factRefs": [
+          "F06",
+          "F07"
+        ],
+        "sourceKey": "fb5702af09f78134"
+      }
+    ],
+    "sources": [
+      {
+        "id": "M01",
+        "title": "About Us",
+        "publisher": "Timbuk2",
+        "url": "https://www.timbuk2.com/pages/about-us",
+        "kind": "maker"
+      },
+      {
+        "id": "M02",
+        "title": "Our Story",
+        "publisher": "Chrome Industries",
+        "url": "https://chromeindustries.com/pages/our-story",
+        "kind": "maker"
+      },
+      {
+        "id": "M03",
+        "title": "How to Choose the Right Messenger Bag",
+        "publisher": "Chrome Industries",
+        "url": "https://chromeindustries.com/blogs/stories/how-to-choose-the-right-messenger-bag",
+        "kind": "maker"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS D.LANDS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/d-lands",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS I.LANDS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/i-lands",
+        "kind": "brand"
+      },
+      {
+        "id": "B03",
+        "title": "NICENESS Z.LANDS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/z-lands",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T088",
+    "slug": "flight-helmet",
+    "title": "受話器と配線を組み込む\n飛行帽",
+    "deck": "頭を覆う装備に、聞くための道具も収める。",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "RAFの飛行装備"
+      },
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "海軍の飛行装備"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s"
+    ],
+    "period": "1941〜50年代半ば",
+    "place": "英国・米国",
+    "context": "受話器と配線を組み込む飛行帽",
+    "tags": [
+      "飛行帽",
+      "通信",
+      "耳当て",
+      "装備"
+    ],
+    "category": "DRESS / 着る",
+    "opening": "飛行帽を、頭を覆うだけのものとして見ないでみる。受話器や配線、酸素マスクを留める部品。飛ぶ人の頭の周りには、複数の道具を一緒に収める必要があった。",
+    "opening_refs": [
+      "F02",
+      "F05"
+    ],
+    "sections": [
+      {
+        "id": "wired",
+        "title": "配線が、帽子の内側へ入る。",
+        "paragraphs": [
+          "英国空軍博物館は、革製のType Cが1941年にType Bを置き換え始めたと説明している。さらに1944年導入のwired型では、配線が内蔵された。",
+          "同館の所蔵例は、内蔵配線を取り除き、外部配線へ変更されたものだという。型の説明と、手元に残った一つの装備の姿は、必ずしも一致しない。使われる中で変わった細部もある。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      },
+      {
+        "id": "layers",
+        "title": "外殻の内側にも、装備がある。",
+        "paragraphs": [
+          "スミソニアン国立航空宇宙博物館が紹介するH-4は、1950年代半ばに米海軍・海兵隊の飛行士へ支給された防護飛行帽。英国の革製Type Cとは、別の装備として見ておきたい。",
+          "同館のH-4はガラス繊維の外殻にナイロンの内帽を備え、受話器、マイク、酸素マスク用の留め具も持つ。頭を保護する外側と、道具を収める内側が重なっている。"
+        ],
+        "fact_ids": [
+          "F04",
+          "F05"
+        ]
+      },
+      {
+        "id": "read",
+        "title": "耳の周りを、機能から見る。",
+        "paragraphs": [
+          "同じ飛行帽という名でも、素材や通信装備の組み込み方は一つではない。革の帽子に配線を収める例と、外殻と内帽を重ねた例では、構成も違う。",
+          "耳の周りが覆われた姿だけから、防寒のためと決めつけることはできない。そこに何が収まり、何とつながるのかを見ることが、装備の形を読む手がかりになる。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F05"
+        ]
+      }
+    ],
+    "closing": "帽子の輪郭の内側に、聞く道具や呼吸の装備との接点がある。飛行帽は、頭の周りに必要なものをどう置くかという設計でもあった。",
+    "bridge_title": "飛行帽の参照を、冬の耳当てへ。",
+    "bridge": "NICENESSのM.STRICKは、1940〜50年代の飛行帽と1980年代のイヤーマフ帽を組み合わせた帽子。混紡ウールツイードに、メリノのライニングムートンを使った耳当てを合わせている。",
+    "bridge_refs": [
+      "F06"
+    ],
+    "boundary": "NICENESSが参考にした飛行帽の型式や国は特定されていない。Type CやH-4が直接の原型であることや、通信・保護性能を受け継ぐことは示されていない。",
+    "product_title": "二つの帽子の記憶を、素材でつなぐ。",
+    "product_paragraphs": [
+      "AW26のM.STRICKは、飛行帽とイヤーマフ帽を合わせて考えた形に、オリジナルの混紡ウールツイードと、イタリア製メリノライニングムートンの耳当てを使う。",
+      "別モデルのSTRICKは、加工した合成繊維の生地にシルクの裏地と編み立てたボアの耳当てを組み合わせる。参照する年代が同じでも、現代の素材の選び方は異なる。"
+    ],
+    "product_refs": [
+      "F06",
+      "F07"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-11",
+    "modifiedAt": "2026-09-11",
+    "products": [
+      {
+        "id": "m-strick-aw26",
+        "model": "M.STRICK",
+        "season": "AW26",
+        "number": "NN-3205H18",
+        "url": "https://www.niceness.jp/products/m-strick",
+        "retained": "1940〜50年代のフライトキャップの要素。1980年代イヤーマフキャップも併用。",
+        "changed": "混紡ウールのオリジナルツイードとイタリア製メリノライニングムートンの耳当て。",
+        "factRefs": [
+          "F06"
+        ],
+        "sourceKey": "c587248ff095a187"
+      },
+      {
+        "id": "strick-aw26",
+        "model": "STRICK",
+        "season": "AW26",
+        "number": "NN-3204H18",
+        "url": "https://www.niceness.jp/products/strick",
+        "retained": "1940〜50年代のフライトキャップの要素。1980年代イヤーマフキャップも併用。",
+        "changed": "縮絨加工した合繊生地、シルクフリース裏地、カスリヤーンモールボアニットの耳当て。",
+        "factRefs": [
+          "F07"
+        ],
+        "sourceKey": "d4319cef6fc6a43c"
+      }
+    ],
+    "sources": [
+      {
+        "id": "M01",
+        "title": "Flying Helmet, RAF, Type C, Wired",
+        "publisher": "RAF Museum",
+        "url": "https://collections.rafmuseum.org.uk/collection/object/object-72003/",
+        "kind": "history"
+      },
+      {
+        "id": "M03",
+        "title": "Helmet, Flying, Protective, Type H-4, United States Navy",
+        "publisher": "National Air and Space Museum",
+        "url": "https://airandspace.si.edu/collection-objects/helmet-flying-protective-type-h-4-united-states-navy/nasm_A19790171000",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS M.STRICK",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/m-strick",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS STRICK",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/strick",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T004",
+    "slug": "hokusai-manga",
+    "title": "町の動作を描き集めた\n北斎の絵手本",
+    "deck": "餅をつく、飴をつくる。人の仕事が、描くための手本になる。",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "絵手本の出版・町の描写"
+      }
+    ],
+    "eras": [
+      "edo",
+      "1800s"
+    ],
+    "period": "1814年初編刊行〜1878年完結",
+    "place": "日本",
+    "context": "町の動作を描き集めた北斎の絵手本",
+    "tags": [
+      "北斎",
+      "絵手本",
+      "文様",
+      "暮らし"
+    ],
+    "category": "MAKE / つくる",
+    "opening": "餅をつく人、飴をつくる職人、角兵衛獅子。『北斎漫画』の初編には、江戸の町の営みが描かれている。服に載った柄の向こうをたどると、まず人が何をしている姿なのかに目が向く。",
+    "opening_refs": [
+      "F04"
+    ],
+    "sections": [
+      {
+        "id": "learn",
+        "title": "描く人のために、姿を集める。",
+        "paragraphs": [
+          "島根県立美術館は、北斎の絵手本を、絵を学ぶ門人や私淑者のための出版物として紹介している。北斎は工芸の図案集も手がけた。",
+          "『北斎漫画』に収められているのは人物だけではない。動植物、建物、日用品、風景。描く対象を探し、形を学ぶためのさまざまな手がかりが、本の中に集まっている。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
+      },
+      {
+        "id": "work",
+        "title": "町の仕事が、線になる。",
+        "paragraphs": [
+          "すみだ北斎美術館の初編の紹介には、角兵衛獅子や飴職人、餅つきの図が挙げられている。人の姿を眺めるとき、その手足だけでなく、何をしているのかにも目を向けてみたい。",
+          "仕事や芸能の動作が、描く人の手本になる。図を一つの装飾として見る前に、そこに収められた営みから読み始められる。"
+        ],
+        "fact_ids": [
+          "F04"
+        ]
+      },
+      {
+        "id": "edition",
+        "title": "同じ初編でも、刷られた時期は違う。",
+        "paragraphs": [
+          "初編の刊行は1814年。全十五編がそろったのは、北斎没後の1878年だった。長い時間をかけて刊行された本でもある。",
+          "江戸東京博物館が所蔵する初編の一冊は、天保頃、1830〜1844年の版本として登録されている。「初編」という巻の名前と、その一冊が刷られた時期を分けて見ると、柄の出典をたどる道筋も丁寧になる。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F06"
+        ]
+      }
+    ],
+    "closing": "服の上の図から、本の中の人へ。その人がしている仕事や動きを読むと、柄は単なる飾りから、暮らしを知る入口へ変わっていく。",
+    "bridge_title": "描き集めた姿を、シャツの柄へ。",
+    "bridge": "NICENESSのBANGALTERとCHRISTOは、『北斎漫画』をもとにした独自の柄を、細番手のブロードへプリントしたシャツ。絵手本の参照を、いま着る布へと移している。",
+    "bridge_refs": [
+      "F09"
+    ],
+    "boundary": "採用した巻・図・刊行版は明示されていない。ここで挙げた餅つきや飴職人が、そのまま商品の柄に使われているとは確認できていない。",
+    "product_title": "本の図像を、着る布へ移す。",
+    "product_paragraphs": [
+      "SS26のBANGALTERとCHRISTOでは、『北斎漫画』に基づく独自の柄を細番手のブロードへプリントしている。",
+      "どの図をどう組み合わせたかは、NICENESSの制作によるもの。特定の版本や図との対応はまだ明らかでないため、当時の原図と現代の柄の意味を、そのまま重ねずに読みたい。"
+    ],
+    "product_refs": [
+      "F09"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-11",
+    "modifiedAt": "2026-09-11",
+    "products": [
+      {
+        "id": "bangalter-ss26",
+        "model": "BANGALTER",
+        "season": "SS26",
+        "number": "NN-2802Y17( Limited )",
+        "url": "https://www.niceness.jp/products/bangalter-26ss",
+        "retained": "北斎漫画の図像を参照。巻・図・版は明示なし。",
+        "changed": "細番手ブロードに独自柄をプリントしシャツへ展開。吉祥図像の構成はブランドの制作意図。",
+        "factRefs": [
+          "F09"
+        ],
+        "sourceKey": "75c0f1b9fec744d7"
+      },
+      {
+        "id": "christo-ss26",
+        "model": "CHRISTO",
+        "season": "SS26",
+        "number": "NN-2801Y17( Limited )",
+        "url": "https://www.niceness.jp/products/christo-26ss",
+        "retained": "北斎漫画の図像を参照。巻・図・版は明示なし。",
+        "changed": "細番手ブロードに独自柄をプリントしシャツへ展開。吉祥図像の構成はブランドの制作意図。",
+        "factRefs": [
+          "F09"
+        ],
+        "sourceKey": "8ead1d35e2fbca56"
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "北斎の画歴／戴斗期－絵手本への傾注－",
+        "publisher": "島根県立美術館",
+        "url": "https://www.shimane-art-museum-ukiyoe.jp/life/life-taito/index.html",
+        "kind": "history"
+      },
+      {
+        "id": "E03",
+        "title": "ひらけ、絵手本！北斎漫画エトセトラ",
+        "publisher": "すみだ北斎美術館",
+        "url": "https://hokusai-museum.jp/modules/Exhibition/exhibitions/view/4932?lang=ja",
+        "kind": "history"
+      },
+      {
+        "id": "E04",
+        "title": "北斎漫画 初編",
+        "publisher": "すみだ北斎美術館",
+        "url": "https://hokusai-museum.jp/modules/Collection/collections/view/93?lang=ja",
+        "kind": "history"
+      },
+      {
+        "id": "E05",
+        "title": "北斎漫画展",
+        "publisher": "江戸東京博物館",
+        "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/hokusai-manga/",
+        "kind": "history"
+      },
+      {
+        "id": "E06",
+        "title": "北斎漫画 初編／資料番号06200461",
+        "publisher": "江戸東京博物館",
+        "url": "https://www.edohakuarchives.jp/detail-43.html",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS BANGALTER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/bangalter-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS CHRISTO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/christo-26ss",
+        "kind": "brand"
+      }
+    ]
   }
 ]

@@ -7,7 +7,7 @@
     },
     {
       "path": "src/components/Explorer.astro",
-      "sha256": "e1d28d8d219e7899e4c3e24a5393aaf9f02e6c787cf6a72c2cb6b0988eae1452"
+      "sha256": "4688374e7eed0c5f298bace6f09dd2979fa312ab017f3e5d9c845da0aace71ed"
     },
     {
       "path": "src/layouts/Page.astro",
@@ -15,7 +15,7 @@
     },
     {
       "path": "src/lib/data.ts",
-      "sha256": "357c93eb7020ee07385e2c08bb1b36b06879279bf5fafc1bd54605648e932456"
+      "sha256": "a69dd7df801640d915fcd25c8e4ce1bd699b8135dfbf707bddbf7fa9b5c16893"
     },
     {
       "path": "src/lib/diagrams.js",
@@ -71,7 +71,7 @@
     },
     {
       "path": "src/pages/stories/[slug].astro",
-      "sha256": "66c9b78450bb04cac13b85136923c34d16b472b8b36b2eb62030d220c029c9a9"
+      "sha256": "25f2f51a711ca977c6e82267480719a40f8f182dd75e934be6c5909eab0da8a1"
     },
     {
       "path": "src/pages/tags/[tag].astro",
@@ -83,7 +83,7 @@
     },
     {
       "path": "content/articles.json",
-      "sha256": "3080c8c929ab4b0acc0ddd64831d8c8e7aac525d04b86af389f6da1e027ca077"
+      "sha256": "da77458143eda3d891a7a93ef8e3cae60ed532a9cc09f94bfb4bdf1723c42feb"
     },
     {
       "path": "content/release.v1.json",
@@ -103,7 +103,7 @@
     },
     {
       "path": "scripts/validate-content.mjs",
-      "sha256": "650e29f9a7eb83264b462fd66578933771e12be6b37555b6a9e595fa9ed5ce79"
+      "sha256": "53ab47e25163382dbed3a520f0aba9a8197e0f2423af4dbb62e5e83ae9189047"
     },
     {
       "path": "scripts/verify-build.mjs",
@@ -147,7 +147,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "9034aa5bf9119e4871357bff49c9cfac4d7636c510dbc27ff1318b9a3ee023ec"
+      "sha256": "feea0d0bb783c36a74b328d0bbfac4a7f0cea28a4a27bdf1aca040d514ba3a68"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -159,7 +159,7 @@
     },
     {
       "path": "docs/publishing-and-community.md",
-      "sha256": "6551db23cac85d698e9bfa588dc9b9e10171df9baa88a945b30f339adafde150"
+      "sha256": "087341d4cfbfd2cd83616916cc7cb58534ef11403a2fce1fe4c80fac77c212a5"
     },
     {
       "path": "content/site.json",
@@ -172,6 +172,10 @@
     {
       "path": ".openai/hosting.json",
       "sha256": "a0b3358e0fd4264965708a226132d2c4b8dc4982ddfad92b817d61059f98c965"
+    },
+    {
+      "path": "content/release.v3.json",
+      "sha256": "95b329263e6c7f951895bf0a107975f4ebd9aa1acfd64174b24c0fe543a49e74"
     }
   ],
   "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."
