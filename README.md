@@ -2,7 +2,7 @@
 
 服のディテールから各地の暮らし・歴史・文化をたどる、NICENESSの非公式ファンジャーナルです。NICENESSの公式運営・公認サイトではありません。
 
-- サイト：https://nicenessness.harukak.chatgpt.site
+- サイト：https://nicenessness.raurauji.chatgpt.site
 - 訂正・新しい記事の提案：https://github.com/raurau-llc/nicenessness/issues/new/choose
 - 編集方針：CONTRIBUTING.md / GOVERNANCE.md
 

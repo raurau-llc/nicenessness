@@ -147,7 +147,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "993bf746f3d7dc900476814294a88317cbd455d9d2d64f708cd2d1bba3cbab3a"
+      "sha256": "9034aa5bf9119e4871357bff49c9cfac4d7636c510dbc27ff1318b9a3ee023ec"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -159,11 +159,11 @@
     },
     {
       "path": "docs/publishing-and-community.md",
-      "sha256": "58500707eb289b79bcea967f5167e5448ded44d631b93da456846032e4419f09"
+      "sha256": "6551db23cac85d698e9bfa588dc9b9e10171df9baa88a945b30f339adafde150"
     },
     {
       "path": "content/site.json",
-      "sha256": "abf47342a25d591c4cc68cf8135624233819a5f4071081b37d80fb2eda07dcbd"
+      "sha256": "e7f23ef480a2e9cb96b2f5ab7229f1cefb9b1ac095806c34e98a56e4740866c6"
     },
     {
       "path": "content/release.v2.json",
