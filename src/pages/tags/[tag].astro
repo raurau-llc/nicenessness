@@ -1,0 +1,5 @@
+---
+import Page from '../../layouts/Page.astro';import Card from '../../components/Card.astro';import {articles,tags,tagPath} from '../../lib/data';
+export function getStaticPaths(){return tags.map(tag=>({params:{tag},props:{tag}}))};const {tag}=Astro.props;
+---
+<Page title={`${tag}の記事`} description={`${tag}にまつわる服・道具・技法の背景を読む。NICENESSの非公式ファンジャーナル。`} breadcrumb={[{name:tag,path:tagPath(tag)}]}><p class="eyebrow">INDEX</p><h1># {tag}</h1><div class="tags">{tags.map(t=><a href={tagPath(t)} aria-current={tag===t?'page':undefined}># {t}</a>)}</div><div class="card-grid">{articles.filter(a=>a.tags.includes(tag)).map(a=><Card article={a}/>)}</div></Page>

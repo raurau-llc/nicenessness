@@ -1,0 +1,314 @@
+{
+  "version": 2,
+  "sourceRevision": "85fcb8e3fed1c71f840fcb7780cbf845baa90b41",
+  "scope": "5 editorial articles; original 3 retained, 2 added from validated research",
+  "articles": [
+    {
+      "topicId": "T170",
+      "sha256": "db54ce2b02ed6aefb5e19c19dc26a4ce5afa3a74ca364cadd501751a91d00215",
+      "validationSha256": "db54ce2b02ed6aefb5e19c19dc26a4ce5afa3a74ca364cadd501751a91d00215",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "H01",
+            "H02"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "H01",
+            "H02"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F05",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B02"
+          ]
+        }
+      ],
+      "storySha256": "9e812eec5000a1f277d5ee9e6b1f27fd12fb3fd36d964a63826ca6ef8e061cf5"
+    },
+    {
+      "topicId": "T021",
+      "sha256": "fad0659feb1e8c1fe8d4d60661daf577ce1a9c1916258e511685ce86afac8eda",
+      "validationSha256": "fad0659feb1e8c1fe8d4d60661daf577ce1a9c1916258e511685ce86afac8eda",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E02"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E03"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E03"
+          ]
+        },
+        {
+          "id": "F05",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01",
+            "B02",
+            "B03",
+            "B04",
+            "B05"
+          ]
+        },
+        {
+          "id": "F06",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01",
+            "B02",
+            "B03",
+            "B04",
+            "B05"
+          ]
+        },
+        {
+          "id": "F07",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01",
+            "B03",
+            "B04",
+            "B05"
+          ]
+        },
+        {
+          "id": "F08",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01",
+            "B02",
+            "B03",
+            "B04",
+            "B05"
+          ]
+        }
+      ],
+      "storySha256": "c2bdb7ca589ac24e2566c7f50b8d4cb0c91be4d652e87abfa7a997bc0806ea77"
+    },
+    {
+      "topicId": "T002",
+      "sha256": "4be15b816ef600c23828e3ad31186329db7debe2aebe66350c7403676011ceef",
+      "validationSha256": "4be15b816ef600c23828e3ad31186329db7debe2aebe66350c7403676011ceef",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E03"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F05",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E02"
+          ]
+        },
+        {
+          "id": "F06",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E02"
+          ]
+        },
+        {
+          "id": "F07",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E04"
+          ]
+        },
+        {
+          "id": "F08",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E04"
+          ]
+        },
+        {
+          "id": "F10",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "storySha256": "63071888722823cbbad3e489d1ec222b16718764d152e6790eb3866d2125023f"
+    },
+    {
+      "topicId": "T027",
+      "sha256": "ade36b5680182fa6c56560a7c41c16e6675020901e00b8448d0441084925d0db",
+      "validationSha256": "ade36b5680182fa6c56560a7c41c16e6675020901e00b8448d0441084925d0db",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E03"
+          ]
+        },
+        {
+          "id": "F05",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F08",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01",
+            "B02",
+            "B03",
+            "B04",
+            "B05"
+          ]
+        },
+        {
+          "id": "F09",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01",
+            "B02",
+            "B03"
+          ]
+        },
+        {
+          "id": "F10",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01",
+            "B02",
+            "B03"
+          ]
+        },
+        {
+          "id": "F11",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01",
+            "B02",
+            "B03",
+            "B04",
+            "B05"
+          ]
+        }
+      ]
+    },
+    {
+      "topicId": "T012",
+      "sha256": "3499ae826208ecd75d75ffcf42d782775a00387804377508ee7b30d7041e9784",
+      "validationSha256": "3499ae826208ecd75d75ffcf42d782775a00387804377508ee7b30d7041e9784",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "RE01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "RE04"
+          ]
+        },
+        {
+          "id": "F06",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F10",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B03",
+            "B08"
+          ]
+        }
+      ]
+    }
+  ],
+  "previousRelease": "release.v1.json"
+}

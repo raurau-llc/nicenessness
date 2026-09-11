@@ -1,0 +1,874 @@
+[
+  {
+    "id": "T170",
+    "slug": "denison-smock",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "着用・軍装"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s"
+    ],
+    "tags": [
+      "スモック",
+      "空挺兵",
+      "防寒",
+      "ディテール"
+    ],
+    "category": "DRESS / 着る",
+    "model": "WILLI",
+    "season": "SS23",
+    "item": "willi-ss23",
+    "title": "背中の裾を前で留める\nデニソンスモック",
+    "deck": "空から降りる人のための、スモックの工夫。",
+    "place": "英国",
+    "period": "1942年・1959年",
+    "context": "空挺兵とスモック",
+    "opening": "戦闘服の上に、もう一枚を着る。英国の空挺兵が使ったデニソン・スモックは、そうした重ね着を前提とする服だった。大きな身頃に、途中まで開く前ファスナー。初期の型は、頭からかぶって着るつくりになっている。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "wear",
+        "title": "上から着るから、大きくつくる。",
+        "paragraphs": [
+          "初期のデニソンを紹介する英国の博物館の解説では、1942年型の大きな裁断は、戦闘服の上に着るためのものとされている。ゆとりのある身頃を、まず「何の上に着たのか」から見ると、形の理由が見えてくる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "tail",
+        "title": "垂れた裾にも、仕事がある。",
+        "paragraphs": [
+          "背中側から長く延びた裾を、股の下へ通し、前で留める。デニソンには、そんな一見不思議なつくりがある。",
+          "これは降下の際に暖かさを保ち、服の内側へ風が入り込むのを抑えるため、と博物館は説明している。背中から回す裾を、風にさらされる身体と一緒に考える。その細部が、着る人の動きや環境と結びついてくる。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      },
+      {
+        "id": "change",
+        "title": "前の開き方も、変わっていく。",
+        "paragraphs": [
+          "1959年型になると、前は全開のファスナーに変わり、形も従来より身体に沿うものになった。頭からかぶる初期型とは、着脱の仕方が変わる。",
+          "同じデニソンという名でも、形は一つではない。重ね着のゆとり、風を抑える裾、前の開き方。年代をたどりながら細部を見ると、「スモック」という名前だけでは見えなかった違いが分かる。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ],
+        "diagram": "smock"
+      }
+    ],
+    "closing": "服の形を、着る人の身体と動きから見てみる。大きさにも、長さにも、開き方にも、用途を考える手がかりがある。",
+    "bridge_title": "スモックの形を、ラム革で。",
+    "bridge": "NICENESSのWILLIは、1950年代の英国とフランスのスモックを着想源にしている。大判のラム革で接ぎ目を減らし、前はファスナーに。ブランドは、着脱を容易にするためのつくりと説明する。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "ここで見たデニソンと、WILLIが直接参考にしたスモックが同じ型かどうかは、まだ分かっていない。",
+    "product_title": "かぶる服を、前から開く服へ。",
+    "product_paragraphs": [
+      "WILLIの説明で挙げられているのは、1950年代の英国とフランスのスモック。大判のラム革を使って接ぎ目を少なくし、前をファスナーで開けられる服に仕立てている。",
+      "着脱を容易にするという現在の工夫を、前の開き方が変わってきたスモックの歴史と並べて見る。ただし、デニソンの型や裾の構造をそのまま継いだ服、とまではいえない。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-11",
+    "modifiedAt": "2026-09-11",
+    "products": [
+      {
+        "id": "willi-ss23",
+        "model": "WILLI",
+        "season": "SS23",
+        "number": null,
+        "url": null,
+        "retained": "1950年代の英国とフランスのスモックの要素。",
+        "changed": "大判ラム革で接ぎ目を減らし、前をファスナーにして着脱を容易にする。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "8495447204040bfd"
+      },
+      {
+        "id": "treece-ss23",
+        "model": "TREECE",
+        "season": "SS23",
+        "number": null,
+        "url": null,
+        "retained": "1950年代英国軍スモックとUS Navyカデットパーカの型紙・ディテール。",
+        "changed": "リネン・綿の二重織りと加工を用いたハンドソーンブルゾン。",
+        "factRefs": [
+          "F05"
+        ],
+        "sourceKey": "eb8ee54bc73cc8fd"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Denison and Parachute Smocks",
+        "publisher": "Airborne Assault Museum",
+        "url": "https://paradata.org.uk/content/4663703",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "The History and Demise of the Denison Smock",
+        "publisher": "Jon Baker / Airborne Assault Museum",
+        "url": "https://paradata.org.uk/content/4663558",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS WILLI",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS TREECE",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T021",
+    "slug": "newspaper-bag",
+    "regions": [
+      {
+        "id": "ca",
+        "name": "カナダ",
+        "role": "配達の回想"
+      },
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "袋・写真の記録"
+      }
+    ],
+    "eras": [
+      "1920s",
+      "1930s",
+      "1940s"
+    ],
+    "tags": [
+      "バッグ",
+      "新聞配達",
+      "働く",
+      "ディテール"
+    ],
+    "category": "CARRY / 運ぶ",
+    "title": "自転車の両側に提げる\n新聞配達バッグ",
+    "deck": "届ける量が変わると、運び方も変わる。",
+    "place": "カナダ・米国",
+    "period": "1920〜40年代",
+    "context": "新聞配達と運搬袋",
+    "opening": "1929年、カナダのコキットラム周辺で新聞を配っていたアントニオ・パレは、日曜日の配達をこう振り返っている。たくさんの新聞を、自転車の座席の左右の二つの袋へ。自転車には乗らず、押して運んだという。",
+    "opening_refs": [
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "work",
+        "title": "同じ配達でも、日曜は違う。",
+        "paragraphs": [
+          "パレの回想では、平日と日曜日で新聞が届く便や配達時刻、顧客数が違っていた。日曜には紙の量が増え、その量が運び方を左右した。",
+          "二つの袋と、押して歩く自転車。ここに見えるのは、一人の配達者が、多くの新聞を運ぶためにとった方法だ。すべての配達がこの形だったわけではないけれど、袋の使い方を仕事の量から考える手がかりになる。"
+        ],
+        "fact_ids": [
+          "F03",
+          "F04"
+        ],
+        "diagram": "delivery"
+      },
+      {
+        "id": "object",
+        "title": "袋は、仕事と一緒に残っている。",
+        "paragraphs": [
+          "米国にも、新聞を運ぶ袋の記録がある。ミシシッピ州の1920年代の写真目録には、袋を持ったウォルター・ウェルティと、『サタデー・イブニング・ポスト』の販売が記されている。",
+          "メリーランド州公文書館には、Green Haven Hashの新聞運搬袋が残る。目録に記された年代は1937〜41年。素材はキャンバスとインクとされている。",
+          "売る人が持つ袋、配達で自転車に載せる袋、キャンバスの現存品。一つの型へまとめる前に、それぞれがどこで、どんな仕事に使われたのかを見ておきたい。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      },
+      {
+        "id": "detail",
+        "title": "どう持つかは、何を運ぶかとつながる。",
+        "paragraphs": [
+          "新聞袋を「肩から掛ける形」だけで覚えてしまうと、パレの二つの袋は見えなくなる。運ぶ量や、その人の仕事の仕方によって、袋の使い方にも違いがある。",
+          "ただ、ここに挙げた記録から、現代の新聞配達バッグにあるベルトや蓋の一つひとつの起源までたどれるわけではない。分かるのは、日曜の紙量が、一人の配達者の運び方を変えたこと。その小さなつながりから、道具を見る目を始められる。"
+        ],
+        "fact_ids": [
+          "F03",
+          "F04"
+        ]
+      }
+    ],
+    "closing": "袋だけを眺めるときも、その中に何を入れ、どんなふうに運んだのかを想像してみる。形の向こうに、仕事の手順が見えてくる。",
+    "bridge_title": "肩に掛ける。手でも持つ。",
+    "bridge": "NICENESSのHEFNERは、1920〜30年代の新聞袋と郵便バッグを参照したバッグ。ショルダーストラップを内側へ収めると、手持ちにもなる。AW25のHEFNERでは、両端のベルトで開口部を調整し、フラップを保持できるようにしている。",
+    "bridge_refs": [
+      "F05",
+      "F06",
+      "F07"
+    ],
+    "boundary": "パレが使った袋を直接の原型とする説明はない。新聞を運んだ道具の歴史と、現代の持ち方の工夫を並べて読む接点になる。",
+    "product_title": "持ち方を切り替える、新聞袋。",
+    "product_paragraphs": [
+      "AW25のHEFNERは、新聞袋と郵便バッグを組み合わせて考えた形に、シュリンクレザーとキャンバスを使っている。",
+      "両端のベルトは、開口部を調整し、フラップを保持するためのもの。肩掛けのストラップは内側へしまえ、手持ちにも切り替えられる。いずれも、NICENESSが説明するこの商品の工夫だ。",
+      "古い新聞袋から、どの部品をそのまま受け継いだのかは特定されていない。いま手に持つ道具の使い方と、かつて新聞を運んだ仕事の背景を行き来してみたい。"
+    ],
+    "product_refs": [
+      "F05",
+      "F06",
+      "F07",
+      "F08"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-11",
+    "modifiedAt": "2026-09-11",
+    "products": [
+      {
+        "id": "hefner-aw25",
+        "model": "HEFNER",
+        "season": "AW25",
+        "number": "NN-4903A16",
+        "url": "https://www.niceness.jp/products/hefner",
+        "retained": "1920〜30年代の新聞袋と郵便バッグを複合参照。",
+        "changed": "シュリンクレザーとキャンバス。両端ベルトで開口調整・フラップ保持、内部ストラップ収納で手持ちへ。",
+        "factRefs": [
+          "F05",
+          "F06",
+          "F08",
+          "F07"
+        ],
+        "sourceKey": "73f070bc8d848897"
+      },
+      {
+        "id": "hefner-aw26",
+        "model": "HEFNER",
+        "season": "AW26",
+        "number": "NN-3501A18",
+        "url": "https://www.niceness.jp/products/hefner-1",
+        "retained": "1920〜30年代の新聞袋と郵便バッグを複合参照。",
+        "changed": "シュリンクレザー。内部ショルダーベルト収納で手持ちへ。",
+        "factRefs": [
+          "F05",
+          "F06",
+          "F08"
+        ],
+        "sourceKey": "7f48ceed42e2696b"
+      },
+      {
+        "id": "hefner-ss26",
+        "model": "HEFNER",
+        "season": "SS26",
+        "number": "NN-3802A17",
+        "url": "https://www.niceness.jp/products/hefner-26ss",
+        "retained": "1920〜30年代の新聞袋と郵便バッグを複合参照。",
+        "changed": "シュリンクレザーと国内シャトル織機の三子撚りキャンバス。側面ベルトで蓋保持、内部ストラップ収納で手持ちへ。",
+        "factRefs": [
+          "F05",
+          "F06",
+          "F08",
+          "F07"
+        ],
+        "sourceKey": "68e42d7f21efa0c8"
+      },
+      {
+        "id": "l-hefner-aw25",
+        "model": "L.HEFNER",
+        "season": "AW25",
+        "number": "NN-4904A16",
+        "url": "https://www.niceness.jp/products/l-hefner",
+        "retained": "1920〜30年代の新聞袋と郵便バッグを複合参照。",
+        "changed": "シュリンクレザー。両端ベルトで開口調整・フラップ保持、内部ストラップ収納で手持ちへ。",
+        "factRefs": [
+          "F05",
+          "F06",
+          "F08",
+          "F07"
+        ],
+        "sourceKey": "0ea785eb750a5dfa"
+      },
+      {
+        "id": "l-hefner-ss26",
+        "model": "L.HEFNER",
+        "season": "SS26",
+        "number": "NN-3801A17",
+        "url": "https://www.niceness.jp/products/l-hefner-26ss",
+        "retained": "1920〜30年代の新聞袋と郵便バッグを複合参照。",
+        "changed": "シュリンクレザー。側面ベルトで蓋保持、内部ストラップ収納で手持ちへ。",
+        "factRefs": [
+          "F05",
+          "F06",
+          "F08",
+          "F07"
+        ],
+        "sourceKey": "79a251e3ce70abbb"
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "Inventory for MSA SC 6018-2",
+        "publisher": "Maryland State Archives",
+        "url": "https://speccol.msa.maryland.gov/pages/speccol/series.aspx?series=2&speccol=6018",
+        "kind": "history"
+      },
+      {
+        "id": "E02",
+        "title": "Photograph Collection Items—Item 370",
+        "publisher": "Mississippi Department of Archives and History",
+        "url": "https://opac2.mdah.ms.gov/queries/pialeph/152141",
+        "kind": "history"
+      },
+      {
+        "id": "E03",
+        "title": "Extra, Extra—Read All About It: Coquitlam’s Newspaper History",
+        "publisher": "City of Coquitlam Archives",
+        "url": "https://www.coquitlam.ca/1408/Extra-Extra-Read-All-About-It-Coquitlams",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS HEFNER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/hefner",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS HEFNER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/hefner-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B03",
+        "title": "NICENESS HEFNER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/hefner-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B04",
+        "title": "NICENESS L.HEFNER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/l-hefner",
+        "kind": "brand"
+      },
+      {
+        "id": "B05",
+        "title": "NICENESS L.HEFNER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/l-hefner-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T002",
+    "slug": "kurume-kasuri",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本・久留米周辺",
+        "role": "製織"
+      }
+    ],
+    "eras": [
+      "edo",
+      "meiji"
+    ],
+    "tags": [
+      "絣",
+      "織り",
+      "染め",
+      "手仕事"
+    ],
+    "category": "MAKE / つくる",
+    "title": "糸を染め分けて柄を織る\n久留米絣",
+    "deck": "久留米の暮らしを支えた布と、染め分ける仕事。",
+    "place": "日本・久留米と周辺地域",
+    "period": "江戸末期〜明治以降",
+    "context": "絣を織る仕事",
+    "opening": "着物になり、夜具にもなる。久留米絣は、日々の暮らしの中で使われてきた布だ。久留米を中心とする地域では、農家の副業としてその生産が発展し、明治以降は着物や夜具地の需要に応えて広く用いられた。",
+    "opening_refs": [
+      "F03",
+      "F04"
+    ],
+    "sections": [
+      {
+        "id": "life",
+        "title": "暮らしで使う布を、地域で織る。",
+        "paragraphs": [
+          "久留米絣の産地は、久留米市だけではない。広川町、筑後市、八女市などにも広がっている。名前を一つの町だけのものと捉えず、その周辺で布をつくってきた仕事にも目を向けたい。",
+          "起こりについて、文化庁は江戸末期の井上伝による創案を伝承として紹介している。一人の発明の物語と、地域で続いてきた生産の歴史。その両方が、この布を知る入口になる。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      },
+      {
+        "id": "thread",
+        "title": "模様になる場所を、先に染め分ける。",
+        "paragraphs": [
+          "久留米絣では、模様になる部分を染まらないようにした糸を使い、縦糸と横糸を織るときに合わせて文様をつくる。布ができる前から、糸に柄の位置が用意されている。",
+          "出来上がった柄の向こうには、糸を染め分け、位置を合わせながら織る仕事がある。手括りも、機械括りも、織締もあるため、すべての久留米絣を同じ手仕事の工程として捉えることはできない。"
+        ],
+        "fact_ids": [
+          "F05",
+          "F06"
+        ],
+        "diagram": "weave"
+      },
+      {
+        "id": "pattern",
+        "title": "小さな柄から、つくる手をたどる。",
+        "paragraphs": [
+          "文人絣と呼ばれる柄も、その一つ。下川織物は、男物の着物地に多く使われた「書生絣」とも呼ばれる柄として紹介している。",
+          "同織元が示す工程では、粗い経糸へ糸束を織り込み、染め、解いた糸を使って再び織る。柄をつくるために、一度織ったものを解き、もう一度織る。布の小さな文様を見つめると、その前にあった仕事の手順へさかのぼれる。"
+        ],
+        "fact_ids": [
+          "F07",
+          "F08"
+        ]
+      }
+    ],
+    "closing": "着るための布でありながら、つくる人の工程が文様として現れる。久留米絣は、使う暮らしと、織る仕事を一緒に見られる布でもある。",
+    "bridge_title": "日々の布を、小さな帽子へ。",
+    "bridge": "NICENESSのCATOは、糸を部分的に染め分ける久留米絣を、細番手の生地で取り入れている。別の生地と合わせ、裏返しても使える帽子に。着物や夜具に使われた布の技法を、いまの身近な小物として見ることができる。",
+    "bridge_refs": [
+      "F10"
+    ],
+    "boundary": "ここで紹介した織元がCATOの生地を織ったのか、同じ工程なのかは分かっていない。産地の技法と、この商品の個別の作り手は分けて見ておきたい。",
+    "product_title": "糸からつくる柄を、帽子に取り入れる。",
+    "product_paragraphs": [
+      "SS26のCATOでは、経糸と緯糸を部分的に染め分ける久留米絣を、細番手で表現した生地が使われている。",
+      "その布を別の生地と組み合わせ、リバーシブルの帽子に仕立てた。NICENESSの説明にあるのは、布の技法を生かしながら、小さな日用品へと形を変える仕事だ。",
+      "個別の製織工房や、文化財の証紙の有無までは明らかでない。久留米絣の一般的な工程と、この生地が実際に辿った工程を、同じものと決めつけずに読みたい。"
+    ],
+    "product_refs": [
+      "F06",
+      "F10"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-11",
+    "modifiedAt": "2026-09-11",
+    "products": [
+      {
+        "id": "cato-ss26",
+        "model": "CATO",
+        "season": "SS26",
+        "number": "NN-3506H17( Limited )",
+        "url": "https://www.niceness.jp/products/cato-26ss",
+        "retained": "経緯糸の部分防染を活かした久留米絣。",
+        "changed": "細番手で柄を表し、別生地と合わせてリバーシブル帽子に使用。",
+        "factRefs": [
+          "F05"
+        ],
+        "sourceKey": "0bd447e010a008e6"
+      },
+      {
+        "id": "k-barney-ss26",
+        "model": "K.BARNEY",
+        "season": "SS26",
+        "number": "NN-2602B17( Limited )",
+        "url": "https://www.niceness.jp/products/k-barney-26ss",
+        "retained": "久留米絣と、古代絣と呼ばれる柄。",
+        "changed": "ブランドのNモチーフを組み合わせ、ブルゾンまたはショーツに使用。",
+        "factRefs": [
+          "F05"
+        ],
+        "sourceKey": "6e6ddd6a20da38a1"
+      },
+      {
+        "id": "k-kruger-ss26",
+        "model": "K.KRUGER",
+        "season": "SS26",
+        "number": "NN-2603T17( Limited )",
+        "url": "https://www.niceness.jp/products/k-kruger-26ss",
+        "retained": "久留米絣と、古代絣と呼ばれる柄。",
+        "changed": "ブランドのNモチーフを組み合わせ、ブルゾンまたはショーツに使用。",
+        "factRefs": [
+          "F05"
+        ],
+        "sourceKey": "f4140648998062a5"
+      },
+      {
+        "id": "k-saville-ss26",
+        "model": "K.SAVILLE",
+        "season": "SS26",
+        "number": "NN-2601B17( Limited )",
+        "url": "https://www.niceness.jp/products/k-saville-26ss",
+        "retained": "白と藍の糸を配置した文人絣。",
+        "changed": "職人が柄をずらしてNを表現し、ジャケットへ使用。",
+        "factRefs": [
+          "F05",
+          "F07",
+          "F08"
+        ],
+        "sourceKey": "8d6f77137a7bba9f"
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "久留米絣",
+        "publisher": "文化庁",
+        "url": "https://online.bunka.go.jp/heritages/detail/137254",
+        "kind": "history"
+      },
+      {
+        "id": "E02",
+        "title": "久留米絣が出来るまで",
+        "publisher": "久留米絣協同組合",
+        "url": "https://kurumekasuri.jp/about/process/",
+        "kind": "history"
+      },
+      {
+        "id": "E03",
+        "title": "久留米絣について",
+        "publisher": "久留米市",
+        "url": "https://www.city.kurume.fukuoka.jp/1090sangyou/2020shoukougyou/3050tokusan/2017-0223-2013-74.html",
+        "kind": "history"
+      },
+      {
+        "id": "E04",
+        "title": "文人絣をつくる",
+        "publisher": "久留米絣織元 下川織物",
+        "url": "https://oriyasan.com/kasuri/bunjinkasuri/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS CATO / SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/cato-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T027",
+    "slug": "duffle-coat",
+    "title": "手袋のまま留められる\nダッフルコート",
+    "deck": "寒い日の手から、大きな留め具を見てみる。",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "着用・軍装"
+      }
+    ],
+    "eras": [
+      "1930s",
+      "1940s",
+      "1950s"
+    ],
+    "period": "1939〜40年型・戦後",
+    "place": "英国",
+    "context": "寒さと留め具",
+    "tags": [
+      "コート",
+      "トグル",
+      "防寒",
+      "海軍"
+    ],
+    "category": "DRESS / 着る",
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-11",
+    "modifiedAt": "2026-09-11",
+    "opening": "手袋を脱がずに、コートの前を留める。ダッフルコートの大きなトグルには、寒さの中で手を使う人の都合がある。英国の国立陸軍博物館は、手袋をした手や、かじかんだ手でも留められる防寒着として、その形を説明している。",
+    "opening_refs": [
+      "F04"
+    ],
+    "sections": [
+      {
+        "id": "hands",
+        "title": "寒い手で、留められること。",
+        "paragraphs": [
+          "棒状の留め具を、輪へ通す。胸元に並ぶトグルを、飾りとして眺める前に、寒い日の指先を思い浮かべてみたい。",
+          "国立陸軍博物館が紹介するのは、1944年に製造された一着。ゆとりのある形とトグルを備えたコートは、第二次世界大戦以前から英国海軍の防寒着として使われ、のちに陸軍にも採用されたという。"
+        ],
+        "fact_ids": [
+          "F04"
+        ]
+      },
+      {
+        "id": "pattern",
+        "title": "三つの留め具と、四つの留め具。",
+        "paragraphs": [
+          "グリニッジの海事博物館に残る1939〜40年型には、三つの木製トグルと、喉元を留める部品がある。同館の解説によると、戦争の後半には喉留めをなくし、トグルを四つにした型へ変わった。",
+          "一口に海軍のダッフルといっても、前の留め方は同じではない。古い服の細部を読むときは、どの時点の一着なのかが手がかりになる。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      },
+      {
+        "id": "street",
+        "title": "海の防寒着が、街の服になる。",
+        "paragraphs": [
+          "海軍では、将校にも水兵にも、悪天候に備える装備として着用が認められていた。階級をまたいで使われた服だったと、海事博物館は紹介している。",
+          "戦後には余剰品が販売され、Gloverallによる製造も始まる。1950〜60年代には、海軍の装備だった形が民間のファッションへと広がっていった。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F05"
+        ]
+      }
+    ],
+    "closing": "冬の街で目にする大きな留め具。その形を、かじかんだ手でも服を閉じたいという動作から見直すと、見慣れたコートが少し違って見える。",
+    "bridge_title": "留め具を外して、裏返す。",
+    "bridge": "NICENESSのDEVOLLEは、英国海軍のウールコートと各国のダッフルを参照したコート。トグルを着脱できるようにし、表裏で異なる色やディテールを楽しめるリバーシブルの形にしている。",
+    "bridge_refs": [
+      "F08",
+      "F09"
+    ],
+    "boundary": "博物館に残る一着を直接の原型とした説明はない。軍用コートの歴史と、NICENESSが述べる参照先・再設計は、分けて読んでおきたい。",
+    "product_title": "大きな留め具を、二つの表情につなぐ。",
+    "product_paragraphs": [
+      "AW24のDEVOLLEは、36色の絣染めを施したループ糸による生地を使ったコート。英国海軍のウールコートと各国のダッフルを、制作の参照先として挙げている。",
+      "トグルは着脱式で、表裏の配色や細部を変えたリバーシブル仕様。古い防寒着を思わせる留め具が、ここでは一着の表情を切り替えるつくりと結びついている。"
+    ],
+    "product_refs": [
+      "F08",
+      "F09",
+      "F10"
+    ],
+    "products": [
+      {
+        "id": "devolle-aw24",
+        "model": "DEVOLLE",
+        "season": "AW24",
+        "number": "NN-0801C14  ( Limited )",
+        "url": "https://www.niceness.jp/products/devolle",
+        "retained": "20世紀初頭英国海軍ウールコートと各国ダッフルの要素",
+        "changed": "36色絣染ループ糸ヘリンボーン、中綿、着脱トグル、撥水ツイル裏の両面仕様。",
+        "factRefs": [
+          "F08",
+          "F11",
+          "F09",
+          "F10"
+        ],
+        "sourceKey": "5225d991833621a4"
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "Duffel coat, ZBA9859",
+        "publisher": "Royal Museums Greenwich／National Maritime Museum",
+        "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-1204402",
+        "kind": "history"
+      },
+      {
+        "id": "E03",
+        "title": "Duffle coat, universal pattern, dated 1944",
+        "publisher": "National Army Museum",
+        "url": "https://collection.nam.ac.uk/detail.php?acc=1992-02-287-1",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS DEVOLLE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/devolle",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS H.PIERRE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/h-pierre",
+        "kind": "brand"
+      },
+      {
+        "id": "B03",
+        "title": "NICENESS PIERRE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/pierre",
+        "kind": "brand"
+      },
+      {
+        "id": "B04",
+        "title": "NICENESS R.WETTON",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/r-wetton",
+        "kind": "brand"
+      },
+      {
+        "id": "B05",
+        "title": "NICENESS WETTON",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/wetton",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T012",
+    "slug": "kimono-straight-cut",
+    "title": "直線に裁って身体にまとう\n着物",
+    "deck": "布の形と、着るときの調整。その間にある工夫。",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "裁断・着装"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s"
+    ],
+    "period": "戦後〜1950年代の提案と着物の構成",
+    "place": "日本",
+    "context": "着物の裁断と着装",
+    "tags": [
+      "着物",
+      "裁断",
+      "袖",
+      "ディテール"
+    ],
+    "category": "DRESS / 着る",
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-11",
+    "modifiedAt": "2026-09-11",
+    "opening": "まっすぐに縫われた布を身体にまとい、帯の下で丈を調整する。着物では、仕立てた形だけでなく、着るときの動作も服の姿をつくっている。身体に沿わせるための工夫を、まずその着方から見てみよう。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "cloth",
+        "title": "長方形を、服にする。",
+        "paragraphs": [
+          "武庫川女子大学の2001年の和服実習では、反物を長方形に裁ち、縫い代や縫い込みを切り捨てずに長着をつくる方法が教えられている。",
+          "布を裁たないのではなく、裁ったあとにも内側へ布を残す。現代の授業に記されたこの方法から、表に見える線と、その内側に収まる布を一緒に考えられる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "wear",
+        "title": "着るときにも、形を整える。",
+        "paragraphs": [
+          "V&Aの解説では、着物は直線の縫い目を持ち、帯の下へ布をたくし上げて丈を調整する衣服として紹介されている。",
+          "縫い上がった輪郭だけを見ていては、着た姿はまだ分からない。布をどこで折り、どう収めるのか。仕立てと着装の両方に目を向けると、直線でつくられた服の見方が広がる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "change",
+        "title": "着やすさを、別のつくりで考える。",
+        "paragraphs": [
+          "終戦から1950年代の着物を扱う小形道正の研究には、洋裁の原型やウエストの切替、ダーツを取り入れたワンピース型の改良着物が登場する。",
+          "着物を日々の服としてどう着るか。その問いには、構成を変える提案もあった。ただし、提案されたことと、広く着られたことは別だ。研究でも、その違いは区別されている。"
+        ],
+        "fact_ids": [
+          "F06"
+        ]
+      }
+    ],
+    "closing": "まっすぐに裁つ線と、布を身体へ収める動き。着物の形は、その二つを行き来しながら読むことができる。",
+    "bridge_title": "袖山の丸みを、取り去ってみる。",
+    "bridge": "NICENESSのTHORNHILLは、着物に通じる直線的な構成をブルゾンに取り入れた一着。ブランドは、袖山の丸みを取り除いたシルエットと説明している。着物の見方が、洋服の袖の線へつながる。",
+    "bridge_refs": [
+      "F10"
+    ],
+    "boundary": "参照した着物の種類や年代、具体的な型紙は明らかでない。ここで紹介した戦後の改良着物が、THORNHILLの直接の着想源だという説明もない。",
+    "product_title": "直線の考え方を、ブルゾンの袖へ。",
+    "product_paragraphs": [
+      "SS26のTHORNHILLは、1930〜40年代のデニムブルゾンに、着物に通じる直線的な構成を取り入れている。",
+      "NICENESSが説明する工夫は、袖山の丸みを取り除くこと。袖の輪郭へ目を向けると、着物という参照が、柄ではなく服の線に関わっていることが分かる。",
+      "和裁と同じ袖付けや縫い方を使っているかは確認できていない。直線性を取り入れることと、着物の構造をそのまま再現することは分けて考えたい。"
+    ],
+    "product_refs": [
+      "F10"
+    ],
+    "products": [
+      {
+        "id": "thornhill-ss26",
+        "model": "THORNHILL",
+        "season": "SS26",
+        "number": "NN-1802B17",
+        "url": "https://www.niceness.jp/products/thornhill-26ss",
+        "retained": "日本着物に通じる直線的構成。",
+        "changed": "1930〜40年代デニムブルゾンに導入。袖山の丸みを排したシルエット。",
+        "factRefs": [
+          "F10"
+        ],
+        "sourceKey": "9e0976814802abbc"
+      }
+    ],
+    "sources": [
+      {
+        "id": "RE01",
+        "title": "Kimono",
+        "publisher": "Victoria and Albert Museum",
+        "url": "https://www.vam.ac.uk/articles/kimono",
+        "kind": "history"
+      },
+      {
+        "id": "RE04",
+        "title": "和服構成実習",
+        "publisher": "武庫川女子大学／上田一恵",
+        "url": "https://www.mukogawa-u.ac.jp/~kyoumuka/syllabus/2001/html/tan/seikatsu/087.htm",
+        "kind": "history"
+      },
+      {
+        "id": "E01",
+        "title": "生活着の着物と衣服を作ること——終戦から1950年代（上）",
+        "publisher": "小形道正／京都服飾文化研究財団",
+        "url": "https://www.kci.or.jp/articles/files/E_FT06_OGATA_Kimono_as_Everyday_Wear_and_Making_Clothes_JP_EN.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B03",
+        "title": "NICENESS D.THORNHILL",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/d-thornhill-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B08",
+        "title": "NICENESS THORNHILL",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/thornhill-26ss",
+        "kind": "brand"
+      }
+    ]
+  }
+]

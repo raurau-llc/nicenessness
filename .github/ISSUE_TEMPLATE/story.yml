@@ -1,0 +1,21 @@
+name: 新しい記事の提案
+description: 服・道具の特徴と暮らしの背景を提案する
+title: "[記事提案] "
+body:
+  - type: input
+    id: title
+    attributes:
+      label: 仮タイトル（特徴＋アイテム名）
+    validations:
+      required: true
+  - type: textarea
+    id: history
+    attributes:
+      label: 取り上げたい背景・出典・未確認の点
+    validations:
+      required: true
+  - type: textarea
+    id: connection
+    attributes:
+      label: NICENESSとの接点と、その根拠
+      description: 未確認の場合は未確認と記載してください。

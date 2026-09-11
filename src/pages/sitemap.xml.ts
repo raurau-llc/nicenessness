@@ -1,0 +1,2 @@
+import {articles,tags,tagPath} from '../lib/data';import {seo} from '../lib/settings';
+export function GET(){const paths=['/','/atlas/','/eras/','/about/','/contribute/',...articles.map(a=>`/stories/${a.slug}/`),...[...new Set(articles.flatMap(a=>a.products.map(p=>`/items/${p.id}/`)))],...tags.map(tagPath)];return new Response(`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${seo.indexable?paths.map(p=>`<url><loc>${seo.absolute(p)}</loc></url>`).join(''):''}</urlset>`,{headers:{'Content-Type':'application/xml'}})}

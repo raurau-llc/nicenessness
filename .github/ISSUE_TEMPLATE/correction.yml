@@ -1,0 +1,23 @@
+name: 訂正・出典追加
+description: 記事の変更と根拠を提案する
+title: "[訂正] "
+body:
+  - type: input
+    id: article
+    attributes:
+      label: 記事URLまたは記事ID
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: 変更したい内容と理由
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 出典URL・資料名・該当箇所
+      description: 全文や原写真ではなく、根拠の所在と短い説明を記入してください。
+    validations:
+      required: true

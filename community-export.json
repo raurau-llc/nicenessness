@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "path": "src/components/Card.astro",
+      "sha256": "0a3475ceefd4a538b445b89b0596643d7f8f5973577684abcc8ed39c0abc2ac6"
+    },
+    {
+      "path": "src/components/Explorer.astro",
+      "sha256": "e1d28d8d219e7899e4c3e24a5393aaf9f02e6c787cf6a72c2cb6b0988eae1452"
+    },
+    {
+      "path": "src/layouts/Page.astro",
+      "sha256": "99c08f53c32ee6fc03abb72af7fc8a8d28c0a3f52753bd06b452c0ea25dbeb25"
+    },
+    {
+      "path": "src/lib/data.ts",
+      "sha256": "357c93eb7020ee07385e2c08bb1b36b06879279bf5fafc1bd54605648e932456"
+    },
+    {
+      "path": "src/lib/diagrams.js",
+      "sha256": "3f63119ae4df4d50f2b6b6c8d9fa8f1dd9a29ba99115d934ac356dcfc6bb9d09"
+    },
+    {
+      "path": "src/lib/seo.mjs",
+      "sha256": "974fa0490f8cab6461153a897c6c6a61bf3f2677536f307253e30199d387b5b5"
+    },
+    {
+      "path": "src/lib/settings.ts",
+      "sha256": "0bc35abc77b0614b9431d994074d89e61602d491fc0aaf7dc9ca19cc4f827671"
+    },
+    {
+      "path": "src/pages/404.astro",
+      "sha256": "fbf1c1cc0d7ac710a27dc74ffd461725c6b95fa6b0d7fc1e0b32748ba577bccb"
+    },
+    {
+      "path": "src/pages/about.astro",
+      "sha256": "4d3b3ebe171557dd1af00e27047e84aa6419d48fb056eb5c2828055a84eda513"
+    },
+    {
+      "path": "src/pages/atlas.astro",
+      "sha256": "6a4ba7a2099a70a8f189eec86b6b6553e71ff6d36a60fd08caebf40cb21fdb15"
+    },
+    {
+      "path": "src/pages/contribute.astro",
+      "sha256": "b3ade396de5e28ea2d24c2cc130ae4b86d81c3da3ab73906b94bcccaf48b2c2e"
+    },
+    {
+      "path": "src/pages/eras.astro",
+      "sha256": "1f11ef6981bfda43a92a3c31ca31444d7b1df0781de597ee3d165df85f527aa3"
+    },
+    {
+      "path": "src/pages/index.astro",
+      "sha256": "6d1055a2f716ba86af5940eb9272d6a0bf4b7c07465f5978fbf7c5cb2b096a03"
+    },
+    {
+      "path": "src/pages/items/[id].astro",
+      "sha256": "48ba7dd1c1772cb783959202f9f5840b7991be6c6be8f221fff71d0cc93df1a8"
+    },
+    {
+      "path": "src/pages/robots.txt.ts",
+      "sha256": "1af59a14220161d272e67e4c5bc72fefb8242a334bc5390a7e65729fdd86dbd7"
+    },
+    {
+      "path": "src/pages/search.astro",
+      "sha256": "71b64c8686ab11b84cd96838be45c32eb3cb23d9af79c888a92f1647058e2871"
+    },
+    {
+      "path": "src/pages/sitemap.xml.ts",
+      "sha256": "dc47a75b337898a7862bf79c04f14f915a85552473277c48abc71379b9c5a360"
+    },
+    {
+      "path": "src/pages/stories/[slug].astro",
+      "sha256": "66c9b78450bb04cac13b85136923c34d16b472b8b36b2eb62030d220c029c9a9"
+    },
+    {
+      "path": "src/pages/tags/[tag].astro",
+      "sha256": "31be6bf9ab3d2581d4f7c2ed6c2362ae4c85fcf61dc6223d1f810623885d3caa"
+    },
+    {
+      "path": "src/styles/global.css",
+      "sha256": "6e6e8a5760d155be17cfb2a7aea26d7646923d2569291a853e361e2ff4a7a993"
+    },
+    {
+      "path": "content/articles.json",
+      "sha256": "3080c8c929ab4b0acc0ddd64831d8c8e7aac525d04b86af389f6da1e027ca077"
+    },
+    {
+      "path": "content/release.v1.json",
+      "sha256": "85f70cfa349cd9e2c339c09de79bb12e0982d492156e6c22d552144f0eaf23c4"
+    },
+    {
+      "path": "public/favicon.svg",
+      "sha256": "2de3c476083f64ac977111d57d1a88d439d7d0ad29f76505609a28f979d9cf5c"
+    },
+    {
+      "path": "scripts/export-community.mjs",
+      "sha256": "f2a33d97d04a1d6593c108ecda8e0648f930a8ecc74ecafb7724be9a6a789fda"
+    },
+    {
+      "path": "scripts/seo.test.mjs",
+      "sha256": "61c29761f43e4a24c958f5d4694bb713a14f34e108bb91a10ec9f9edcf7c7b95"
+    },
+    {
+      "path": "scripts/validate-content.mjs",
+      "sha256": "650e29f9a7eb83264b462fd66578933771e12be6b37555b6a9e595fa9ed5ce79"
+    },
+    {
+      "path": "scripts/verify-build.mjs",
+      "sha256": "d1c71a719789e16ba2e6d74477e209b30866b62f540a106bd40c3a333311bb6e"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/correction.yml",
+      "sha256": "52d67002d9bfcc21e4e7aab4b486e4e016aae942acf7114bb9f55c12b34cc2f4"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/story.yml",
+      "sha256": "bce09b8079d8c46c5edae22bf80cde8f5dbb7b3af5f46d48dbe92673ad9f612d"
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "sha256": "97bbe723a2bd6ccb6e3adf843362d666cb1881c85b3c8fdcbae334e2e6502eaf"
+    },
+    {
+      "path": ".github/workflows/check.yml",
+      "sha256": "05dbf7f23f0c8aaaecd021c13519bd1a90c161299ee23cc06152c51e90bc7f3d"
+    },
+    {
+      "path": "package.json",
+      "sha256": "fb01d1d878602ec8917d607aad575746d60e211953c26bd4b9a59af120a5ccd6"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "4971e2a974fd5feebc9f32b1c59fe502f92d67af7330823d2fb63aa33db99e43"
+    },
+    {
+      "path": "astro.config.mjs",
+      "sha256": "3a5a617dd1787c4b9acf0eaf61be1f9bce5ec378c4a3a71fb854ae1eb1952e88"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "fdf746c07cb22d9202af57a5c0147065c18b5be5b3548c09b6e7be6292bd8efd"
+    },
+    {
+      "path": ".env.example",
+      "sha256": "932a71b7e9514a8fc294539a9e3cbe04a5835f348011358e76be1169f7cea060"
+    },
+    {
+      "path": "README.md",
+      "sha256": "993bf746f3d7dc900476814294a88317cbd455d9d2d64f708cd2d1bba3cbab3a"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "4c7f5a931901608e3e3d15e9a09b7baf54d5fff38c619542a06902e1f01e188a"
+    },
+    {
+      "path": "GOVERNANCE.md",
+      "sha256": "a71bd8fac4d4e02966c5ed228203eab4a8684ea8de6ed35eb057c24490e31b7d"
+    },
+    {
+      "path": "docs/publishing-and-community.md",
+      "sha256": "58500707eb289b79bcea967f5167e5448ded44d631b93da456846032e4419f09"
+    },
+    {
+      "path": "content/site.json",
+      "sha256": "abf47342a25d591c4cc68cf8135624233819a5f4071081b37d80fb2eda07dcbd"
+    },
+    {
+      "path": "content/release.v2.json",
+      "sha256": "4b6500e5b567104395ad0872c623e0c83044670fb512218f472c96e91e71ee60"
+    },
+    {
+      "path": ".openai/hosting.json",
+      "sha256": "a0b3358e0fd4264965708a226132d2c4b8dc4982ddfad92b817d61059f98c965"
+    }
+  ],
+  "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."
+}

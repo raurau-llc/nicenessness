@@ -1,0 +1,5 @@
+---
+import {tagPath} from '../lib/data';
+const {article:a,lead=false}=Astro.props;
+---
+<article class:list={['story-card',{lead}]}><p class="eyebrow">{a.category}</p><a class="story-link" href={`/stories/${a.slug}/`}><h2>{a.title.split('\n').map((line,i)=><>{i>0&&<br/>}{line}</>)}</h2><p>{a.deck}</p><span class="read">READ STORY ↗</span></a><div class="metadata">{a.regions.map(r=><a href={`/atlas/?region=${r.id}`}><span aria-hidden="true">⌖</span> {r.name} · {r.role}</a>)}<a href="/eras/"><span aria-hidden="true">◷</span> {a.period}</a></div><div class="tags">{a.tags.map(t=><a href={tagPath(t)}># {t}</a>)}</div></article>
