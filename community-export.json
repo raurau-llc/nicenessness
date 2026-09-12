@@ -7,7 +7,7 @@
     },
     {
       "path": "src/components/Explorer.astro",
-      "sha256": "8b3c4922e378579751afab5b1c8556576629a69fcced21f7a7bf8f65c398a730"
+      "sha256": "6bad768ff92e18a08eccccd9911868347c9899e26c0d12084236bf9986ddc12f"
     },
     {
       "path": "src/layouts/Page.astro",
@@ -224,6 +224,10 @@
     {
       "path": "content/release.v6.json",
       "sha256": "6de7ed2f28408e2f404862a018ce86cbd0da4dd58bd1f44ae05991fbd2367744"
+    },
+    {
+      "path": "src/components/EraTimeline.astro",
+      "sha256": "8cb932f5c89d991644ba1db0d9a293c035e11c0dc31ddc35142e80a4b4ca9968"
     }
   ],
   "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."

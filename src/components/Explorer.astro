@@ -1,9 +1,9 @@
 ---
-import Card from './Card.astro';import AtlasMap from './AtlasMap.astro';import {articles,regions,eras,tags} from '../lib/data';const {mode='search'}=Astro.props;
+import Card from './Card.astro';import EraTimeline from './EraTimeline.astro';import AtlasMap from './AtlasMap.astro';import {articles,regions,eras,tags} from '../lib/data';const {mode='search'}=Astro.props;
 ---
 <section class="explorer">
 {mode==='atlas'&&<AtlasMap/>}
-{mode==='eras'&&<div class="era-strip">{eras.map(e=><a href={`?era=${e.id}`} data-era={e.id}><strong>{e.name}</strong><span>{e.note}</span></a>)}</div>}
+{mode==='eras'&&<EraTimeline/>}
 <form class="filters" method="get"><label>言葉で探す<input type="search" name="q" placeholder="例：スモック、かすり"/></label><label>地域<select name="region"><option value="">すべて</option>{regions.map(r=><option value={r.id}>{r.name}</option>)}</select></label><label>年代<select name="era"><option value="">すべて</option>{eras.map(r=><option value={r.id}>{r.name}</option>)}</select></label><label>キーワード<select name="tag"><option value="">すべて</option>{tags.map(t=><option>{t}</option>)}</select></label><button type="submit" class="button">絞り込む</button><a class="reset" href={Astro.url.pathname}>条件を解除</a></form>
 <noscript><p>絞り込みにはJavaScriptが必要です。下の一覧から全記事を読めます。</p></noscript><p class="result-count" role="status">{articles.length}記事</p><div class="card-grid results">{articles.map(a=><div data-result data-regions={a.regions.map(r=>r.id).join(',')} data-eras={a.eras.join(',')} data-tags={a.tags.join(',')} data-search={[a.title,a.deck,a.opening,a.place,a.period,...a.tags,a.id==='T002'?'かすり カスリ 久留米くるめ':''].join(' ')}><Card article={a}/></div>)}</div><div class="empty" hidden><h2>該当する記事がありません</h2><p>検索する言葉や条件を変えてみてください。</p><a class="reset" href={Astro.url.pathname}>条件を解除する</a></div></section>
 <script>
@@ -20,6 +20,7 @@ if(root){
  const normalize=(x:string)=>x.normalize('NFKC').toLocaleLowerCase();
  function show(){
   const v=read();let n=0;
+  root!.dispatchEvent(new CustomEvent('explorer:filter',{detail:v}));
   root!.querySelectorAll<HTMLElement>('[data-atlas-panel]').forEach(el=>el.hidden=el.dataset.atlasPanel!==(area||'world'));
   root!.querySelectorAll<HTMLElement>('[data-result]').forEach(el=>{
    const ids=el.dataset.regions!.split(',');
