@@ -15,7 +15,7 @@
     },
     {
       "path": "src/lib/data.ts",
-      "sha256": "a69dd7df801640d915fcd25c8e4ce1bd699b8135dfbf707bddbf7fa9b5c16893"
+      "sha256": "bd8b4dcd826dcb80eaf1e7a436a8a1287cffbc6986b7c5eb4f2355a41a0099c9"
     },
     {
       "path": "src/lib/diagrams.js",
@@ -71,7 +71,7 @@
     },
     {
       "path": "src/pages/stories/[slug].astro",
-      "sha256": "25f2f51a711ca977c6e82267480719a40f8f182dd75e934be6c5909eab0da8a1"
+      "sha256": "666c423f2533c275c11eba5da865892edc4a1b5b714ea2594af48923a1a5aa0b"
     },
     {
       "path": "src/pages/tags/[tag].astro",
@@ -83,7 +83,7 @@
     },
     {
       "path": "content/articles.json",
-      "sha256": "da77458143eda3d891a7a93ef8e3cae60ed532a9cc09f94bfb4bdf1723c42feb"
+      "sha256": "6623e2719b52b24877524f8cf238640d4e7a29a7db4b526076ee5574cd2c2da1"
     },
     {
       "path": "content/release.v1.json",
@@ -103,7 +103,7 @@
     },
     {
       "path": "scripts/validate-content.mjs",
-      "sha256": "53ab47e25163382dbed3a520f0aba9a8197e0f2423af4dbb62e5e83ae9189047"
+      "sha256": "9ab73e63e93f80a797dab51fae3ceeff123d7dc91cb45557a0d63418daac43e9"
     },
     {
       "path": "scripts/verify-build.mjs",
@@ -147,7 +147,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "feea0d0bb783c36a74b328d0bbfac4a7f0cea28a4a27bdf1aca040d514ba3a68"
+      "sha256": "cc8ebbe7660f2e9e748fc5a9755ad0b70a00dc9abf4cc1aebda01489fac13c0e"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -159,7 +159,7 @@
     },
     {
       "path": "docs/publishing-and-community.md",
-      "sha256": "087341d4cfbfd2cd83616916cc7cb58534ef11403a2fce1fe4c80fac77c212a5"
+      "sha256": "87f5569f156f242b9e20c5c1026317d781c80912ece5697f21fa595027692403"
     },
     {
       "path": "content/site.json",
@@ -176,6 +176,10 @@
     {
       "path": "content/release.v3.json",
       "sha256": "95b329263e6c7f951895bf0a107975f4ebd9aa1acfd64174b24c0fe543a49e74"
+    },
+    {
+      "path": "content/release.v4.json",
+      "sha256": "5f0f8a982743c8a9b0a5f05b8a8c2451f0930dc691f20545be851f0fd5586d4a"
     }
   ],
   "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."
