@@ -218,5 +218,15 @@
       365
     ],
     "area": false
+  },
+  "es": {
+    "panel": "europe",
+    "lon": -4,
+    "lat": 40,
+    "label": [
+      190,
+      365
+    ],
+    "area": false
   }
 }

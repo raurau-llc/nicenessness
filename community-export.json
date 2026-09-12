@@ -15,7 +15,7 @@
     },
     {
       "path": "src/lib/data.ts",
-      "sha256": "3aed55a74905ccb41ea894b711f579c1de12780dd986552c4a929b58ac182347"
+      "sha256": "9bdcc89b14b62bd9cde763388fb70dc9ff5dc3fb5e95a132fc5218091c235e79"
     },
     {
       "path": "src/lib/diagrams.js",
@@ -71,7 +71,7 @@
     },
     {
       "path": "src/pages/stories/[slug].astro",
-      "sha256": "666c423f2533c275c11eba5da865892edc4a1b5b714ea2594af48923a1a5aa0b"
+      "sha256": "056d59405d3763c3e92218a1d78461f6c4fb8df545fa08770301fb1379f201fa"
     },
     {
       "path": "src/pages/tags/[tag].astro",
@@ -83,7 +83,7 @@
     },
     {
       "path": "content/articles.json",
-      "sha256": "21b466ae5a5adf5c5012302ad00b0e87d5bdbd84e067714514d7fdff8562e90b"
+      "sha256": "d64867251b6458eb94dc4755d776960d26a8b21842cd90b9806b7d505e503314"
     },
     {
       "path": "content/release.v1.json",
@@ -103,7 +103,7 @@
     },
     {
       "path": "scripts/validate-content.mjs",
-      "sha256": "04d0e2986832cf897229b16082be2e06f1eb7acd462d4e8d8e3205a367607002"
+      "sha256": "6f7b2d04eb8b70fb1087b44b4eda6994c7ad09025a51ab1cf35c7417f9dde45a"
     },
     {
       "path": "scripts/verify-build.mjs",
@@ -147,7 +147,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "053a766419b1dc052424998592c69c6781b2224287414a6c577d7714f7620d66"
+      "sha256": "5fa276a3bb7360b09c18625db8d859ec881882698f51f7227984190362c13f05"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -159,7 +159,7 @@
     },
     {
       "path": "docs/publishing-and-community.md",
-      "sha256": "da6c7239fb89ac87ba51655f34e8fe790e7565af1796359529f60fa28ef98648"
+      "sha256": "c130b651e6ed42502487af080b6d0fea4c1e7e00835b8820f029401fa1010d46"
     },
     {
       "path": "content/site.json",
@@ -187,7 +187,7 @@
     },
     {
       "path": "content/region-map.json",
-      "sha256": "8e06575b2f47ef4de0085001594b73d9a7b98062b9347ca233615577ae248371"
+      "sha256": "3627d22b81b2d83f629ee70a3c8af2e7156a86561d173edcb16f9056fd899b57"
     },
     {
       "path": "src/components/AtlasMap.astro",
@@ -220,6 +220,10 @@
     {
       "path": "public/maps/oceania.svg",
       "sha256": "a0e74995237f934aa096815e531ccb1b904ada3fcda33f313b7e68b3f84b2417"
+    },
+    {
+      "path": "content/release.v6.json",
+      "sha256": "6de7ed2f28408e2f404862a018ce86cbd0da4dd58bd1f44ae05991fbd2367744"
     }
   ],
   "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."
