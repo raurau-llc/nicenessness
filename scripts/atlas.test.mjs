@@ -23,3 +23,16 @@ test('geographic points and separate labels fit each panel without label overlap
   for(let i=0;i<markers.length;i++)for(let j=i+1;j<markers.length;j++){const a=markers[i][1].label,b=markers[j][1].label;assert(Math.abs(a[0]-b[0])>=150||Math.abs(a[1]-b[1])>=44,`${markers[i][0]} overlaps ${markers[j][0]}`);}
  }
 });
+
+test('two-step navigation resolves direct country links and invalid areas',async()=>{
+ const {resolveAtlasArea,atlasAreas,matchesAtlasArea}=await import('../src/lib/atlas.mjs');
+ assert.equal(resolveAtlasArea('', '', positions),'');
+ assert.equal(resolveAtlasArea('invalid','',positions),'');
+ for(const area of atlasAreas)assert.equal(resolveAtlasArea(area.id,'',positions),area.id);
+ for(const [id,location] of Object.entries(positions)){
+  assert.equal(resolveAtlasArea('europe',id,positions),location.panel);
+  assert(matchesAtlasArea([id],location.panel,positions));
+  assert(matchesAtlasArea([id],'',positions));
+  for(const area of atlasAreas)assert.equal(matchesAtlasArea([id],area.id,positions),area.id===location.panel);
+ }
+});

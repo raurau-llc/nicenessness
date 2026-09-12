@@ -1,41 +1,41 @@
 {
   "ca": {
-    "panel": "world",
+    "panel": "north-america",
     "lon": -106,
     "lat": 57,
     "label": [
-      140,
-      75
+      200,
+      60
     ],
     "area": false
   },
   "us": {
-    "panel": "world",
+    "panel": "north-america",
     "lon": -100,
     "lat": 38,
     "label": [
-      135,
-      205
+      300,
+      260
     ],
     "area": false
   },
   "au": {
-    "panel": "world",
+    "panel": "oceania",
     "lon": 134,
     "lat": -25,
     "label": [
-      740,
+      60,
       340
     ],
     "area": false
   },
   "pacific": {
-    "panel": "world",
+    "panel": "oceania",
     "lon": -155,
     "lat": 2,
     "label": [
-      30,
-      310
+      390,
+      120
     ],
     "area": true
   },

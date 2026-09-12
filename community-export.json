@@ -7,7 +7,7 @@
     },
     {
       "path": "src/components/Explorer.astro",
-      "sha256": "1793fd322a94bf919b25e1c5ee544849b5901a16b5e781fc6c0a1c761fb44fe4"
+      "sha256": "8b3c4922e378579751afab5b1c8556576629a69fcced21f7a7bf8f65c398a730"
     },
     {
       "path": "src/layouts/Page.astro",
@@ -79,7 +79,7 @@
     },
     {
       "path": "src/styles/global.css",
-      "sha256": "9608c43d5082fbf03796b7f03ba6eebef2c31fb2085a6638739082dc97186492"
+      "sha256": "118e57db67dd70c0e6d8a6affdc292749b95020b76a584d3478e91166f004aab"
     },
     {
       "path": "content/articles.json",
@@ -187,19 +187,19 @@
     },
     {
       "path": "content/region-map.json",
-      "sha256": "9096026c6b30f87f96d2b30e6f24278f17c891a08fb908c541cbffd6b31d8b4a"
+      "sha256": "8e06575b2f47ef4de0085001594b73d9a7b98062b9347ca233615577ae248371"
     },
     {
       "path": "src/components/AtlasMap.astro",
-      "sha256": "3a40e6b3e052d76cb182009896151070ec8074139836e47d7dfe1a90a4e06084"
+      "sha256": "b0bca227840897706ccd528824a022f82ba0f93efe3b2cec987ec24b0bf154da"
     },
     {
       "path": "src/lib/atlas.mjs",
-      "sha256": "c26f44a44214ff8d07927242b71ad0e4860ff4ab12f677f72e2a092be94ba241"
+      "sha256": "dbe7acbf9829e5a63a39b59a773f720a46c3524d2fd351be0219cea10101f236"
     },
     {
       "path": "scripts/atlas.test.mjs",
-      "sha256": "961e8fcca75410bdd307b11ffcc5acb3c0b3a0c3777050a1ab5902015bea049a"
+      "sha256": "7734febeded5e15bceb1e53be7fbc054c48e18aff7028816b36a4aecebe0a8d7"
     },
     {
       "path": "public/maps/world.svg",
@@ -212,6 +212,14 @@
     {
       "path": "public/maps/asia.svg",
       "sha256": "9dbe58b83990acf1dbc921b5901d4b66d6bf7f66c5209cf0c805e44ca650c3a8"
+    },
+    {
+      "path": "public/maps/north-america.svg",
+      "sha256": "77c8e8e90abdb3bce2ecd00fd6b7be1139347a6c1d1f29e69ead905c4fca0bbd"
+    },
+    {
+      "path": "public/maps/oceania.svg",
+      "sha256": "a0e74995237f934aa096815e531ccb1b904ada3fcda33f313b7e68b3f84b2417"
     }
   ],
   "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."
