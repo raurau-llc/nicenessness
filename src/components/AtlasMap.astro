@@ -1,0 +1,32 @@
+---
+import {articles,regions} from '../lib/data';
+import positions from '../../content/region-map.json';
+import {atlasPanels,atlasRegions,projectPoint} from '../lib/atlas.mjs';
+const places=atlasRegions(regions,articles,positions);
+---
+<div class="atlas-collection">
+  <p class="atlas-intro">{places.length}の国・地域から、服の背景をたどる。<span>地域名を選ぶと記事を絞り込めます。</span></p>
+  <div class="atlas-panels">
+    {atlasPanels.map(panel=><section class:list={['atlas-panel',`atlas-${panel.id}`]} id={`atlas-${panel.id}`} aria-label={`${panel.title}の地図`}>
+      <header><h2>{panel.title}</h2>{panel.id==='world'?<nav aria-label="拡大図へ"><a href="#atlas-europe">欧州の拡大図 ↓</a><a href="#atlas-asia">アジアの拡大図 ↓</a></nav>:<a class="small" href="#atlas-world">世界図へ ↑</a>}</header>
+      <div class="atlas-scroll" tabindex="0" aria-label={`${panel.title}の地図。狭い画面では横にスクロールできます。`}>
+        <div class="atlas-canvas" style={`--map-width:${panel.width}px;aspect-ratio:${panel.width}/${panel.height}`}>
+          <img src={`/maps/${panel.id}.svg`} alt="" width={panel.width} height={panel.height}/>
+          <svg viewBox={`0 0 ${panel.width} ${panel.height}`} aria-hidden="true" class="atlas-markers">
+            {places.filter(r=>panel.id==='world'||r.panel===panel.id).map(r=>{
+              const [x,y]=projectPoint(panel,r.lon,r.lat);
+              const primary=r.panel===panel.id;
+              return <g>
+                {primary&&<path class="atlas-leader" d={`M${x},${y} L${r.label[0]+60},${r.label[1]+21}`}/>}
+                <circle cx={x} cy={y} r={r.area?7:4} class:list={['atlas-dot',{'atlas-area':r.area}]}/>
+              </g>;
+            })}
+          </svg>
+          {places.filter(r=>r.panel===panel.id).map(r=><a class="atlas-place" href={`?region=${r.id}`} data-region={r.id} aria-label={`${r.name}の記事${r.count}件を読む`} style={`left:${r.label[0]/panel.width*100}%;top:${r.label[1]/panel.height*100}%`}><span>{r.name}</span><small>{r.count}記事</small></a>)}
+        </div>
+      </div>
+    </section>)}
+  </div>
+  <p class="small atlas-caption">地点は概略位置です。○は西欧・南アジア・太平洋地域などの広域を表します。国境や文化圏の範囲を示すものではありません。着用地・製織地・原料産地などの関係は、各記事に記載しています。<span class="atlas-scroll-hint">地図は横にスクロールできます。</span></p>
+  <p class="small atlas-credit">地図データ：<a href="https://www.naturalearthdata.com/about/terms-of-use/" rel="external">Natural Earth</a></p>
+</div>

@@ -1,0 +1,222 @@
+{
+  "ca": {
+    "panel": "world",
+    "lon": -106,
+    "lat": 57,
+    "label": [
+      140,
+      75
+    ],
+    "area": false
+  },
+  "us": {
+    "panel": "world",
+    "lon": -100,
+    "lat": 38,
+    "label": [
+      135,
+      205
+    ],
+    "area": false
+  },
+  "au": {
+    "panel": "world",
+    "lon": 134,
+    "lat": -25,
+    "label": [
+      740,
+      340
+    ],
+    "area": false
+  },
+  "pacific": {
+    "panel": "world",
+    "lon": -155,
+    "lat": 2,
+    "label": [
+      30,
+      310
+    ],
+    "area": true
+  },
+  "uk": {
+    "panel": "europe",
+    "lon": -3,
+    "lat": 55,
+    "label": [
+      15,
+      60
+    ],
+    "area": false
+  },
+  "pt": {
+    "panel": "europe",
+    "lon": -8,
+    "lat": 40,
+    "label": [
+      15,
+      340
+    ],
+    "area": false
+  },
+  "fr": {
+    "panel": "europe",
+    "lon": 2,
+    "lat": 47,
+    "label": [
+      15,
+      270
+    ],
+    "area": false
+  },
+  "western-europe": {
+    "panel": "europe",
+    "lon": 2,
+    "lat": 51,
+    "label": [
+      15,
+      200
+    ],
+    "area": true
+  },
+  "nl": {
+    "panel": "europe",
+    "lon": 5,
+    "lat": 52,
+    "label": [
+      410,
+      45
+    ],
+    "area": false
+  },
+  "de": {
+    "panel": "europe",
+    "lon": 10,
+    "lat": 51,
+    "label": [
+      430,
+      130
+    ],
+    "area": false
+  },
+  "ch": {
+    "panel": "europe",
+    "lon": 8,
+    "lat": 47,
+    "label": [
+      430,
+      245
+    ],
+    "area": false
+  },
+  "it": {
+    "panel": "europe",
+    "lon": 12,
+    "lat": 43,
+    "label": [
+      430,
+      350
+    ],
+    "area": false
+  },
+  "af": {
+    "panel": "asia",
+    "lon": 66,
+    "lat": 34,
+    "label": [
+      12,
+      70
+    ],
+    "area": false
+  },
+  "kashmir": {
+    "panel": "asia",
+    "lon": 75,
+    "lat": 34,
+    "label": [
+      12,
+      135
+    ],
+    "area": false
+  },
+  "in": {
+    "panel": "asia",
+    "lon": 79,
+    "lat": 23,
+    "label": [
+      12,
+      225
+    ],
+    "area": false
+  },
+  "south-asia": {
+    "panel": "asia",
+    "lon": 78,
+    "lat": 15,
+    "label": [
+      12,
+      345
+    ],
+    "area": true
+  },
+  "cn": {
+    "panel": "asia",
+    "lon": 104,
+    "lat": 36,
+    "label": [
+      255,
+      35
+    ],
+    "area": false
+  },
+  "kr": {
+    "panel": "asia",
+    "lon": 127,
+    "lat": 38,
+    "label": [
+      435,
+      95
+    ],
+    "area": false
+  },
+  "jp": {
+    "panel": "asia",
+    "lon": 138,
+    "lat": 36,
+    "label": [
+      445,
+      170
+    ],
+    "area": false
+  },
+  "mm": {
+    "panel": "asia",
+    "lon": 96,
+    "lat": 21,
+    "label": [
+      245,
+      235
+    ],
+    "area": false
+  },
+  "vn": {
+    "panel": "asia",
+    "lon": 108,
+    "lat": 16,
+    "label": [
+      425,
+      280
+    ],
+    "area": false
+  },
+  "my": {
+    "panel": "asia",
+    "lon": 102,
+    "lat": 4,
+    "label": [
+      340,
+      365
+    ],
+    "area": false
+  }
+}

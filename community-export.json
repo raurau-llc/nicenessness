@@ -7,7 +7,7 @@
     },
     {
       "path": "src/components/Explorer.astro",
-      "sha256": "4688374e7eed0c5f298bace6f09dd2979fa312ab017f3e5d9c845da0aace71ed"
+      "sha256": "1793fd322a94bf919b25e1c5ee544849b5901a16b5e781fc6c0a1c761fb44fe4"
     },
     {
       "path": "src/layouts/Page.astro",
@@ -79,7 +79,7 @@
     },
     {
       "path": "src/styles/global.css",
-      "sha256": "6e6e8a5760d155be17cfb2a7aea26d7646923d2569291a853e361e2ff4a7a993"
+      "sha256": "9608c43d5082fbf03796b7f03ba6eebef2c31fb2085a6638739082dc97186492"
     },
     {
       "path": "content/articles.json",
@@ -184,6 +184,34 @@
     {
       "path": "content/release.v5.json",
       "sha256": "da09d59ee610064e85fe293857ec9db15fe8144b4ae9529b84af82621ce90bcf"
+    },
+    {
+      "path": "content/region-map.json",
+      "sha256": "9096026c6b30f87f96d2b30e6f24278f17c891a08fb908c541cbffd6b31d8b4a"
+    },
+    {
+      "path": "src/components/AtlasMap.astro",
+      "sha256": "3a40e6b3e052d76cb182009896151070ec8074139836e47d7dfe1a90a4e06084"
+    },
+    {
+      "path": "src/lib/atlas.mjs",
+      "sha256": "c26f44a44214ff8d07927242b71ad0e4860ff4ab12f677f72e2a092be94ba241"
+    },
+    {
+      "path": "scripts/atlas.test.mjs",
+      "sha256": "961e8fcca75410bdd307b11ffcc5acb3c0b3a0c3777050a1ab5902015bea049a"
+    },
+    {
+      "path": "public/maps/world.svg",
+      "sha256": "2188c6cf57f8a52003f7cdf709f0e74eecf63fc011c6030cccaa8df0114326c7"
+    },
+    {
+      "path": "public/maps/europe.svg",
+      "sha256": "b45d7bd0784625a759218c3fce244c0a5d03d39b3ded0665248947bd9ec45f41"
+    },
+    {
+      "path": "public/maps/asia.svg",
+      "sha256": "9dbe58b83990acf1dbc921b5901d4b66d6bf7f66c5209cf0c805e44ca650c3a8"
     }
   ],
   "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."
