@@ -11,7 +11,7 @@
     },
     {
       "path": "src/layouts/Page.astro",
-      "sha256": "99c08f53c32ee6fc03abb72af7fc8a8d28c0a3f52753bd06b452c0ea25dbeb25"
+      "sha256": "5f649c7342af23d25f9ca116b670ecd9c86f9455cbdf8f0aa29fcc27d0ef7863"
     },
     {
       "path": "src/lib/data.ts",
@@ -51,11 +51,11 @@
     },
     {
       "path": "src/pages/index.astro",
-      "sha256": "6d1055a2f716ba86af5940eb9272d6a0bf4b7c07465f5978fbf7c5cb2b096a03"
+      "sha256": "083c211970b56be8ab2a20406081613ec0fccf8ce23dd0e81b30fc5b15f826fd"
     },
     {
       "path": "src/pages/items/[id].astro",
-      "sha256": "48ba7dd1c1772cb783959202f9f5840b7991be6c6be8f221fff71d0cc93df1a8"
+      "sha256": "54cbf0818823085a57f4247d41fc5bb905251227ee24b22aac4d6dd171a450ca"
     },
     {
       "path": "src/pages/robots.txt.ts",
@@ -67,7 +67,7 @@
     },
     {
       "path": "src/pages/sitemap.xml.ts",
-      "sha256": "dc47a75b337898a7862bf79c04f14f915a85552473277c48abc71379b9c5a360"
+      "sha256": "9722c4b50b8adba58d80d28bc14a6396ad583ad8c10401c40b3e686d3c4cd1de"
     },
     {
       "path": "src/pages/stories/[slug].astro",
@@ -79,7 +79,7 @@
     },
     {
       "path": "src/styles/global.css",
-      "sha256": "118e57db67dd70c0e6d8a6affdc292749b95020b76a584d3478e91166f004aab"
+      "sha256": "d1383ce996da4ef61395f2943d517bc1487246797cdc1749d9be09114265aefd"
     },
     {
       "path": "content/articles.json",
@@ -159,7 +159,7 @@
     },
     {
       "path": "docs/publishing-and-community.md",
-      "sha256": "c130b651e6ed42502487af080b6d0fea4c1e7e00835b8820f029401fa1010d46"
+      "sha256": "abc1704b5fd7fdef9e1cff6021648c0168aa72e996f83e31f19deb7528116bf2"
     },
     {
       "path": "content/site.json",
@@ -228,6 +228,22 @@
     {
       "path": "src/components/EraTimeline.astro",
       "sha256": "8cb932f5c89d991644ba1db0d9a293c035e11c0dc31ddc35142e80a4b4ca9968"
+    },
+    {
+      "path": "content/materials.json",
+      "sha256": "916b49d23e01af9a11e63d4cd43c89b1648780804cd8a5152886c5331d85ec27"
+    },
+    {
+      "path": "src/lib/materials.mjs",
+      "sha256": "446f59e3f5c7e5b2c5eb9390caf5e048c5de79d476023e02a11c5472a808a901"
+    },
+    {
+      "path": "src/pages/materials.astro",
+      "sha256": "7f53b093a33021c73b96c71fb5487fec05c1994a5bea5798586a359700605c85"
+    },
+    {
+      "path": "scripts/materials.test.mjs",
+      "sha256": "1ce2d6962ff445f0545fb6ead7c77d7d56b83fe7c659d7600bf963803b7ea856"
     }
   ],
   "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."
