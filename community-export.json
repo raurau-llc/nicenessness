@@ -15,7 +15,7 @@
     },
     {
       "path": "src/lib/data.ts",
-      "sha256": "bd8b4dcd826dcb80eaf1e7a436a8a1287cffbc6986b7c5eb4f2355a41a0099c9"
+      "sha256": "3aed55a74905ccb41ea894b711f579c1de12780dd986552c4a929b58ac182347"
     },
     {
       "path": "src/lib/diagrams.js",
@@ -83,7 +83,7 @@
     },
     {
       "path": "content/articles.json",
-      "sha256": "6623e2719b52b24877524f8cf238640d4e7a29a7db4b526076ee5574cd2c2da1"
+      "sha256": "21b466ae5a5adf5c5012302ad00b0e87d5bdbd84e067714514d7fdff8562e90b"
     },
     {
       "path": "content/release.v1.json",
@@ -103,7 +103,7 @@
     },
     {
       "path": "scripts/validate-content.mjs",
-      "sha256": "9ab73e63e93f80a797dab51fae3ceeff123d7dc91cb45557a0d63418daac43e9"
+      "sha256": "04d0e2986832cf897229b16082be2e06f1eb7acd462d4e8d8e3205a367607002"
     },
     {
       "path": "scripts/verify-build.mjs",
@@ -147,7 +147,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "cc8ebbe7660f2e9e748fc5a9755ad0b70a00dc9abf4cc1aebda01489fac13c0e"
+      "sha256": "053a766419b1dc052424998592c69c6781b2224287414a6c577d7714f7620d66"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -159,7 +159,7 @@
     },
     {
       "path": "docs/publishing-and-community.md",
-      "sha256": "87f5569f156f242b9e20c5c1026317d781c80912ece5697f21fa595027692403"
+      "sha256": "da6c7239fb89ac87ba51655f34e8fe790e7565af1796359529f60fa28ef98648"
     },
     {
       "path": "content/site.json",
@@ -180,6 +180,10 @@
     {
       "path": "content/release.v4.json",
       "sha256": "5f0f8a982743c8a9b0a5f05b8a8c2451f0930dc691f20545be851f0fd5586d4a"
+    },
+    {
+      "path": "content/release.v5.json",
+      "sha256": "da09d59ee610064e85fe293857ec9db15fe8144b4ae9529b84af82621ce90bcf"
     }
   ],
   "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."
