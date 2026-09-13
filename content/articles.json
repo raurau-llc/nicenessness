@@ -19939,5 +19939,779 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T283",
+    "slug": "waist-sash-trousers",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "夜会用帯の所蔵例"
+      }
+    ],
+    "eras": [
+      "1800s"
+    ],
+    "tags": [
+      "腰帯",
+      "礼装",
+      "調整"
+    ],
+    "category": "DRESS / 着る",
+    "model": "LEVIN",
+    "season": "AW23",
+    "item": "levin-aw23",
+    "title": "腰の境目を覆う\nカマーバンド",
+    "deck": "シャツとトラウザーのあいだに、もう一枚。腰を巻く帯から、装いのつなぎ目を考える。",
+    "place": "フランス",
+    "period": "19世紀後半の比較例",
+    "context": "腰帯",
+    "opening": "シャツの裾とトラウザーの腰。その境目をどう見せるかで、装いの印象は変わる。カマーバンドは、そこへ幅のある帯を巻くという答えだ。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "境目を包む",
+        "paragraphs": [
+          "カマーバンドを扱う研究紹介では、腹部や腰に巻き、シャツとトラウザーの境目を覆う幅広い帯として説明される。腰を締めるだけでなく、二つの衣服のあいだに面をつくる。その幅に目を向けると、細いベルトとは違う役割が見えてくる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "夜の装いに、帯を添える",
+        "paragraphs": [
+          "The Metには、19世紀後半のフランス製の絹の夜会用帯が残る。登録名はevening sashで、カマーバンドそのものと確認された品ではない。それでも、腰に巻く布を夜の装いの一部として考えるための、具体的な比較例になる。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "別々の服を、つないで見る",
+        "paragraphs": [
+          "幅広い腰帯を通して眺めると、シャツとトラウザーは別々の品でありながら、一続きの姿として整えられていると読める。これは形からの編集上の読み取りであり、特定の帯の用途を追加で確定するものではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "服そのものだけでなく、服と服のあいだにも工夫がある。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "LEVIN（AW23）は、カマーバンドのディテールを腰回りへ取り入れたベルテッドトラウザー。公式説明では、前のベルトとホックで寸法を調整できる。独立した帯を付け足すという発想を、パンツ自体の構造として見ることができる。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "夜会用帯は比較資料。南アジアから西洋礼装への伝播経路や、LEVINが帯のどの細部を引用したかは未確認。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "LEVIN（AW23）は、カマーバンドのディテールを腰回りへ取り入れたベルテッドトラウザー。公式説明では、前のベルトとホックで寸法を調整できる。独立した帯を付け足すという発想を、パンツ自体の構造として見ることができる。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-13",
+    "modifiedAt": "2026-09-13",
+    "products": [
+      {
+        "model": "LEVIN",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "id": "levin-aw23",
+        "retained": "カマーバンドを腰回りのディテールとして採用",
+        "changed": "LEVIN（AW23）は、カマーバンドのディテールを腰回りへ取り入れたベルテッドトラウザー。公式説明では、前のベルトとホックで寸法を調整できる。独立した帯を付け足すという発想を、パンツ自体の構造として見ることができる。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "dd537efb4d7c2c54"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "The Clothing that Was Thought to Prevent Cholera",
+        "publisher": "Asia Research News",
+        "url": "https://www.asiaresearchnews.com/node/18856",
+        "kind": "history"
+      },
+      {
+        "id": "H03",
+        "title": "Evening sash",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/157158",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS LEVIN",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T287",
+    "slug": "gripping-waffle-sole",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "ランニングシューズの製造例"
+      },
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "NICENESSが挙げる靴の参照地域"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "靴底",
+      "ランニング",
+      "改良"
+    ],
+    "category": "DRESS / 着る",
+    "model": "OSCAR",
+    "season": "AW25",
+    "item": "oscar-aw25",
+    "title": "小さな突起で地面を捉える\nランニングシューズ",
+    "deck": "靴底を裏返すと、走るための試行錯誤が見える。凹凸の形からたどる1970年代。",
+    "place": "米国・英国",
+    "period": "1970年代",
+    "context": "靴底",
+    "opening": "靴の底に並ぶ小さな突起。目立つ装飾ではないけれど、地面と接するこの場所には、走る動作を支える工夫が詰まっている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "凹凸の縁が働く",
+        "paragraphs": [
+          "Smithsonianに残る約1979年製のNike LDVには、短い多角形の突起を並べたワッフルソールがある。突起の縁で地面を捉える構成だ。底面には1974年と1978年の米国特許番号も記され、靴底が改良の積み重ねであることを伝えている。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "つかむだけでは足りない",
+        "paragraphs": [
+          "同館の解説によれば、初期のワッフルソールには摩耗や横方向の不安定さという課題があり、その後の特許で改良が重ねられた。地面を捉えること、すり減りにくいこと、横へぐらつかないこと。一つの凹凸にも、複数の要求がかかっていた。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "使う材料と、残す凹凸",
+        "paragraphs": [
+          "西オーストラリア美術館が紹介する1974年のWaffle Trainerでは、材料を減らしながら耐久性のあるトレッドを目指した設計が語られる。削るところと残すところを決める。その判断が、靴底の表情になっている。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "靴の顔は、横から見える姿だけではない。裏側にも、用途の記憶が残る。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "OSCAR（AW25）は、1970年代米国のランニングシューズの特殊なソールと、英国の軍用・作業靴を参照したトレーナー。公式説明では、積み重ねた革に天然クレープを組み合わせる。走る靴の底と働く靴の要素を、異なる材料で組み直している。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "Nikeの所蔵品は同時代の比較例であり、OSCARの直接の参照モデルとは確認されていない。歴史上のソールの性能をOSCARに当てはめない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "OSCAR（AW25）は、1970年代米国のランニングシューズの特殊なソールと、英国の軍用・作業靴を参照したトレーナー。公式説明では、積み重ねた革に天然クレープを組み合わせる。走る靴の底と働く靴の要素を、異なる材料で組み直している。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-13",
+    "modifiedAt": "2026-09-13",
+    "products": [
+      {
+        "model": "OSCAR",
+        "season": "AW25",
+        "number": "NN-4402F16",
+        "url": "https://www.niceness.jp/products/oscar",
+        "id": "oscar-aw25",
+        "retained": "1970年代米国ランニングシューズの特殊なソール形状と英国の軍用・作業靴の要素",
+        "changed": "OSCAR（AW25）は、1970年代米国のランニングシューズの特殊なソールと、英国の軍用・作業靴を参照したトレーナー。公式説明では、積み重ねた革に天然クレープを組み合わせる。走る靴の底と働く靴の要素を、異なる材料で組み直している。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "ba76bcf1631385e6"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Nike LDV with waffle sole",
+        "publisher": "Smithsonian National Museum of American History",
+        "url": "https://www.si.edu/es/object/nike-waffle-trainer%3Anmah_1413776",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Culture Juice: The Rise of Sneaker Culture",
+        "publisher": "Art Gallery of Western Australia",
+        "url": "https://artgallery.wa.gov.au/whats-on/exhibitions/culture-juice-the-rise-of-sneaker-culture/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS OSCAR",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/oscar",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T294",
+    "slug": "working-tasuki-back",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "襷を用いる作業の図像"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "襷",
+      "仕事",
+      "裁断"
+    ],
+    "category": "DRESS / 着る",
+    "model": "DEL",
+    "season": "SS26",
+    "item": "del-ss26",
+    "title": "作業の背中に掛かる\n襷",
+    "deck": "服の形を変えなくても、身につけ方は変えられる。働く姿に残る紐の存在から。",
+    "place": "日本",
+    "period": "1970年代のフーディーとの接続",
+    "context": "襷",
+    "opening": "糊をする人の姿に、鉢巻と襷が描かれている。千葉県立中央博物館が解説する職人図の一場面だ。服だけを取り出すよりも、手を動かす姿のなかで見ると、装いの細部が気になってくる。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "手を動かす姿とともに",
+        "paragraphs": [
+          "博物館の解説は、親方の妻が鉢巻と襷掛けで糊をする姿を伝える。ここで確かに見えるのは、襷と作業の結びつきだ。資料の本文だけから、紐の通り道や背面の形までは決められない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "絵のなかの仕事着",
+        "paragraphs": [
+          "国文学研究資料館が紹介する別の図にも、作業する女性たちの赤襷と揃いの前垂れが見える。ただし同館は、風俗描写の正確さを保証できないと留保している。描かれた姿を手がかりにしながら、絵をそのまま当時の生活の規則にしないで見ておきたい。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "布の構成から、背中へ",
+        "paragraphs": [
+          "日本政府広報は、着物を一反から身頃と袖を構成する衣服として、西洋服の立体裁断と対比している。衣服をどう組み立てるかと、身につけたあとにどう扱うか。その二つを並べて見ることは、現代の服の背面を読む入口にもなる。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "着方の記憶は、服の輪郭だけでなく、人が動く背中にも残っている。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "DEL（SS26）は、1970年代のスポーツ用フーディーを参照しながら、襷掛けの背面から着想した独自の裁断を取り入れたもの。公式説明は、二枚構成のフードと旧式Azuma編機による丸胴裏毛にも触れる。着用時に生まれる背中の像が、服を組み立てる発想へ移されている。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "襷の掛け方や、DELのどの切替線が背面像に対応するかは未確認。年代の分類は公式が挙げるフーディーの参照年代であり、襷の起源年代ではない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "DEL（SS26）は、1970年代のスポーツ用フーディーを参照しながら、襷掛けの背面から着想した独自の裁断を取り入れたもの。公式説明は、二枚構成のフードと旧式Azuma編機による丸胴裏毛にも触れる。着用時に生まれる背中の像が、服を組み立てる発想へ移されている。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-13",
+    "modifiedAt": "2026-09-13",
+    "products": [
+      {
+        "model": "DEL",
+        "season": "SS26",
+        "number": "NN-2001J17",
+        "url": "https://www.niceness.jp/products/del-26ss",
+        "id": "del-ss26",
+        "retained": "襷掛けの背面像",
+        "changed": "DEL（SS26）は、1970年代のスポーツ用フーディーを参照しながら、襷掛けの背面から着想した独自の裁断を取り入れたもの。公式説明は、二枚構成のフードと旧式Azuma編機による丸胴裏毛にも触れる。着用時に生まれる背中の像が、服を組み立てる発想へ移されている。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "73a29e5303c97e07"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "日本実業史博物館準備室旧蔵資料",
+        "publisher": "国文学研究資料館",
+        "url": "https://archives.nijl.ac.jp/G000000253300/data/00169",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "職人に関する作品",
+        "publisher": "千葉県立中央博物館",
+        "url": "https://www.chiba-muse.or.jp/NATURAL/special/rekisihp/section03/gallery05.html",
+        "kind": "history"
+      },
+      {
+        "id": "H03",
+        "title": "Aesthetic Essentials: Kimono",
+        "publisher": "Government of Japan",
+        "url": "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201211/201211_04.html",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS DEL",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/del-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T295",
+    "slug": "side-tied-monpe",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "もんぺの所蔵例・久留米絣の製織地域"
+      }
+    ],
+    "eras": [
+      "1960s"
+    ],
+    "tags": [
+      "もんぺ",
+      "腰紐",
+      "久留米絣"
+    ],
+    "category": "DRESS / 着る",
+    "model": "K.KRUGER",
+    "season": "SS26",
+    "item": "k-kruger-ss26",
+    "title": "腰の両脇を紐で締める\nもんぺ",
+    "deck": "決まった寸法に身体を合わせるだけではない。腰の紐から、衣服の調整という工夫を読む。",
+    "place": "日本",
+    "period": "1960年代のワークパンツとの接続",
+    "context": "もんぺ",
+    "opening": "腰の両脇に紐がある。高岡市立博物館に残るもんぺは、その紐を締めて着る構造として記録されている。小さな仕掛けだけれど、衣服の寸法を使う人の手で決める余地がある。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "腰の両側から整える",
+        "paragraphs": [
+          "文化遺産オンラインに掲載されたこのもんぺは、丈86センチ、幅31センチの布製。説明は腰の両脇を紐で締める構造に触れている。制作年代や使用者は確認できないが、腰回りをどう留めるかという具体的な工夫は読み取れる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "布をどう使い切るか",
+        "paragraphs": [
+          "着物について、日本政府広報は直線裁断で布を使い、縫い目を解いて仕立て直せる構成を紹介している。これはもんぺの型紙を説明した資料ではない。それでも、布を切り、つなぎ、また使うという視点を、衣服を見る際に持つことはできる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "紐が残す余地",
+        "paragraphs": [
+          "所蔵品の短い説明から見えるのは、固定された留め位置だけに頼らず、紐で腰を締める服の姿だ。その調整の余地を魅力として読むことはできる。ただし、誰がどの仕事で用いたかまで、この一例から広げることはできない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "腰の紐に触れるところから、服と身体の関係を考えてみる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "K.KRUGER（SS26）は、公式説明で、もんぺの直線的な構造と1960年代のワークトラウザーを組み合わせたショーツとされる。腰を紐で調整し、久留米絣を用い、足袋の小鉤なども加えている。昔の服を丸ごと短くするのではなく、異なる衣服の工夫を一着に集めている。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "もんぺ自体の裁断図・使用年代は未確認。直線的構造はNICENESSの説明として扱う。年代の分類は参照されたワークトラウザーに基づく。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "K.KRUGER（SS26）は、公式説明で、もんぺの直線的な構造と1960年代のワークトラウザーを組み合わせたショーツとされる。腰を紐で調整し、久留米絣を用い、足袋の小鉤なども加えている。昔の服を丸ごと短くするのではなく、異なる衣服の工夫を一着に集めている。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-13",
+    "modifiedAt": "2026-09-13",
+    "products": [
+      {
+        "model": "K.KRUGER",
+        "season": "SS26",
+        "number": "NN-2603T17( Limited )",
+        "url": "https://www.niceness.jp/products/k-kruger-26ss",
+        "id": "k-kruger-ss26",
+        "retained": "もんぺの直線的構造と紐で調整する腰",
+        "changed": "K.KRUGER（SS26）は、公式説明で、もんぺの直線的な構造と1960年代のワークトラウザーを組み合わせたショーツとされる。腰を紐で調整し、久留米絣を用い、足袋の小鉤なども加えている。昔の服を丸ごと短くするのではなく、異なる衣服の工夫を一着に集めている。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "f4140648998062a5"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "モンペ",
+        "publisher": "文化遺産オンライン / 高岡市立博物館",
+        "url": "https://online.bunka.go.jp/heritages/detail/282380",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Kimono Without Borders",
+        "publisher": "Government of Japan",
+        "url": "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202007/202007_05_en.html",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS K.KRUGER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/k-kruger-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T335",
+    "slug": "alsace-calf-leather",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "HAASの製革拠点"
+      }
+    ],
+    "eras": [
+      "1800s",
+      "present"
+    ],
+    "tags": [
+      "革",
+      "カーフ",
+      "製革"
+    ],
+    "category": "DRESS / 着る",
+    "model": "BAYRAY",
+    "season": "SS25",
+    "item": "bayray-ss25",
+    "title": "いくつもの工程を重ねる\nカーフレザー",
+    "deck": "一枚の革になるまでに、どんな仕事があるのか。アルザスのタンナーが語る時間をたどる。",
+    "place": "フランス",
+    "period": "1842年の創業説明から現代へ",
+    "context": "革",
+    "opening": "一枚の革を手に取る。その手前には、まだ革として仕上がっていない皮と、いくつもの工程がある。アルザスのTanneries Haasは、原皮から仕上げまでに四週間を超える時間を要すると説明している。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "四週間を超える仕事",
+        "paragraphs": [
+          "HAASの工程紹介には、なめし、再なめしと染色、加脂などの調整、仕上げ、品質管理が並ぶ。一度の処理で完成するのではなく、段階を重ねて革になる。ここで挙げる期間と工程は、同社が説明する一般的な製造の流れだ。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "場所に残るつくり手",
+        "paragraphs": [
+          "同社の沿革によれば、1842年以来、六世代がアルザスの工房でカーフレザーを製造してきたという。これは企業自身が語る歴史である。この場所の名前を読むときは、まず製革の拠点として受け止めたい。原皮の産地と同じ意味ではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "最後の表情に至るまで",
+        "paragraphs": [
+          "工程の終わりには仕上げと品質管理がある。できあがった革の表面だけを見ていると気づきにくいが、その表情へ至るまでには複数の仕事がある。一方で、一般的な工程紹介から個々の商品に使われた革の処方を決めることはできない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "素材名の先に、手順と時間と場所がある。革を見る楽しみは、そこにも広がっている。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "BAYRAY（SS25）は、公式資料でHAASのアルザスレザー採用が確認できるアイテムの一つ。素材を介して、服飾品と製革の仕事がつながる。ここでは、工房の一般的な工程と、このアイテムの採用素材という、確認できる二つの情報を並べている。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "創業と工程はHAAS自身の説明。原皮産地、個別ロットのなめし処方、各商品の全工程は確認していない。アルザスは製革拠点であり、原料原産地を示すものではない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "BAYRAY（SS25）は、公式資料でHAASのアルザスレザー採用が確認できるアイテムの一つ。素材を介して、服飾品と製革の仕事がつながる。ここでは、工房の一般的な工程と、このアイテムの採用素材という、確認できる二つの情報を並べている。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-13",
+    "modifiedAt": "2026-09-13",
+    "products": [
+      {
+        "model": "BAYRAY",
+        "season": "SS25",
+        "number": "NN-4403A15",
+        "url": "https://www.niceness.jp/products/bayray",
+        "id": "bayray-ss25",
+        "retained": "HAAS社のAlsace leatherを採用",
+        "changed": "BAYRAY（SS25）は、公式資料でHAASのアルザスレザー採用が確認できるアイテムの一つ。素材を介して、服飾品と製革の仕事がつながる。ここでは、工房の一般的な工程と、このアイテムの採用素材という、確認できる二つの情報を並べている。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "ebfe6a91dc80a218"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "L’héritage d’une tradition",
+        "publisher": "Tanneries Haas",
+        "url": "https://www.tanneries-haas.com/",
+        "kind": "maker"
+      },
+      {
+        "id": "H02",
+        "title": "Savoir-faire",
+        "publisher": "Tanneries Haas",
+        "url": "https://www.tanneries-haas.com/en/savoir-faire",
+        "kind": "maker"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS BAYRAY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/bayray",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS BAYRAY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/bayray-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B03",
+        "title": "NICENESS BIAFRA",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/biafra",
+        "kind": "brand"
+      },
+      {
+        "id": "B04",
+        "title": "NICENESS BIAFRA",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/biafra-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B05",
+        "title": "NICENESS EDEN",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/eden",
+        "kind": "brand"
+      },
+      {
+        "id": "B06",
+        "title": "NICENESS GAINSBARRE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/gainsbarre",
+        "kind": "brand"
+      },
+      {
+        "id": "B07",
+        "title": "NICENESS JEANNE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/jeanne",
+        "kind": "brand"
+      },
+      {
+        "id": "B08",
+        "title": "NICENESS ENRICO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/enrico",
+        "kind": "brand"
+      },
+      {
+        "id": "B09",
+        "title": "NICENESS HANSGEN",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/hansgen",
+        "kind": "brand"
+      },
+      {
+        "id": "B10",
+        "title": "NICENESS HANSGEN",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/hansgen-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B11",
+        "title": "NICENESS JEFF",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/jeff",
+        "kind": "brand"
+      },
+      {
+        "id": "B12",
+        "title": "NICENESS JELLO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/jello",
+        "kind": "brand"
+      },
+      {
+        "id": "B13",
+        "title": "NICENESS JELLO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/jello-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B14",
+        "title": "NICENESS KLAUS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/klaus",
+        "kind": "brand"
+      },
+      {
+        "id": "B15",
+        "title": "NICENESS KLAUS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/klaus-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B16",
+        "title": "NICENESS PELIGRO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/peligro",
+        "kind": "brand"
+      },
+      {
+        "id": "B17",
+        "title": "NICENESS VANDER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/vander",
+        "kind": "brand"
+      },
+      {
+        "id": "B18",
+        "title": "NICENESS VASSILIU",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/vassiliu",
+        "kind": "brand"
+      },
+      {
+        "id": "B19",
+        "title": "NICENESS YACOUB",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/yacoub",
+        "kind": "brand"
+      },
+      {
+        "id": "B20",
+        "title": "NICENESS PELIGRO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/peligro-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B21",
+        "title": "NICENESS R.WETTON",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/r-wetton",
+        "kind": "brand"
+      },
+      {
+        "id": "B22",
+        "title": "NICENESS TODD",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/todd",
+        "kind": "brand"
+      },
+      {
+        "id": "B23",
+        "title": "NICENESS WETTON",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/wetton",
+        "kind": "brand"
+      },
+      {
+        "id": "B24",
+        "title": "NICENESS A.LANDS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/a-lands",
+        "kind": "brand"
+      }
+    ]
   }
 ]

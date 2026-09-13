@@ -1,4 +1,27 @@
 ---
+import {journalOrder} from '../lib/journal-order.mjs';
 import Page from '../layouts/Page.astro';import Card from '../components/Card.astro';import {articles} from '../lib/data';
 ---
-<Page><section class="masthead"><div class="edition"><span>THE STORIES BEHIND WHAT WE WEAR</span><span>服と暮らしをめぐるジャーナル</span></div><h1>NICENESS<span>ness</span></h1><p>いいもののいいところ<br /><span lang="en">Why good is good.</span></p></section><div class="section-line"><span>THE EDIT</span><span>着る。運ぶ。つくる。</span></div><section class="editorial-grid" aria-label="注目の記事">{articles.map((a,i)=><Card article={a} lead={i===0}/>)}</section><div class="journeys"><a href="/atlas/"><span>01 / ATLAS</span><h2>土地をめぐる。</h2><p>地図から、暮らしのある場所へ ↗</p></a><a href="/eras/"><span>02 / THROUGH TIME</span><h2>時代をめぐる。</h2><p>かたちに残る、時間をたどる ↗</p></a><a href="/materials/"><span>03 / MATERIALS</span><h2>素材をたどる。</h2><p>繊維と革、その場所と仕事へ ↗</p></a></div></Page>
+<Page><section class="masthead"><div class="edition"><span>THE STORIES BEHIND WHAT WE WEAR</span><span>服と暮らしをめぐるジャーナル</span></div><h1>NICENESS<span>ness</span></h1><p>いいもののいいところ<br /><span lang="en">Why good is good.</span></p></section><div class="section-line"><span>THE EDIT</span><span>着る。運ぶ。つくる。</span></div><section class="editorial-grid" aria-label="注目の記事">{journalOrder(articles, 20260913).map((a,i)=><Card article={a} lead={i===0}/>)}</section><div class="journeys"><a href="/atlas/"><span>01 / ATLAS</span><h2>土地をめぐる。</h2><p>地図から、暮らしのある場所へ ↗</p></a><a href="/eras/"><span>02 / THROUGH TIME</span><h2>時代をめぐる。</h2><p>かたちに残る、時間をたどる ↗</p></a><a href="/materials/"><span>03 / MATERIALS</span><h2>素材をたどる。</h2><p>繊維と革、その場所と仕事へ ↗</p></a></div></Page>
+
+<script>
+import {journalOrder} from '../lib/journal-order.mjs';
+const grid = document.querySelector('.editorial-grid');
+if (grid) {
+  let seed = Math.floor(Math.random() * 4294967296);
+  // A short visit keeps its order, including returning from an article.
+  // A later visit starts a fresh selection. Storage is optional.
+  try {
+    const saved = JSON.parse(sessionStorage.getItem('journal-visit') || 'null');
+    if (saved && Number.isInteger(saved.seed) && Date.now() - saved.started < 1800000) seed = saved.seed;
+    else sessionStorage.setItem('journal-visit', JSON.stringify({seed, started: Date.now()}));
+  } catch {}
+  const cards = journalOrder(Array.from(grid.children), seed);
+  const fragment = document.createDocumentFragment();
+  cards.forEach((card, index) => {
+    card.classList.toggle('lead', index === 0);
+    fragment.append(card);
+  });
+  grid.append(fragment);
+}
+</script>

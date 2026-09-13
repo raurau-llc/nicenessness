@@ -32,3 +32,8 @@ T081・T083・T093の元の商品リンクは別テーマの説明や参照が�
 `content/materials.json` は確認済みの部位ごとの索引。初回は48アイテム・57部位・16素材。商品とシーズンを特定し、公開記事と採用したブランド事実へ参照を持たせる。全文やタグのキーワード抽出だけで素材を登録しない。繊維、革の動物種、布組織、仕上げは別の概念として扱う。原皮・原料産地と製織・鞣し・仕上げ・調達先・タンナー所在地・製作地を区別し、材名や会社所在地から原皮産地を補完しない。産地情報は当該部位に紐づけ、別部位へ流用しない。未登録は非使用・不存在を意味しない。
 
 追加時はmaterials.test.mjsの出典・同一部位/同一工程条件のテストと、全ページのリンク検証を実施する。牛革にはカーフ、羊革にはラムを含む親子分類を採用。現在は確認した説明の索引であり全商品の組成表ではない。
+
+
+## 2026-09-13: 155 articles and mixed homepage
+
+Added T283, T287, T294, T295 and T335 from SHA-verified research snapshots; release.v7 retains the previous 150 records. Historical comparisons and maker claims remain qualified. Homepage uses a seeded permutation: all articles stay in server HTML, a fresh short visit mixes them, and the visit seed is retained for 30 minutes for article/back navigation. No timer changes an open page. The accepted bilingual tagline is preserved.

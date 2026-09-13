@@ -51,7 +51,7 @@
     },
     {
       "path": "src/pages/index.astro",
-      "sha256": "083c211970b56be8ab2a20406081613ec0fccf8ce23dd0e81b30fc5b15f826fd"
+      "sha256": "e99b694e8269932ba49e7f5e0f9f8345ae3684b1f43aeab9c61a3302b89e8673"
     },
     {
       "path": "src/pages/items/[id].astro",
@@ -83,7 +83,7 @@
     },
     {
       "path": "content/articles.json",
-      "sha256": "d64867251b6458eb94dc4755d776960d26a8b21842cd90b9806b7d505e503314"
+      "sha256": "c8fef94b2747e79d255d7e3b6b99a9f23653e184b35aacca114bb8212e0e20c0"
     },
     {
       "path": "content/release.v1.json",
@@ -103,7 +103,7 @@
     },
     {
       "path": "scripts/validate-content.mjs",
-      "sha256": "6f7b2d04eb8b70fb1087b44b4eda6994c7ad09025a51ab1cf35c7417f9dde45a"
+      "sha256": "24ac691f21ee509c789b56caa5b2a6ddb1955d4b8276dd323625d6f63de612f3"
     },
     {
       "path": "scripts/verify-build.mjs",
@@ -159,7 +159,7 @@
     },
     {
       "path": "docs/publishing-and-community.md",
-      "sha256": "abc1704b5fd7fdef9e1cff6021648c0168aa72e996f83e31f19deb7528116bf2"
+      "sha256": "85ecc6c464ed2225b263f1609969b78597f0f7e4b6beeb3676934091ccb7f9c0"
     },
     {
       "path": "content/site.json",
@@ -243,7 +243,19 @@
     },
     {
       "path": "scripts/materials.test.mjs",
-      "sha256": "1ce2d6962ff445f0545fb6ead7c77d7d56b83fe7c659d7600bf963803b7ea856"
+      "sha256": "fcbc43289a766a0db1bb5bf0671607326622b5a141fa180f3e464356d7f3aa7b"
+    },
+    {
+      "path": "src/lib/journal-order.mjs",
+      "sha256": "92adba80223c466e26037c2cfaf4f86bf558ccdf08911ef59457f1aea21a76e9"
+    },
+    {
+      "path": "scripts/journal-order.test.mjs",
+      "sha256": "92737d3b821d1812e5ec21afa8b1f273b6786f6c42c0704d0baa7eed78b7df7f"
+    },
+    {
+      "path": "content/release.v7.json",
+      "sha256": "b92ba77a5fee0b2ab8500de4efbe70e9580dc33c524b5a782f5002b8f9e8238f"
     }
   ],
   "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."
