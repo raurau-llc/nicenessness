@@ -20713,5 +20713,2505 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T235",
+    "slug": "raglan-campus-sweatshirt",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1960s"
+    ],
+    "tags": [
+      "ラグラン",
+      "大学",
+      "ニット"
+    ],
+    "category": "DRESS / 着る",
+    "model": "FRANCES",
+    "season": "AW25",
+    "item": "frances-aw25",
+    "title": "肩から斜めに袖がつながる\nラグランスウェット",
+    "deck": "大学の売店に並ぶスウェット。1966年のMITの広告には、栗色に白い縁を添えたラグラン袖の一着がある。",
+    "place": "米国",
+    "period": "1960年代",
+    "context": "ラグラン",
+    "opening": "大学の売店に並ぶスウェット。1966年のMITの広告には、栗色に白い縁を添えたラグラン袖の一着がある。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "売店の注文欄から",
+        "paragraphs": [
+          "MITが公開する夏号の広告で、Tech Coopはラグラン袖のスウェットを2.95ドルで案内している。関係者向けの注文欄もあり、衣服が大学の日常へ差し出されていたことがわかる。誰がどれほど着たかまでは、この広告だけではわからない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "競技のそばにも",
+        "paragraphs": [
+          "Powerhouseに残る1960年ローマ五輪の豪州選手用スウェットは、綿製でジップ付きの襟を持つ。こちらはラグラン袖と確認されたものではない。同じ時期のスウェットにも、大学の販売品と競技のための服という異なる顔がある。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "FRANCES（AW25）は、1960年代のラグランスウェットを背景にしたニット。公式説明では先染めのモヘアシルク糸と稲妻柄のジャカードを用いている。スウェットの記憶を、糸の質感と編み柄へ移し替えた一着だ。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "広告や五輪所蔵品は比較例。FRANCESの直接の原型ではなく、購入者や着用の普及も未確認。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "FRANCES（AW25）は、1960年代のラグランスウェットを背景にしたニット。公式説明では先染めのモヘアシルク糸と稲妻柄のジャカードを用いている。スウェットの記憶を、糸の質感と編み柄へ移し替えた一着だ。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "FRANCES",
+        "season": "AW25",
+        "number": "NN-3502K16",
+        "url": "https://www.niceness.jp/products/frances",
+        "id": "frances-aw25",
+        "retained": "1960年代ラグランスウェットのデザイン",
+        "changed": "FRANCES（AW25）は、1960年代のラグランスウェットを背景にしたニット。公式説明では先染めのモヘアシルク糸と稲妻柄のジャカードを用いている。スウェットの記憶を、糸の質感と編み柄へ移し替えた一着だ。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "e049002ec026cd3c"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Voo Doo 1966 Summer: The Tech Coop advertisement",
+        "publisher": "MIT Voo Doo / The Tech Coop",
+        "url": "https://stuff.mit.edu/activities/voodoo/archive/pdfs/1966-Summer.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Sweat shirt from Australian team uniform 1960 Rome Olympic Games",
+        "publisher": "Powerhouse",
+        "url": "https://collection.powerhouse.com.au/object/358718",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS FRANCES",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/frances",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T236",
+    "slug": "drawstring-pocket-hoodie",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "フード",
+      "ポケット",
+      "日常着"
+    ],
+    "category": "DRESS / 着る",
+    "model": "DEL",
+    "season": "SS26",
+    "item": "del-ss26",
+    "title": "引き紐と大きな前ポケットの\nフーディー",
+    "deck": "海辺へ、自転車へ、ハイキングへ。1974年の広告は、フード付きスウェットをいくつもの日常へ連れ出そうとしていた。",
+    "place": "米国",
+    "period": "1970年代",
+    "context": "フード",
+    "opening": "海辺へ、自転車へ、ハイキングへ。1974年の広告は、フード付きスウェットをいくつもの日常へ連れ出そうとしていた。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "行き先の多い上着",
+        "paragraphs": [
+          "Jacobson’sの広告は、若い男性に向け、ジーンズや海辺、ハイキング、自転車の装いの上に着るフーディーを提案している。これは当時の販売の言葉だ。実際の着用の広がりを示す数字ではないが、競技場だけにとどまらない服として売られていたことは読み取れる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "手元と頭に、居場所をつくる",
+        "paragraphs": [
+          "その一着には引き紐付きのフードとマフポケットがあり、ポリエステルと綿を使う。色は灰・紺・緑、価格は9ドル。行き先を限定しない提案と、身近な部位へ添えられた仕掛けを並べると、日常着としての姿が具体的になる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "DEL（SS26）は、1970年代のスポーツフーディーを参照。丸胴裏毛に二枚仕立てのフードを組み合わせ、襷掛けの背面から着想した裁断と手作業のエイジングを加える。前の記事で見た背中に続き、ここでは日常の上着という側面から眺めたい。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "広告の品がDELの原型とは確認されていない。広告のフードが二枚構成だったかも不明。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "DEL（SS26）は、1970年代のスポーツフーディーを参照。丸胴裏毛に二枚仕立てのフードを組み合わせ、襷掛けの背面から着想した裁断と手作業のエイジングを加える。前の記事で見た背中に続き、ここでは日常の上着という側面から眺めたい。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "DEL",
+        "season": "SS26",
+        "number": "NN-2001J17",
+        "url": "https://www.niceness.jp/products/del-26ss",
+        "id": "del-ss26",
+        "retained": "1970年代スポーツスウェットフーディー、二枚仕立てフード",
+        "changed": "DEL（SS26）は、1970年代のスポーツフーディーを参照。丸胴裏毛に二枚仕立てのフードを組み合わせ、襷掛けの背面から着想した裁断と手作業のエイジングを加える。前の記事で見た背中に続き、ここでは日常の上着という側面から眺めたい。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "73a29e5303c97e07"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Grosse Pointe News, 22 August 1974: Jacobson’s Shop advertisement",
+        "publisher": "Grosse Pointe News / Jacobson’s",
+        "url": "https://digitize.gp.lib.mi.us/history/newspapers/grossePointeNews/year_ranges/1970s/1974/pdf/1974-08-22.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS DEL",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/del-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T242",
+    "slug": "folded-rib-tee-neck",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1960s"
+    ],
+    "tags": [
+      "襟",
+      "リブ",
+      "洗濯"
+    ],
+    "category": "DRESS / 着る",
+    "model": "HYDE",
+    "season": "SS26",
+    "item": "hyde-ss26",
+    "title": "襟端をリブで挟む\nTシャツ",
+    "deck": "繰り返し着て、洗う。Tシャツの小さな襟には、その繰り返しにどう応えるかという工夫がある。",
+    "place": "米国",
+    "period": "1960年代",
+    "context": "襟",
+    "opening": "繰り返し着て、洗う。Tシャツの小さな襟には、その繰り返しにどう応えるかという工夫がある。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "筒の身頃に、別の襟を",
+        "paragraphs": [
+          "1965年に出願され、1967年に公開された特許US3296627Aは、筒状のニット身頃に1×1リブの襟帯を取り付ける構造を説明する。身頃と別につくられた帯を、首の開口部へ添える発想だ。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "折って、挟んで、縫う",
+        "paragraphs": [
+          "提案された方法では、リブ帯を二段階で折り、身頃の襟端を内外の二重層で挟んで縫う。目的に挙げられているのは、着用や洗濯による襟の変形を減らすこと。これは発明者の説明であり、すべてのTシャツの性能を裏づけるものではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "HYDE（SS26）は、1970年代のバスクシャツに米国古着Tシャツの細幅付け襟を取り入れた服。公式説明では、超長綿の強撚糸による高ゲージ生地と、手作業のステンシル抜染を使う。違う服型をつなぐ接点が、首元の小さな帯にある。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "特許は細幅襟の起源やHYDEの直接の原型を示さない。構造を考える比較資料。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "HYDE（SS26）は、1970年代のバスクシャツに米国古着Tシャツの細幅付け襟を取り入れた服。公式説明では、超長綿の強撚糸による高ゲージ生地と、手作業のステンシル抜染を使う。違う服型をつなぐ接点が、首元の小さな帯にある。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "HYDE",
+        "season": "SS26",
+        "number": "NN-3402J17",
+        "url": "https://www.niceness.jp/products/hyde-26ss",
+        "id": "hyde-ss26",
+        "retained": "1970年代バスクシャツと米国古着Tシャツの細幅付け襟",
+        "changed": "HYDE（SS26）は、1970年代のバスクシャツに米国古着Tシャツの細幅付け襟を取り入れた服。公式説明では、超長綿の強撚糸による高ゲージ生地と、手作業のステンシル抜染を使う。違う服型をつなぐ接点が、首元の小さな帯にある。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "9e56275b4c993568"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "US3296627A Garment construction",
+        "publisher": "Ralph L. Beard / James Fred Hester; Hanes Corporation",
+        "url": "https://patents.google.com/patent/US3296627A/en",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS HYDE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/hyde-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T246",
+    "slug": "lettered-school-cardigan",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1960s"
+    ],
+    "tags": [
+      "学校",
+      "レター",
+      "モヘア"
+    ],
+    "category": "DRESS / 着る",
+    "model": "FEAT",
+    "season": "AW23",
+    "item": "feat-aw23",
+    "title": "胸に文字と刺繍を添えた\nスクールカーディガン",
+    "deck": "胸に大きなD。その文字の中に、小さな野球の刺繍がある。一着のカーディガンが、持ち主と学校の接点を残している。",
+    "place": "米国",
+    "period": "1960年代",
+    "context": "学校",
+    "opening": "胸に大きなD。その文字の中に、小さな野球の刺繍がある。一着のカーディガンが、持ち主と学校の接点を残している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "持ち主のいる一着",
+        "paragraphs": [
+          "Dickinson Collegeに残るのは、1960年頃のWilliam Freeman所有のカーディガン。素材はウール100パーセントで、赤いDのレターと野球の刺繍を備える。抽象的な学校の制服ではなく、ひとりの所有者へ結びついた衣服だ。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "印を読む、広げすぎずに",
+        "paragraphs": [
+          "その文字と刺繍から、学校や競技との関係を考えることはできる。ただし、全校指定の制服だったのか、どんな条件で授与されたのか、いつ着られたのかは確認できない。残された一着の細部を、学校全体の決まりへ置き換えずに見る。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "FEAT（AW23）は、1950〜60年代の米国スクールカーディガンを参照。織糸用のキッドモヘヤの極細梳毛糸で編み、ややコンパクトな寸法と透け感を持たせている。学校の服の輪郭が、軽い編地の表情へと変わる。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "所蔵品は比較例。FEATの直接の原型、所属や授与制度との関係は未確認。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "FEAT（AW23）は、1950〜60年代の米国スクールカーディガンを参照。織糸用のキッドモヘヤの極細梳毛糸で編み、ややコンパクトな寸法と透け感を持たせている。学校の服の輪郭が、軽い編地の表情へと変わる。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "FEAT",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "id": "feat-aw23",
+        "retained": "1950〜60年代米国スクールカーディガン",
+        "changed": "FEAT（AW23）は、1950〜60年代の米国スクールカーディガンを参照。織糸用のキッドモヘヤの極細梳毛糸で編み、ややコンパクトな寸法と透け感を持たせている。学校の服の輪郭が、軽い編地の表情へと変わる。",
+        "factRefs": [
+          "F02"
+        ],
+        "sourceKey": "9a1fd302a858e652"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Athletics: Varsity Cardigan, c.1960, AC 00923",
+        "publisher": "Dickinson College Archives & Special Collections",
+        "url": "https://archives.dickinson.edu/artifacts-dickinson-subject/athletics",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS FEAT",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T257",
+    "slug": "flame-resistant-steel-jacket",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "製鉄",
+      "仕事",
+      "綿"
+    ],
+    "category": "DRESS / 着る",
+    "model": "RAVI",
+    "season": "SS26",
+    "item": "ravi-ss26",
+    "title": "難燃綿でつくられた\n製鉄所のジャケット",
+    "deck": "製鉄所で着られた上着が、博物館に残っている。素材の欄にある「難燃綿」という言葉が、働く場所へと視線を向けさせる。",
+    "place": "米国",
+    "period": "1970年代",
+    "context": "製鉄",
+    "opening": "製鉄所で着られた上着が、博物館に残っている。素材の欄にある「難燃綿」という言葉が、働く場所へと視線を向けさせる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "作業場のための素材",
+        "paragraphs": [
+          "Smithsonianの所蔵品は1974年頃のジャケットで、1970年代のBethlehem Steel従業員の制服の一部とされる。難燃綿という素材区分は確認できるが、着用した人の具体的な職種や性能規格までは示されていない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "服が残る、産業が変わる",
+        "paragraphs": [
+          "同館は、1970〜80年代に製鉄労働者の解雇と工場閉鎖が始まり、ペンシルベニアなどの地域がRust Beltと呼ばれるようになったと説明する。一着の仕事着の背景には、働く場所自体が変わっていく歴史もある。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "RAVI（SS26）は、1970年代の米国鉄鋼労働者のジャケットと英国のコートから着想したリバーシブルコート。公式説明では、綿ツイルと13色のウールオンブレを手縫いで接いでいる。仕事着の参照が、異なる二つの面を持つ上着へ展開される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "所蔵品は直接原型と未確認。RAVIに難燃性能があるとは述べていない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "RAVI（SS26）は、1970年代の米国鉄鋼労働者のジャケットと英国のコートから着想したリバーシブルコート。公式説明では、綿ツイルと13色のウールオンブレを手縫いで接いでいる。仕事着の参照が、異なる二つの面を持つ上着へ展開される。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "RAVI",
+        "season": "SS26",
+        "number": "NN-0301C17",
+        "url": "https://www.niceness.jp/products/ravi-26ss",
+        "id": "ravi-ss26",
+        "retained": "1970年代US鉄鋼労働者のワークジャケットとUKコート",
+        "changed": "RAVI（SS26）は、1970年代の米国鉄鋼労働者のジャケットと英国のコートから着想したリバーシブルコート。公式説明では、綿ツイルと13色のウールオンブレを手縫いで接いでいる。仕事着の参照が、異なる二つの面を持つ上着へ展開される。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "93a20945ac794e6a"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Bethlehem Steel Worker’s Jacket, NMAH 1977.1132.07",
+        "publisher": "Smithsonian Open Access / National Museum of American History",
+        "url": "https://api.si.edu/openaccess/api/v1.0/search?q=Bethlehem%20Steel%20Worker%27s%20Jacket&api_key=DEMO_KEY",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS RAVI",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/ravi-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T261",
+    "slug": "buttoned-military-liner",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1950s"
+    ],
+    "tags": [
+      "重ね着",
+      "ライナー",
+      "防寒"
+    ],
+    "category": "DRESS / 着る",
+    "model": "BLOSSOM",
+    "season": "AW24",
+    "item": "blossom-aw24",
+    "title": "内側へ留めて暖かさを足す\nミリタリーライナー",
+    "deck": "寒さに合わせて、服の内側を変える。外側の一着を買い替える代わりに、中へ別の層を足すという考え方がある。",
+    "place": "米国",
+    "period": "1950年代",
+    "context": "重ね着",
+    "opening": "寒さに合わせて、服の内側を変える。外側の一着を買い替える代わりに、中へ別の層を足すという考え方がある。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "上着の内側にも型式がある",
+        "paragraphs": [
+          "Smithsonianの所蔵品は、Model 1951の陸軍男性用フィールドジャケット・ライナー。型式年は1951年、使用は1966年と記録される。呼び名に含まれる年と、実際に使われた年が違うことも、この一着は教えてくれる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "ボタンでつなぐ保温",
+        "paragraphs": [
+          "別の比較例として、デンマーク国立博物館のM-1951パーカ外殻には、寒冷乾燥用装備の内層の上に着用し、最大限の保温にはライナーをボタン留めするという衣服表示がある。ジャケット用ライナーと同一の組み合わせとは限らないが、層を留めて使う発想を読むことができる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "BLOSSOM（AW24）は、公式説明で1950年代の米国ミリタリーライナーを参照したとされるアイテム。まず注目したいのは、完成した外衣だけでなく、かつて内側で働いた服がデザインの入口になっていることだ。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "所蔵品の型式をBLOSSOMの直接原型とは特定しない。パーカ所蔵品の来歴には英国の表記もあり、米軍実使用品とは断定しない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "BLOSSOM（AW24）は、公式説明で1950年代の米国ミリタリーライナーを参照したとされるアイテム。まず注目したいのは、完成した外衣だけでなく、かつて内側で働いた服がデザインの入口になっていることだ。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "BLOSSOM",
+        "season": "AW24",
+        "number": "NN-6302B14  ( Limited )",
+        "url": "https://www.niceness.jp/products/blossom",
+        "id": "blossom-aw24",
+        "retained": "1950年代USミリタリーライナー",
+        "changed": "BLOSSOM（AW24）は、公式説明で1950年代の米国ミリタリーライナーを参照したとされるアイテム。まず注目したいのは、完成した外衣だけでなく、かつて内側で働いた服がデザインの入口になっていることだ。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "4e9dbddff42b49cb"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Model 1951; Liner, Jacket",
+        "publisher": "National Museum of American History",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_430962",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Parka",
+        "publisher": "National Museum of Denmark",
+        "url": "https://samlinger.natmus.dk/khs/object/48888",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS BLOSSOM",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/blossom",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T262",
+    "slug": "open-finger-military-gloves",
+    "regions": [
+      {
+        "id": "in",
+        "name": "インド",
+        "role": "所蔵制服の使用組織"
+      }
+    ],
+    "eras": [
+      "1950s"
+    ],
+    "tags": [
+      "手袋",
+      "編み",
+      "防寒"
+    ],
+    "category": "DRESS / 着る",
+    "model": "TOBY",
+    "season": "AW26",
+    "item": "toby-aw26",
+    "title": "指先を覆わない\n編み手袋",
+    "deck": "手をすべて包むのではなく、指先を開けておく。手袋の端がどこで終わるかを見ると、防寒具の形にも選択があることに気づく。",
+    "place": "インド",
+    "period": "1950年代",
+    "context": "手袋",
+    "opening": "手をすべて包むのではなく、指先を開けておく。手袋の端がどこで終わるかを見ると、防寒具の形にも選択があることに気づく。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "制服の中の指なし手袋",
+        "paragraphs": [
+          "デンマーク国立博物館は、1951年のインド歩兵兵卒の制服の一部として、カーキ色の指なし編み手袋を記録している。ここで確認できるのは、特定の制服にこの形が含まれるということ。どの作業のために指を出したかまでは説明されていない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "外せる指という別の答え",
+        "paragraphs": [
+          "英国National Army Museumには、1944年頃のAuxiliary Territorial Service用の、指部分を取り外せるミトンがある。最初から指先が開いた手袋とは違う仕掛けだ。覆う範囲をどう決めるか、その答えを比べて見ることができる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "TOBY（AW26）は、軍用フィンガーレスグローブを参照した筒編みのアイテム。公式説明では、マフラーとグローブの二通りに使う。手を包むための筒が、首元にも使える形へと広げられている。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "軍用指なし手袋全般の用途やTOBYの直接原型は未確認。英国のミトンは異なる構造の比較例。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "TOBY（AW26）は、軍用フィンガーレスグローブを参照した筒編みのアイテム。公式説明では、マフラーとグローブの二通りに使う。手を包むための筒が、首元にも使える形へと広げられている。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "TOBY",
+        "season": "AW26",
+        "number": "NN-1803K18（ Limited ）",
+        "url": "https://www.niceness.jp/products/toby",
+        "id": "toby-aw26",
+        "retained": "軍用フィンガーレスグローブの筒編み形状",
+        "changed": "TOBY（AW26）は、軍用フィンガーレスグローブを参照した筒編みのアイテム。公式説明では、マフラーとグローブの二通りに使う。手を包むための筒が、首元にも使える形へと広げられている。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "e96bed4c3efa2254"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Handsker",
+        "publisher": "National Museum of Denmark",
+        "url": "https://samlinger.natmus.dk/khs/object/50344",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Mittens with removable finger piece, Auxiliary Territorial Service, 1944 (c)",
+        "publisher": "National Army Museum",
+        "url": "https://collection.nam.ac.uk/detail.php?acc=1994-03-198-2",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS TOBY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/toby",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T268",
+    "slug": "canadian-flight-suit",
+    "regions": [
+      {
+        "id": "ca",
+        "name": "カナダ",
+        "role": "RCAF用衣服の製造例"
+      }
+    ],
+    "eras": [
+      "1940s"
+    ],
+    "tags": [
+      "飛行",
+      "つなぎ",
+      "装備"
+    ],
+    "category": "DRESS / 着る",
+    "model": "MELCHIOR",
+    "season": "AW24",
+    "item": "melchior-aw24",
+    "title": "全身を一続きに包む\nフライトスーツ",
+    "deck": "飛行のための服を、上着だけでなく全身で考える。1940年代の所蔵品には、一続きの服と、それを着た人の記録が残っている。",
+    "place": "カナダ",
+    "period": "1940年代",
+    "context": "飛行",
+    "opening": "飛行のための服を、上着だけでなく全身で考える。1940年代の所蔵品には、一続きの服と、それを着た人の記録が残っている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "つくった場所まで残る服",
+        "paragraphs": [
+          "Canadian War MuseumのFlying Dress Suitは、1942年にベルビルのDeacon Brothersが製造したRCAF航空部門用の衣服。素材欄にはレーヨン、亜麻、リネンが記録される。どんな環境で使われたかを想像する前に、まず製造と用途の記録を確かめておきたい。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "着用者と型式は別の手がかり",
+        "paragraphs": [
+          "Smithsonianの1940 Pattern Sidcotは綿製のワンピースで、RCAF入隊者Len Morganが着た来歴を持つ。ただし型式自体は英国RAF用。着た人の所属だけで、衣服そのものの型式や製造国を決めることはできない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "MELCHIOR（AW24）は、1940年代のカナダ空軍フライトスーツに、1970年代のアウトドアと軍用の要素を加えたジャケット。全身を覆う服から出発し、異なる年代の装備を重ねた上着として捉えられる。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "二つの所蔵品はいずれも比較例。MELCHIORの具体的原型や、各部の引用関係は未確認。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "MELCHIOR（AW24）は、1940年代のカナダ空軍フライトスーツに、1970年代のアウトドアと軍用の要素を加えたジャケット。全身を覆う服から出発し、異なる年代の装備を重ねた上着として捉えられる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "MELCHIOR",
+        "season": "AW24",
+        "number": "NN-6101B14  ( Limited )",
+        "url": "https://www.niceness.jp/products/melchior",
+        "id": "melchior-aw24",
+        "retained": "1940年代カナダ空軍フライトスーツ",
+        "changed": "MELCHIOR（AW24）は、1940年代のカナダ空軍フライトスーツに、1970年代のアウトドアと軍用の要素を加えたジャケット。全身を覆う服から出発し、異なる年代の装備を重ねた上着として捉えられる。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "18da02a051710337"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Flying Dress Suit",
+        "publisher": "Canadian War Museum",
+        "url": "https://www.warmuseum.ca/collections/artifact/1123799",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Suit, Flying, 1940 Pattern, Royal Air Force",
+        "publisher": "Smithsonian National Air and Space Museum",
+        "url": "https://www.si.edu/es/object/suit-flying1940-pattern-royal-air-force%3Anasm_A19730545000",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS MELCHIOR",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/melchior",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T275",
+    "slug": "aerospace-engineer-jacket",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1960s"
+    ],
+    "tags": [
+      "技術者",
+      "仕事",
+      "ベスト"
+    ],
+    "category": "DRESS / 着る",
+    "model": "FLINT",
+    "season": "SS23",
+    "item": "flint-ss23",
+    "title": "ジップとボタンを備えた\n技術者のジャケット",
+    "deck": "宇宙計画に携わった人が着たジャケット。大きな出来事のそばにも、日々に袖を通す仕事着があった。",
+    "place": "米国",
+    "period": "1960年代",
+    "context": "技術者",
+    "opening": "宇宙計画に携わった人が着たジャケット。大きな出来事のそばにも、日々に袖を通す仕事着があった。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "名前と仕事が残る",
+        "paragraphs": [
+          "Smithsonianには、MercuryやGemini計画などに携わったRobert Foster旧蔵のMcDonnell技術者ジャケットがある。綿混紡の布、金属のジップ、樹脂のボタン。技術の歴史を、こうした手元の細部から見ることもできる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "一着から見える範囲",
+        "paragraphs": [
+          "これは1960年代の米国航空技術者の実着用品として確認できる例だ。すべてのエンジニアが同じ服を着たわけでも、このジップに特別な用途が記されているわけでもない。持ち主のいる衣服として眺めると、仕事の歴史が少し身近になる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "FLINT（SS23）は、1960年代の米国エンジニアジャケットに、同年代のフランス農夫のベストの要素を合わせたキッドモヘヤ製ベスト。異なる仕事着の記憶が、袖のない一着で出会っている。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "所蔵ジャケットはFLINTの直接原型と未確認。農夫ベスト側の具体的実物もこの記事では検証していない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "FLINT（SS23）は、1960年代の米国エンジニアジャケットに、同年代のフランス農夫のベストの要素を合わせたキッドモヘヤ製ベスト。異なる仕事着の記憶が、袖のない一着で出会っている。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "FLINT",
+        "season": "SS23",
+        "number": null,
+        "url": null,
+        "id": "flint-ss23",
+        "retained": "1960年代米国エンジニアジャケットと同年代フランス農夫ベスト",
+        "changed": "FLINT（SS23）は、1960年代の米国エンジニアジャケットに、同年代のフランス農夫のベストの要素を合わせたキッドモヘヤ製ベスト。異なる仕事着の記憶が、袖のない一着で出会っている。",
+        "factRefs": [
+          "F02"
+        ],
+        "sourceKey": "15246f4e618f64e0"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Jacket, Laboratory-style, McDonnell Aviation",
+        "publisher": "Smithsonian National Air and Space Museum",
+        "url": "https://www.si.edu/object/jacket-laboratory-style-mcdonnell-aviation%3Anasm_A20050071000",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS FLINT",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T278",
+    "slug": "worked-silver-concho",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1800s"
+    ],
+    "tags": [
+      "銀",
+      "コンチョ",
+      "装身具"
+    ],
+    "category": "DRESS / 着る",
+    "model": "DADA CONCHO",
+    "season": "SS23",
+    "item": "dada-concho-ss23",
+    "title": "銀を打ち出して形にする\nコンチョ",
+    "deck": "小さな銀の面にも、つくり手の仕事が残る。コンチョを一つの模様として眺める前に、素材と加工から見てみたい。",
+    "place": "米国",
+    "period": "19世紀",
+    "context": "銀",
+    "opening": "小さな銀の面にも、つくり手の仕事が残る。コンチョを一つの模様として眺める前に、素材と加工から見てみたい。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "一つの作例に近づく",
+        "paragraphs": [
+          "NMAIには、1890〜1930年のDiné（Navajo）のボタンとコンチョが残る。ニューメキシコ由来で、銀の打ち出しとレプッセによる加工が記録されている。これは特定の作例の説明であり、あらゆるコンチョの起源を一つにまとめるものではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "帯に並ぶ銀の面",
+        "paragraphs": [
+          "Nelson-Atkins所蔵の約1875年のコンチャベルトには、鋸歯状の縁を持つ銀製コンチャが七個、革帯に並ぶ。同館は、複数の地域の形が交わり、Navajoの美意識の中で展開したと解説する。単純な一方向の由来にせず、個々の作品と説明を読んでおきたい。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "DADA CONCHO（SS23）は、シルバー925のオリジナルコンチョボタンと、カイマン革・牛革を用いるポシェット。ここで確かな接点は、銀のボタンという具体的な採用要素だ。博物館の作例をそのまま写したものとは確認されていない。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "公式の包括的な文化的呼称から特定集団や儀礼用途を推定しない。所蔵例とNICENESSの直接の参照関係は未確認。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "DADA CONCHO（SS23）は、シルバー925のオリジナルコンチョボタンと、カイマン革・牛革を用いるポシェット。ここで確かな接点は、銀のボタンという具体的な採用要素だ。博物館の作例をそのまま写したものとは確認されていない。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "DADA CONCHO",
+        "season": "SS23",
+        "number": null,
+        "url": null,
+        "id": "dada-concho-ss23",
+        "retained": "銀製コンチョボタンと小型の携行袋という構成",
+        "changed": "DADA CONCHO（SS23）は、シルバー925のオリジナルコンチョボタンと、カイマン革・牛革を用いるポシェット。ここで確かな接点は、銀のボタンという具体的な採用要素だ。博物館の作例をそのまま写したものとは確認されていない。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "b867c8db0c7ecfac"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Button and concho/concha",
+        "publisher": "National Museum of the American Indian",
+        "url": "https://americanindian.si.edu/collections-search/object/NMAI_221209",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Concha Belt",
+        "publisher": "The Nelson-Atkins Museum of Art",
+        "url": "https://art.nelson-atkins.org/objects/55453/concha-belt",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS DADA CONCHO",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T280",
+    "slug": "cotton-work-blouse",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "所蔵品の製造地域"
+      }
+    ],
+    "eras": [
+      "present"
+    ],
+    "tags": [
+      "仕事",
+      "ブラウス",
+      "アトリエ"
+    ],
+    "category": "DRESS / 着る",
+    "model": "FINN",
+    "season": "SS23",
+    "item": "finn-ss23",
+    "title": "平織りの綿で仕立てた\n仕事のブラウス",
+    "deck": "仕事のために着る長い上着。芸術家の服として思い浮かべる姿も、まずは布でできた職業衣として見てみたい。",
+    "place": "フランス",
+    "period": "現代の所蔵例",
+    "context": "仕事",
+    "opening": "仕事のために着る長い上着。芸術家の服として思い浮かべる姿も、まずは布でできた職業衣として見てみたい。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "パリの職業衣が残る",
+        "paragraphs": [
+          "Palais Galliera所蔵のBelle Jardinière製ブラウスは、1903〜1904年頃のパリの成人男性用職業衣として登録されている。素材は平織りの綿。所蔵記録はこれを芸術家専用の服やアトリエコートとは呼んでいない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "服が人の位置を語る",
+        "paragraphs": [
+          "Louvre-Lensは芸術家の衣服を扱う展覧会で、作業用ブラウスやオーバーオールを、時代や芸術的な意図、社会の中での芸術家の位置を表しうる服として扱った。同じ作業衣の形でも、着る人と場面によって読み方は変わる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "FINN（SS23）は、フランスのアトリエコートと1950年代の英国軍レインコートを掛け合わせたコート。公式説明では、リネンと綿の二重織りに加工を施し、手縫いで仕立てる。仕事の上着と雨の装備が、一着の布と仕立ての中で重なる。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "所蔵ブラウスを芸術家用と断定しない。年代分類は現代の参照・読み直しとして置き、特定のアトリエコートの起源年代を示さない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "FINN（SS23）は、フランスのアトリエコートと1950年代の英国軍レインコートを掛け合わせたコート。公式説明では、リネンと綿の二重織りに加工を施し、手縫いで仕立てる。仕事の上着と雨の装備が、一着の布と仕立ての中で重なる。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "FINN",
+        "season": "SS23",
+        "number": null,
+        "url": null,
+        "id": "finn-ss23",
+        "retained": "フランスのアトリエコートと1950年代英国軍レインコートの要素",
+        "changed": "FINN（SS23）は、フランスのアトリエコートと1950年代の英国軍レインコートを掛け合わせたコート。公式説明では、リネンと綿の二重織りに加工を施し、手縫いで仕立てる。仕事の上着と雨の装備が、一着の布と仕立ての中で重なる。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "72c2d68c16e1fcb1"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Blouse",
+        "publisher": "Paris Musées / Palais Galliera",
+        "url": "https://www.parismuseescollections.paris.fr/fr/palais-galliera/oeuvres/blouse-1",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "S’habiller en artiste. L’artiste et le vêtement",
+        "publisher": "Louvre-Lens",
+        "url": "https://www.louvrelens.fr/exhibition/shabiller-en-artiste/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS FINN",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T282",
+    "slug": "strapped-leather-sandals",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "ロンドン出土の所蔵例"
+      }
+    ],
+    "eras": [
+      "present"
+    ],
+    "tags": [
+      "革",
+      "ストラップ",
+      "サンダル"
+    ],
+    "category": "DRESS / 着る",
+    "model": "SIMONE",
+    "season": "SS23",
+    "item": "simone-ss23",
+    "title": "帯状の革で足を留める\nサンダル",
+    "deck": "足を包む部分を減らし、帯で留める。サンダルを見ると、覆うことと留めることが別の仕事だと気づく。",
+    "place": "英国",
+    "period": "現代の所蔵例",
+    "context": "革",
+    "opening": "足を包む部分を減らし、帯で留める。サンダルを見ると、覆うことと留めることが別の仕事だと気づく。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "出土した革と鋲",
+        "paragraphs": [
+          "British Museumに残るロンドン出土のRomano-Britishサンダルは、革製で鉄鋲を打った履物として記録される。名前の響きから兵士や剣闘士を思い浮かべても、所蔵記録は着用者をそこまで特定していない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "帯と底を分けて見る",
+        "paragraphs": [
+          "同館のAntinoupolis出土の履物には、サンダル状の前部と閉じた踵、革紐で縫った三層の底、足指用の帯がある。年代幅は1〜10世紀と広く、ローマ期かどうかにも留保がある。足をどこで留め、底をどう重ねたかという構造から近づきたい。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "SIMONE（SS23）は、踵のタブへ革ストラップを通して着用する、Jacques Solovière製のイタリアンスエードのサンダル。公式はグラディエイターサンダルのような着方と説明する。その言葉と、古代の実物の着用者の身分は分けて読む。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "古代所蔵品は比較資料で、直接原型ではない。年代分類の現代はSIMONEへの接続を示し、古代の年代を現代へ置き換えるものではない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "SIMONE（SS23）は、踵のタブへ革ストラップを通して着用する、Jacques Solovière製のイタリアンスエードのサンダル。公式はグラディエイターサンダルのような着方と説明する。その言葉と、古代の実物の着用者の身分は分けて読む。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "SIMONE",
+        "season": "SS23",
+        "number": null,
+        "url": null,
+        "id": "simone-ss23",
+        "retained": "踵タブに通した革ストラップによるグラディエイターサンダル風の着用",
+        "changed": "SIMONE（SS23）は、踵のタブへ革ストラップを通して着用する、Jacques Solovière製のイタリアンスエードのサンダル。公式はグラディエイターサンダルのような着方と説明する。その言葉と、古代の実物の着用者の身分は分けて読む。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "a567ca5051a9a77f"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Sandal",
+        "publisher": "British Museum",
+        "url": "https://www.britishmuseum.org/collection/object/H_1856-0701-1008-a",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Sandal",
+        "publisher": "British Museum",
+        "url": "https://www.britishmuseum.org/collection/object/G_1914-0902-4",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS SIMONE",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T288",
+    "slug": "portable-pinback-badges",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "バッジ",
+      "図案",
+      "所属"
+    ],
+    "category": "DRESS / 着る",
+    "model": "BIRTHDAY",
+    "season": "AW25",
+    "item": "birthday-aw25",
+    "title": "小さな図柄を身につける\nピンバッジ",
+    "deck": "伝えたい言葉や図柄を、小さな円にして胸元へ。バッジは、服を変えずに表面の意味を変えられる道具でもある。",
+    "place": "米国",
+    "period": "1970年代",
+    "context": "バッジ",
+    "opening": "伝えたい言葉や図柄を、小さな円にして胸元へ。バッジは、服を変えずに表面の意味を変えられる道具でもある。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "活動のそばの小さな印",
+        "paragraphs": [
+          "Smithsonianの1970年代のYoung Lords Organization用バッジは、紙への印刷、金属、樹脂からなる。シカゴで使用された政治・活動資料として残る。ひとつの図柄を身につけることが、衣服とは別のメッセージを添えていた。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "持ち帰れる製造の道具",
+        "paragraphs": [
+          "Albuquerque Museumは、約1970年開発のBadge-A-Minitの手動プレスを紹介する。企業、クラブ、催事、会議や祭の宣伝用バッジをつくる持ち帰り式のキットだ。完成品だけでなく、図柄を形にする手段にも目を向けられる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "BIRTHDAY（AW25）は、1970年代米国のアルミバッジを参照した四個組。公式説明では、ネッシーやビッグフット、ツチノコなどのUMAを独自の図案にしている。歴史上の活動の印を再現するのではなく、小さな媒体を別の物語で満たしている。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "所蔵例はアルミ製とは確認できず、BIRTHDAYの具体的参照品でもない。Badge-A-Minitの使用も未確認。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "BIRTHDAY（AW25）は、1970年代米国のアルミバッジを参照した四個組。公式説明では、ネッシーやビッグフット、ツチノコなどのUMAを独自の図案にしている。歴史上の活動の印を再現するのではなく、小さな媒体を別の物語で満たしている。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "BIRTHDAY",
+        "season": "AW25",
+        "number": "NN-5501A16",
+        "url": "https://www.niceness.jp/products/birthday-2",
+        "id": "birthday-aw25",
+        "retained": "1970年代米国アルミバッジという形式",
+        "changed": "BIRTHDAY（AW25）は、1970年代米国のアルミバッジを参照した四個組。公式説明では、ネッシーやビッグフット、ツチノコなどのUMAを独自の図案にしている。歴史上の活動の印を再現するのではなく、小さな媒体を別の物語で満たしている。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "151bf5c28e717859"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Pinback button for the Young Lords Organization",
+        "publisher": "Smithsonian National Museum of African American History and Culture",
+        "url": "https://collections.si.edu/search/record/ark%3A/65665/fd59adf3ac1f26048cb86beae4517748d0a?q=%22Decolonization%22",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Badge-A-Minit",
+        "publisher": "Albuquerque Museum",
+        "url": "https://albuquerque.emuseum.com/people/788/badge--a--mint/objects",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS BIRTHDAY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/birthday-2",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T308",
+    "slug": "patched-motorcycle-vest",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "バイク",
+      "パッチ",
+      "革"
+    ],
+    "category": "DRESS / 着る",
+    "model": "DREXCIYA",
+    "season": "SS26",
+    "item": "drexciya-ss26",
+    "title": "背中にパッチを重ねる\nモーターサイクルベスト",
+    "deck": "ベストの背中に、クラブの印や走った場所の記憶が重なる。袖のない服が、身につける記録帳のように見えてくる。",
+    "place": "米国",
+    "period": "1970年代",
+    "context": "バイク",
+    "opening": "ベストの背中に、クラブの印や走った場所の記憶が重なる。袖のない服が、身につける記録帳のように見えてくる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "上着の上に着る服",
+        "paragraphs": [
+          "Harley-Davidson Museumは、モーターサイクルベストを上着として着るcutと説明し、背面のクラブカラーやパッチが戦後米国のモーターサイクル文化を示したとする。すべての乗り手が同じ装いをしたという意味ではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "走行の記憶を付け足す",
+        "paragraphs": [
+          "同館は、Harley-Davidsonでモーターサイクルベストと呼べる製品が1973年に現れたと説明する。同年の所蔵ベストには、ツーリングクラブやラリー、ライドのピンとパッチが残る。服の表面に、あとから加わるものがある。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "DREXCIYA（SS26）は、1970年代のバイカーベストを参照し、本来高級バッグ用のTaurillon Lagoonで仕立てたベスト。公式説明による素材の用途の移動が、この服を見るもう一つの入口になる。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "所蔵品やクラブは直接原型と未確認。1973年という年は同社の製品史であり、モーターサイクルベスト全体の発祥年ではない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "DREXCIYA（SS26）は、1970年代のバイカーベストを参照し、本来高級バッグ用のTaurillon Lagoonで仕立てたベスト。公式説明による素材の用途の移動が、この服を見るもう一つの入口になる。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "DREXCIYA",
+        "season": "SS26",
+        "number": "NN-0105V17",
+        "url": "https://www.niceness.jp/products/drexciya-26ss",
+        "id": "drexciya-ss26",
+        "retained": "1970年代biker-style vestのwild silhouette",
+        "changed": "DREXCIYA（SS26）は、1970年代のバイカーベストを参照し、本来高級バッグ用のTaurillon Lagoonで仕立てたベスト。公式説明による素材の用途の移動が、この服を見るもう一つの入口になる。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "d0c671f204e1bd8a"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "From Waistcoat to Cut: The Evolution of the Motorcycle Vest",
+        "publisher": "Harley-Davidson Museum",
+        "url": "https://www.harley-davidson.com/us/en/content/stories/motorcycle-vest-history-waistcoat-to-cut.html",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS DREXCIYA",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/drexciya-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T309",
+    "slug": "zip-cuff-warmup-pants",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1950s"
+    ],
+    "tags": [
+      "競技",
+      "裾",
+      "ジップ"
+    ],
+    "category": "DRESS / 着る",
+    "model": "ZOOM",
+    "season": "AW25",
+    "item": "zoom-aw25",
+    "title": "靴の上から脱ぐための\nウォームアップパンツ",
+    "deck": "競技に入る前、上に重ねたパンツを脱ぐ。裾のジップは、その短い動作のために付いていた。",
+    "place": "米国",
+    "period": "1950年代",
+    "context": "競技",
+    "opening": "競技に入る前、上に重ねたパンツを脱ぐ。裾のジップは、その短い動作のために付いていた。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "靴を履いたまま、という条件",
+        "paragraphs": [
+          "Smithsonianの1950年代のバスケットボール用ウォームアップパンツには、ゴムと引き紐の腰、サイドのパイピング、そして裾のジップがある。同館の記録は、ジップを靴の上から脱ぐためのものと説明する。服を着ている時間だけでなく、脱ぐ瞬間も設計に含まれていた。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "スポーツのパンツを一つにしない",
+        "paragraphs": [
+          "The Metには1930〜69年という幅で登録された米国製スウェットパンツの一式もある。実物が残ることと、そのすべてが同じ裾や型紙を持つことは別だ。競技の服を読むときは、動作と対応する細部を一つずつ確かめたい。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "ZOOM（AW25）は、1950〜60年代のスポーツウェアの型紙や仕様に、ズアーブトラウザー由来の大きなボリュームを合わせたパンツ。公式説明では足首を絞る形とされる。裾の扱いと、上へ広がる量感を並べて見ると面白い。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "バスケットボール用パンツがZOOMの直接原型とは未確認。ZOOMに同じ裾ジップがあるとは述べていない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "ZOOM（AW25）は、1950〜60年代のスポーツウェアの型紙や仕様に、ズアーブトラウザー由来の大きなボリュームを合わせたパンツ。公式説明では足首を絞る形とされる。裾の扱いと、上へ広がる量感を並べて見ると面白い。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "ZOOM",
+        "season": "AW25",
+        "number": "NN-3704J16",
+        "url": "https://www.niceness.jp/products/zoom",
+        "id": "zoom-aw25",
+        "retained": "1950〜60年代sportswearのpatternと仕様",
+        "changed": "ZOOM（AW25）は、1950〜60年代のスポーツウェアの型紙や仕様に、ズアーブトラウザー由来の大きなボリュームを合わせたパンツ。公式説明では足首を絞る形とされる。裾の扱いと、上へ広がる量感を並べて見ると面白い。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "3bffd104e255c51a"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Warm-up pants for Lockland Wayne High School basketball team",
+        "publisher": "Smithsonian National Museum of African American History and Culture",
+        "url": "https://nmaahc.si.edu/object/nmaahc_2016.140.1.3",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Sweat pants",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/79030",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS ZOOM",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/zoom",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T310",
+    "slug": "inflatable-naval-life-vest",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵品・同時代資料の地域"
+      }
+    ],
+    "eras": [
+      "1940s"
+    ],
+    "tags": [
+      "航空",
+      "装備",
+      "ベスト"
+    ],
+    "category": "DRESS / 着る",
+    "model": "HENRI",
+    "season": "AW24",
+    "item": "henri-aw24",
+    "title": "空気を入れて使う\nライフベスト",
+    "deck": "ベストの形をした装備の中に、空気を入れる袋がある。衣服の輪郭が似ていても、その内側で働くものは大きく違う。",
+    "place": "米国",
+    "period": "1940年代",
+    "context": "航空",
+    "opening": "ベストの形をした装備の中に、空気を入れる袋がある。衣服の輪郭が似ていても、その内側で働くものは大きく違う。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "搭乗員のための装備",
+        "paragraphs": [
+          "米海軍のMark 2空気膨張式ライフベストは、1940年代後半からベトナム戦争期まで、海軍の飛行士や搭乗員の標準装備として使われた。日々の上着とは異なる目的を持った、身体へ装着する道具だ。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "袋だけでは完成しない",
+        "paragraphs": [
+          "所蔵説明には、コーティングしたナイロン、空気袋、CO2容器、手動で空気を入れる管に加え、マーカー、ストロボ、笛、ストラップなどが並ぶ。浮くための仕組みだけでなく、存在を知らせたり身体へ留めたりする要素が一つに集まっている。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "HENRI（AW24）は、1970年代のアウトドアウェアと米海軍のライフベストから着想したリバーシブルのダウンベスト。公式説明ではフードを収納する襟を持つ。救命装備の機能をうたうのではなく、服としての再構成を見る。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "HENRIが参照したライフベストの型式や細部は未確認。Mark 2は比較例であり、HENRIを救命用に扱う根拠にはならない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "HENRI（AW24）は、1970年代のアウトドアウェアと米海軍のライフベストから着想したリバーシブルのダウンベスト。公式説明ではフードを収納する襟を持つ。救命装備の機能をうたうのではなく、服としての再構成を見る。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "HENRI",
+        "season": "AW24",
+        "number": "NN-1701V14  ( Limited )",
+        "url": "https://www.niceness.jp/products/henri",
+        "id": "henri-aw24",
+        "retained": "米海軍life vestと1970年代outdoorwear",
+        "changed": "HENRI（AW24）は、1970年代のアウトドアウェアと米海軍のライフベストから着想したリバーシブルのダウンベスト。公式説明ではフードを収納する襟を持つ。救命装備の機能をうたうのではなく、服としての再構成を見る。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "014556ae93e9c9ef"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Life Vest, Pneumatic, Mark 2, United States Navy",
+        "publisher": "Smithsonian National Air and Space Museum",
+        "url": "https://airandspace.si.edu/collection-objects/life-vest-pneumatic-mark-2-united-states-navy/nasm_A19731185000",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS HENRI",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/henri",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T312",
+    "slug": "full-skirt-frock-coat",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "服型の歴史的文脈"
+      }
+    ],
+    "eras": [
+      "1800s"
+    ],
+    "tags": [
+      "コート",
+      "昼の装い",
+      "仕立て"
+    ],
+    "category": "DRESS / 着る",
+    "model": "H.FLETCHER",
+    "season": "AW23",
+    "item": "h-fletcher-aw23",
+    "title": "腰から裾へ広がる\nフロックコート",
+    "deck": "コートの裾が腰から広がる。フロックコートの輪郭を見ると、現代の短い上着とは違う、下半身まで続く服の面が見えてくる。",
+    "place": "英国",
+    "period": "19世紀",
+    "context": "コート",
+    "opening": "コートの裾が腰から広がる。フロックコートの輪郭を見ると、現代の短い上着とは違う、下半身まで続く服の面が見えてくる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "広がる裾のある型",
+        "paragraphs": [
+          "The Metは、19世紀のフロックコートを、18世紀のドレスコートより簡素で、豊かな裾を持つ型として説明する。同館が取り上げる実物は約1840年の米国製。英国の歴史的な意味づけと、実物の製造地域は分けて読める。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "昼と夜で分かれる装い",
+        "paragraphs": [
+          "North East Museumsの解説では、1825年以降フロックコートが昼の装いになり、テールコートは夜の礼装に残ったとされる。裾の形は、いつ着るかという生活の区分とも結びついていた。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "H.FLETCHER（AW23）は、19世紀から20世紀初頭の英国フロックコートを参照するリバーシブルコート。梳毛の二重織りによる無地と千鳥の面を使い、接ぎを減らしてダーツで形をつくると公式は説明する。古い輪郭を、布の両面と仕立てから読み直す一着だ。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "具体的な参照実物は未確認。英国の文脈と米国製の所蔵例を同一視しない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "H.FLETCHER（AW23）は、19世紀から20世紀初頭の英国フロックコートを参照するリバーシブルコート。梳毛の二重織りによる無地と千鳥の面を使い、接ぎを減らしてダーツで形をつくると公式は説明する。古い輪郭を、布の両面と仕立てから読み直す一着だ。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "H.FLETCHER",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "id": "h-fletcher-aw23",
+        "retained": "19〜20世紀初頭英国frock coat",
+        "changed": "H.FLETCHER（AW23）は、19世紀から20世紀初頭の英国フロックコートを参照するリバーシブルコート。梳毛の二重織りによる無地と千鳥の面を使い、接ぎを減らしてダーツで形をつくると公式は説明する。古い輪郭を、布の両面と仕立てから読み直す一着だ。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "1bedf9bba49024e6"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Frock coat",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/84364",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Menswear from 1800 to 1900",
+        "publisher": "North East Museums",
+        "url": "https://blog.twmuseums.org.uk/menswear-from-1800-to-1900/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS H.FLETCHER",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T313",
+    "slug": "seamless-waist-lounge-jacket",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "服型の歴史的文脈"
+      }
+    ],
+    "eras": [
+      "1800s"
+    ],
+    "tags": [
+      "スーツ",
+      "切替",
+      "日常着"
+    ],
+    "category": "DRESS / 着る",
+    "model": "MONDO",
+    "season": "SS25",
+    "item": "mondo-ss25",
+    "title": "腰の切替を持たない\nラウンジジャケット",
+    "deck": "腰で切り替えず、前のボタンも低い位置へ。上着の線を減らすことで生まれる姿がある。",
+    "place": "英国",
+    "period": "19世紀",
+    "context": "スーツ",
+    "opening": "腰で切り替えず、前のボタンも低い位置へ。上着の線を減らすことで生まれる姿がある。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "別の名前で呼ばれる一着",
+        "paragraphs": [
+          "FITは1897年の明るい色のサックスーツについて、英国ではラウンジスーツと呼ぶと説明する。1890年代には、フロックコートやモーニングコートと競合する型へ広がったという。呼び名をつなぐと、似た上着を別々のものと思い込まずに済む。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "腰で分けない形",
+        "paragraphs": [
+          "Bexhill Museumはラウンジスーツをサックスーツとも呼び、腰の縫い目がなく、前のボタン位置が低い簡素なスーツと定義する。切替線の有無という小さな違いが、上着全体の見え方を変える。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "MONDO（SS25）は、英国のサックコートやラウンジジャケットをベースにフレンチスタイルを融合したもの。公式説明では、ウールとノイルシルクのシャンブレーを甘く織り、洗い加工を施す。上着の輪郭に、布のほぐれた表情を重ねている。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "直接の参照年代や実物、フランス側の具体的な要素は未確認。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "MONDO（SS25）は、英国のサックコートやラウンジジャケットをベースにフレンチスタイルを融合したもの。公式説明では、ウールとノイルシルクのシャンブレーを甘く織り、洗い加工を施す。上着の輪郭に、布のほぐれた表情を重ねている。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "MONDO",
+        "season": "SS25",
+        "number": "NN-1402B15 ( Limited )",
+        "url": "https://www.niceness.jp/products/mondo",
+        "id": "mondo-ss25",
+        "retained": "英国sack coat・lounge jacket型",
+        "changed": "MONDO（SS25）は、英国のサックコートやラウンジジャケットをベースにフレンチスタイルを融合したもの。公式説明では、ウールとノイルシルクのシャンブレーを甘く織り、洗い加工を施す。上着の輪郭に、布のほぐれた表情を重ねている。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "0d85bb520d98bce1"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "1897 – John Singer Sargent, Mr. and Mrs. I. N. Phelps Stokes",
+        "publisher": "Fashion Institute of Technology",
+        "url": "https://fashionhistory.fitnyc.edu/1897-sargent-mr-stokes/",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Costume, Textile, Design, and Manufacture",
+        "publisher": "Bexhill Museum",
+        "url": "https://www.bexhillmuseum.org.uk/access-centre/museum-exhibitions-displays/costume-social-history-gallery/costume-textile-design-manufacture/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS MONDO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/mondo",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T325",
+    "slug": "head-neck-balaclava",
+    "regions": [
+      {
+        "id": "af",
+        "name": "アフガニスタン",
+        "role": "所蔵品の着用地"
+      }
+    ],
+    "eras": [
+      "present"
+    ],
+    "tags": [
+      "防寒",
+      "頭",
+      "首"
+    ],
+    "category": "DRESS / 着る",
+    "model": "KARAS",
+    "season": "AW23",
+    "item": "karas-aw23",
+    "title": "頭から首まで続けて覆う\nバラクラバ",
+    "deck": "帽子と襟のあいだを、ひと続きに覆う。顔だけを開けた防寒具を見ると、衣服の境目をなくすという工夫があることに気づく。",
+    "place": "アフガニスタン",
+    "period": "現代の所蔵例",
+    "context": "防寒",
+    "opening": "帽子と襟のあいだを、ひと続きに覆う。顔だけを開けた防寒具を見ると、衣服の境目をなくすという工夫があることに気づく。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "寒冷地の巡回で使われた服",
+        "paragraphs": [
+          "Australian War Memorialの軍支給ウール製バラクラバは、頭、首、耳を覆い、顔を開ける形を持つ。アフガニスタンの寒冷な巡回で着用された来歴が記録されている。ここでの地名は着用地であり、製造地や発祥地ではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "覆う範囲を一続きにする",
+        "paragraphs": [
+          "所蔵品は、頭と首を別々に包まず、一つの衣服でつなぐ形を示している。隣り合う部位を同時に覆うという視点から眺めると、帽子だけを見るのとは違う、身体に沿った防寒具の輪郭が見える。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "KARAS（AW23）は、軍用アイテムであるバラクラバとネックゲイターを融合したものと公式資料で説明される。頭と首をつなぐ二つの服型を、一体のものとして捉え直している。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "所蔵品はKARASの直接原型と未確認。参照元の組織、地域、年代や具体的な首の構造は明記されていない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "KARAS（AW23）は、軍用アイテムであるバラクラバとネックゲイターを融合したものと公式資料で説明される。頭と首をつなぐ二つの服型を、一体のものとして捉え直している。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "KARAS",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "id": "karas-aw23",
+        "retained": "military balaclavaとneck gaiter",
+        "changed": "KARAS（AW23）は、軍用アイテムであるバラクラバとネックゲイターを融合したものと公式資料で説明される。頭と首をつなぐ二つの服型を、一体のものとして捉え直している。",
+        "factRefs": [
+          "F02"
+        ],
+        "sourceKey": "853cbf845f00f483"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Black Balaclava: Trooper Robert Cooper",
+        "publisher": "Australian War Memorial",
+        "url": "https://www.awm.gov.au/collection/C2702661",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS KARAS",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T332",
+    "slug": "handwoven-chambray-shirt",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "シャツ生地の同時代資料"
+      },
+      {
+        "id": "in",
+        "name": "インド",
+        "role": "現代商品の手仕事の地域"
+      }
+    ],
+    "eras": [
+      "1930s"
+    ],
+    "tags": [
+      "シャンブレー",
+      "カディ",
+      "手織り"
+    ],
+    "category": "DRESS / 着る",
+    "model": "S.THOM",
+    "season": "AW25",
+    "item": "s-thom-aw25",
+    "title": "細かな色の交わりを織る\nシャンブレーシャツ",
+    "deck": "同じシャツの生地でも、仕事や着る場面によって求められるものは変わる。細かな色の表情の奥に、布を選ぶ判断がある。",
+    "place": "米国・インド",
+    "period": "1930年代",
+    "context": "シャンブレー",
+    "opening": "同じシャツの生地でも、仕事や着る場面によって求められるものは変わる。細かな色の表情の奥に、布を選ぶ判断がある。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "軽さと、仕事の条件",
+        "paragraphs": [
+          "1939年のUSDA資料は、軽量シャンブレーをビジネスシャツ用の生地として挙げる。一方で、ワークシャツ用の生地には強さ、耐久性、洗いやすさが必要だと説明する。シャンブレーという名前だけで用途を一つに決めず、布の重さや求められた条件も見ておきたい。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "糸をつくるところから手で",
+        "paragraphs": [
+          "インド政府掲載の資料は、カディを手紡ぎ・手織りの布とし、綿だけでなく絹や羊毛、混紡も含むと説明する。素材の名前と、糸や布をつくる方法は別の軸だ。その二つを重ねることで、一枚の布をより具体的に読める。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "細部をたどると、服を使う人と、つくる人の判断が見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "S.THOMは、1920〜30年代の「ゴマシャン」をイメージし、カディの綿・絹とインドの手仕事で再構成したと公式が説明する。古いシャツ生地の表情が、別の地域の紡ぎと織りへ接続されている。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "USDA資料は「ゴマシャン」の定義や直接原型を証明しない。カディ一般の説明だけで、S.THOMの個別工程を追加推定しない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "S.THOMは、1920〜30年代の「ゴマシャン」をイメージし、カディの綿・絹とインドの手仕事で再構成したと公式が説明する。古いシャツ生地の表情が、別の地域の紡ぎと織りへ接続されている。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "S.THOM",
+        "season": "AW25",
+        "number": "NN-2801Y16",
+        "url": "https://www.niceness.jp/products/s-thom",
+        "id": "s-thom-aw25",
+        "retained": "1920〜30年代の通称ゴマシャンと古い米国の空気感",
+        "changed": "S.THOMは、1920〜30年代の「ゴマシャン」をイメージし、カディの綿・絹とインドの手仕事で再構成したと公式が説明する。古いシャツ生地の表情が、別の地域の紡ぎと織りへ接続されている。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "e01cdf257d1cb40a"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Cotton Shirts for Men and Boys",
+        "publisher": "U.S. Department of Agriculture / National Agricultural Library",
+        "url": "https://www.nal.usda.gov/exhibits/ipd/apronsandkitchens/items/show/46",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Khadi: Tradition to fashion",
+        "publisher": "Government of India hosted publication",
+        "url": "https://cdnbbsr.s3waas.gov.in/s3kv06304ffb5f48403451385fa0c83ecf/uploads/2024/10/2024102393.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS S.THOM",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-thom",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T334",
+    "slug": "one-craftsperson-leather-making",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "靴職人の歴史的工程例"
+      },
+      {
+        "id": "au",
+        "name": "オーストラリア",
+        "role": "現代の革工芸工程例"
+      }
+    ],
+    "eras": [
+      "1800s",
+      "present"
+    ],
+    "tags": [
+      "革",
+      "職人",
+      "工程"
+    ],
+    "category": "MAKE / つくる",
+    "model": "FATS",
+    "season": "AW24",
+    "item": "fats-aw24",
+    "title": "裁断から縫製までをつなぐ\n革職人の仕事",
+    "deck": "革を測り、切り、形を整え、縫う。完成品の裏側にある工程を、一人の仕事の流れから見る。",
+    "place": "米国・オーストラリア",
+    "period": "19世紀後半から現代へ",
+    "context": "革",
+    "opening": "一つの革製品ができるまで、手は何度も道具を替える。工程を一つずつ見ていくと、仕上がった形の中に、連続した判断があることがわかる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "測るところから、仕上げるところまで",
+        "paragraphs": [
+          "The Henry Fordは、19世紀後半から20世紀初頭の靴職人の仕事として、革を測り、切り、形をつくり、縫い、整え、仕上げる工程を挙げている。一足の靴を、完成形だけでなく連なる作業として捉えられる記録だ。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "革ごとに変わる道具と手順",
+        "paragraphs": [
+          "Queensland Museumの革ベルト講座には、裁断、漉き、鋲留め、染色、磨き、コンディショニングが別々の工程として並ぶ。これは現代の一例で、NICENESSの工房そのものを示す資料ではない。それでも、革製品が一度の操作でできるものではないことを具体的に伝えている。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "工程のあいだにある判断",
+        "paragraphs": [
+          "切ったあとに形を整え、縫ったあとに端を仕上げる。工程を分けて眺めると、前の仕事が次の仕事へどう影響するかが見えてくる。一人で担う場合も、複数の人で分ける場合も、そのつながりが完成品の輪郭をつくる。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "革を見るとき、表面の色や手触りだけでなく、そこへ至る手順にも目を向けてみる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "FATS（AW24）は、公式資料で、一人の職人が裁断から縫製までを一貫して担当すると説明される革製品。歴史上の靴職人や現代の講座と同じ工程を採用したと断定するのではなく、一つの手が工程をつなぐという、確認できる製作体制から眺めたい。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "歴史資料と講座は、FATSの工房工程を直接示さない。公式資料の多くは仕上げ工程まで同じ職人が担うかを明記していないため、裁断から縫製までの範囲として扱う。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "FATS（AW24）は、公式資料で、一人の職人が裁断から縫製までを一貫して担当すると説明される革製品。歴史上の靴職人や現代の講座と同じ工程を採用したと断定するのではなく、一つの手が工程をつなぐという、確認できる製作体制から眺めたい。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "FATS",
+        "season": "AW24",
+        "number": "NN-LCLA02",
+        "url": "https://www.niceness.jp/products/fats",
+        "id": "fats-aw24",
+        "retained": "一人の職人が裁断から縫製まで一貫して担当",
+        "changed": "一人の職人が裁断から縫製までを担い、工程のあいだに残る判断を一つの手へつなぐ",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "110c9f71369314b3"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Stitching Awl, 1855-1875",
+        "publisher": "The Henry Ford",
+        "url": "https://www.thehenryford.org/collections/explore/artifact/19082",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Leathercraft Workshop",
+        "publisher": "Queensland Museum Rail Workshops",
+        "url": "https://www.museum.qld.gov.au/rail-workshops/whats-on/leathercraft-workshop",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS FATS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/fats",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS FATS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/fats-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B03",
+        "title": "NICENESS FATS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/fats-2",
+        "kind": "brand"
+      },
+      {
+        "id": "B04",
+        "title": "NICENESS FATS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/fats-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B05",
+        "title": "NICENESS H.R.FATS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/h-r-fats",
+        "kind": "brand"
+      },
+      {
+        "id": "B06",
+        "title": "NICENESS FATS.H.H",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/fats-h-h",
+        "kind": "brand"
+      },
+      {
+        "id": "B07",
+        "title": "NICENESS H.R.LOWE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/h-r-lowe",
+        "kind": "brand"
+      },
+      {
+        "id": "B08",
+        "title": "NICENESS LOWE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe",
+        "kind": "brand"
+      },
+      {
+        "id": "B09",
+        "title": "NICENESS LOWE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-2",
+        "kind": "brand"
+      },
+      {
+        "id": "B10",
+        "title": "NICENESS LOWE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B11",
+        "title": "NICENESS LOWE.H.H",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-h-h",
+        "kind": "brand"
+      },
+      {
+        "id": "B12",
+        "title": "NICENESS LOWE.H.H – MIDI",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-h-h-midi",
+        "kind": "brand"
+      },
+      {
+        "id": "B13",
+        "title": "NICENESS LOWE.H.H – PETIT",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-h-h-petit",
+        "kind": "brand"
+      },
+      {
+        "id": "B14",
+        "title": "NICENESS LOWE-MIDI",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-midi-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B15",
+        "title": "NICENESS LOWE-MIDI",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-midi-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B16",
+        "title": "NICENESS LOWE-MIDI",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-midi-3",
+        "kind": "brand"
+      },
+      {
+        "id": "B17",
+        "title": "NICENESS LOWE-PETIT",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-petit",
+        "kind": "brand"
+      },
+      {
+        "id": "B18",
+        "title": "NICENESS LOWE-PETIT",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-petit-2",
+        "kind": "brand"
+      },
+      {
+        "id": "B19",
+        "title": "NICENESS LOWE-PETIT",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-petit-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B20",
+        "title": "NICENESS LOWE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B21",
+        "title": "NICENESS LOWE-MIDI",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-midi-2",
+        "kind": "brand"
+      },
+      {
+        "id": "B22",
+        "title": "NICENESS LOWE-PETIT",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lowe-petit-1",
+        "kind": "brand"
+      },
+      {
+        "id": "B23",
+        "title": "NICENESS S.FATS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-fats",
+        "kind": "brand"
+      },
+      {
+        "id": "B24",
+        "title": "NICENESS S.LOWE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-lowe",
+        "kind": "brand"
+      },
+      {
+        "id": "B25",
+        "title": "NICENESS S.LOWE-MIDI",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-lowe-midi",
+        "kind": "brand"
+      },
+      {
+        "id": "B26",
+        "title": "NICENESS S.LOWE-PETIT",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-lowe-petit",
+        "kind": "brand"
+      },
+      {
+        "id": "B27",
+        "title": "NICENESS S.O.FATS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-o-fats-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B28",
+        "title": "NICENESS S.O.LOWE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-o-lowe-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B29",
+        "title": "NICENESS S.O.LOWE-MIDI",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-o-lowe-midi-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B30",
+        "title": "NICENESS S.O.LOWE-PETIT",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-o-lowe-petit-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B31",
+        "title": "NICENESS U.LOWE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/u-lowe",
+        "kind": "brand"
+      },
+      {
+        "id": "B32",
+        "title": "NICENESS U.LOWE-MIDI",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/u-lowe-midi",
+        "kind": "brand"
+      },
+      {
+        "id": "B33",
+        "title": "NICENESS U.LOWE-PETIT",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/u-lowe-petit",
+        "kind": "brand"
+      }
+    ]
   }
 ]

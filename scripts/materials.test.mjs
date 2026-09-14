@@ -1,6 +1,6 @@
 import test from 'node:test';import assert from 'node:assert/strict';import {readFileSync} from 'node:fs';
 import {matchesMaterial,materialStages,materialPlaces} from '../src/lib/materials.mjs';
-const read=p=>JSON.parse(readFileSync(new URL(p,import.meta.url)));const data=read('../content/materials.json'),articles=read('../content/articles.json'),release=read('../content/release.v7.json');
+const read=p=>JSON.parse(readFileSync(new URL(p,import.meta.url)));const data=read('../content/materials.json'),articles=read('../content/articles.json'),release=read('../content/release.v9.json');
 test('every material entry cites this season item and adopted NICENESS facts',()=>{
  for(const entry of data.entries){const a=articles.find(a=>a.id===entry.articleId);assert(a);assert(a.products.some(p=>p.id===entry.productId));const facts=release.articles.find(r=>r.topicId===a.id).facts;
  assert(entry.factRefs.length);for(const ref of entry.factRefs){const f=facts.find(f=>f.id===ref);assert(f);assert.equal(f.kind,'brand_statement');assert(f.sourceIds.every(id=>a.sources.some(s=>s.id===id&&s.kind==='brand')));}

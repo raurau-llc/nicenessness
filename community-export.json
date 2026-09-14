@@ -83,7 +83,7 @@
     },
     {
       "path": "content/articles.json",
-      "sha256": "c8fef94b2747e79d255d7e3b6b99a9f23653e184b35aacca114bb8212e0e20c0"
+      "sha256": "1b83d7972952eabc189457ba318b714d9fb36aed14dc9af13732616b308da330"
     },
     {
       "path": "content/release.v1.json",
@@ -103,7 +103,7 @@
     },
     {
       "path": "scripts/validate-content.mjs",
-      "sha256": "24ac691f21ee509c789b56caa5b2a6ddb1955d4b8276dd323625d6f63de612f3"
+      "sha256": "11018ec62b86b326361498dd00489fd10d6486e49154afbb0f637b09230cb02c"
     },
     {
       "path": "scripts/verify-build.mjs",
@@ -159,7 +159,7 @@
     },
     {
       "path": "docs/publishing-and-community.md",
-      "sha256": "85ecc6c464ed2225b263f1609969b78597f0f7e4b6beeb3676934091ccb7f9c0"
+      "sha256": "77899dd93ee686acec99a092092417b88a220962fb677580623570b4bbcbf541"
     },
     {
       "path": "content/site.json",
@@ -243,7 +243,7 @@
     },
     {
       "path": "scripts/materials.test.mjs",
-      "sha256": "fcbc43289a766a0db1bb5bf0671607326622b5a141fa180f3e464356d7f3aa7b"
+      "sha256": "01655b74e1ab8f7ac0f8d2b54f63d356d259c692ef41c595f9aed8b8002f6c51"
     },
     {
       "path": "src/lib/journal-order.mjs",
@@ -256,6 +256,10 @@
     {
       "path": "content/release.v7.json",
       "sha256": "b92ba77a5fee0b2ab8500de4efbe70e9580dc33c524b5a782f5002b8f9e8238f"
+    },
+    {
+      "path": "content/release.v9.json",
+      "sha256": "6ecc938c62d4e113c4b1af4846a5e77c742f197a861f91244ae14dfad9e38c51"
     }
   ],
   "note": "Standalone site source only. No parent Git history, research input, environment secrets, installed dependencies or build output."

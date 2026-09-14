@@ -37,3 +37,8 @@ T081・T083・T093の元の商品リンクは別テーマの説明や参照が�
 ## 2026-09-13: 155 articles and mixed homepage
 
 Added T283, T287, T294, T295 and T335 from SHA-verified research snapshots; release.v7 retains the previous 150 records. Historical comparisons and maker claims remain qualified. Homepage uses a seeded permutation: all articles stay in server HTML, a fresh short visit mixes them, and the visit seed is retained for 30 minutes for article/back navigation. No timer changes an open page. The accepted bilingual tagline is preserved.
+
+
+## 2026-09-14: 176 articles
+
+Added 21 reviewed stories from SHA-matched fixed research snapshots in release.v9. Preserved all prior 155 articles, homepage order behavior, and approved copy. T255 was held because its archive record does not show the garments themselves. Historical comparison objects do not establish direct NICENESS references; manufacturer claims, geographic roles and unknowns remain separate.
