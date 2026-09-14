@@ -14033,7 +14033,8 @@
       }
     ],
     "eras": [
-      "2000s"
+      "1980s",
+      "1990s"
     ],
     "tags": [
       "ストラップ",
@@ -23210,6 +23211,2466 @@
         "title": "NICENESS U.LOWE-PETIT",
         "publisher": "NICENESS",
         "url": "https://www.niceness.jp/products/u-lowe-petit",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T109",
+    "slug": "single-panel-riders-jacket",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "ライダースのメーカー記録・着用写真"
+      }
+    ],
+    "eras": [
+      "1970s",
+      "1980s"
+    ],
+    "tags": [
+      "ライダース",
+      "革",
+      "背面"
+    ],
+    "category": "DRESS / 着る",
+    "model": "DEVOTE",
+    "season": "AW26",
+    "item": "devote-aw26",
+    "title": "背中を一枚の革でつなぐ\nライダースジャケット",
+    "deck": "背面を大きな一枚で取る。革の切替線を減らす判断から、乗るための上着を見る。",
+    "place": "英国",
+    "period": "1970年代・1980年代",
+    "context": "ライダース",
+    "opening": "背面を大きな一枚で取る。革の切替線を減らす判断から、乗るための上着を見る。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "Lewis Leathersは1973年Super Sportsmanで背中を大きな一枚パネルに変え、腰調節具を二つ加え袖口ファスナーを内側へ移したと記す。 2011年のメーカー回顧。英国全体の年代別変化やNICENESSの参照を示さない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "London Museumの1970年7月Hyde Park写真記録は、来場したバイカーの男性たちが改装した黒革ジャケットを着ると説明する。 撮影Henry Grant。服のメーカー・製造年・縫製地は不明。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "背中の面をどう取り、腰や袖口をどこで調整するか。ライダースの姿は、革の分け方からつくられている。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "背中の面をどう取り、腰や袖口をどこで調整するか。ライダースの姿は、革の分け方からつくられている。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "DEVOTE（AW26）は、公式資料で1970〜80年代英国ライダースのパターン要素。を参照すると説明される。 そこから、1960年代米国カーコートとの組合せ、タンニン鞣しカーフと黒を重ねたチョコ色下地、ウールチェック裏地。という形へ組み直している。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "2011年のメーカー回顧。英国全体の年代別変化やNICENESSの参照を示さない。 撮影Henry Grant。服のメーカー・製造年・縫製地は不明。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "DEVOTE（AW26）は、公式資料で1970〜80年代英国ライダースのパターン要素。を参照すると説明される。 そこから、1960年代米国カーコートとの組合せ、タンニン鞣しカーフと黒を重ねたチョコ色下地、ウールチェック裏地。という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "DEVOTE",
+        "season": "AW26",
+        "number": "NN-1501B18",
+        "url": "https://www.niceness.jp/products/devote",
+        "id": "devote-aw26",
+        "retained": "1970〜80年代英国ライダースのパターン要素。",
+        "changed": "1960年代米国カーコートとの組合せ、タンニン鞣しカーフと黒を重ねたチョコ色下地、ウールチェック裏地。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "3355256ae3d4de3b"
+      }
+    ],
+    "sources": [
+      {
+        "id": "M01",
+        "title": "Jacket Profile: Super Sportsman",
+        "publisher": "Lewis Leathers",
+        "url": "https://www.lewisleathers.com/blogs/blog/jacket-profile-super-sportsman",
+        "kind": "maker"
+      },
+      {
+        "id": "H01",
+        "title": "Group of bikers at a festival in Hyde Park",
+        "publisher": "London Museum",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-795738/group-of-bikers-at-a-festival-in-hyde-park/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS DEVOTE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/devote",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T122",
+    "slug": "no-turnup-wartime-slacks",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "戦時衣料節約の地域"
+      }
+    ],
+    "eras": [
+      "1940s"
+    ],
+    "tags": [
+      "スラックス",
+      "節約",
+      "裾"
+    ],
+    "category": "DRESS / 着る",
+    "model": "N.DICKENS",
+    "season": "AW26",
+    "item": "n-dickens-aw26",
+    "title": "裾の折返しをなくした\n戦時のスラックス",
+    "deck": "布を節約するために、ポケットや襟、ズボンの裾まで見直された。",
+    "place": "英国",
+    "period": "1940年代",
+    "context": "スラックス",
+    "opening": "布を節約するために、ポケットや襟、ズボンの裾まで見直された。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "IWMは戦時英国の衣料節約について、ポケットや襟を小さくし、ズボン裾の折返しを禁じたと解説する。 1940年代全期の全ズボンに同一仕様を当てはめない。個別法令の適用範囲・施行日はこの資料では未確認。NICENESSのウエストを畳む操作とは別の部位。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "何を足すかではなく、どこを小さくし、どこを省くか。服の形は資源の条件にも応えてきた。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "何を足すかではなく、どこを小さくし、どこを省くか。服の形は資源の条件にも応えてきた。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "N.DICKENS（AW26）は、公式資料で1940年代の米国と英国のスラックス。を参照すると説明される。 そこから、大きなウエストを折り畳む独自の構造でシルエットを形成。という形へ組み直している。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "1940年代全期の全ズボンに同一仕様を当てはめない。個別法令の適用範囲・施行日はこの資料では未確認。NICENESSのウエストを畳む操作とは別の部位。 どの部分が米国・英国由来か、原型のメーカー・職業は未記載。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "N.DICKENS（AW26）は、公式資料で1940年代の米国と英国のスラックス。を参照すると説明される。 そこから、大きなウエストを折り畳む独自の構造でシルエットを形成。という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "N.DICKENS",
+        "season": "AW26",
+        "number": "NN-1702T18",
+        "url": "https://www.niceness.jp/products/n-dickens",
+        "id": "n-dickens-aw26",
+        "retained": "1940年代の米国と英国のスラックス。",
+        "changed": "大きなウエストを折り畳む独自の構造でシルエットを形成。",
+        "factRefs": [
+          "F02"
+        ],
+        "sourceKey": "fb4bc04f5c974f69"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Second World War Galleries: Large Print",
+        "publisher": "Imperial War Museums",
+        "url": "https://www.iwm.org.uk/sites/default/files/files/2023-10/second_world_war_galleries_large_print.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS N.DICKENS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/n-dickens",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T128",
+    "slug": "rib-gusset-sweatshirt",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "スウェット構造の特許"
+      }
+    ],
+    "eras": [
+      "1950s"
+    ],
+    "tags": [
+      "スウェット",
+      "リブ",
+      "洗濯"
+    ],
+    "category": "DRESS / 着る",
+    "model": "DILTZ",
+    "season": "AW24",
+    "item": "diltz-aw24",
+    "title": "脇のリブで縮みに応える\nスウェット",
+    "deck": "洗うと縮む身頃に、伸びる布を添える。脇の小さなまちに残る工夫。",
+    "place": "米国",
+    "period": "1950年代",
+    "context": "スウェット",
+    "opening": "洗うと縮む身頃に、伸びる布を添える。脇の小さなまちに残る工夫。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "1952年の特許US2613360Aは、伸縮するリブのまちをスウェットの両脇へ縫い付け、洗濯による身幅の縮みを補う構造を記す。 特許の構造案。縫い目のステッチ形式やNNの採用縫製を特定する資料ではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "身頃と同じ布だけでつくらず、伸びる部分を脇へ入れる。素材の違いが、着続けるための余地になる。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "身頃と同じ布だけでつくらず、伸びる部分を脇へ入れる。素材の違いが、着続けるための余地になる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "DILTZ（AW24）は、公式資料で1950〜60年代スポーツウェアの縫製ディテール。を参照すると説明される。 そこから、国内で編んだ裏毛にオリジナル図案を抜染。という形へ組み直している。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "特許の構造案。縫い目のステッチ形式やNNの採用縫製を特定する資料ではない。 具体的なステッチ名や原型は明記なし。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "DILTZ（AW24）は、公式資料で1950〜60年代スポーツウェアの縫製ディテール。を参照すると説明される。 そこから、国内で編んだ裏毛にオリジナル図案を抜染。という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "DILTZ",
+        "season": "AW24",
+        "number": "NN-2202J14  ( Limited )",
+        "url": "https://www.niceness.jp/products/diltz",
+        "id": "diltz-aw24",
+        "retained": "1950〜60年代スポーツウェアの縫製ディテール。",
+        "changed": "国内で編んだ裏毛にオリジナル図案を抜染。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "331bcd9d5c5ead6f"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H02",
+        "title": "US2613360A / Athletic garment or the like",
+        "publisher": "Samuel N. Friedland and William F. Feinbloom / United States Patent Office",
+        "url": "https://patents.google.com/patent/US2613360A/en",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS DILTZ",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/diltz",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T207",
+    "slug": "cutoff-punk-tshirt",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "ロンドンの所蔵品・音楽文化"
+      }
+    ],
+    "eras": [
+      "1980s"
+    ],
+    "tags": [
+      "パンク",
+      "Tシャツ",
+      "改造"
+    ],
+    "category": "DRESS / 着る",
+    "model": "SHERWOOD",
+    "season": "AW26",
+    "item": "sherwood-aw26",
+    "title": "袖を切り落として着る\nパンクTシャツ",
+    "deck": "完成したTシャツから袖を外す。着る人の手が、衣服の輪郭をもう一度決める。",
+    "place": "英国",
+    "period": "1980年代",
+    "context": "パンク",
+    "opening": "完成したTシャツから袖を外す。着る人の手が、衣服の輪郭をもう一度決める。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "London Museumの1980〜82年の綿Tシャツ90.214/3は、Crassの支持者Katharine Saundersの所有物で袖を除去した状態と記す。 作者は未記載。全パンクの服装や思想に一般化せず、SHERWOODの政治的立場にも接続しない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "同館はZoe Nealeが郊外からロンドンの公演へ通い、1970年代末から1980年代にチケットやチラシをスクラップブックにしたと記録する。 寄贈者の経験に基づく一例。パターン設計の資料ではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "買った時点で服は完成していても、着る人はそのまま受け入れるとは限らない。切ることも、集めることも、装いの一部になる。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "買った時点で服は完成していても、着る人はそのまま受け入れるとは限らない。切ることも、集めることも、装いの一部になる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "SHERWOOD（AW26）は、公式資料で1980〜90年代ロンドンのパンク文化に着想を得た立体パターンと仕様。を参照すると説明される。 そこから、三種ウールのツイードとイタリア製メリノムートン。という形へ組み直している。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "作者は未記載。全パンクの服装や思想に一般化せず、SHERWOODの政治的立場にも接続しない。 寄贈者の経験に基づく一例。パターン設計の資料ではない。 本人の氏名・職業・政治的立場は不明。写真の衣服構造を精査した記録ではない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "SHERWOOD（AW26）は、公式資料で1980〜90年代ロンドンのパンク文化に着想を得た立体パターンと仕様。を参照すると説明される。 そこから、三種ウールのツイードとイタリア製メリノムートン。という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "SHERWOOD",
+        "season": "AW26",
+        "number": "NN-2901B18",
+        "url": "https://www.niceness.jp/products/sherwood",
+        "id": "sherwood-aw26",
+        "retained": "1980〜90年代ロンドンのパンク文化に着想を得た立体パターンと仕様。",
+        "changed": "三種ウールのツイードとイタリア製メリノムートン。",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "c38ecaff70e37619"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "T-shirt, vest / 90.214/3",
+        "publisher": "London Museum",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-79032/t-shirt-vest/",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Punk & personal: DIY badges, bondage shirts & scrapbooks",
+        "publisher": "London Museum / Jen Kavanagh",
+        "url": "https://www.londonmuseum.org.uk/blog/london-punk-personal-history-objects/",
+        "kind": "history"
+      },
+      {
+        "id": "H03",
+        "title": "Punks at a Festival / HG3009/5",
+        "publisher": "London Museum / Henry Grant Collection",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-800616/punks-at-a-festival/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS SHERWOOD",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/sherwood",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T226",
+    "slug": "gathered-zouave-trousers",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "軍組織・史料館の記録"
+      }
+    ],
+    "eras": [
+      "1800s"
+    ],
+    "tags": [
+      "ズアーブ",
+      "軍服",
+      "トラウザー"
+    ],
+    "category": "DRESS / 着る",
+    "model": "ZOOM",
+    "season": "AW25",
+    "item": "zoom-aw25",
+    "title": "足首を絞る幅広の\nズアーブパンツ",
+    "deck": "腰から広がり、足首で絞る。軍服の輪郭の背景には、組織と徴募の変化がある。",
+    "place": "フランス",
+    "period": "1800年代",
+    "context": "ズアーブ",
+    "opening": "腰から広がり、足首で絞る。軍服の輪郭の背景には、組織と徴募の変化がある。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "フランス国防史料館は第1ズアーブ大隊の兵員記録を1830〜32年の資料として目録化している。 目録の確認であり、兵員名簿原本や個人の出自を読んだものではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "Musée de l’Arméeの解説は1830年代から北アフリカ出身兵がフランス軍に徴募され、zwawisという名がzouavesになったと記す。 館の解説に限る。現代の国籍区分を全員に遡及せず、チュニジア人を含む当初の構成は確定しない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "目に残る幅広の形だけでなく、その服を着た部隊がいつ作られ、誰が加わったかを分けて見る。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "目に残る幅広の形だけでなく、その服を着た部隊がいつ作られ、誰が加わったかを分けて見る。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "ZOOM（AW25）は、公式資料でズアーブの制服パンツという参照と、足首を絞る幅広い形。を参照すると説明される。 そこから、アズマ編み機の裏毛をエイジング加工し、1950〜60年代スポーツウェアのパターンと仕様を採用。という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "目録の確認であり、兵員名簿原本や個人の出自を読んだものではない。 館の解説に限る。現代の国籍区分を全員に遡及せず、チュニジア人を含む当初の構成は確定しない。 展示解説の記述。現地兵の全員の出自やチュニジア人の初期参加を確認する名簿ではない。 フランス軍という組織名から全時期の兵員構成を固定しない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "ZOOM（AW25）は、公式資料でズアーブの制服パンツという参照と、足首を絞る幅広い形。を参照すると説明される。 そこから、アズマ編み機の裏毛をエイジング加工し、1950〜60年代スポーツウェアのパターンと仕様を採用。という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "ZOOM",
+        "season": "AW25",
+        "number": "NN-3704J16",
+        "url": "https://www.niceness.jp/products/zoom",
+        "id": "zoom-aw25",
+        "retained": "ズアーブの制服パンツという参照と、足首を絞る幅広い形。",
+        "changed": "アズマ編み機の裏毛をエイジング加工し、1950〜60年代スポーツウェアのパターンと仕様を採用。",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "3bffd104e255c51a"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "1er bataillon de Zouaves / SHD GR 34 Yc 4950–4951",
+        "publisher": "Service historique de la Défense",
+        "url": "https://www.servicehistorique.sga.defense.gouv.fr/ark/25374",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Les origines militaires des expressions françaises",
+        "publisher": "Louis-Marie Brulé / Musée de l’Armée",
+        "url": "https://www.musee-armee.fr/magazine/les-origines-militaires-des-expressions-francaises.html",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS ZOOM",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/zoom",
+        "kind": "brand"
+      },
+      {
+        "id": "H03",
+        "title": "Parcours Harkis / Une histoire ancienne, L’engagement des soldats d’Algérie",
+        "publisher": "ONAC-VG / Chemins de mémoire",
+        "url": "https://www.cheminsdememoire.gouv.fr/sites/default/files/editeur/web_Parcours_Harkis_onac_vg.pdf",
+        "kind": "history"
+      }
+    ]
+  },
+  {
+    "id": "T230",
+    "slug": "striped-cadet-sweater",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "軍事学校の制服例"
+      }
+    ],
+    "eras": [
+      "1940s"
+    ],
+    "tags": [
+      "学校",
+      "制服",
+      "セーター"
+    ],
+    "category": "DRESS / 着る",
+    "model": "B.BETH",
+    "season": "AW25",
+    "item": "b-beth-aw25",
+    "title": "V字の襟と裾の帯を持つ\nカデットセーター",
+    "deck": "学校の制服写真に残る、長袖のセーター。白黒の一枚から確かめられる線を拾う。",
+    "place": "米国",
+    "period": "1940年代",
+    "context": "学校",
+    "opening": "学校の制服写真に残る、長袖のセーター。白黒の一枚から確かめられる線を拾う。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "Wentworthの1940年として公開された学校案内は、高校と短期大学部門を持つ軍事学校の制服例に、セーターあり・なしのfatigueを掲載する。 一校の例で、全軍共通のカデットニット規格やB.BETHの原型と同定しない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "同学校案内の制服写真には、V字の襟と裾付近に明るい帯がある長袖セーターを着た人物が掲載される。 原ページを描画して確認。白黒写真から色・素材・編組織は確定しない。B.BETHのハイネックと同一型ではない。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "制服は組織を示す一方、一校の写真からすべての規格を決めることはできない。見える襟と帯から始める。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "制服は組織を示す一方、一校の写真からすべての規格を決めることはできない。見える襟と帯から始める。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "B.BETH（AW25）は、公式資料で1930〜60年代のカデットニットに見られる仕様や細部。を参照すると説明される。 そこから、英国羊毛と南米ウールの混紡、シャンブレー調のハイネックとコンパクトな設計。という形へ組み直している。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "一校の例で、全軍共通のカデットニット規格やB.BETHの原型と同定しない。 原ページを描画して確認。白黒写真から色・素材・編組織は確定しない。B.BETHのハイネックと同一型ではない。 米国の記述はビーチジャケットの色の参照にかかる。カデット側の所属を同じ国と断定しない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "B.BETH（AW25）は、公式資料で1930〜60年代のカデットニットに見られる仕様や細部。を参照すると説明される。 そこから、英国羊毛と南米ウールの混紡、シャンブレー調のハイネックとコンパクトな設計。という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "B.BETH",
+        "season": "AW25",
+        "number": "NN-3402K16",
+        "url": "https://www.niceness.jp/products/b-beth",
+        "id": "b-beth-aw25",
+        "retained": "1930〜60年代のカデットニットに見られる仕様や細部。",
+        "changed": "英国羊毛と南米ウールの混紡、シャンブレー調のハイネックとコンパクトな設計。",
+        "factRefs": [
+          "F02"
+        ],
+        "sourceKey": "aabc79628197d355"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Wentworth Military Academy / YearbookWMA-1940",
+        "publisher": "Wentworth Military Academy / WMA Museum archive",
+        "url": "https://wmamuseum.org/wp-content/uploads/2023/11/YearbookWMA-1940.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS B.BETH",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/b-beth",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T233",
+    "slug": "tucked-fireproof-hood",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "海軍装備の参照地域"
+      }
+    ],
+    "eras": [
+      "2000s"
+    ],
+    "tags": [
+      "海軍",
+      "フード",
+      "防炎"
+    ],
+    "category": "DRESS / 着る",
+    "model": "BUCKLEY",
+    "season": "AW25",
+    "item": "buckley-aw25",
+    "title": "襟の内側へ差し込む\n防炎フード",
+    "deck": "頭と首を別の布で覆い、その端を襟の内側へ入れる。重ね方にも装備の理由がある。",
+    "place": "英国",
+    "period": "1980年代・1990年代",
+    "context": "海軍",
+    "opening": "頭と首を別の布で覆い、その端を襟の内側へ入れる。重ね方にも装備の理由がある。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "ニュージーランド海軍博物館誌は、防炎フードを頭頸部を覆う別装備と説明し、襟内へ差し込む着用規程を紹介する。 2008年の博物館解説。1980年代英国海軍ルーズネックTシャツの規格を証明しない。原規程は未閲覧。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "上着だけで頭部まで守ろうとせず、別の装備を重ね、その境目を襟へ収める。衣服の間にも設計がある。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "上着だけで頭部まで守ろうとせず、別の装備を重ね、その境目を襟へ収める。衣服の間にも設計がある。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "BUCKLEY（AW25）は、公式資料で1980年代英国海軍ルーズネック長袖Tシャツと1990年代米国カデットジャージーの仕様・カッティングを参照すると説明される。 そこから、綿カシミヤ糸、鼻まで覆う襟と袖口サムホールという形へ組み直している。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "2008年の博物館解説。1980年代英国海軍ルーズネックTシャツの規格を証明しない。原規程は未閲覧。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "BUCKLEY（AW25）は、公式資料で1980年代英国海軍ルーズネック長袖Tシャツと1990年代米国カデットジャージーの仕様・カッティングを参照すると説明される。 そこから、綿カシミヤ糸、鼻まで覆う襟と袖口サムホールという形へ組み直している。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "BUCKLEY",
+        "season": "AW25",
+        "number": "NN-4001J16",
+        "url": "https://www.niceness.jp/products/buckley",
+        "id": "buckley-aw25",
+        "retained": "1980年代英国海軍ルーズネック長袖Tシャツと1990年代米国カデットジャージーの仕様・カッティング",
+        "changed": "綿カシミヤ糸、鼻まで覆う襟と袖口サムホール",
+        "factRefs": [
+          "F02"
+        ],
+        "sourceKey": "bb16e12f9b494bee"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "The White Ensign Issue 5, Winter 2008: anti-flash gear",
+        "publisher": "Navy Museum / Claire Freeman",
+        "url": "https://navymuseum.co.nz/wp-content/uploads/2012/01/white-ensign-issue-5.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS BUCKLEY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/buckley",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T244",
+    "slug": "patterned-aran-cardigan",
+    "regions": [
+      {
+        "id": "ie",
+        "name": "アイルランド",
+        "role": "アラン編みの所蔵品・輸出背景"
+      }
+    ],
+    "eras": [
+      "1930s",
+      "1960s",
+      "1970s"
+    ],
+    "tags": [
+      "アラン",
+      "編み柄",
+      "カーディガン"
+    ],
+    "category": "DRESS / 着る",
+    "model": "ROBBIE",
+    "season": "AW26",
+    "item": "robbie-aw26",
+    "title": "菱形と麦束を編み込む\nアランカーディガン",
+    "deck": "赤い毛糸の中に、ブラックベリー、菱形、麦束。編み目がつくる面をたどる。",
+    "place": "アイルランド",
+    "period": "1930年代・1960年代・1970年代",
+    "context": "アラン",
+    "opening": "赤い毛糸の中に、ブラックベリー、菱形、麦束。編み目がつくる面をたどる。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "アイルランド国立博物館の赤いアランカーディガンF1937.48Cは1937年に同館のために編まれ、ブラックベリー・菱形・麦束の編み柄を持つ。 1970〜80年代の現物ではなく背景比較。柄から家系・漁師個人を特定する根拠ではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "同館は1960年代以降のアラン手編み製品の米国などへの輸出促進と、Clancy Brothersらの舞台・テレビ着用が人気に寄与したと説明する。 具体的輸出量・1970〜80年代個別カーディガン仕様は未確認。演奏者と製作者を同一視しない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "柄の名前は見える形を教えてくれる。そこから家系や個人の物語までを推測せず、一着の編み仕事として眺めたい。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "柄の名前は見える形を教えてくれる。そこから家系や個人の物語までを推測せず、一着の編み仕事として眺めたい。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "ROBBIE（AW26）は、公式資料で1970〜80年代アランカーディガンを参照すると説明される。 そこから、カシミヤ紡毛糸とSUPER120ウール梳毛の撚糸・縮絨、袖の丸みと落ち感を再設計という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "1970〜80年代の現物ではなく背景比較。柄から家系・漁師個人を特定する根拠ではない。 具体的輸出量・1970〜80年代個別カーディガン仕様は未確認。演奏者と製作者を同一視しない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "ROBBIE（AW26）は、公式資料で1970〜80年代アランカーディガンを参照すると説明される。 そこから、カシミヤ紡毛糸とSUPER120ウール梳毛の撚糸・縮絨、袖の丸みと落ち感を再設計という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "ROBBIE",
+        "season": "AW26",
+        "number": "NN-2102K18",
+        "url": "https://www.niceness.jp/products/robbie",
+        "id": "robbie-aw26",
+        "retained": "1970〜80年代アランカーディガン",
+        "changed": "カシミヤ紡毛糸とSUPER120ウール梳毛の撚糸・縮絨、袖の丸みと落ち感を再設計",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "a2d6e9947c7d4e6a"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Red Aran cardigan, F1937.48C",
+        "publisher": "National Museum of Ireland",
+        "url": "https://cms.museum.ie/en-IE/Collections-Research/Collection/Top-things-to-see-in-the-Irish-Folklife-Collection/Artefact/Red-Aran-cardigan/aa03deb0-e9d7-41d2-b7f0-0da13b5c2c8b",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS ROBBIE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/robbie",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T247",
+    "slug": "layering-pile-cardigan",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "アウトドア商品の同時代記事"
+      }
+    ],
+    "eras": [
+      "1980s",
+      "1990s"
+    ],
+    "tags": [
+      "アウトドア",
+      "パイル",
+      "重ね着"
+    ],
+    "category": "DRESS / 着る",
+    "model": "SADE",
+    "season": "AW25",
+    "item": "sade-aw25",
+    "title": "中にも外にも着られる\nパイルカーディガン",
+    "deck": "寒い日は中間着に、春秋は一枚で。着る位置が季節によって変わる。",
+    "place": "米国",
+    "period": "1980年代・1990年代",
+    "context": "アウトドア",
+    "opening": "寒い日は中間着に、春秋は一枚で。着る位置が季節によって変わる。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "1989年12月21日付USA Todayは、PatagoniaのRetro Pile cardiganを145ドルの商品として紹介している。 1990年代直前の販売紹介。SADEの直接原型や1990年代の継続仕様を証明しない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "同記事は合成パイルのカーディガン等を紹介し、寒冷時の中間着と春秋の単独着という使い分けを説明している。 新聞の製品紹介上の用途。性能比較や実際の着用者・階層は検証していない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "同じカーディガンでも、外衣の内側に入る日と、いちばん外へ出る日がある。用途は一つに固定されない。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "同じカーディガンでも、外衣の内側に入る日と、いちばん外へ出る日がある。用途は一つに固定されない。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "SADE（AW25）は、公式資料で1990年代アウトドアカーディガンを参照すると説明される。 そこから、縮絨したスーパー120ʼsメリノウールのジャージーと3通りに変えられる襟という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "1990年代直前の販売紹介。SADEの直接原型や1990年代の継続仕様を証明しない。 新聞の製品紹介上の用途。性能比較や実際の着用者・階層は検証していない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "SADE（AW25）は、公式資料で1990年代アウトドアカーディガンを参照すると説明される。 そこから、縮絨したスーパー120ʼsメリノウールのジャージーと3通りに変えられる襟という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "SADE",
+        "season": "AW25",
+        "number": "NN-4201J16",
+        "url": "https://www.niceness.jp/products/sade",
+        "id": "sade-aw25",
+        "retained": "1990年代アウトドアカーディガン",
+        "changed": "縮絨したスーパー120ʼsメリノウールのジャージーと3通りに変えられる襟",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "603dafd1790a9df0"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Si-ilent night, Wa-arm night; New gear combines function and fashion",
+        "publisher": "USA Today / USPTO提出資料",
+        "url": "https://ttabvue.uspto.gov/ttabvue/ttabvue-91190587-OPP-13.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS SADE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/sade",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T249",
+    "slug": "snap-front-team-jacket",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "チームジャケットの所蔵・着用地域"
+      }
+    ],
+    "eras": [
+      "1980s",
+      "1990s"
+    ],
+    "tags": [
+      "ナイロン",
+      "チーム",
+      "ジャケット"
+    ],
+    "category": "DRESS / 着る",
+    "model": "CORNICK",
+    "season": "AW23",
+    "item": "cornick-aw23",
+    "title": "スナップで前を留める\nチームジャケット",
+    "deck": "ナイロンの表と裏、前に並ぶスナップ。チームの印をまとう上着を見る。",
+    "place": "米国",
+    "period": "1980年代・1990年代",
+    "context": "ナイロン",
+    "opening": "ナイロンの表と裏、前に並ぶスナップ。チームの印をまとう上着を見る。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "NMAAHC所蔵の1980年代Georgetown Starterジャケットは米国製で、表地と裏地がナイロン100%、前中心はスナップ留めである。 1990年代にも同型が継続したことや、アウトドア用シェルであることは示さない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "NMAAHCはStarterジャケットが1980〜90年代に都市部のアフリカ系米国人コミュニティで広く着られたと説明する。 所蔵品の実着用者やCORNICKの参照元を特定する記録ではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "素材と留め具がつくる軽い上着に、チーム名や所属の意味が重なる。服の構造と社会的な印を分けて読む。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "素材と留め具がつくる軽い上着に、チーム名や所属の意味が重なる。服の構造と社会的な印を分けて読む。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "CORNICK（AW23）は、公式資料で英国レーシングジャケットと1990年代スポーツシェルジャケットを参照すると説明される。 そこから、高密度ナイロンツイルへの顔料コーティングと、着脱可能なフード・ベルトという形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "1990年代にも同型が継続したことや、アウトドア用シェルであることは示さない。 所蔵品の実着用者やCORNICKの参照元を特定する記録ではない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "CORNICK（AW23）は、公式資料で英国レーシングジャケットと1990年代スポーツシェルジャケットを参照すると説明される。 そこから、高密度ナイロンツイルへの顔料コーティングと、着脱可能なフード・ベルトという形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "CORNICK",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "id": "cornick-aw23",
+        "retained": "英国レーシングジャケットと1990年代スポーツシェルジャケット",
+        "changed": "高密度ナイロンツイルへの顔料コーティングと、着脱可能なフード・ベルト",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "b28eda437f7f7e72"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Georgetown Starter jacket",
+        "publisher": "National Museum of African American History and Culture",
+        "url": "https://nmaahc.si.edu/object/nmaahc_2015.5",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS CORNICK",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T252",
+    "slug": "toggle-fastened-duffle-coat",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "海軍甲板服・ダッフルコート"
+      }
+    ],
+    "eras": [
+      "1930s",
+      "1940s",
+      "1950s"
+    ],
+    "tags": [
+      "海軍",
+      "トグル",
+      "コート"
+    ],
+    "category": "DRESS / 着る",
+    "model": "K.CRIMSO",
+    "season": "AW26",
+    "item": "k-crimso-aw26",
+    "title": "木製トグルで留める\nダッフルコート",
+    "deck": "手袋をしたままでも触れそうな大きな留め具。荒天用の上着に残る細部。",
+    "place": "英国",
+    "period": "1930年代・1940年代・1950年代",
+    "context": "海軍",
+    "opening": "手袋をしたままでも触れそうな大きな留め具。荒天用の上着に残る細部。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "RMG所蔵ZBA2223は1940年頃のBarbour製潜水艦甲板服で、蝋引き綿のフード付きジャケットに前・袖口のスナップ、腰とフードのストラップ等を持つ。 1950年代のコートではなく、潜水艦用甲板服の前史比較。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "RMG所蔵ZBA9859は1939–40年製の羊毛ダッフルコートで、3個の木製トグル、調整可能なフード、喉留め、袖口ボタンを備える。 第二次大戦期の型。1950年代潜水艦乗組員への支給を示さない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "フード、喉元、袖口、腰。それぞれを留めたり調整したりする部位が、天候へ応える上着をつくる。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "フード、喉元、袖口、腰。それぞれを留めたり調整したりする部位が、天候へ応える上着をつくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "K.CRIMSO（AW26）は、公式資料で1950年代ロイヤルネイビーのサブマリンコートとダッフルコートを参照すると説明される。 そこから、カシミヤ紡毛糸とSUPER120羊毛梳毛の撚糸を横編みし複数回縮絨したニット地という形へ組み直している。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "1950年代のコートではなく、潜水艦用甲板服の前史比較。 第二次大戦期の型。1950年代潜水艦乗組員への支給を示さない。 ダッフルコート一般の説明で、潜水艦勤務固有の使用証拠ではない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "K.CRIMSO（AW26）は、公式資料で1950年代ロイヤルネイビーのサブマリンコートとダッフルコートを参照すると説明される。 そこから、カシミヤ紡毛糸とSUPER120羊毛梳毛の撚糸を横編みし複数回縮絨したニット地という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "K.CRIMSO",
+        "season": "AW26",
+        "number": "NN-2101K18",
+        "url": "https://www.niceness.jp/products/k-crimso",
+        "id": "k-crimso-aw26",
+        "retained": "1950年代ロイヤルネイビーのサブマリンコートとダッフルコート",
+        "changed": "カシミヤ紡毛糸とSUPER120羊毛梳毛の撚糸を横編みし複数回縮絨したニット地",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "0dfe205232c39ab2"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Submarine deck suit; jacket",
+        "publisher": "Royal Museums Greenwich",
+        "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-246555",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Duffel coat",
+        "publisher": "Royal Museums Greenwich",
+        "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-1204402",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS K.CRIMSO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/k-crimso",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T254",
+    "slug": "twisting-denim-side-seam",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "デニム所蔵品・技術特許"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1970s"
+    ],
+    "tags": [
+      "デニム",
+      "斜行",
+      "脇線"
+    ],
+    "category": "DRESS / 着る",
+    "model": "BELEW",
+    "season": "AW25",
+    "item": "belew-aw25",
+    "title": "洗うと脇線がねじれる\nデニムトラウザー",
+    "deck": "まっすぐだった脇線が、洗うことで回って見える。綾織りの力が表面に現れる。",
+    "place": "米国",
+    "period": "1950年代・1970年代",
+    "context": "デニム",
+    "opening": "まっすぐだった脇線が、洗うことで回って見える。綾織りの力が表面に現れる。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "Georgia O’Keeffe Museum所蔵2000.3.617は1950年代の綿デニムジーンズで、脇スナップ・脇ジッパー、前後のポケット等を持ち、O’Keeffeの着用品とされる。 斜行や一般的な1950〜60年代仕様を示す記録ではなく、一個体の比較。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "Levi Straussの米国特許4015318は、通常の綾織物の糸応力が洗濯で緩和され、脚が綾方向と逆へ回転して見えることをleg twistの原因と説明する。 1976年出願の特許説明。1950〜60年代の全個体へ同じ原因を一律適用しない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "ねじれを欠点として抑える方法もあれば、その線を服の表情として読み直す方法もある。布の動きへの二つの態度だ。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "ねじれを欠点として抑える方法もあれば、その線を服の表情として読み直す方法もある。布の動きへの二つの態度だ。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "BELEW（AW25）は、公式資料で1950〜60年代デニムトラウザーの仕様と斜行した脇線を参照すると説明される。 そこから、フランス産オイルドプルアップレザーのパンツで、脇線の斜行をパターンカッティングにより表現という形へ組み直している。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "斜行や一般的な1950〜60年代仕様を示す記録ではなく、一個体の比較。 1976年出願の特許説明。1950〜60年代の全個体へ同じ原因を一律適用しない。 BELEWは斜行をパターンで表現しており、この防止方法を採用したとは説明されない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "BELEW（AW25）は、公式資料で1950〜60年代デニムトラウザーの仕様と斜行した脇線を参照すると説明される。 そこから、フランス産オイルドプルアップレザーのパンツで、脇線の斜行をパターンカッティングにより表現という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "BELEW",
+        "season": "AW25",
+        "number": "NN-0302T16",
+        "url": "https://www.niceness.jp/products/belew",
+        "id": "belew-aw25",
+        "retained": "1950〜60年代デニムトラウザーの仕様と斜行した脇線",
+        "changed": "フランス産オイルドプルアップレザーのパンツで、脇線の斜行をパターンカッティングにより表現",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "64e872d1ef543230"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Pants; Denim Jeans, 1950s",
+        "publisher": "Georgia O’Keeffe Museum",
+        "url": "https://access-ok.okeeffemuseum.org/object/7377/",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Method of skewing twill fabric to avoid leg twist",
+        "publisher": "Levi Strauss & Co. / U.S. Patent 4015318",
+        "url": "https://www.freepatentsonline.com/4015318.html",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS BELEW",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/belew",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T258",
+    "slug": "numbered-football-shirt",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "サッカー競技シャツの所蔵・市場"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "サッカー",
+      "背番号",
+      "徽章"
+    ],
+    "category": "DRESS / 着る",
+    "model": "ASTAIRE",
+    "season": "AW24",
+    "item": "astaire-aw24",
+    "title": "背番号と徽章を載せる\n競技シャツ",
+    "deck": "青いシャツの背に5、胸に黄色の徽章。競技のための印が配置される。",
+    "place": "英国",
+    "period": "1970年代",
+    "context": "サッカー",
+    "opening": "青いシャツの背に5、胸に黄色の徽章。競技のための印が配置される。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "Chelsea MuseumはJohn Dempseyが1970年FA Cup決勝再試合で着た背番号5の青い競技シャツを所蔵し、黄色の徽章と番号を持つ11着限定の仕様と説明する。 サッカー競技シャツの一例。ASTAIREのポロシャツの直接原型ではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "Design Museumは1973年のAdmiralとLeeds Unitedの契約が複製キットの新しい販売関係を作り、1977年には英国リーグ92クラブ中84がメーカー印を付けたと説明する。 競技シャツ市場の説明。ニットポロの仕様やASTAIREの参照メーカーを示さない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "番号は選手を、徽章はチームを示す。身体の前後に置かれた印が、競技中に誰であるかを伝える。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "番号は選手を、徽章はチームを示す。身体の前後に置かれた印が、競技中に誰であるかを伝える。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "ASTAIRE（AW24）は、公式資料で1970年代英国スポーツウェアと米国アウトドア場面のデザインを参照すると説明される。 そこから、28G極細メリノの配色リブ付きポロへ再構成し、吸水性とキックバック性を付与という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "サッカー競技シャツの一例。ASTAIREのポロシャツの直接原型ではない。 競技シャツ市場の説明。ニットポロの仕様やASTAIREの参照メーカーを示さない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "ASTAIRE（AW24）は、公式資料で1970年代英国スポーツウェアと米国アウトドア場面のデザインを参照すると説明される。 そこから、28G極細メリノの配色リブ付きポロへ再構成し、吸水性とキックバック性を付与という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "ASTAIRE",
+        "season": "AW24",
+        "number": "NN-2301J14",
+        "url": "https://www.niceness.jp/products/astaire",
+        "id": "astaire-aw24",
+        "retained": "1970年代英国スポーツウェアと米国アウトドア場面のデザイン",
+        "changed": "28G極細メリノの配色リブ付きポロへ再構成し、吸水性とキックバック性を付与",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "a7150b26bad42957"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Dempsey’s historic FA Cup shirt on display in Chelsea Museum",
+        "publisher": "Chelsea Football Club",
+        "url": "https://www.chelseafc.com/en/news/article/dempseys-historic-fa-cup-shirt-on-display-in-chelsea-museum",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Football: Designing the Beautiful Game, Large Print Guide",
+        "publisher": "Design Museum",
+        "url": "https://designmuseum.org/asset/download?id=6705874f-108c-4a1e-9d41-cdb416252659",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS ASTAIRE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/astaire",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T266",
+    "slug": "gathered-suede-flat-shoes",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "着用者旧蔵の靴"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "tags": [
+      "靴",
+      "スエード",
+      "ひだ"
+    ],
+    "category": "DRESS / 着る",
+    "model": "GEORGIA",
+    "season": "SS25",
+    "item": "georgia-ss25",
+    "title": "革をひだ状に寄せる\nフラットシューズ",
+    "deck": "一枚のスエードを足の甲で寄せる。平らな靴にも、革の量と集め方がある。",
+    "place": "米国",
+    "period": "1940年代・1950年代・1960年代・1970年代・1980年代",
+    "context": "靴",
+    "opening": "一枚のスエードを足の甲で寄せる。平らな靴にも、革の量と集め方がある。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "Georgia O’Keeffe Museumは本人旧蔵品として、1945〜80年頃の黒いスエード製フラット靴を収蔵し、革底とひだ状アッパーを記録する。 本人旧蔵の靴だが、オックスフォードスニーカーではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "本人の名が残る靴でも、いつ、どの場面で履いたかまでは別の確認がいる。まずは革底とひだ状の甲という形を見る。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "本人の名が残る靴でも、いつ、どの場面で履いたかまでは別の確認がいる。まずは革底とひだ状の甲という形を見る。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "GEORGIA（SS25）は、公式資料で米軍ボートシューズとジョージア・オキーフの汚れたオックスフォードスニーカーを参照すると説明される。 そこから、複数の革と合成ゴム底を用い、革靴製法と手加工でヴィンテージ感を加えたヨットシューズへ変更という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "本人旧蔵の靴だが、オックスフォードスニーカーではない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "GEORGIA（SS25）は、公式資料で米軍ボートシューズとジョージア・オキーフの汚れたオックスフォードスニーカーを参照すると説明される。 そこから、複数の革と合成ゴム底を用い、革靴製法と手加工でヴィンテージ感を加えたヨットシューズへ変更という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "GEORGIA",
+        "season": "SS25",
+        "number": "NN-3901F15 ( Limited )",
+        "url": "https://www.niceness.jp/products/georgia",
+        "id": "georgia-ss25",
+        "retained": "米軍ボートシューズとジョージア・オキーフの汚れたオックスフォードスニーカー",
+        "changed": "複数の革と合成ゴム底を用い、革靴製法と手加工でヴィンテージ感を加えたヨットシューズへ変更",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "82b7cbfcfa569ae3"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Shoes, Flats, ca. 1945–1980",
+        "publisher": "Georgia O’Keeffe Museum",
+        "url": "https://collections.okeeffemuseum.org/object/7572/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS GEORGIA",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/georgia",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T273",
+    "slug": "protective-travel-duster",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "初期自動車旅行の所蔵例"
+      }
+    ],
+    "eras": [
+      "1900s",
+      "1940s"
+    ],
+    "tags": [
+      "旅行",
+      "自動車",
+      "コート"
+    ],
+    "category": "DRESS / 着る",
+    "model": "SYLVIAN",
+    "season": "AW26",
+    "item": "sylvian-aw26",
+    "title": "埃と泥から服を守る\nダスターコート",
+    "deck": "初期の自動車旅行で、衣服の上にもう一枚。道の埃や油を受け止めるためのコート。",
+    "place": "米国",
+    "period": "1900年代・1940年代",
+    "context": "旅行",
+    "opening": "初期の自動車旅行で、衣服の上にもう一枚。道の埃や油を受け止めるためのコート。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "Monmouth Historyの1900〜10年頃のダスターは、初期自動車旅行で衣服を埃・泥・油から守る、軽量でゆったりしたリネン製旅行コートと説明される。 1940年代ではない。ダスターの歴史的用途を示す比較資料。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "Philadelphia Museum of Art所蔵の1948〜49年頃のコートは、身頃と一体裁断の袖、絞った腰、ゴアとプリーツで広がる裾を持つ。 1940年代のコート例だがダスターではない。SYLVIANが取り入れたチェスター型とも確認できない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "ゆったりした軽いコートは、身体を温めるだけでなく、その下の衣服を汚れから離す層にもなる。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "ゆったりした軽いコートは、身体を温めるだけでなく、その下の衣服を汚れから離す層にもなる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "SYLVIAN（AW26）は、公式資料で1940年代ダスターコートを参照すると説明される。 そこから、チェスターコートの立体パターン、異種糸の高密度編地、起毛裏面、革トリミングを加えたコートへ再構築という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "1940年代ではない。ダスターの歴史的用途を示す比較資料。 1940年代のコート例だがダスターではない。SYLVIANが取り入れたチェスター型とも確認できない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "SYLVIAN（AW26）は、公式資料で1940年代ダスターコートを参照すると説明される。 そこから、チェスターコートの立体パターン、異種糸の高密度編地、起毛裏面、革トリミングを加えたコートへ再構築という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "SYLVIAN",
+        "season": "AW26",
+        "number": "NN-2802C18",
+        "url": "https://www.niceness.jp/products/sylvian",
+        "id": "sylvian-aw26",
+        "retained": "1940年代ダスターコート",
+        "changed": "チェスターコートの立体パターン、異種糸の高密度編地、起毛裏面、革トリミングを加えたコートへ再構築",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "02e669eebed4d723"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Duster Coat",
+        "publisher": "Monmouth History",
+        "url": "https://monmouthhistory.emuseum.com/objects/3129/duster-coat",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Coat, c. 1948–1949",
+        "publisher": "Philadelphia Museum of Art",
+        "url": "https://www.philamuseum.org/objects/210279",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS SYLVIAN",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/sylvian",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T286",
+    "slug": "buckled-engineer-boots",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "鉄道労働とブーツ史の地域"
+      }
+    ],
+    "eras": [
+      "1930s",
+      "1940s",
+      "1950s"
+    ],
+    "tags": [
+      "ブーツ",
+      "バックル",
+      "鉄道"
+    ],
+    "category": "DRESS / 着る",
+    "model": "NEWELL",
+    "season": "SS26",
+    "item": "newell-ss26",
+    "title": "筒とバックルで足を包む\nエンジニアブーツ",
+    "deck": "紐ではなく、足首のバックルで留める。働く足元から広がったブーツの型。",
+    "place": "米国",
+    "period": "1930年代・1940年代・1950年代",
+    "context": "ブーツ",
+    "opening": "紐ではなく、足首のバックルで留める。働く足元から広がったブーツの型。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "NPSは初期の大陸横断鉄道の機関士・火夫が熱・油脂に耐える丈夫な服を必要とし、毛または濃色denimのトラウザー、シャツ、ベスト、角形つま先の靴やブーツを着たと説明する。 後の「engineer boot」という特定型の開発記録ではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "Heddelsの記事はengineer bootの定型を筒状のシャフトと足首のバックルとし、1930年代に現れ、ChippewaとWescoが1940年代に継続生産し、1950〜70年代にSears等のカタログで販売されたとする。 専門小売編集記事であり、博物館所蔵実物や企業一次資料ではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "丈夫な靴が必要だった仕事の記録と、後に定型化されたブーツの呼び名をつなぐときは、年代のずれにも目を向けたい。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "丈夫な靴が必要だった仕事の記録と、後に定型化されたブーツの呼び名をつなぐときは、年代のずれにも目を向けたい。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "NEWELL（SS26）は、公式資料で1950年代エンジニアブーツの反り上がるタン、ベルト絞り、丸いつま先を参照すると説明される。 そこから、筒を除去し、Maryam社ホースバット、Vibram #705ハーフソールを用いたサンダルへ再設計という形へ組み直している。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "後の「engineer boot」という特定型の開発記録ではない。 専門小売編集記事であり、博物館所蔵実物や企業一次資料ではない。 調査した資料は1930年代の鉄道従事者向けという別の説明を示し、公式起源主張を独立確認できない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "NEWELL（SS26）は、公式資料で1950年代エンジニアブーツの反り上がるタン、ベルト絞り、丸いつま先を参照すると説明される。 そこから、筒を除去し、Maryam社ホースバット、Vibram #705ハーフソールを用いたサンダルへ再設計という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "NEWELL",
+        "season": "SS26",
+        "number": "NN-4501F17",
+        "url": "https://www.niceness.jp/products/newell",
+        "id": "newell-ss26",
+        "retained": "1950年代エンジニアブーツの反り上がるタン、ベルト絞り、丸いつま先",
+        "changed": "筒を除去し、Maryam社ホースバット、Vibram #705ハーフソールを用いたサンダルへ再設計",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "3b48ccd042a6f385"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Railroad Workers",
+        "publisher": "U.S. National Park Service",
+        "url": "https://www.nps.gov/gosp/learn/historyculture/railroad-workers.htm",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "The History of Engineer Boots with John Lofgren",
+        "publisher": "Heddels",
+        "url": "https://www.heddels.com/2015/03/history-engineer-boots-john-lofgren/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS NEWELL",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/newell",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T292",
+    "slug": "mixed-hide-grizzly-jacket",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "グリズリー・革ジャケットの所蔵例"
+      }
+    ],
+    "eras": [
+      "1920s",
+      "1930s",
+      "1940s"
+    ],
+    "tags": [
+      "ムートン",
+      "鹿革",
+      "ジャケット"
+    ],
+    "category": "DRESS / 着る",
+    "model": "CANUCKS",
+    "season": "AW24",
+    "item": "canucks-aw24",
+    "title": "羊皮と鹿革を組み合わせる\nグリズリージャケット",
+    "deck": "身頃と袖で革を替える。素材の配置が、そのまま上着の輪郭を強くする。",
+    "place": "米国",
+    "period": "1920年代・1930年代・1940年代",
+    "context": "ムートン",
+    "opening": "身頃と袖で革を替える。素材の配置が、そのまま上着の輪郭を強くする。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "Design Museumの展覧会資料は、米国製Ohio State University grizzly jacketを1940年代、素材を羊皮・鹿革・毛として一覧に記載する。 1930年代ではなく、用途・素材配置・製造者も一覧から確定できない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "The Met所蔵のAbercrombie & Fitch製米国jacketは1920〜39年の革製品として登録される。 grizzly jacketという登録ではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "一着を同じ革だけでつくらず、部位ごとに異なる素材を置く。色だけでなく、毛足や厚みの差も形として見えてくる。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "一着を同じ革だけでつくらず、部位ごとに異なる素材を置く。色だけでなく、毛足や厚みの差も形として見えてくる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "CANUCKS（AW24）は、公式資料で1930年代grizzly jacketとsports jacketの要素を参照すると説明される。 そこから、伊ムートン身頃、鹿革袖、茶芯山羊革の裾・脇へ素材を分け、1970年代Ivy・biker要素を加えたstadium blousonへ再構成という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "1930年代ではなく、用途・素材配置・製造者も一覧から確定できない。 grizzly jacketという登録ではない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "CANUCKS（AW24）は、公式資料で1930年代grizzly jacketとsports jacketの要素を参照すると説明される。 そこから、伊ムートン身頃、鹿革袖、茶芯山羊革の裾・脇へ素材を分け、1970年代Ivy・biker要素を加えたstadium blousonへ再構成という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "CANUCKS",
+        "season": "AW24",
+        "number": "NN-0201B14  ( Limited )",
+        "url": "https://www.niceness.jp/products/canucks",
+        "id": "canucks-aw24",
+        "retained": "1930年代grizzly jacketとsports jacketの要素",
+        "changed": "伊ムートン身頃、鹿革袖、茶芯山羊革の裾・脇へ素材を分け、1970年代Ivy・biker要素を加えたstadium blousonへ再構成",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "468c7d96363ad96f"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "NIGO: From Japan with Love exhibition guide",
+        "publisher": "Design Museum",
+        "url": "https://designmuseum.org/asset/download?id=b6aa4fac-9799-4ded-90a4-c99ba2737790",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Jacket",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/99710",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS CANUCKS",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/canucks",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T296",
+    "slug": "multipurpose-printed-bandana",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "バンダナの編集資料"
+      }
+    ],
+    "eras": [
+      "present"
+    ],
+    "tags": [
+      "バンダナ",
+      "捺染",
+      "多用途"
+    ],
+    "category": "DRESS / 着る",
+    "model": "NAIR",
+    "season": "SS25",
+    "item": "nair-ss25",
+    "title": "結んで巻いて拭える\nバンダナ",
+    "deck": "四角い布は、頭や首へ巻かれ、手元を拭う道具にもなる。用途を決めるのは結び方。",
+    "place": "米国",
+    "period": "pre年代ent",
+    "context": "バンダナ",
+    "opening": "四角い布は、頭や首へ巻かれ、手元を拭う道具にもなる。用途を決めるのは結び方。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "Heddelsはbandanaをおよそ20inch四方の綿平織り等に印刷した布と定義し、一般に結ぶ・巻く・拭うなど多用途で用いられると説明する。 cookie柄の定義を含まない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "穴も留め具もない四角い布が、折り方と結び方で役割を変える。単純な輪郭の中に使い手の余地がある。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "穴も留め具もない四角い布が、折り方と結び方で役割を変える。単純な輪郭の中に使い手の余地がある。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "NAIR（SS25）は、公式資料で通常bandana規格の細部、vintage bandana風paisleyとcookie柄を参照すると説明される。 そこから、40番手綿を180cm超のscreenで手捺染し、日本の植物文様と葉で表した結ぶ外枠を加えた大型tapestryへ変更という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "cookie柄の定義を含まない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "NAIR（SS25）は、公式資料で通常bandana規格の細部、vintage bandana風paisleyとcookie柄を参照すると説明される。 そこから、40番手綿を180cm超のscreenで手捺染し、日本の植物文様と葉で表した結ぶ外枠を加えた大型tapestryへ変更という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "NAIR",
+        "season": "SS25",
+        "number": "NN-0503A15",
+        "url": "https://www.niceness.jp/products/nair",
+        "id": "nair-ss25",
+        "retained": "通常bandana規格の細部、vintage bandana風paisleyとcookie柄",
+        "changed": "40番手綿を180cm超のscreenで手捺染し、日本の植物文様と葉で表した結ぶ外枠を加えた大型tapestryへ変更",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "117620980f86c068"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "The History of the Bandana",
+        "publisher": "Heddels",
+        "url": "https://www.heddels.com/2017/05/the-history-of-the-bandana/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS NAIR",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/nair",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T301",
+    "slug": "twisted-seam-3d-denim",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "立体デニムの商品史"
+      }
+    ],
+    "eras": [
+      "1990s"
+    ],
+    "tags": [
+      "デニム",
+      "立体裁断",
+      "縫い目"
+    ],
+    "category": "DRESS / 着る",
+    "model": "ELMES",
+    "season": "SS26",
+    "item": "elmes-ss26",
+    "title": "脚に沿って縫い目がねじれる\n立体デニム",
+    "deck": "まっすぐな筒ではなく、脚の動きに沿って縫い目を回す。1999年の立体構成。",
+    "place": "米国",
+    "period": "1990年代",
+    "context": "デニム",
+    "opening": "まっすぐな筒ではなく、脚の動きに沿って縫い目を回す。1999年の立体構成。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "Levi Strauss & Co.はLevi’s Engineered Jeansを1999年に発売し、身体の動きを考えた立体的形状と脚周りを捩れるseamで構成したと説明する。 ELMESの公式文が参照brand名を示さないため、同一製品だとは確定しない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "Levi Strauss Japanの年表は1999年に3D Constructionを掲げたLevi’s REDと、501を再構築したEngineered Jeansが生まれたと記す。 ELMESの参照対象を名指す資料ではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "身体の曲面へ布を沿わせるとき、縫い目は横から見えない場所へも移動する。線のねじれが、動きのための構成になる。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "身体の曲面へ布を沿わせるとき、縫い目は横から見えない場所へも移動する。線のねじれが、動きのための構成になる。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "ELMES（SS26）は、公式資料で1920〜30年代chambray work shirtと、1999年米国老舗denim brandの立体裁断・非対称stitch・捩れを参照すると説明される。 そこから、linen混indigo chambrayのarticulated shirtとしてcraft、art、workwear、modeを再構築という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "ELMESの公式文が参照brand名を示さないため、同一製品だとは確定しない。 ELMESの参照対象を名指す資料ではない。 米国brandと製品名は明記されない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "ELMES（SS26）は、公式資料で1920〜30年代chambray work shirtと、1999年米国老舗denim brandの立体裁断・非対称stitch・捩れを参照すると説明される。 そこから、linen混indigo chambrayのarticulated shirtとしてcraft、art、workwear、modeを再構築という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "ELMES",
+        "season": "SS26",
+        "number": "NN-2102Y17",
+        "url": "https://www.niceness.jp/products/elmes-26ss",
+        "id": "elmes-ss26",
+        "retained": "1920〜30年代chambray work shirtと、1999年米国老舗denim brandの立体裁断・非対称stitch・捩れ",
+        "changed": "linen混indigo chambrayのarticulated shirtとしてcraft、art、workwear、modeを再構築",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "01c4f01ac44d6a72"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Levi’s Engineered Jeans at 20: The Innovative Backstory of LEJ",
+        "publisher": "Levi Strauss & Co.",
+        "url": "https://www.levistrauss.com/2019/06/13/levis-engineered-jeans-at-20-the-innovative-backstory-of-lej/",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "リーバイスの歴史",
+        "publisher": "Levi Strauss Japan",
+        "url": "https://levi.jp/pages/history",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS ELMES",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/elmes-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T311",
+    "slug": "game-carrying-hunting-pocket",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "射撃服の所蔵例"
+      },
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "狩猟服の計測例"
+      }
+    ],
+    "eras": [
+      "present"
+    ],
+    "tags": [
+      "狩猟",
+      "ポケット",
+      "運ぶ"
+    ],
+    "category": "DRESS / 着る",
+    "model": "TYNER",
+    "season": "SS25",
+    "item": "tyner-ss25",
+    "title": "獲物を運べる大きさの\nハンティングポケット",
+    "deck": "上着の内側や背中に隠れた、大きな袋。運ぶものがポケットの寸法を決める。",
+    "place": "英国・米国",
+    "period": "pre年代ent",
+    "context": "狩猟",
+    "opening": "上着の内側や背中に隠れた、大きな袋。運ぶものがポケットの寸法を決める。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "V&A所蔵shooting jacketは内側skirtにpoacherまたはhare pocketと呼ばれる大型pocketを備え、獲物を運べる大きさと説明される。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "Avenir Museumは赤いhunting jacketの隠し背面pocketを20×9inchと計測し、pheasantを収納する用途に適すると解説する。 TYNERの参照型・採用detailとは確定しない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "手を入れるための小さな袋とは違い、獲物を入れる大きさが必要になる。用途がポケットを服の一部から収納具へ近づける。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "手を入れるための小さな袋とは違い、獲物を入れる大きさが必要になる。用途がポケットを服の一部から収納具へ近づける。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "TYNER（SS25）は、公式資料でM65 field jacketとhunting jacketの要素を参照すると説明される。 そこから、綿麻lawn、天然顔料tiger camo、rust風glitterのfield jacketへ融合という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "TYNERの参照型・採用detailとは確定しない。 hunting側の地域・年代・採用部位は明記されない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "TYNER（SS25）は、公式資料でM65 field jacketとhunting jacketの要素を参照すると説明される。 そこから、綿麻lawn、天然顔料tiger camo、rust風glitterのfield jacketへ融合という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "TYNER",
+        "season": "SS25",
+        "number": "NN-2001B15",
+        "url": "https://www.niceness.jp/products/tyner",
+        "id": "tyner-ss25",
+        "retained": "M65 field jacketとhunting jacketの要素",
+        "changed": "綿麻lawn、天然顔料tiger camo、rust風glitterのfield jacketへ融合",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "be1bdbea15d6d24c"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Shooting jacket",
+        "publisher": "Victoria and Albert Museum",
+        "url": "https://artsandculture.google.com/asset/shooting-jacket-unknown/lQFPyIMTskM1kA?hl=en",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Thanks! It Has Pockets",
+        "publisher": "Avenir Museum of Design and Merchandising",
+        "url": "https://www.chhs.colostate.edu/avenir/exhibitions/past-exhibitions/thanks-it-has-pockets/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS TYNER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/tyner",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T315",
+    "slug": "two-pocket-work-shirt",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "海軍・郵便制服の所蔵例"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s"
+    ],
+    "tags": [
+      "ワークシャツ",
+      "制服",
+      "胸ポケット"
+    ],
+    "category": "DRESS / 着る",
+    "model": "KIRKLAND",
+    "season": "SS26",
+    "item": "kirkland-ss26",
+    "title": "左右の胸にポケットを置く\nワークシャツ",
+    "deck": "胸の両側に同じようなポケットを置く。制服と仕事着に残る、手元の収納。",
+    "place": "米国",
+    "period": "1940年代・1950年代",
+    "context": "ワークシャツ",
+    "opening": "胸の両側に同じようなポケットを置く。制服と仕事着に残る、手元の収納。 目立つ輪郭の奥にある、人の動きとつくり方へ近づいてみる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "残された服と記録",
+        "paragraphs": [
+          "Intrepid Museum所蔵の約1955年米海軍chambray work shirtは長袖、襟、左右胸button pocket、前button、cuffを持つ綿製uniformである。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "section-2",
+        "title": "使う場面から見えること",
+        "paragraphs": [
+          "1948〜56年米国郵便uniform shirtは短袖collar shirtで、前buttonと左右胸pocketを備える綿poplin製employee gearである。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "section-3",
+        "title": "形の理由を読む",
+        "paragraphs": [
+          "長袖と半袖、海軍と郵便。組織や季節が違っても、襟と前ボタン、左右の胸ポケットという共通点が見える。 ここでは所蔵品や記録から確認できる範囲にとどめ、似た形をすべて同じ由来へまとめない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "長袖と半袖、海軍と郵便。組織や季節が違っても、襟と前ボタン、左右の胸ポケットという共通点が見える。",
+    "bridge_title": "いまの服へ、この工夫を。",
+    "bridge": "KIRKLAND（SS26）は、公式資料で1950年代US work shirtのhalf-sleeve型を参照すると説明される。 そこから、hunting jacketと融合し、高密度tumbled chino、削ったdetail、waist drawcordを持つshirt blousonへ変更という形へ組み直している。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "職種・組織・具体原型・採用detailは明記されない。",
+    "product_title": "いまの服へ、この工夫を。",
+    "product_paragraphs": [
+      "KIRKLAND（SS26）は、公式資料で1950年代US work shirtのhalf-sleeve型を参照すると説明される。 そこから、hunting jacketと融合し、高密度tumbled chino、削ったdetail、waist drawcordを持つshirt blousonへ変更という形へ組み直している。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-14",
+    "modifiedAt": "2026-09-14",
+    "products": [
+      {
+        "model": "KIRKLAND",
+        "season": "SS26",
+        "number": "NN-2301Y17",
+        "url": "https://www.niceness.jp/products/kirkland-26ss",
+        "id": "kirkland-ss26",
+        "retained": "1950年代US work shirtのhalf-sleeve型",
+        "changed": "hunting jacketと融合し、高密度tumbled chino、削ったdetail、waist drawcordを持つshirt blousonへ変更",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "3d66e79327128bd3"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "U.S. Navy Chambray Shirt",
+        "publisher": "Intrepid Museum",
+        "url": "https://intrepid.emuseum.com/objects/20697/us-navy-chambray-shirt",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Uniform shirt",
+        "publisher": "Smithsonian National Postal Museum",
+        "url": "https://postalmuseum.si.edu/object/npm_1990.0587.7",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS KIRKLAND",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/kirkland-26ss",
         "kind": "brand"
       }
     ]

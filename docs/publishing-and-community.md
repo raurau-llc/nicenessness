@@ -42,3 +42,8 @@ Added T283, T287, T294, T295 and T335 from SHA-verified research snapshots; rele
 ## 2026-09-14: 176 articles
 
 Added 21 reviewed stories from SHA-matched fixed research snapshots in release.v9. Preserved all prior 155 articles, homepage order behavior, and approved copy. T255 was held because its archive record does not show the garments themselves. Historical comparison objects do not establish direct NICENESS references; manufacturer claims, geographic roles and unknowns remain separate.
+
+
+## 2026-09-14: 197 articles
+
+Added 21 stories from SHA-matched fixed research snapshots in release.v10. The set prioritizes visible construction, use and material details. Historical comparison objects and institutional or maker claims do not establish direct NICENESS references. Ireland was added as a distinct cultural and museum-record region for T244. Existing 176 stories and homepage behavior are unchanged.
