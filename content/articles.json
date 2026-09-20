@@ -25674,5 +25674,2383 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T010",
+    "slug": "no-cut-line-kimono",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "仕立ての研究・記録"
+      }
+    ],
+    "eras": [
+      "edo",
+      "1960s",
+      "2020s"
+    ],
+    "tags": [
+      "着物",
+      "裁断",
+      "パターン",
+      "研究"
+    ],
+    "category": "MAKE / つくる",
+    "model": "H.IGGY",
+    "season": "SS25",
+    "item": "h-iggy-ss25",
+    "title": "裁ち目を減らして仕立てる\n長着の試み",
+    "deck": "布を切り分けずに一枚の着物をつくる。そこで見つかった手応えと、難しさ。",
+    "place": "日本",
+    "period": "江戸期・昭和30年代・2020年代",
+    "context": "裁断と構成",
+    "opening": "長着は、ふつう八枚に裁って縫い合わせる。その裁ち目をできるだけ残さずに、一枚の布から着物をつくれないか。大妻女子大学の研究誌に載った岡寛子の論文は、この「裁ち目なしきもの」を通常の長着と区別して扱っている。",
+    "opening_refs": [
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "cutting",
+        "title": "八枚に裁つ着物と、そうしない着物。",
+        "paragraphs": [
+          "同じ長着でも、裁ち方は一つではない。岡寛子の研究は、通常の長着が八枚の裁ち片からできるのに対し、掛衿の分だけを切り、残りは折り畳んで仕立てる方法を「裁ち目なしきもの」として区別している。",
+          "布を切らないのではなく、切る場所を減らす。縫い目と折り目のどちらで形をつくるかという選択が、ここに置かれている。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      },
+      {
+        "id": "fitting",
+        "title": "つくってみて、分かること。",
+        "paragraphs": [
+          "同じ研究では、裁断を減らした長着を実際に製作し、人台に着せる実験も行っている。そこで認められたのは、抱き幅が狭いことと、衿元が着崩れやすいことだった。",
+          "布を切らずに済ませた分、身体に沿わせるための調整はどこかへ移る。つくり方の工夫は、着たときの具合と切り離せない。"
+        ],
+        "fact_ids": [
+          "F04"
+        ]
+      },
+      {
+        "id": "wearers",
+        "title": "誰が着た着物かも、分けて考える。",
+        "paragraphs": [
+          "メトロポリタン美術館は、江戸期の豪華な着物の主な消費者として支配的な武士層を挙げ、富裕な商人による購入についても説明している。",
+          "平面的な構成を、特定の階層の美意識としてまとめてしまわないほうがいい。裁ち方の話と、誰が何を着たかの話は、別々にたどれる。"
+        ],
+        "fact_ids": [
+          "F06"
+        ]
+      }
+    ],
+    "closing": "切る場所を減らすという発想は、布の使い方だけでなく、着たときの具合まで連れてくる。仕立ての工夫を、着る人の側から見直してみたい。",
+    "bridge_title": "折り畳むような構成で、丸みをつくる。",
+    "bridge": "NICENESSのH.IGGYは、着物のような平面的なパターンを参照したと公式に説明される一着。着用すると丸みを帯びる構成とされ、同じ説明はP.IGGYとGUNNにも記されている。",
+    "bridge_refs": [
+      "F10"
+    ],
+    "boundary": "公式説明には、参照した着物の形式・地域・年代や実物の指定がない。岡寛子の研究が述べる昭和30年代の考案についても、元の考案資料は今回確認できていない。研究上の技法とNICENESSの構成を、直接つながるものとしては扱わない。",
+    "product_title": "平面のパターンが、着ると丸くなる。",
+    "product_paragraphs": [
+      "SS25のH.IGGYは、着物のような平面的なパターンを参照したと公式資料に記載される。",
+      "着用すると丸みを帯びる構成とされ、同じ説明はP.IGGYとGUNNにも記されている。平らな布と、着たときの立体の間にある工夫として読める。"
+    ],
+    "product_refs": [
+      "F10"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "h-iggy-ss25",
+        "model": "H.IGGY",
+        "season": "SS25",
+        "number": "NN-1701B15",
+        "url": "https://www.niceness.jp/products/h-iggy",
+        "retained": "着物のような平面的なパターンを参照。",
+        "changed": "着用すると丸みを帯びる構成。",
+        "factRefs": [
+          "F10"
+        ],
+        "sourceKey": "89ada3c66e45438d"
+      }
+    ],
+    "sources": [
+      {
+        "id": "E03",
+        "title": "「裁ち目なしきもの」の課題と対処",
+        "publisher": "岡寛子／大妻女子大学大学院・人間生活文化研究34",
+        "url": "https://journal.otsuma.ac.jp/documents/journal/2024no34/2024_453.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "E02",
+        "title": "Kimono Style: The John C. Weber Collection",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/ko/exhibitions/kimono-style",
+        "kind": "history"
+      },
+      {
+        "id": "B05",
+        "title": "NICENESS H.IGGY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/h-iggy",
+        "kind": "brand"
+      },
+      {
+        "id": "B08",
+        "title": "NICENESS P.IGGY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/p-iggy",
+        "kind": "brand"
+      },
+      {
+        "id": "B09",
+        "title": "NICENESS GUNN",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/gunn",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T238",
+    "slug": "winter-hooded-sweatshirt-1963",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "販売の記録"
+      }
+    ],
+    "eras": [
+      "1960s"
+    ],
+    "tags": [
+      "スウェット",
+      "フード",
+      "防寒",
+      "広告"
+    ],
+    "category": "DRESS / 着る",
+    "model": "NOVOSELIC",
+    "season": "AW25",
+    "item": "novoselic-aw25",
+    "title": "二重のフードで風を防ぐ\n厚手のスウェット",
+    "deck": "1963年の冬、売り場はフード付きのスウェットをどう説明していたか。",
+    "place": "米国・オレゴン州",
+    "period": "1963年",
+    "context": "冬の売り場",
+    "opening": "二重のフード、手を入れるマフポケット、柔らかな裏起毛。1963年11月7日のThe Sandy Postに載ったW.R. Hicks社の広告は、厚手のスウェットを冬の風への備えとして売り出している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "warmth",
+        "title": "暖かさを、言葉で並べる。",
+        "paragraphs": [
+          "広告に並ぶのは、二重のフード、マフポケット、柔らかな裏起毛という三つの説明だった。冬の風を防ぐ衣服として紹介されている。",
+          "ただしこれは売り場の説明であり、性能の試験結果ではない。どれだけ暖かかったかは、この紙面からは分からない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "family",
+        "title": "家族全員の売り場として。",
+        "paragraphs": [
+          "同じ広告は、幼児からジュニア、少年、男性までのサイズを掲げ、母・父・姉妹・兄弟へ向けた衣服として訴えている。",
+          "売られた場所はGresham。つくられた場所は書かれていない。誰が実際に買ったのか、どれだけ広まったのかも、記録の外にある。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "フードとポケットと裏起毛。いまも変わらない説明の並びが、1963年の冬の紙面にもう置かれている。",
+    "bridge_title": "スウェットパーカを、短い丈へ。",
+    "bridge": "NICENESSのNOVOSELICは、1960年代のスウェットパーカを短丈のボレロへ再構築した一着と公式に説明される。先染めのモヘアシルク糸と、稲妻柄のジャカードを用いるとされる。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "公式説明に参照した実物の指定はない。広告に載った一例を、そのまま原型として扱うことはしない。",
+    "product_title": "丈を詰めて、糸を替える。",
+    "product_paragraphs": [
+      "AW25のNOVOSELICは、1960年代スウェットパーカを短い丈のボレロへ再構築したと公式資料に記載される。",
+      "素材は先染めのモヘアシルク糸で、稲妻柄のジャカードを用いるとされる。防寒のための厚手という前提が、別の方向へ組み直されている。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "novoselic-aw25",
+        "model": "NOVOSELIC",
+        "season": "AW25",
+        "number": "NN-3503K16",
+        "url": "https://www.niceness.jp/products/novoselic",
+        "retained": "1960年代スウェットパーカ",
+        "changed": "短い丈のボレロへ再構築、先染めモヘアシルク糸と稲妻柄ジャカード",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "cafe7cbe80a85931"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "The Sandy Post, 7 November 1963: W.R. Hicks Company winter advertisement",
+        "publisher": "The Sandy Post / W.R. Hicks Company",
+        "url": "https://oregonnews.uoregon.edu/lccn/2024240281/1963-11-07/ed-1/seq-6.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS NOVOSELIC",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/novoselic",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T239",
+    "slug": "warmup-jacket-catalog-1929",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "販売資料の記録"
+      }
+    ],
+    "eras": [
+      "1920s",
+      "1930s"
+    ],
+    "tags": [
+      "スウェット",
+      "カタログ",
+      "競技",
+      "裏起毛"
+    ],
+    "category": "DRESS / 着る",
+    "model": "NAVARRO",
+    "season": "AW25",
+    "item": "navarro-aw25",
+    "title": "ウォームアップジャケットとも呼ばれた\nスウェット",
+    "deck": "1929年として公開された運動用品カタログの頁に、三つの型が並んでいる。",
+    "place": "米国",
+    "period": "1929年として公開されたカタログ",
+    "context": "競技と暖機の上着",
+    "opening": "スウェットは、ウォームアップジャケットとも呼ばれていた。1929年として公開されたThe Draper-Maynard Companyのカタログは、運動競技に向けた商品群の中にそれを載せている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "three",
+        "title": "同じ頁に、三つの型。",
+        "paragraphs": [
+          "頁に並ぶのは、裏起毛の丸首かぶり型、ポケットの付いた前ボタン型、そして高襟型の三つ。同じ呼び名のもとに、前の開き方も襟の形も違う型が置かれている。",
+          "全毛のウォームアップジャケットは、別の項目として説明されている。言葉が重なっていても、商品としては分けられていた。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "unwritten",
+        "title": "厚さは、数字では書かれない。",
+        "paragraphs": [
+          "裏起毛の項には、繊維の組成も厚さも重さも記されていない。全毛という説明は、別の項目のものだった。",
+          "同時代のカタログは、売るための資料でもある。あらゆる競技へ広まっていたという宣伝を、そのまま実績として読むことはしない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "一つの呼び名の下に、いくつもの型がある。厚さや素材の違いは、頁の外に置かれたままのことも多い。",
+    "bridge_title": "肉厚の裏毛を、丸胴で編む。",
+    "bridge": "NICENESSのNAVARROは、1920〜30年代の肉厚スウェットと日本の着物に着想したと公式に説明される。アズマ編み機による丸胴の裏毛、三種の編み地、手作業のエイジングを用いるとされる。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "公式説明に参照した実物の指定はない。カタログの公開年の帰属にも限界があり、厚さの定量的な確認はできていない。",
+    "product_title": "三種の編み地を、一着に。",
+    "product_paragraphs": [
+      "AW25のNAVARROは、1920〜30年代の肉厚スウェットと日本の着物から着想した袖付けを持つと公式資料に記載される。",
+      "アズマ編み機による丸胴の裏毛に、三種の編み地と手作業のエイジングを組み合わせるとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "navarro-aw25",
+        "model": "NAVARRO",
+        "season": "AW25",
+        "number": "NN-3703J16",
+        "url": "https://www.niceness.jp/products/navarro",
+        "retained": "1920〜30年代肉厚スウェットと日本の着物から着想した袖付け",
+        "changed": "アズマ編み機の丸胴裏毛、三種の編み地、手作業エイジング",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "b98e8f616deeba95"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "D&M Fall/Winter Athletic Equipment, 1929として公開",
+        "publisher": "The Draper-Maynard Company / RetroSeasons公開スキャン",
+        "url": "https://library.sfo2.cdn.digitaloceanspaces.com/publications/sports/catalogs/DMAYX-1929-01-draper-maynard-sports-catalog-RJ1OH.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS NAVARRO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/navarro",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T250",
+    "slug": "flared-trousers-1967-1970",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "製作・所蔵"
+      },
+      {
+        "id": "nz",
+        "name": "ニュージーランド",
+        "role": "製作・所蔵"
+      }
+    ],
+    "eras": [
+      "1960s",
+      "1970s"
+    ],
+    "tags": [
+      "フレア",
+      "パンツ",
+      "収蔵記録",
+      "1970年代"
+    ],
+    "category": "DRESS / 着る",
+    "model": "C.SIZE",
+    "season": "SS26",
+    "item": "c-size-ss26",
+    "title": "裾の広がりを記録する\n1970年前後のパンツ",
+    "deck": "サンフランシスコの革と、オークランドの合成クレープ。別々の場所に残る二本。",
+    "place": "米国・ニュージーランド",
+    "period": "1967〜70年頃",
+    "context": "裾の広がり",
+    "opening": "ロサンゼルス郡立美術館が収蔵する一本のトラウザーは、1967〜69年にサンフランシスコでつくられた革製で、画像の説明ではフレアの形とされている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "leather",
+        "title": "革でつくられた、広がる裾。",
+        "paragraphs": [
+          "M.2014.14.1として登録されたこの一本は、1967〜69年にサンフランシスコで製作された革製のトラウザーとされる。画像の説明では、裾が広がる形と記される。",
+          "寸法や、どの程度広がるのかまでは記録から読み取れない。フレアという言葉が指す幅には、はじめから幅がある。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "another",
+        "title": "別の半球の、別の素材。",
+        "paragraphs": [
+          "ニュージーランドのTe Papaが収蔵するGH015197/1-2は、1970年頃にオークランドでつくられた合成クレープのパンツスーツで、フレアのトラウザーを含む。",
+          "こちらは女性用のスーツの一部になる。同じ時期に裾の広がる形が別々の場所で残っているが、用途も素材も同じではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "同じ「広がる裾」でも、つくられた場所、素材、着る場面はそれぞれ違う。形の名前だけでは、一つにまとめられない。",
+    "bridge_title": "1940〜50年代の柄に、1970年代の線。",
+    "bridge": "NICENESSのC.SIZEは、1940〜50年代のプリントネルを着想源にした生地へ、1970年代のセミフレアのシルエットを取り入れたと説明される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "公式説明に参照した実物の指定はない。セミフレアの寸法や着用者についても、今回の収蔵資料からは確認できていない。",
+    "product_title": "ゆったりした構造に、セミフレアを。",
+    "product_paragraphs": [
+      "SS26のC.SIZEは、1970年代のセミフレアシルエットを取り入れたと公式資料に記載される。",
+      "生地は1940〜50年代のプリントネルを着想源としたもので、ゆったりした現代的なイージートラウザーの構造と組み合わされている。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "c-size-ss26",
+        "model": "C.SIZE",
+        "season": "SS26",
+        "number": "NN-1102T17",
+        "url": "https://www.niceness.jp/products/c-size-26ss",
+        "retained": "1970年代のセミフレアシルエット",
+        "changed": "プリントネル着想の生地と、ゆったりした現代的イージートラウザー構造",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "746537fe69431b43"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "East West Musical Instruments Company, Trousers, 1967-69",
+        "publisher": "Los Angeles County Museum of Art",
+        "url": "https://collections.lacma.org/object/197990",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Pantsuit, woman’s, comprising jacket and flared trousers",
+        "publisher": "Museum of New Zealand Te Papa Tongarewa",
+        "url": "https://collections.tepapa.govt.nz/object/711160",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS C.SIZE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/c-size-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T263",
+    "slug": "detachable-hood-alone",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "軍用衣料の表示・規格"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1990s"
+    ],
+    "tags": [
+      "フード",
+      "軍用",
+      "パーカ",
+      "着脱"
+    ],
+    "category": "DRESS / 着る",
+    "model": "COCKER",
+    "season": "AW24",
+    "item": "cocker-aw24",
+    "title": "ボタンで頭を足す\n着脱式のフード",
+    "deck": "上着に後から付ける覆い。軍用衣料の表示と規格から見る。",
+    "place": "米国",
+    "period": "M-1951型・1995年版規格",
+    "context": "フードの着脱",
+    "opening": "デンマーク国立博物館が収蔵するM-1951パーカの外殻には、衣服の表示が残っている。そこには、フードをボタンで留めて頭部の保護を追加するという指示が書かれている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "label",
+        "title": "表示に書かれた、足し方。",
+        "paragraphs": [
+          "上着そのものに、フードの付け方が印刷されている。ボタンで留めることで、頭部の保護を追加する、という指示である。",
+          "これはM-1951パーカの一例にすぎない。それでも、フードを別の部品として扱う考え方が、衣服の表示の段階から示されている。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "spec",
+        "title": "規格の側にも、外せるフードがある。",
+        "paragraphs": [
+          "米軍のMIL-DTL-31010は、取り外しできるライナーとフードを持つ寒冷地の航空要員用ジャケットについて、要件を定めている。",
+          "参照したのは1995年版の文書で、特定の年代の一着を示すものではない。それでも、着脱するフードが仕様として書かれていることは確認できる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "外せるということは、外した状態も想定されているということ。頭を覆う部分を別に持つ服は、着方の選択肢を一つ増やしている。",
+    "bridge_title": "フードだけを、一つの製品に。",
+    "bridge": "NICENESSのCOCKERは、軍用衣料に見られる着脱しやすいフードの意匠を取り入れた一点。指定のジャケットへ装着でき、単体でも使えると説明される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "公式説明に参照した型式の指定はない。M-1951パーカや米軍規格をCOCKERの直接の原型として扱うことはしない。",
+    "product_title": "装着しても、単体でも。",
+    "product_paragraphs": [
+      "AW24のCOCKERは、軍用衣料の意匠を取り入れた着脱式のフードと公式資料に記載される。",
+      "同じAW24のNELSONとBLUNSTONEへ装着でき、単体でも使える英国規格のVentile製とされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "cocker-aw24",
+        "model": "COCKER",
+        "season": "AW24",
+        "number": "NN-6104A14  ( Limited )",
+        "url": "https://www.niceness.jp/products/cocker",
+        "retained": "軍用衣料に見られる着脱しやすいフード",
+        "changed": "AW24のNELSONとBLUNSTONEに装着し、単体でも使える英国規格Ventile製フードへ変更",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "09ff741db6d3e571"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Parka",
+        "publisher": "National Museum of Denmark",
+        "url": "https://samlinger.natmus.dk/khs/object/48888",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "MIL-DTL-31010 Jacket, Aircrew, Cold Weather, with Removable Liner and Hood",
+        "publisher": "Defense Logistics Agency",
+        "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=116260",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS COCKER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/cocker",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T264",
+    "slug": "button-covered-front-zip",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "製造・所蔵の記録"
+      }
+    ],
+    "eras": [
+      "1940s"
+    ],
+    "tags": [
+      "フィールドジャケット",
+      "前立て",
+      "軍用",
+      "ボタン"
+    ],
+    "category": "DRESS / 着る",
+    "model": "HAYES",
+    "season": "AW25",
+    "item": "hayes-aw25",
+    "title": "ジッパーをボタンの帯で覆う\nフィールドジャケットの前立て",
+    "deck": "閉じ方を二重にする。1941〜45年の一着から。",
+    "place": "米国",
+    "period": "1941〜45年",
+    "context": "前立てと襟",
+    "opening": "パリ・ミュゼが収蔵する1941〜45年の米軍M-41第2型は、綿ポプリン製で、前部のジッパーを五つのボタンが付いた帯で覆う構造を持つ。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "double",
+        "title": "二つの留め方を、重ねる。",
+        "paragraphs": [
+          "ジッパーで閉じたうえに、ボタンの帯をかぶせる。所蔵記録は、この第2型の前部をそう説明している。素材は綿のポプリンとされる。",
+          "襟の具体的な形までは、記録の本文からは特定できない。前立ての構造と襟の話は、それぞれ別に確かめたい。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "later",
+        "title": "後の規格にも、直線的な前開き。",
+        "paragraphs": [
+          "米軍のMIL-DTL-43455は、撥水生地を用いる寒冷地のフィールドコート一型を対象とし、直線的な前開きを扱っている。",
+          "年代の異なる文書であり、特定の一着の由来を示すものではない。機能としての前開きが規格の側にも書かれていることを、確認できる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "前を閉じるという一点にも、複数の部品が重なる。所蔵品と規格文書は、それぞれ違う角度からその重なりを書き残している。",
+    "bridge_title": "襟周りと前立てに、軍用の細部を。",
+    "bridge": "NICENESSのHAYESは、複数のワーク・ハンティングの要素を混成した一着で、襟周りと前立てにミリタリー由来の細部を採用すると説明される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "公式説明に参照した型式の指定はない。M-41や米軍規格をHAYESの直接の原型として扱うことはしない。",
+    "product_title": "混ぜた要素の、どこが軍用か。",
+    "product_paragraphs": [
+      "AW25のHAYESは、襟周りと前立てにミリタリー由来の細部を採用したと公式資料に記載される。",
+      "1950年代米国のカバーオール、英国のハンティングジャケット、1930年代米国消防士のキャンバスを混成した綿ダックのジャケットとされ、要素ごとに参照先が分かれている。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "hayes-aw25",
+        "model": "HAYES",
+        "season": "AW25",
+        "number": "NN-1801B16",
+        "url": "https://www.niceness.jp/products/hayes",
+        "retained": "ミリタリー由来の襟周りと前立て",
+        "changed": "1950年代米国カバーオール、英国ハンティングジャケット、1930年代米国消防士キャンバスを混成した綿ダックジャケットへ採用",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "05235f9537ee2b0a"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "(US) JACKET, FIELD, OD (SECOND TYPE - STOCK No 55-J-200-55-J-304)",
+        "publisher": "Paris Musées",
+        "url": "https://parismuseescollections.paris.fr/en/node/200752",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "MIL-DTL-43455 Coat, Cold Weather, Field",
+        "publisher": "Defense Logistics Agency",
+        "url": "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=23626",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS HAYES",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/hayes",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T269",
+    "slug": "seventies-british-trench",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "製造・様式"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "トレンチコート",
+      "英国",
+      "収蔵記録",
+      "素材"
+    ],
+    "category": "DRESS / 着る",
+    "model": "ROWAN",
+    "season": "AW26",
+    "item": "rowan-aw26",
+    "title": "複数の素材でできている\n1970年代の英国トレンチ",
+    "deck": "一着の登録欄に、綿、絹、プラスチックが並ぶ。",
+    "place": "英国",
+    "period": "1970年代",
+    "context": "トレンチコート",
+    "opening": "メトロポリタン美術館が収蔵する1970年代英国Burberryのトレンチコート一式は、綿、絹、プラスチックなど複数の素材からできていると記録されている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "materials",
+        "title": "一着を、素材の一覧で見る。",
+        "paragraphs": [
+          "所蔵記録の素材欄には、綿だけでなく絹やプラスチックも並ぶ。表地、裏地、留め具。一着のコートは、はじめから複数の材料の集まりとしてつくられている。",
+          "どの部分がどの素材なのかまでは、この記録からは読み取れない。素材名の並びと、部位の対応は別に確かめる必要がある。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "makers",
+        "title": "同じ時期の、別のメーカー。",
+        "paragraphs": [
+          "ロサンゼルス郡立美術館は、Aquascutumの男性用トレンチコートを1975年頃の所蔵品として記録している。",
+          "1970年代の英国トレンチという言い方の中には、複数のメーカーの一着が含まれる。どれか一つを代表としては扱わない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "トレンチコートという一つの呼び名の下で、素材もメーカーも一つではない。収蔵記録は、その幅を具体的な一着として残している。",
+    "bridge_title": "外形はそのまま、表裏を一枚に。",
+    "bridge": "NICENESSのROWANは、1970年代英国トレンチの外形を踏襲しつつ、表裏一枚続きの生地で形成するリバーシブルの構造へ変えたと説明される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "公式説明に参照した実物の指定はない。MetやLACMAの所蔵品をROWANの直接の原型として扱うことはしない。",
+    "product_title": "一枚の生地で、両面をつくる。",
+    "product_paragraphs": [
+      "AW26のROWANは、1970年代英国トレンチコートのアウトラインを参照したと公式資料に記載される。",
+      "表裏一枚続きのナイロン生地によるリバーシブル構造で、着脱式のシルクフリース襟と中綿を備えるロングコートへ再構築したとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "rowan-aw26",
+        "model": "ROWAN",
+        "season": "AW26",
+        "number": "NN-2301C18",
+        "url": "https://www.niceness.jp/products/rowan",
+        "retained": "1970年代英国トレンチコートのアウトライン",
+        "changed": "表裏一枚続きのナイロン生地、リバーシブル、着脱式シルクフリース襟、中綿を備えるロングコートへ再構築",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "ef5cda20b6a97ca5"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Trench coat",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/129586",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Aquascutum, Man’s Trench Coat, circa 1975",
+        "publisher": "Los Angeles County Museum of Art",
+        "url": "https://collections.lacma.org/object/205878",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS ROWAN",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/rowan",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T270",
+    "slug": "country-down-vest-records",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "販売資料・製造者の記録"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "ダウンベスト",
+      "アウトドア",
+      "カタログ",
+      "記録"
+    ],
+    "category": "DRESS / 着る",
+    "model": "ROTHER",
+    "season": "AW26",
+    "item": "rother-aw26",
+    "title": "目録と回顧に残る\n1970年代のダウンベスト",
+    "deck": "所蔵された商品目録と、メーカー自身の振り返り。残り方の違いを見る。",
+    "place": "米国",
+    "period": "1970年代",
+    "context": "ベストの記録",
+    "opening": "ユタ州立大学図書館は、The North Faceの1970年のアウトドア商品カタログを特別コレクションとして収蔵している。当時の売り場の資料が、大学の所蔵品として残されている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "where",
+        "title": "資料が、どこにあるか。",
+        "paragraphs": [
+          "1970年のカタログが、大学の特別コレクションに入っている。1970年代のアウトドア市場を調べるときは、まずこうした資料の所在から入ることになる。",
+          "ただし、そこにダウンベストがどう載っているのかは、今回の記録からは確認できない。所在が分かることと、中身を読めることは別の段階にある。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "looking-back",
+        "title": "つくった側が、後から振り返る。",
+        "paragraphs": [
+          "Crescent Down Worksの回顧ルックブックには、1970年代の男性用Down Italian Vestと女性用NxNW Corduroy Vestの写真項目が掲載されている。",
+          "これはメーカー自身による回顧の資料で、独立した博物館の記録ではない。用途や地域、当時そのままの姿かどうかの検証には限りがある。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "同じ1970年代のベストでも、大学に収まった目録と、メーカーが編んだ回顧では、確かめられる範囲が違う。資料の出どころごとに、読み方を変えておきたい。",
+    "bridge_title": "表と裏で、別の顔を持つ。",
+    "bridge": "NICENESSのROTHERは、1970年代のカントリーダウンベストを参照し、撥水・防風の表地と手捺染のシルク裏地を持つリバーシブル型と説明される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "公式説明に参照した実物の指定はない。「カントリー」という言葉が当時の何を指すのかも、今回の資料では確認できていない。",
+    "product_title": "四つの材料を、一着に組む。",
+    "product_paragraphs": [
+      "AW26のROTHERは、1970年代カントリーダウンベストを参照したと公式資料に記載される。",
+      "コモ地区産の高密度合繊、シルクツイル、鹿革の補強、手捺染の柄を組み合わせたリバーシブルのベストへ再構築したとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "rother-aw26",
+        "model": "ROTHER",
+        "season": "AW26",
+        "number": "NN-2202V18",
+        "url": "https://www.niceness.jp/products/rother",
+        "retained": "1970年代カントリーダウンベスト",
+        "changed": "コモ地区産高密度合繊、シルクツイル、鹿革補強、手捺染柄を組み合わせたリバーシブルベストへ再構築",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "1fba91db2762d08c"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "The North Face, 1970",
+        "publisher": "Utah State University Libraries",
+        "url": "https://exhibits.lib.usu.edu/items/show/22755",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "50th Anniversary Lookbook",
+        "publisher": "Crescent Down Works",
+        "url": "https://crescentdownworks.com/pages/50th-anniversary-lookbook",
+        "kind": "maker"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS ROTHER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/rother",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T271",
+    "slug": "printed-suede-craft-leather",
+    "regions": [
+      {
+        "id": "it",
+        "name": "イタリア",
+        "role": "作り手・技法の記録"
+      },
+      {
+        "id": "be",
+        "name": "ベルギー",
+        "role": "所蔵の記録"
+      }
+    ],
+    "eras": [
+      "1960s",
+      "1970s"
+    ],
+    "tags": [
+      "レザー",
+      "スエード",
+      "手仕事",
+      "収蔵記録"
+    ],
+    "category": "MAKE / つくる",
+    "model": "ROKER",
+    "season": "SS26",
+    "item": "roker-ss26",
+    "title": "軽い革に、図柄を刷る\n1970年前後の手仕事",
+    "deck": "革とスエードを、切って、刷って、綴じる。",
+    "place": "イタリア・ベルギー",
+    "period": "1960年代末〜1970年代",
+    "context": "革の手仕事",
+    "opening": "ASU FIDM Museumは、Cavalliが1960年代末から70年代初頭にかけて軽量の革やスエードへ印刷する技法を発展させ、単体の衣料にもパッチワークの衣料にも用いたと説明している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "printing",
+        "title": "革を、刷るための面として扱う。",
+        "paragraphs": [
+          "厚い素材を裁って縫うだけでなく、軽い革やスエードの表面へ図柄を刷る。同館は、その技法が1960年代末から70年代初頭にかけて発展したと説明する。",
+          "一枚仕立ての衣料にも、継ぎ合わせたパッチワークにも使われたとされる。技法と、仕立ての形は、それぞれ別に選ばれている。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "lacing",
+        "title": "革ひもで、部品をつなぐ。",
+        "paragraphs": [
+          "ブリュッセルのMode & Kant Museumが収蔵する1970年のスエードの上下には、短いベストに革ひもの留めと小型のパッチポケットが付いている。",
+          "どこで誰がつくったのかは、記録からは確認できない。留め方とポケットという具体の部分だけを、まず受け取っておく。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "刷ること、継ぐこと、ひもで留めること。1970年前後の革の衣料には、布とは違う手順がいくつも重なっている。",
+    "bridge_title": "三種の革を、一枚のシャツジャケットへ。",
+    "bridge": "NICENESSのROKERは、1970年代のクラフトレザー衣料を着想源に、三種の革を使う独自のパターンのシャツジャケットと説明される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "公式説明に参照した実物の指定はない。Cavalliの技法やMode & Kant Museumの所蔵品を、ROKERの直接の原型として扱うことはしない。",
+    "product_title": "重さを抑えるための、革の選び分け。",
+    "product_paragraphs": [
+      "SS26のROKERは、1970年代クラフトレザー衣料を着想源としたシャツジャケットと公式資料に記載される。",
+      "ヘアシープスエード、メッシュのヘアシープ、南米ペッカリーを組み合わせ、軽さを持たせたとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "roker-ss26",
+        "model": "ROKER",
+        "season": "SS26",
+        "number": "NN-0201B17( Limited )",
+        "url": "https://www.niceness.jp/products/roker-26ss",
+        "retained": "1970年代クラフトレザー衣料",
+        "changed": "ヘアシープスエード、メッシュヘアシープ、南米ペッカリーを組み合わせた軽いシャツジャケットへ変更",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "8f54e1e6de85d52d"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Roberto Cavalli poncho c. 1970",
+        "publisher": "ASU FIDM Museum",
+        "url": "https://asufidmmuseum.asu.edu/learn/articles/roberto-cavalli-poncho-c-1970",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Ensemble vest en rok",
+        "publisher": "Mode & Kant Museum",
+        "url": "https://collections.heritage.brussels/nl/objects/57847",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS ROKER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/roker-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T272",
+    "slug": "artist-portrait-leather-jacket",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "肖像の記録"
+      },
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "製造"
+      }
+    ],
+    "eras": [
+      "1980s"
+    ],
+    "tags": [
+      "レザージャケット",
+      "肖像",
+      "1980年代",
+      "収蔵記録"
+    ],
+    "category": "DRESS / 着る",
+    "model": "SAMO",
+    "season": "AW24",
+    "item": "samo-aw24",
+    "title": "肖像に写る\n1980年代の革ジャケット",
+    "deck": "着ている人の姿として残る服と、所蔵品として残る服。",
+    "place": "米国・フランス",
+    "period": "1980年代",
+    "context": "革のジャケット",
+    "opening": "RISD Museumは、Robert Mapplethorpeの1980年のSelf-Portraitについて、本人が革のジャケットを着て反逆者として自らを表したと説明している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "self",
+        "title": "服が、自己の表し方になる。",
+        "paragraphs": [
+          "写真の中で、革のジャケットは身につけた物であると同時に、どう見られたいかの表明でもある。同館はその自己表象について解説している。",
+          "これは1980年代の現代アーティストの一例にすぎない。特定の人物を、ブランドの参照先と結び付ける根拠にはならない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "collected",
+        "title": "同じ時代の、一着として残る。",
+        "paragraphs": [
+          "メトロポリタン美術館は、Jean Paul Gaultierによる1980年代後半のフランス製革ジャケットを所蔵している。",
+          "こちらはアーティストの着用品ではなく、同時代の一着として収蔵された記録になる。肖像に写る服と、所蔵される服は、別の経路で残っている。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "写真に残る服と、収蔵庫に残る服。どちらも1980年代の革ジャケットだが、そこから言えることは同じではない。",
+    "bridge_title": "馬革で、乗馬の形へ。",
+    "bridge": "NICENESSのSAMOは、1980年代の現代アーティストが着用した革ジャケットを着想源とする、馬革製のホースライディングジャケットと説明される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "公式説明に、着想源とされた人物や実物の指定はない。Mapplethorpeの肖像をSAMOの参照先として扱うことはしない。",
+    "product_title": "鞣しと補強の、選び方。",
+    "product_paragraphs": [
+      "AW24のSAMOは、1980年代の現代アーティストが着用した革ジャケットを着想源とすると公式資料に記載される。",
+      "フルタンニンのピット鞣しによるオイルド馬革を用い、襟とカフスをホースバットで補強した乗馬ジャケットとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "samo-aw24",
+        "model": "SAMO",
+        "season": "AW24",
+        "number": "NN-0301B14  ( Limited )",
+        "url": "https://www.niceness.jp/products/samo",
+        "retained": "1980年代の現代アーティストが着用した革ジャケット",
+        "changed": "フルタンニンのピット鞣しオイルド馬革を用い、襟・カフスをホースバットで補強した乗馬ジャケットへ変更",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "3f0c1d317d3496d9"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Self-Portrait",
+        "publisher": "RISD Museum",
+        "url": "https://risdmuseum.org/art-design/collection/self-portrait-199697",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Jacket",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/80717",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS SAMO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/samo",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T274",
+    "slug": "laced-leather-vest",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "製作の記録"
+      },
+      {
+        "id": "nz",
+        "name": "ニュージーランド",
+        "role": "技法の解説"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "ベスト",
+      "レザー",
+      "手仕事",
+      "収蔵記録"
+    ],
+    "category": "MAKE / つくる",
+    "model": "KRAVITZ",
+    "season": "SS26",
+    "item": "kravitz-ss26",
+    "title": "穴を開けて、ひもで組む\n1970年代の革ベスト",
+    "deck": "縫うのとは違う組み立て方が、同じ年代の記録に残っている。",
+    "place": "英国・ニュージーランド",
+    "period": "1971〜72年・1970年代",
+    "context": "ベストの仕立て",
+    "opening": "裁った革へ穴を開け、革ひもで組み立てる。ニュージーランド・ファッション・ミュージアムは、1970年代の革ベストをそうした手工芸的な衣料の例として説明している。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "lacing",
+        "title": "縫わずに、つなぐ。",
+        "paragraphs": [
+          "革を裁ち、縁に穴を開け、ひもを通して組む。ミシンで縫い合わせる方法とは別の手順が、同時代の衣料として紹介されている。",
+          "この説明は1970年代の革ベスト一般に向けたもので、特定の型の資料ではない。手順が存在したことを、まず受け取っておく。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "maker",
+        "title": "つくった人の名前が残る。",
+        "paragraphs": [
+          "ロンドン博物館が収蔵する1971〜72年ロンドン製の革のベストは、革ジャケットと鞄のデザイナーであるIan Mankinに関係するものとして記録されている。",
+          "ここでも、ポケットの構造や型の名称までは確認できない。作り手の名前と、製作の年と場所が、いま分かる範囲になる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "縫い目ではなく、穴とひもで形になる服がある。革という素材は、組み立ての手順そのものを変えてしまう。",
+    "bridge_title": "羊革とペッカリーで、ベストへ。",
+    "bridge": "NICENESSのKRAVITZは、1970年代のキャリーオールジャケットを参照し、羊革とペッカリーで構成するベストへ更新したと説明される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "キャリーオールという型名やそのポケット構造は、今回の資料では確認できていない。所蔵品をKRAVITZの直接の原型として扱うこともしない。",
+    "product_title": "前ポケットだけ、別の革で。",
+    "product_paragraphs": [
+      "SS26のKRAVITZは、1970年代キャリーオールジャケットを参照したベストと公式資料に記載される。",
+      "二種の羊革に、前ポケットの南米ペッカリーを組み合わせ、通気性を持たせたとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "kravitz-ss26",
+        "model": "KRAVITZ",
+        "season": "SS26",
+        "number": "NN-0202V17( Limited )",
+        "url": "https://www.niceness.jp/products/kravitz-26ss",
+        "retained": "1970年代キャリーオールジャケット",
+        "changed": "羊革二種と前ポケットの南米ペッカリーを組み合わせた通気性のあるベストへ更新",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "76fcc97eb6528ff7"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H02",
+        "title": "Leather mini & vest",
+        "publisher": "New Zealand Fashion Museum",
+        "url": "https://www.nzfashionmuseum.org.nz/l/leather-mini-vest/",
+        "kind": "history"
+      },
+      {
+        "id": "H01",
+        "title": "Waistcoat",
+        "publisher": "London Museum",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-85021/waistcoat/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS KRAVITZ",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/kravitz-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T289",
+    "slug": "american-style-jacket-range",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "販売と所蔵の記録"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s"
+    ],
+    "tags": [
+      "ジャケット",
+      "広告",
+      "収蔵記録",
+      "分類"
+    ],
+    "category": "DRESS / 着る",
+    "model": "B.MAXIM",
+    "season": "SS26",
+    "item": "b-maxim-ss26",
+    "title": "一つの型を指していない\nAmerican styleのジャケット",
+    "deck": "広告の商品欄と、美術館の所蔵欄。どちらも一つの答えを出していない。",
+    "place": "米国",
+    "period": "1947〜55年",
+    "context": "呼び名と分類",
+    "opening": "1952年の米国の新聞広告は、leisure jacket、corduroy jacket、nylonとrayonコードのsports jacket、tartan woolのsports jacketを、それぞれ別の商品として並べている。",
+    "opening_refs": [
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "counter",
+        "title": "売り場は、細かく分けている。",
+        "paragraphs": [
+          "同じ紙面に、素材ごと・用途ごとに名前の違うジャケットが並ぶ。sports jacketという言葉さえ、素材の違いで別の商品として立てられている。",
+          "当時の市場そのものが、American styleという一語を一つの型へまとめていない。売り場の分類は、その幅を示す資料になる。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      },
+      {
+        "id": "sparse",
+        "title": "所蔵欄には、書かれないこともある。",
+        "paragraphs": [
+          "メトロポリタン美術館が収蔵する1950〜55年の米国製ジャケットは、麻素材として登録されている。",
+          "用途も着用者も細部も、記録からは確認できない。年代と素材と製作地だけが残っている一着もある。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "occasion",
+        "title": "同じ「ジャケット」でも、場面が違う。",
+        "paragraphs": [
+          "同館が収蔵する約1947年のCharles James製イブニングジャケットは綿製で、複雑な縫目と内部構造による造形が同デザイナーの特徴だと解説される。",
+          "これはsports jacketでも、男性用のカジュアルな上着でもない。同じ年代の「ジャケット」を並べるときは、着る場面ごとに分けて見ておきたい。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "呼び名は、時代の中で幅を持って使われる。広告の分類と所蔵の記録を突き合わせると、その幅のほうが先に見えてくる。",
+    "bridge_title": "米国の型に、日本の風景を刷る。",
+    "bridge": "NICENESSのB.MAXIMは、1940〜50年代のAmerican styleを参照したスポーツジャケットに、東海道五十三次に着想した帆船・富士山・桜・松の図柄を抜染と手刷りで描いたと公式資料に記載される。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "公式説明に、参照した具体的な一着や型の指定はない。広告や所蔵記録の例を、B.MAXIMの原型として扱うことはしない。",
+    "product_title": "北陸で織り、京都で刷る。",
+    "product_paragraphs": [
+      "SS26のB.MAXIMは、1940〜50年代American styleのスポーツジャケット型を参照したと公式資料に記載される。",
+      "北陸製のレーヨン綿ギャバジンへ京都で抜染と手刷りを施し、日本の風景の図柄とフェード加工を加えたとされる。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "b-maxim-ss26",
+        "model": "B.MAXIM",
+        "season": "SS26",
+        "number": "NN-1301B17",
+        "url": "https://www.niceness.jp/products/b-maxim-26ss",
+        "retained": "1940〜50年代American styleのsports jacket型",
+        "changed": "北陸製rayon・cotton gabardineに京都で抜染・手刷りを施し、日本風景の図柄とfade加工を加える",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "92fc797619d9b2dc"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H03",
+        "title": "The Evening Star, September 4, 1952",
+        "publisher": "Library of Congress",
+        "url": "https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_borisgodunov_ver01/data/sn83045462/0028060608A/1952090401/0496.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "H01",
+        "title": "Jacket",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/174412",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Evening jacket",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/156233",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS B.MAXIM",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/b-maxim-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T293",
+    "slug": "kimono-sleeve-ends",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "構造・所蔵の記録"
+      }
+    ],
+    "eras": [
+      "1900s",
+      "1930s",
+      "1950s"
+    ],
+    "tags": [
+      "着物",
+      "袖",
+      "沖縄",
+      "収蔵記録"
+    ],
+    "category": "MAKE / つくる",
+    "model": "LALLY",
+    "season": "SS25",
+    "item": "lally-ss25",
+    "title": "袖の端の形が違う\n各地の着物",
+    "deck": "一反から仕立てるという共通点の先に、地域ごとの違いがある。",
+    "place": "日本",
+    "period": "1900〜50年ほか",
+    "context": "袖のかたち",
+    "opening": "日本政府の広報資料は、着物の前後の身頃と袖を、幅約38センチ・長さ12〜13メートルの一反から縫うと説明する。身体に合わせて立体裁断する西洋の服とは異なる、単純な形だとされる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "bolt",
+        "title": "一反から、身頃と袖を取る。",
+        "paragraphs": [
+          "幅も長さも決まった一反の布から、前後の身頃と袖を取る。同資料は、それを立体裁断とは異なる単純な形と説明している。",
+          "ただし、個々の袖の寸法までがここで決まるわけではない。共通する仕立ての枠組みと、袖ごとの形は別の話になる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "okinawa",
+        "title": "沖縄の着物には、筒の袖。",
+        "paragraphs": [
+          "スペンサー美術館が収蔵する沖縄の着物は、長い襟と筒袖を沖縄衣装に特徴的な構造として説明され、糸芭蕉の繊維と綿の経縞を用いている。",
+          "これを本土の着物一般へ広げることはしない。地域ごとの構造の違いが袖の端にも表れている例として、置いておく。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "curve",
+        "title": "外端を、曲線で仕上げる。",
+        "paragraphs": [
+          "大英博物館が収蔵する1900〜50年の日本製女性用着物は、外端を曲線で仕上げた袖を持ち、袖幅を含む全幅126センチの絹クレープ製と記録される。",
+          "地域は日本以上には特定されていない。年代の幅も広く、特定の時期の袖と同じものとしては扱えない。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "一反から取るという共通の枠の中で、袖の端は筒にも曲線にもなる。共通点と違いを、同じ強さで見ておきたい。",
+    "bridge_title": "大きな袖を、厚手のジャージーで。",
+    "bridge": "NICENESSのLALLYは、1930〜40年代のスポーツウェアと着物の袖から着想した大きな袖を、タスマニアウールとカシミヤを混紡した長いループのボアジャージーに用いたと公式資料に記載される。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "公式説明に、参照した着物の地域や実物の指定はない。沖縄の筒袖や大英博物館の一着を、LALLYの原型として扱うことはしない。",
+    "product_title": "袖の大きさを、編み地で支える。",
+    "product_paragraphs": [
+      "SS25のLALLYは、着物の袖と1930〜40年代スポーツウェアから着想した大きな袖を持つと公式資料に記載される。",
+      "タスマニアウールとカシミヤの混紡で長いループを出した厚手のボアジャージーを用い、スウェットフーディーへ再構成したとされる。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "lally-ss25",
+        "model": "LALLY",
+        "season": "SS25",
+        "number": "NN-2801J15",
+        "url": "https://www.niceness.jp/products/lally",
+        "retained": "着物袖と1930〜40年代sportswearから着想した大きな袖",
+        "changed": "Tasmania wool・cashmereの長いloopをもつ厚手boa jerseyのsweat hoodieへ再構成",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "9c520206b9251230"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Aesthetic Essentials: Kimono",
+        "publisher": "Government of Japan",
+        "url": "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201211/201211_04.html",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Kimono",
+        "publisher": "Spencer Museum of Art",
+        "url": "https://spencerart.ku.edu/art/collections-online/object/18143",
+        "kind": "history"
+      },
+      {
+        "id": "H03",
+        "title": "Kimono",
+        "publisher": "British Museum",
+        "url": "https://www.britishmuseum.org/collection/object/A_1987-1005-21",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS LALLY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lally",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T298",
+    "slug": "sixties-london-secondhand-search",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "流行と売り場の記録"
+      },
+      {
+        "id": "cn",
+        "name": "中国",
+        "role": "現行品の縫製地"
+      }
+    ],
+    "eras": [
+      "1960s"
+    ],
+    "tags": [
+      "ロンドン",
+      "1960年代",
+      "古着",
+      "シャツ"
+    ],
+    "category": "DRESS / 着る",
+    "model": "MAO",
+    "season": "AW24",
+    "item": "mao-aw24",
+    "title": "古着の棚から、遠くの服を探す\n1960年代のロンドン",
+    "deck": "若者向けの売り場が育った街で、別の文化の服が選ばれていく。",
+    "place": "英国・ロンドン",
+    "period": "1960年代",
+    "context": "若者と服の探しかた",
+    "opening": "V&Aは、1960年代のロンドンで若者向けのファッション市場とブティック街が発達し、後半にはカウンターカルチャーと結びついた非西洋の文化の服が、別の装いのために使われたと説明している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "market",
+        "title": "売り場が、先にできる。",
+        "paragraphs": [
+          "若者へ向けた市場と、ブティックの並ぶ街。まず服を選べる場所が整い、そこへ別の文化の服が入ってくる、という順番が記されている。",
+          "同記事が例に挙げるのは主にインド由来の衣服で、中国風のシャツの着用を直接裏付けるものではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "secondhand",
+        "title": "中古の棚から、探す。",
+        "paragraphs": [
+          "同館は、1960年代末の英国で反消費主義的な気分と、歴史や他文化への関心が高まり、若者が古着店で多様な地域の衣服を探したと説明する。",
+          "どの型を、どこでつくられたものとして買っていたのかまでは特定されない。探す行為そのものが記録されている、という段階になる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "新しく売られる服と、棚から見つけ出す服。1960年代のロンドンでは、その両方が同じ若者の装いの中に並んでいた。",
+    "bridge_title": "チェックのオックスフォードで、現代化する。",
+    "bridge": "NICENESSのMAOは、1960年代以降のカウンターカルチャーに傾倒した若者が好んだというチャイナシャツとチャイナノットを、英国風のチェックのオックスフォードとドレスシャツ級のステッチ、共生地のノットで現代化し、中国で製作したと公式資料に記載される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "着用地域、具体的な集団、参照した実物、型の歴史的名称は公式に明記されていない。V&Aが説明する1960年代の状況を、そのままチャイナシャツの着用の証拠として扱うことはしない。",
+    "product_title": "型は中国風、生地は英国風。",
+    "product_paragraphs": [
+      "AW24のMAOは、1960年代以降のカウンターカルチャーに傾倒した若者が好んだというチャイナシャツを現代化したと公式資料に記載される。",
+      "英国風のチェックのオックスフォードに、ドレスシャツ級のステッチと共生地のノットを合わせ、中国で製作したとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "mao-aw24",
+        "model": "MAO",
+        "season": "AW24",
+        "number": "NN-6203Y14",
+        "url": "https://www.niceness.jp/products/mao",
+        "retained": "1960年代以降のcountercultureに傾倒したyouthが好んだというchina shirtとchina knot",
+        "changed": "British-like check oxford、dress-shirt級stitch、共生地knotで現代化し中国で製作",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "5e71e816eb36aec1"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "An introduction to 1960s fashion",
+        "publisher": "Victoria and Albert Museum",
+        "url": "https://www.vam.ac.uk/articles/an-introduction-to-1960s-fashion",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "The peacock revolution: 1960s UK menswear",
+        "publisher": "Victoria and Albert Museum",
+        "url": "https://www.vam.ac.uk/articles/the-peacock-revolution-1960s-menswear",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS MAO",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/mao",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T299",
+    "slug": "chanoyu-and-rikyu",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "茶の湯の記録"
+      }
+    ],
+    "eras": [
+      "1500s",
+      "1980s"
+    ],
+    "tags": [
+      "茶道",
+      "千利休",
+      "記録",
+      "Tシャツ"
+    ],
+    "category": "DRESS / 着る",
+    "model": "T.ATHENA",
+    "season": "SS25",
+    "item": "t-athena-ss25",
+    "title": "道具をつくらせ、人を招く\n千利休の記録",
+    "deck": "思想の要約より先に、資料に残っているのは具体の振る舞いだった。",
+    "place": "日本・京都",
+    "period": "1522〜1591年",
+    "context": "茶の湯の記録",
+    "opening": "京都国立博物館は、千利休を1522年から1591年の茶人とし、信長・秀吉に仕え、同時代の茶の伝統を体現しながら独自の道具の制作を促し、日本独自の茶の実践の発展に関わったと説明している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "utensils",
+        "title": "道具をつくらせる、という関わり方。",
+        "paragraphs": [
+          "茶をたてる人であると同時に、道具をつくらせる人でもある。同館の説明は、利休の役割をそう位置づけている。",
+          "ただし、ここで「道」という概念に対応する利休自身の特定の言葉が示されているわけではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "letter",
+        "title": "一通の手紙が残る。",
+        "paragraphs": [
+          "メトロポリタン美術館が所蔵する約1583年の千利休の書状は、酒への礼として堺の茶仲間を茶会へ招き、秀吉へ分ける意向を記したものと解説される。",
+          "思想の要約ではなく、誰を招き、何をどう分けるかという具体の記述になる。手紙は、そうした日常の側から残っている。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "branches",
+        "title": "茶は、一つの流れではない。",
+        "paragraphs": [
+          "承天閣美術館は、茶の文化が大陸から日本へ伝わって仏教と結びつき、武家の茶から利休のわび茶、その後の流派へと多様化したと説明する。",
+          "単一の「日本の精神文化」へ還元しないほうがいい。伝来、結びつき、分岐という段階が、それぞれ資料として書かれている。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "人を招く手紙、道具をつくらせた役割、流派へ分かれていく流れ。茶の湯は、いくつもの具体の積み重ねとして残されている。",
+    "bridge_title": "茶道の図案を、リンガーTへ。",
+    "bridge": "NICENESSのT.ATHENAは、1980年代のスポーツTシャツを参照し、浮世絵を想起させる茶道の図案で「道」の概念を千利休の哲学になぞらえたと公式資料に記載される。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "利休の具体的な史料や文言は、公式説明に明記されていない。博物館資料が伝える利休の活動と、ブランドが述べる哲学の説明は、分けて読んでおきたい。",
+    "product_title": "1980年代の型に、茶道の図。",
+    "product_paragraphs": [
+      "SS25のT.ATHENAは、1980年代のスポーツTシャツ型を参照したと公式資料に記載される。",
+      "浮世絵を想起させる独自の茶道図案を、綿天竺に配色のバインダーを合わせたリンガーTへ落とし込んだとされる。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "t-athena-ss25",
+        "model": "T.ATHENA",
+        "season": "SS25",
+        "number": "NN-5201J15",
+        "url": "https://www.niceness.jp/products/t-athena",
+        "retained": "日本の「道」の概念を千利休の哲学になぞらえる説明",
+        "changed": "1980年代sports T-shirt型、浮世絵を想起させる独自茶道図案、綿天竺、配色binderのringer Teeへ再構成",
+        "factRefs": [
+          "F04"
+        ],
+        "sourceKey": "ac723b806fdd1cfe"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Chanoyu: Tea in the Cultural Life of Kyoto",
+        "publisher": "Kyoto National Museum",
+        "url": "https://www.kyohaku.go.jp/eng/exhibitions/special/chanoyu_2022/",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Letter about Sake",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/830711",
+        "kind": "history"
+      },
+      {
+        "id": "H03",
+        "title": "Tea Ceremony",
+        "publisher": "Jotenkaku Museum / Shokoku-ji",
+        "url": "https://www.shokoku-ji.jp/en/museum/exhibition/chanoyu/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS T.ATHENA",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/t-athena",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T302",
+    "slug": "beltless-trouser-waist",
+    "regions": [
+      {
+        "id": "au",
+        "name": "オーストラリア",
+        "role": "実物の記録"
+      }
+    ],
+    "eras": [
+      "1900s",
+      "1940s"
+    ],
+    "tags": [
+      "スラックス",
+      "腰",
+      "軍用",
+      "収蔵記録"
+    ],
+    "category": "DRESS / 着る",
+    "model": "HOWLETT",
+    "season": "SS26",
+    "item": "howlett-ss26",
+    "title": "背中のストラップで腰を合わせる\n1942年のトラウザー",
+    "deck": "ベルトを使わずに、どこで寸法を調整するか。",
+    "place": "オーストラリア",
+    "period": "1942年・1902年頃",
+    "context": "腰の調整",
+    "opening": "オーストラリア戦争記念館が収蔵する1942年のスーツのトラウザーは、前にプリーツを持たず、左右のウエストバンドと背面のストラップ・バックルでフィットを調整する構造になっている。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "adjust",
+        "title": "ベルト以外の、合わせ方。",
+        "paragraphs": [
+          "左右に分かれたウエストバンドと、背面のストラップとバックル。この一本は、腰まわりの寸法をそこで合わせるようにつくられている。",
+          "これは軍需統制下でつくられた民間のスーツで、軍服ではない。材料を抑えるという条件が、前のプリーツをなくす形と並んでいる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "unspecified",
+        "title": "記録が、地域を決めないこともある。",
+        "paragraphs": [
+          "メトロポリタン美術館は、約1902年のアメリカまたはヨーロッパの軍用トラウザーを所蔵しているが、媒体や構造の細部は記載されていない。",
+          "どちらの地域かも定まっていない。年代だけが分かっていて、地域や構造は保留されたまま残る記録もある。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "腰をどこで合わせるかは、ベルトだけの話ではない。記録の側も、分かっていることと分からないことを並べて残している。",
+    "bridge_title": "ベルトを使わない仕様で、深く折る。",
+    "bridge": "NICENESSのHOWLETTは、日本と西洋の美意識を背景にミリタリーとドレスを融合し、ベルトレス仕様と深いインタックを用いたと公式資料に記載される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "参照した具体的な軍服の型・国・年代や、細部の由来は公式に明記されていない。所蔵品をHOWLETTの原型として扱うことはしない。",
+    "product_title": "ミリタリーとドレスの、あいだ。",
+    "product_paragraphs": [
+      "SS26のHOWLETTは、ミリタリーとドレスの構造を融合し、ベルトレス仕様と深いインタックを用いたと公式資料に記載される。",
+      "レーヨン綿ギャバジンにフェード加工を施し、快適なフィットと可動性を備えたスラックスとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "howlett-ss26",
+        "model": "HOWLETT",
+        "season": "SS26",
+        "number": "NN-1305T17",
+        "url": "https://www.niceness.jp/products/howlett-26ss",
+        "retained": "militaryとdressの構造、beltless仕様、深いintuck",
+        "changed": "rayon-cotton gabardine、fade加工、快適なfitと可動性を備えたslacksへ融合",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "390d4c95c49e8bf7"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H02",
+        "title": "Victory Suit trousers: Mr John J Dedman",
+        "publisher": "Australian War Memorial",
+        "url": "https://www.awm.gov.au/collection/C212577",
+        "kind": "history"
+      },
+      {
+        "id": "H01",
+        "title": "Military trousers",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/92134",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS HOWLETT",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/howlett-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T314",
+    "slug": "storm-flap-hunting-suit",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵の記録"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1960s"
+    ],
+    "tags": [
+      "ハンティング",
+      "ウール",
+      "フラップ",
+      "収蔵記録"
+    ],
+    "category": "DRESS / 着る",
+    "model": "KIRKLAND",
+    "season": "SS26",
+    "item": "kirkland-ss26",
+    "title": "風と雨を止める\nハンティングスーツの細部",
+    "deck": "約1960年の上下一式に、ストームフラップとネックタブが付いている。",
+    "place": "米国",
+    "period": "1960年頃",
+    "context": "防寒と防候",
+    "opening": "メトロポリタン美術館が収蔵する約1960年のWoolrichのハンティングスーツは、ウールのフィールドコートとパンツからなり、ストームフラップとネックタブによって風雨と寒さへ対応する。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "closing",
+        "title": "前と首を、もう一段閉じる。",
+        "paragraphs": [
+          "上着の前にストームフラップ、首元にネックタブ。どちらも、開いたままでは入ってくるものを止めるための部分になる。",
+          "上下一式として残っていることも手がかりになる。コート単体ではなく、パンツと合わせた装備として記録されている。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "colour",
+        "title": "色と柄が、用途と結び付く。",
+        "paragraphs": [
+          "同館は、赤と黒のプレイド、赤色、そしてウールのフィールドコートが、米国のアウトドアやハンティングの衣服と結びついたと説明している。",
+          "ただしこれは、特定の一着の由来を示すものではない。色や柄の連想と、個別の型の話は分けておきたい。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "風を止める布の重ね方と、遠くからも分かる色。狩りの服には、性質の違う二つの条件が同時に置かれている。",
+    "bridge_title": "細部を削って、可変にする。",
+    "bridge": "NICENESSのKIRKLANDは、1950年代USのハンティングジャケットとワークシャツを参照したハーフスリーブ型と公式資料に記載される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "ハンティング側のブランド・製品・採用した細部は、公式に明記されていない。約1960年のWoolrichの一式をKIRKLANDの原型として扱うことはしない。",
+    "product_title": "重ねることを、前提にする。",
+    "product_paragraphs": [
+      "SS26のKIRKLANDは、1950年代USのハンティングジャケットとワークシャツを参照したハーフスリーブ型と公式資料に記載される。",
+      "高密度のタンブルチノで細部を削り、レイヤリングとウエストのドローコードによる可変性を加えたシャツブルゾンとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "kirkland-ss26",
+        "model": "KIRKLAND",
+        "season": "SS26",
+        "number": "NN-2301Y17",
+        "url": "https://www.niceness.jp/products/kirkland-26ss",
+        "retained": "1950年代US hunting jacketのhalf-sleeve型",
+        "changed": "高密度tumbled chinoでdetailを削り、layeringとwaist drawcordの可変性を加えたshirt blousonへ変更",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "3d66e79327128bd3"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Hunting suit",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/159490",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS KIRKLAND",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/kirkland-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T316",
+    "slug": "chosen-field-jacket-model",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "所蔵・製造の記録"
+      }
+    ],
+    "eras": [
+      "1960s",
+      "1970s"
+    ],
+    "tags": [
+      "フィールドジャケット",
+      "軍用",
+      "M-65",
+      "M-1951"
+    ],
+    "category": "DRESS / 着る",
+    "model": "LYNELL",
+    "season": "SS26",
+    "item": "lynell-ss26",
+    "title": "新しい型が出ても、前の型を選ぶ\nフィールドジャケット",
+    "deck": "将軍が1973〜76年に着ていたのは、M65ではなくM1951だった。",
+    "place": "米国",
+    "period": "1965〜76年",
+    "context": "型式の選択",
+    "opening": "米陸軍輸送博物館は、DePuy将軍が1973年から76年にかけて着たフィールドジャケットを所蔵し、M65の導入後もM1951が端正で糊付けできるために好まれたと説明している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "overlap",
+        "title": "新旧が、同時に着られている。",
+        "paragraphs": [
+          "新しい型が採用されても、前の型がすぐに消えるわけではない。同館は、端正に見えること、糊付けできることを、M1951が選ばれ続けた理由として記している。",
+          "一人の着用者の一着から言えることには限りがある。それでも、型式の交代が一度に起きるわけではないことは確かめられる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "contract",
+        "title": "契約の年と、広がった先。",
+        "paragraphs": [
+          "Alpha Industriesは、1965年に米国防総省からM-65フィールドジャケットの初回契約を受けたと記し、1970年代には民間のカウンターカルチャーにも着られたとしている。",
+          "これはメーカー自身による記述になる。契約の年と、軍の外へ広がった時期は、それぞれ別の話として読んでおきたい。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "採用された年、好まれ続けた理由、軍の外へ出ていった時期。一つの型式の歴史は、複数の時間の重なりでできている。",
+    "bridge_title": "三国の要素を、一着に織り交ぜる。",
+    "bridge": "NICENESSのLYNELLは、1970年代の米国・英国・フランスのフィールドジャケットの要素を織り交ぜたオリジナルの型と公式資料に記載される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "米国側の型式や採用した部位は、公式に明記されていない。M-65やM1951をLYNELLの原型として扱うことはしない。",
+    "product_title": "三層のダックで、天候に備える。",
+    "product_paragraphs": [
+      "SS26のLYNELLは、1970年代のUS・UK・Franceのフィールドジャケットの要素を統合したと公式資料に記載される。",
+      "三層構造の綿ダックにエイジングの外観を与え、防水・防風と裏面のシームテープを備えた中国縫製のジャケットとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "lynell-ss26",
+        "model": "LYNELL",
+        "season": "SS26",
+        "number": "NN-0501B17",
+        "url": "https://www.niceness.jp/products/lynell-26ss",
+        "retained": "1970年代US・UK・France field jacketの要素",
+        "changed": "3-layer cotton duck、aged外観、防水・防風、裏面seam tapeを持つ中国縫製jacketへ統合",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "078ebcac2dec4589"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "General William E. DePuy Field Jacket",
+        "publisher": "U.S. Army Transportation Museum",
+        "url": "https://transportation.army.mil/museum/AOTM/2023/may_2023.html",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Origins of the Heritage Collection",
+        "publisher": "Alpha Industries",
+        "url": "https://www.alphaindustries.com/pages/heritage-lp",
+        "kind": "maker"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS LYNELL",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lynell-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T318",
+    "slug": "raf-service-trousers",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "製造・所蔵の記録"
+      }
+    ],
+    "eras": [
+      "1940s"
+    ],
+    "tags": [
+      "トラウザー",
+      "軍用",
+      "サスペンダー",
+      "補強"
+    ],
+    "category": "DRESS / 着る",
+    "model": "MALDOON",
+    "season": "AW24",
+    "item": "maldoon-aw24",
+    "title": "サスペンダーのための高い腰\n1941年の英空軍トラウザー",
+    "deck": "ボタンの位置と補強から、どう支えていたかを読む。",
+    "place": "英国",
+    "period": "1941年・1945年",
+    "context": "腰の支え方",
+    "opening": "1941年に英国でつくられた英空軍のサービストラウザーは、ボタンフライ、サイドポケット、サスペンダー用の高い背中のウエストとボタン、そしてウエストと股の補強を備えている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "high-back",
+        "title": "背中側を、高くする。",
+        "paragraphs": [
+          "サスペンダーで吊るなら、背中側のウエストが高いほうが支えやすい。この一本には、そのための高いウエストとボタンが付いている。",
+          "ウエストと股には補強が入る。力のかかる場所と、支えるための構造が、同じ一本の中に並んでいる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "another-pattern",
+        "title": "別の型式も、同じ時期にある。",
+        "paragraphs": [
+          "国立陸軍博物館は、1945年のユニバーサルパターンのバトルドレストラウザーを、1939年に採用された実戦勤務用の英国陸軍の軍服として位置づけている。",
+          "空軍と陸軍、勤務服と実戦服。同じ英国の1940年代でも、型式はひとまとまりではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "腰をどう支えるかという一点にも、軍種と用途ごとの答えがある。補強の位置は、その答えの痕跡として残る。",
+    "bridge_title": "三国のチノを、一本へ。",
+    "bridge": "NICENESSのMALDOONは、1940〜50年代の英・仏・米のミリタリーチノの要素を組み合わせたと公式資料に記載される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "英国側の型式や採用した細部は、公式に明記されていない。1941年の空軍トラウザーや1945年のバトルドレスを、MALDOONの原型として扱うことはしない。",
+    "product_title": "上質な綿糸へ、要素を統合する。",
+    "product_paragraphs": [
+      "AW24のMALDOONは、1940〜50年代の英・仏・米のミリタリーチノの要素を組み合わせたと公式資料に記載される。",
+      "上質な綿糸のチノトラウザーへ三国の要素を統合し、エイジング加工を施したとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "maldoon-aw24",
+        "model": "MALDOON",
+        "season": "AW24",
+        "number": "NN-1409T14",
+        "url": "https://www.niceness.jp/products/maldoon",
+        "retained": "1940〜50年代英仏米military chinoの要素",
+        "changed": "上質な綿糸のchino trousersに三国要素を統合しaging加工",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "0b4d942547b2dcf0"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Pantalon de service, armée de l’air britannique",
+        "publisher": "Musées de Reims",
+        "url": "https://musees-reims.fr/oeuvre/pantalon-de-service-armee-de-lair-britannique-aviateur",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Battle dress trousers, universal pattern, 1945",
+        "publisher": "National Army Museum, London",
+        "url": "https://collection.nam.ac.uk/detail.php?acc=1980-04-23-11",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS MALDOON",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/maldoon",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T327",
+    "slug": "khaki-trouser-production",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "生産と仕様の記録"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s"
+    ],
+    "tags": [
+      "カーキ",
+      "トラウザー",
+      "生産",
+      "規格"
+    ],
+    "category": "MAKE / つくる",
+    "model": "BOWIE",
+    "season": "AW24",
+    "item": "bowie-aw24",
+    "title": "日産1300本の記録\n綿カーキのトラウザー",
+    "deck": "つくられた量と、後から変わった仕様。",
+    "place": "米国",
+    "period": "1941年・1954年・1958年",
+    "context": "生産と仕様",
+    "opening": "1941年のケンタッキーの工場では、米陸軍の需品科の規格に従って、綿カーキとウールサージのトラウザーが34のサイズで、一日あたり1300本つくられていた。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "scale",
+        "title": "数と、サイズの幅。",
+        "paragraphs": [
+          "一日1300本、34のサイズ。米国議会図書館が公開する当時の記録には、規模と幅がそのまま書かれている。",
+          "どんな服かという話の手前に、どれだけの数を、どんな刻みでつくったかという条件がある。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "revisions",
+        "title": "同じ名前でも、仕様は動く。",
+        "paragraphs": [
+          "国立公園局の資料は、米陸軍の綿カーキトラウザーを8.2オンスのツイルとし、1954年に別ウエストバンドと幅広のベルトループへ、1958年にジップフライへ変わったとしている。",
+          "呼び名が続いていても、中身は年ごとに更新される。年代を一点に決めずに、どの時点の仕様かを見ておきたい。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "生産の規模と、仕様の更新。カーキのトラウザーという一言の下には、数字と年号の並びが残っている。",
+    "bridge_title": "1940〜50年代の風合いを、上着へ。",
+    "bridge": "NICENESSのBOWIEは、1940〜50年代のヴィンテージチノの光沢と風合いを、特殊なエイジング加工で再現したと公式資料に記載される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "参照した実物や地域、光沢の物理的な根拠は、公式に明記されていない。生産記録や規格の変遷をBOWIEの原型として扱うことはしない。",
+    "product_title": "チノの風合いを、トラッカージャケットへ。",
+    "product_paragraphs": [
+      "AW24のBOWIEは、1940〜50年代ヴィンテージチノの光沢・風合いを特殊なエイジング加工で再現したと公式資料に記載される。",
+      "上質な綿糸のトラッカージャケットとし、裏に先染めの三つ杢コットンツイードを使うとされる。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-09-21",
+    "modifiedAt": "2026-09-21",
+    "products": [
+      {
+        "id": "bowie-aw24",
+        "model": "BOWIE",
+        "season": "AW24",
+        "number": "NN-1408T14",
+        "url": "https://www.niceness.jp/products/bowie",
+        "retained": "1940〜50年代vintage chinoの光沢・風合い",
+        "changed": "上質綿糸へ特殊aging加工を施したtracker jacketとし、裏に先染め三つ杢cotton tweedを使用",
+        "factRefs": [
+          "F03"
+        ],
+        "sourceKey": "126bc041d454245e"
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Army uniform trouser manufacture, Kane Manufacturing Company",
+        "publisher": "Library of Congress",
+        "url": "https://www.loc.gov/item/2017690037/",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Fort Cronkhite Historic Furnishings Report",
+        "publisher": "National Park Service",
+        "url": "https://www.nps.gov/goga/learn/historyculture/upload/Cronkhite-Historic-Furnishings-Report.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS BOWIE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/bowie",
+        "kind": "brand"
+      }
+    ]
   }
 ]

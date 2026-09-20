@@ -238,5 +238,25 @@
       125
     ],
     "area": false
+  },
+  "be": {
+    "panel": "europe",
+    "lon": 4.5,
+    "lat": 50.8,
+    "label": [
+      190,
+      140
+    ],
+    "area": false
+  },
+  "nz": {
+    "panel": "oceania",
+    "lon": 174,
+    "lat": -41,
+    "label": [
+      300,
+      250
+    ],
+    "area": false
   }
 }

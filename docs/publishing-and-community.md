@@ -11,7 +11,7 @@
 
 今後決めるもの：継続的なメンテナーと資料確認担当、コードと記事のライセンス、貢献者名の表示方針、自動デプロイの導入。CODEOWNERSには実在する担当者が決まってから登録します。第三者の原文・写真・ロゴへ一括してライセンスを付与しません。
 
-現在は50記事と60商品紹介。研究全件の記事化は後続です。地図は概略図。投稿受付はGitHub Issueを使用し、サイト内の下書き保存そのものは送信ではありません。
+現在は217記事。研究全件の記事化は後続です。地図は概略図。投稿受付はGitHub Issueを使用し、サイト内の下書き保存そのものは送信ではありません。
 
 ## 記事追加 v4（2026-09-12）
 
@@ -47,3 +47,11 @@ Added 21 reviewed stories from SHA-matched fixed research snapshots in release.v
 ## 2026-09-14: 197 articles
 
 Added 21 stories from SHA-matched fixed research snapshots in release.v10. The set prioritizes visible construction, use and material details. Historical comparison objects and institutional or maker claims do not establish direct NICENESS references. Ireland was added as a distinct cultural and museum-record region for T244. Existing 176 stories and homepage behavior are unchanged.
+
+## 2026-09-21: 217 articles
+
+Added 20 stories from SHA-matched fixed research snapshots in release.v11. Each snapshot was re-hashed against its own `history-validation` record before adoption; only topics whose hashes still match were used. Belgium and New Zealand were added as distinct museum-record regions for T271, T250 and T274. Existing 197 stories, homepage behavior and approved copy are unchanged.
+
+Held back from this batch: T091, T097 and T099, the same three held at the 150-article batch. Their research files no longer hash to their validation records — T097 and T099 were rewritten by the recorded `history-source-type-repair.v1` pass, and T091 differs with no repair record. Adopting them needs a fresh validation record from the research side, not a hash copied out of the file. Eleven snapshots show this drift in total. T048 is not among the open ones: its mismatch was reconciled when it was adopted at batch 03, against the validated 25daded snapshot. T075 carries the same drift with no reconciliation recorded and is not published; re-checking it is a separate task.
+
+Topics without an independently sourced historical fact remain unpublished. Of the 845 completed research topics, 648 were unpublished before this batch and only 52 carry at least one historical fact backed by a non-NICENESS source; brand-statement-only topics are not made into articles.
