@@ -2,7 +2,7 @@
 
 服のディテールから各地の暮らし・歴史・文化をたどる、NICENESSの非公式ファンジャーナルです。NICENESSの公式運営・公認サイトではありません。
 
-- サイト：https://nicenessness.harukak.chatgpt.site
+- サイト：https://nicenessness.raurauji.chatgpt.site
 - 訂正・新しい記事の提案：https://github.com/raurau-llc/nicenessness/issues/new/choose
 - 編集方針：CONTRIBUTING.md / GOVERNANCE.md
 
@@ -10,7 +10,7 @@
 
 Node >=22.12.0。`npm ci`、`npm test`、`npm run build`。`npm run dev`でローカル表示。成果物はdist/です。Astroの計測を無効にする場合はASTRO_TELEMETRY_DISABLED=1を設定できます。
 
-content/articles.jsonに3本の原稿と出典情報を収録。readyの原稿のみを配信し、商品ID・シーズン・地域の役割・歴史の年代を分けています。release.v1.jsonは採用時の研究記録ハッシュとfact参照です。研究資料原本や商品説明全文は含みません。
+content/articles.jsonに217本の原稿と出典情報を収録。readyの原稿のみを配信し、商品ID・シーズン・地域の役割・歴史の年代を分けています。release.v11.jsonは現在の採用時の研究記録ハッシュとfact参照です。研究資料原本や商品説明全文は含みません。
 
 ## 公開とSEO
 

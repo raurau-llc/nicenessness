@@ -1,0 +1,49 @@
+---
+import Page from '../layouts/Page.astro';
+import {articles} from '../lib/data';
+import data from '../../content/materials.json';
+import {materialStages,materialPlaces,matchesMaterial} from '../lib/materials.mjs';
+const items=[...new Set(data.entries.map(e=>e.productId))].map(id=>{const related=articles.filter(a=>a.products.some(p=>p.id===id));return {product:related[0].products.find(p=>p.id===id)!,related,entries:data.entries.map((e,i)=>({...e,index:i})).filter(e=>e.productId===id)}});
+const count=(id:string)=>new Set(data.entries.filter(e=>matchesMaterial(e,{material:id},data.materials)).map(e=>e.productId)).size;
+---
+<Page title="素材から服の背景を読む" description="繊維や革の種類からNICENESSのアイテムと背景の記事へ。原料の産地、製織、鞣し、仕上げ、調達先を分けてたどる非公式ファンジャーナル。" breadcrumb={[{name:'素材',path:'/materials/'}]}>
+<p class="eyebrow">MATERIALS / 素材をたどる</p><h1>一本の糸、一枚の革から。</h1><p>何でできているのか。どこで育ち、どこで布や革になったのか。<br/>素材の名前から、つくる仕事と、その服の背景へ。</p>
+<section class="material-explorer">
+<div class="material-families"><a href="?" data-family="" aria-current="true">すべて</a><a href="?family=fiber" data-family="fiber">繊維から</a><a href="?family=leather" data-family="leather">革から</a></div>
+<div class="material-directory">{data.materials.map(m=><a href={`?material=${m.id}`} data-material={m.id} data-family-card={m.family}><span class="small">{m.family==='fiber'?'FIBER':'LEATHER'} · {count(m.id)}アイテム</span><h2>{m.name}<span>↗</span></h2><p>{m.intro}</p></a>)}</div>
+<form class="material-filters" method="get"><label>種類<select name="family"><option value="">すべて</option><option value="fiber">繊維</option><option value="leather">革</option></select></label><label>素材<select name="material"><option value="">すべての素材</option>{data.materials.map(m=><option value={m.id}>{m.name}</option>)}</select></label><label>場所<select name="place"><option value="">すべての場所</option>{Object.entries(materialPlaces).map(([id,label])=><option value={id}>{label}</option>)}</select></label><label>その場所で、何をするか<select name="stage"><option value="">すべての役割</option>{Object.entries(materialStages).map(([id,label])=><option value={id}>{label}</option>)}</select></label><button class="button">絞り込む</button><a href="/materials/" class="material-reset">条件を解除</a></form>
+<p class="small material-note">繊維の呼称と原産地は別に確認しています。スエードは仕上げ、ムートンは毛を残した革として説明します。<br/>現在は説明を整理した{items.length}アイテムを掲載。表示は確認した部位・素材に限り、全商品の組成や産地を網羅するものではありません。</p>
+<p class="result-count" role="status" data-material-count>{items.length}アイテム</p>
+<div class="material-results">{items.map(({product,entries,related})=><article class="material-item" data-material-item={product.id}><p class="eyebrow">NICENESS / {product.season}</p><h2><a href={`/items/${product.id}/`}>{product.model} ↗</a></h2>{entries.map(entry=>{const source=articles.find(a=>a.id===entry.articleId)!;return <section class="material-part" data-material-entry={entry.index}><h3>{entry.part}</h3><div class="material-chips">{entry.materials.map(id=><a href={`?material=${id}`} data-material={id}>{data.materials.find(m=>m.id===id)!.name}</a>)}</div><p>{entry.note}</p>{entry.origins.length>0?<dl>{entry.origins.map(o=><div><dt>{materialStages[o.stage]}</dt><dd>{o.label}</dd></div>)}</dl>:<p class="small">この部位の産地・工程の場所は、未整理です。</p>}<a class="small" href={`/stories/${source.slug}/#sources`}>素材説明の出典 →</a></section>})}<details><summary>このアイテムの背景を読む（{related.length}記事）</summary>{related.map(a=><a class="material-story" href={`/stories/${a.slug}/`}>{a.title.replace('\n',' ')} ↗</a>)}</details></article>)}</div>
+<div class="empty" data-material-empty hidden><h2>この条件で掲載している素材はありません。</h2><p>場所や工程の条件を減らして探してみてください。</p><a href="/materials/" class="material-reset">条件を解除する</a></div>
+<noscript><p>絞り込みにはJavaScriptが必要です。下の素材説明・商品・背景記事のリンクはそのまま読めます。</p></noscript>
+</section>
+</Page>
+<script>
+import data from '../../content/materials.json';
+import {matchesMaterial,materialStages,materialPlaces} from '../lib/materials.mjs';
+const root=document.querySelector('.material-explorer');
+if(root){
+ const form=root.querySelector('form')!;const keys=['family','material','place','stage'];
+ const input=(key:string)=>form.elements.namedItem(key) as HTMLSelectElement;
+ const read=()=>Object.fromEntries(keys.map(key=>[key,input(key).value]));
+ function show(){const f=read();const matches=new Set(data.entries.flatMap((e,i)=>matchesMaterial(e,f,data.materials)?[String(i)]:[]));let count=0;
+ root!.querySelectorAll<HTMLElement>('[data-material-entry]').forEach(el=>el.hidden=!matches.has(el.dataset.materialEntry!));
+ root!.querySelectorAll<HTMLElement>('[data-material-item]').forEach(el=>{el.hidden=![...el.querySelectorAll<HTMLElement>('[data-material-entry]')].some(e=>!e.hidden);if(!el.hidden)count++;});
+ root!.querySelectorAll<HTMLElement>('[data-family-card]').forEach(el=>el.hidden=!!f.family&&el.dataset.familyCard!==f.family);
+ root!.querySelectorAll<HTMLElement>('[data-family]').forEach(el=>el.setAttribute('aria-current',String(el.dataset.family===f.family)));
+ root!.querySelectorAll<HTMLElement>('[data-material]').forEach(el=>el.setAttribute('aria-current',String(el.dataset.material===f.material)));
+ root!.querySelector('[data-material-count]')!.textContent=`${count}アイテム`;
+ (root!.querySelector('[data-material-empty]') as HTMLElement).hidden=count!==0;
+ }
+ function update(){const u=new URL(location.href);u.search='';for(const [key,value] of Object.entries(read()))if(value)u.searchParams.set(key,value);history.pushState(null,'',u);show();}
+ function fromUrl(){const p=new URLSearchParams(location.search);keys.forEach(key=>input(key).value=p.get(key)||'');show();}
+ form.addEventListener('submit',e=>{e.preventDefault();update()});
+ form.addEventListener('change',e=>{if((e.target as HTMLSelectElement).name==='family')input('material').value='';if((e.target as HTMLSelectElement).name==='material'){const m=data.materials.find(m=>m.id===input('material').value);if(m)input('family').value=m.family;}update()});
+ root.addEventListener('click',e=>{const a=(e.target as Element).closest<HTMLAnchorElement>('a[data-family],a[data-material],a.material-reset');if(!a||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();if(a.classList.contains('material-reset'))form.reset();else if(a.hasAttribute('data-family')){input('family').value=a.dataset.family!;input('material').value='';}else{input('material').value=a.dataset.material!;input('family').value=data.materials.find(m=>m.id===a.dataset.material)!.family;}update();});
+ window.addEventListener('popstate',fromUrl);fromUrl();
+}
+</script>
+<style>
+.material-families{display:flex;gap:30px;margin-top:38px;border-bottom:1px solid var(--line)}.material-families a{padding:12px 0;min-height:48px;text-decoration:none}.material-families a[aria-current=true]{border-bottom:2px solid var(--red);color:var(--red)}.material-directory{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0 28px}.material-directory>a{padding:25px 0 15px;text-decoration:none;border-bottom:1px solid var(--line)}.material-directory h2{font-size:22px;margin:10px 0;display:flex;justify-content:space-between;gap:8px}.material-directory h2 span{font-size:15px}.material-directory p{font-size:13px;color:var(--muted)}.material-directory>a[aria-current=true]{color:var(--red);border-bottom-color:var(--red)}.material-filters{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:15px;margin:38px 0 25px}.material-filters label{display:flex;flex-direction:column;font-size:13px;gap:7px}.material-reset{display:flex;align-items:center;min-height:44px;font-size:13px}.material-note{max-width:850px}.material-results{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 45px}.material-item{padding:30px 0;border-bottom:1px solid var(--line);min-width:0}.material-item>h2{font-family:"Times New Roman",serif;font-size:33px}.material-item>h2 a{text-decoration:none}.material-part{margin:20px 0 26px}.material-part h3{font-size:13px;color:var(--muted);margin-bottom:7px}.material-part p{font-size:14px;margin:10px 0}.material-chips{display:flex;flex-wrap:wrap;gap:8px}.material-chips a{font-size:13px;padding:5px 10px;background:#f5f5f3;text-decoration:none;min-height:34px}.material-chips a[aria-current=true]{color:var(--red)}.material-part dl{font-size:13px;margin:15px 0;border-left:2px solid var(--line);padding-left:14px}.material-part dl>div{display:flex;gap:14px}.material-part dt{color:var(--muted);min-width:130px}.material-part dd{margin:0}.material-item summary{font-size:14px;cursor:pointer;padding:10px 0;min-height:44px}.material-story{display:block;font-size:14px;padding:9px 0;text-decoration:none;min-height:44px}@media(max-width:850px){.material-directory{grid-template-columns:repeat(2,minmax(0,1fr))}.material-filters{grid-template-columns:1fr 1fr}.material-results{display:block}}@media(max-width:450px){.material-directory{gap:0 18px}.material-directory h2{font-size:18px}.material-part dl>div{display:block;margin-bottom:9px}}
+</style>

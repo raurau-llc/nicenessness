@@ -1,0 +1,994 @@
+{
+  "materials": [
+    {
+      "id": "cotton",
+      "name": "コットン",
+      "family": "fiber",
+      "intro": "綿糸の違いから、デニムや裏毛へ。"
+    },
+    {
+      "id": "silk",
+      "name": "シルク",
+      "family": "fiber",
+      "intro": "薄いシフォンにも、起毛したネルにも。"
+    },
+    {
+      "id": "linen",
+      "name": "リネン",
+      "family": "fiber",
+      "intro": "羊毛や絹と組み合わせる、交織の表情。"
+    },
+    {
+      "id": "hemp",
+      "name": "ヘンプ",
+      "family": "fiber",
+      "intro": "コットンと合わせて、デニムに使う。"
+    },
+    {
+      "id": "wool",
+      "name": "ウール",
+      "family": "fiber",
+      "intro": "織り、編み、縮絨で変わる布。"
+    },
+    {
+      "id": "cashmere",
+      "name": "カシミア",
+      "family": "fiber",
+      "intro": "羊毛と組み合わせたボアの一例。"
+    },
+    {
+      "id": "alpaca",
+      "name": "アルパカ",
+      "family": "fiber",
+      "intro": "羊毛とともに縮絨するニット。"
+    },
+    {
+      "id": "nylon",
+      "name": "ナイロン",
+      "family": "fiber",
+      "intro": "交織や高密度の生地をたどる。"
+    },
+    {
+      "id": "polyester",
+      "name": "ポリエステル",
+      "family": "fiber",
+      "intro": "ジャージーやトリコットを構成する糸。"
+    },
+    {
+      "id": "rayon",
+      "name": "レーヨン",
+      "family": "fiber",
+      "intro": "綿と交織するギャバジン。"
+    },
+    {
+      "id": "cow",
+      "name": "牛革",
+      "family": "leather",
+      "intro": "本体から小さなトリムまで。仔牛革も含む。"
+    },
+    {
+      "id": "calf",
+      "name": "カーフ（仔牛革）",
+      "family": "leather",
+      "intro": "鞣しや艶出しの説明と一緒に見る。",
+      "parent": "cow"
+    },
+    {
+      "id": "horse",
+      "name": "馬革",
+      "family": "leather",
+      "intro": "原皮の場所と鞣す場所をたどる。"
+    },
+    {
+      "id": "deer",
+      "name": "鹿革",
+      "family": "leather",
+      "intro": "産地の説明と使う部位を見る。"
+    },
+    {
+      "id": "sheep",
+      "name": "羊革・ムートン",
+      "family": "leather",
+      "intro": "羊毛の糸と、毛を残した革を分ける。ラムも含む。"
+    },
+    {
+      "id": "lamb",
+      "name": "ラム革",
+      "family": "leather",
+      "intro": "大きな革で包む服と、小さなバッグ。",
+      "parent": "sheep"
+    }
+  ],
+  "entries": [
+    {
+      "productId": "willi-ss23",
+      "articleId": "T170",
+      "materials": [
+        "lamb"
+      ],
+      "part": "本体",
+      "note": "大判のラム革を用い、接ぎ目を減らしたスモック。",
+      "origins": [],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "b-stu-ss25",
+      "articleId": "T037",
+      "materials": [
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "12.5ozの米綿デニム。",
+      "origins": [
+        {
+          "place": "us",
+          "label": "米国",
+          "stage": "raw"
+        }
+      ],
+      "factRefs": [
+        "F06",
+        "F07",
+        "F08"
+      ]
+    },
+    {
+      "productId": "das-ss25",
+      "articleId": "T048",
+      "materials": [
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "180cm四方の綿布に、独自の柄を手捺染。",
+      "origins": [],
+      "factRefs": [
+        "F06"
+      ]
+    },
+    {
+      "productId": "biddu-ss26",
+      "articleId": "T031",
+      "materials": [
+        "silk"
+      ],
+      "part": "生地",
+      "note": "南インドの工場で選んだデッドストックのシルクシフォン。",
+      "origins": [
+        {
+          "place": "in",
+          "label": "南インド",
+          "stage": "sourcing"
+        }
+      ],
+      "factRefs": [
+        "F05",
+        "F06"
+      ]
+    },
+    {
+      "productId": "ornette-aw24",
+      "articleId": "T064",
+      "materials": [
+        "wool"
+      ],
+      "part": "生地",
+      "note": "インドで手紡ぎ・手織りしたウールツイル。",
+      "origins": [
+        {
+          "place": "in",
+          "label": "インド",
+          "stage": "spinning"
+        },
+        {
+          "place": "in",
+          "label": "インド",
+          "stage": "weaving"
+        }
+      ],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "blunstone-aw24",
+      "articleId": "T065",
+      "materials": [
+        "wool",
+        "linen"
+      ],
+      "part": "生地",
+      "note": "シェットランドウールとリネンを組み合わせた生地。シェットランドはここでは素材の呼称として扱う。",
+      "origins": [],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "blunstone-aw24",
+      "articleId": "T065",
+      "materials": [
+        "sheep"
+      ],
+      "part": "肘当て",
+      "note": "羊革を肘当てに使用。",
+      "origins": [],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "c-finch-aw26",
+      "articleId": "T069",
+      "materials": [
+        "wool"
+      ],
+      "part": "生地",
+      "note": "極細のSuper140sウールを低密度に織ったチェック。",
+      "origins": [],
+      "factRefs": [
+        "F04",
+        "F05"
+      ]
+    },
+    {
+      "productId": "b-ben-aw25",
+      "articleId": "T073",
+      "materials": [
+        "cow"
+      ],
+      "part": "襟裏・袖口など",
+      "note": "ニットの襟裏や袖口などに加えた牛革のディテール。",
+      "origins": [],
+      "factRefs": [
+        "F04",
+        "F05"
+      ]
+    },
+    {
+      "productId": "c-maxim-ss26",
+      "articleId": "T157",
+      "materials": [
+        "rayon",
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "レーヨンと綿のギャバジンに抜染とプリント。",
+      "origins": [],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "cornwell-ss25",
+      "articleId": "T184",
+      "materials": [
+        "silk"
+      ],
+      "part": "表裏の生地",
+      "note": "シルクの無地とチェックを両面に使用。",
+      "origins": [],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "geoff-aw26",
+      "articleId": "T110",
+      "materials": [
+        "deer"
+      ],
+      "part": "革部分",
+      "note": "ニュージーランド産と説明される鹿革。原皮産地と鞣し地の内訳は未整理。",
+      "origins": [
+        {
+          "place": "nz",
+          "label": "ニュージーランド",
+          "stage": "material-origin"
+        }
+      ],
+      "factRefs": [
+        "F06"
+      ]
+    },
+    {
+      "productId": "mcgeoch-aw26",
+      "articleId": "T115",
+      "materials": [
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "丸胴の綿天竺を、縫製後にフェード加工。",
+      "origins": [],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "courtney-aw24",
+      "articleId": "T126",
+      "materials": [
+        "cotton"
+      ],
+      "part": "表側",
+      "note": "表を綿、裏のループをシルクで編み分けた裏毛。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "courtney-aw24",
+      "articleId": "T126",
+      "materials": [
+        "silk"
+      ],
+      "part": "裏のループ",
+      "note": "肌に触れる裏側のループにシルクを使用。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "berlin-aw25",
+      "articleId": "T140",
+      "materials": [
+        "cotton",
+        "polyester"
+      ],
+      "part": "生地",
+      "note": "スビン綿とポリエステルによる別注ジャージー。",
+      "origins": [],
+      "factRefs": [
+        "F05"
+      ]
+    },
+    {
+      "productId": "stephens-aw24",
+      "articleId": "T152",
+      "materials": [
+        "silk"
+      ],
+      "part": "身頃",
+      "note": "野蚕シルク系の身頃。インド製という説明は衣服の製作地で、原料産地とは分ける。",
+      "origins": [
+        {
+          "place": "in",
+          "label": "インド",
+          "stage": "making"
+        }
+      ],
+      "factRefs": [
+        "F06"
+      ]
+    },
+    {
+      "productId": "stephens-aw24",
+      "articleId": "T152",
+      "materials": [
+        "cotton"
+      ],
+      "part": "別布",
+      "note": "綿コーデュロイを身頃と組み合わせたインド製の衣服。",
+      "origins": [
+        {
+          "place": "in",
+          "label": "インド",
+          "stage": "making"
+        }
+      ],
+      "factRefs": [
+        "F06"
+      ]
+    },
+    {
+      "productId": "h-haywood-ss26",
+      "articleId": "T025",
+      "materials": [
+        "horse"
+      ],
+      "part": "革",
+      "note": "欧州の原皮を日本で鞣した馬革。",
+      "origins": [
+        {
+          "place": "europe",
+          "label": "欧州",
+          "stage": "raw"
+        },
+        {
+          "place": "jp",
+          "label": "日本",
+          "stage": "tanning"
+        }
+      ],
+      "factRefs": [
+        "F07",
+        "F08",
+        "F10"
+      ]
+    },
+    {
+      "productId": "d-doyle-ss25",
+      "articleId": "T033",
+      "materials": [
+        "calf"
+      ],
+      "part": "革部分",
+      "note": "HAASの仔牛革を使用。タンナー名から原皮の産地は補わない。",
+      "origins": [],
+      "factRefs": [
+        "F03",
+        "F04"
+      ]
+    },
+    {
+      "productId": "d-doyle-ss25",
+      "articleId": "T033",
+      "materials": [
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "米綿の20ozデニム。",
+      "origins": [
+        {
+          "place": "us",
+          "label": "米国",
+          "stage": "raw"
+        }
+      ],
+      "factRefs": [
+        "F03",
+        "F04"
+      ]
+    },
+    {
+      "productId": "cs-marty-aw25",
+      "articleId": "T085",
+      "materials": [
+        "cow"
+      ],
+      "part": "本体",
+      "note": "トスカーナのタンナーによる牛スエード。スエードは革の動物種とは別の仕上げ。",
+      "origins": [
+        {
+          "place": "it",
+          "label": "イタリア・トスカーナ",
+          "stage": "tannery"
+        }
+      ],
+      "factRefs": [
+        "F05",
+        "F06"
+      ]
+    },
+    {
+      "productId": "m-strick-aw26",
+      "articleId": "T089",
+      "materials": [
+        "wool"
+      ],
+      "part": "生地",
+      "note": "混紡ウールのツイード。全混率はこの索引では未整理。",
+      "origins": [],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "m-strick-aw26",
+      "articleId": "T089",
+      "materials": [
+        "sheep"
+      ],
+      "part": "耳当て",
+      "note": "イタリア製のメリノライニングムートン。",
+      "origins": [
+        {
+          "place": "it",
+          "label": "イタリア",
+          "stage": "material-making"
+        }
+      ],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "b-chesty-aw25",
+      "articleId": "T090",
+      "materials": [
+        "lamb"
+      ],
+      "part": "本体",
+      "note": "英国から取り寄せた茶芯のラム革。調達先と原皮産地を区別する。",
+      "origins": [
+        {
+          "place": "uk",
+          "label": "英国",
+          "stage": "sourcing"
+        }
+      ],
+      "factRefs": [
+        "F08"
+      ]
+    },
+    {
+      "productId": "b-chesty-aw25",
+      "articleId": "T090",
+      "materials": [
+        "cow"
+      ],
+      "part": "ストラップ",
+      "note": "本体のラム革とは別に、ストラップに牛革を使用。",
+      "origins": [],
+      "factRefs": [
+        "F08"
+      ]
+    },
+    {
+      "productId": "bangalter-ss26",
+      "articleId": "T093",
+      "materials": [
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "北斎漫画をもとにした図柄を載せる綿シャツ。",
+      "origins": [],
+      "factRefs": [
+        "F06"
+      ]
+    },
+    {
+      "productId": "p-sterling-aw26",
+      "articleId": "T100",
+      "materials": [
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "14ウェールの綿コーデュロイへ京都で花柄加工。",
+      "origins": [
+        {
+          "place": "jp",
+          "label": "京都",
+          "stage": "finishing"
+        }
+      ],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "coleman-aw24",
+      "articleId": "T104",
+      "materials": [
+        "wool"
+      ],
+      "part": "生地",
+      "note": "インドで手紡ぎ・手織りしたウールツイル。",
+      "origins": [
+        {
+          "place": "in",
+          "label": "インド",
+          "stage": "spinning"
+        },
+        {
+          "place": "in",
+          "label": "インド",
+          "stage": "weaving"
+        }
+      ],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "d-tucker-aw26",
+      "articleId": "T107",
+      "materials": [
+        "linen",
+        "silk",
+        "nylon"
+      ],
+      "part": "生地",
+      "note": "リネン・絹・ナイロンの交織生地を製品染め。",
+      "origins": [],
+      "factRefs": [
+        "F01"
+      ]
+    },
+    {
+      "productId": "b-wobble-aw26",
+      "articleId": "T111",
+      "materials": [
+        "wool",
+        "linen"
+      ],
+      "part": "生地",
+      "note": "英国の生地を解析し、日本で織ったウールとリネンの交織。英国は原料産地としては扱わない。",
+      "origins": [
+        {
+          "place": "jp",
+          "label": "日本",
+          "stage": "weaving"
+        }
+      ],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "devote-aw26",
+      "articleId": "T112",
+      "materials": [
+        "calf"
+      ],
+      "part": "本体",
+      "note": "タンニン鞣しのカーフ。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "devote-aw26",
+      "articleId": "T112",
+      "materials": [
+        "wool"
+      ],
+      "part": "裏地",
+      "note": "本体の革に合わせたウールチェックの裏地。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "coimbra-aw23",
+      "articleId": "T124",
+      "materials": [
+        "wool",
+        "nylon"
+      ],
+      "part": "生地",
+      "note": "多色絣のウール・ナイロン生地。",
+      "origins": [],
+      "factRefs": [
+        "F05"
+      ]
+    },
+    {
+      "productId": "lars-aw25",
+      "articleId": "T130",
+      "materials": [
+        "cotton"
+      ],
+      "part": "編地",
+      "note": "ラフィ綿とスヴィン綿を組み合わせた編地。",
+      "origins": [],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "bailey-aw26",
+      "articleId": "T139",
+      "materials": [
+        "wool"
+      ],
+      "part": "生地",
+      "note": "ウールの起毛素材を使用。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "darren-aw25",
+      "articleId": "T146",
+      "materials": [
+        "nylon"
+      ],
+      "part": "生地",
+      "note": "軍用デッドストックの三層ナイロンリップストップ。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "k-bloomfield-aw23",
+      "articleId": "T154",
+      "materials": [
+        "calf"
+      ],
+      "part": "本体",
+      "note": "イタリアで艶出ししたカーフ。",
+      "origins": [
+        {
+          "place": "it",
+          "label": "イタリア",
+          "stage": "finishing"
+        }
+      ],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "laurence-aw23",
+      "articleId": "T193",
+      "materials": [
+        "wool"
+      ],
+      "part": "生地",
+      "note": "メリノウールの生地と、色ごとの仕上げ。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "c-palmer-ss26",
+      "articleId": "T194",
+      "materials": [
+        "rayon",
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "北陸で織ったレーヨンと綿のギャバジン。",
+      "origins": [
+        {
+          "place": "jp",
+          "label": "北陸",
+          "stage": "weaving"
+        }
+      ],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "vedder-aw25",
+      "articleId": "T196",
+      "materials": [
+        "silk"
+      ],
+      "part": "生地",
+      "note": "先染めチェックのシルクネルを両面起毛。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "gregory-aw26",
+      "articleId": "T201",
+      "materials": [
+        "sheep"
+      ],
+      "part": "襟",
+      "note": "イタリア製メリノムートンの襟。",
+      "origins": [
+        {
+          "place": "it",
+          "label": "イタリア",
+          "stage": "material-making"
+        }
+      ],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "dieter-aw26",
+      "articleId": "T203",
+      "materials": [
+        "deer"
+      ],
+      "part": "襟",
+      "note": "襟に鹿革を使用。生地のコモという地域名を革の産地には転用しない。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "dieter-aw26",
+      "articleId": "T203",
+      "materials": [
+        "cow"
+      ],
+      "part": "トリム",
+      "note": "トリムには牛革を使用。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "brett-ss25",
+      "articleId": "T046",
+      "materials": [
+        "wool",
+        "cashmere"
+      ],
+      "part": "生地",
+      "note": "ウールとカシミアのボアを使用。",
+      "origins": [],
+      "factRefs": [
+        "F03",
+        "F04"
+      ]
+    },
+    {
+      "productId": "e-calder-aw26",
+      "articleId": "T068",
+      "materials": [
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "高密度のピマ綿ツイルを製品染め。",
+      "origins": [],
+      "factRefs": [
+        "F03",
+        "F04"
+      ]
+    },
+    {
+      "productId": "s-ayler-ss26",
+      "articleId": "T072",
+      "materials": [
+        "wool"
+      ],
+      "part": "生地",
+      "note": "Super140sの低密度ツイルチェックに起毛。",
+      "origins": [],
+      "factRefs": [
+        "F02",
+        "F03"
+      ]
+    },
+    {
+      "productId": "harti-aw25",
+      "articleId": "T211",
+      "materials": [
+        "silk"
+      ],
+      "part": "生地",
+      "note": "十三版の手捺染を重ねるシルクツイル。",
+      "origins": [],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "c-finch-aw26",
+      "articleId": "T135",
+      "materials": [
+        "wool"
+      ],
+      "part": "生地",
+      "note": "Super140sウールを立体的なパターンで構成。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "eisner-aw24",
+      "articleId": "T137",
+      "materials": [
+        "wool",
+        "nylon"
+      ],
+      "part": "生地",
+      "note": "ウール・ナイロンの高密度ギャバジン。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "alison-aw26",
+      "articleId": "T144",
+      "materials": [
+        "wool"
+      ],
+      "part": "ボア面",
+      "note": "アルル産羊毛によるボア面。",
+      "origins": [
+        {
+          "place": "fr",
+          "label": "フランス・アルル",
+          "stage": "raw"
+        }
+      ],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "catherall-aw24",
+      "articleId": "T145",
+      "materials": [
+        "polyester"
+      ],
+      "part": "生地",
+      "note": "ポリエステルのトリコットと独自の切り替え。",
+      "origins": [],
+      "factRefs": [
+        "F02"
+      ]
+    },
+    {
+      "productId": "crowe-aw26",
+      "articleId": "T150",
+      "materials": [
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "丸胴の綿天竺にフェード加工。",
+      "origins": [],
+      "factRefs": [
+        "F02"
+      ]
+    },
+    {
+      "productId": "h-diggle-ss25",
+      "articleId": "T155",
+      "materials": [
+        "cotton",
+        "hemp"
+      ],
+      "part": "生地",
+      "note": "綿80％・ヘンプ20％の13ozデニム。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    },
+    {
+      "productId": "hammill-aw23",
+      "articleId": "T220",
+      "materials": [
+        "alpaca",
+        "wool"
+      ],
+      "part": "生地",
+      "note": "アルパカとウールによる強縮絨生地。",
+      "origins": [],
+      "factRefs": [
+        "F04"
+      ]
+    },
+    {
+      "productId": "hayes-aw25",
+      "articleId": "T189",
+      "materials": [
+        "cotton"
+      ],
+      "part": "生地",
+      "note": "加工を施した強撚コットンダック。",
+      "origins": [],
+      "factRefs": [
+        "F02",
+        "F03"
+      ]
+    },
+    {
+      "productId": "glenn-aw23",
+      "articleId": "T229",
+      "materials": [
+        "nylon"
+      ],
+      "part": "生地",
+      "note": "高密度ナイロンツイルを使用。",
+      "origins": [],
+      "factRefs": [
+        "F03"
+      ]
+    }
+  ]
+}

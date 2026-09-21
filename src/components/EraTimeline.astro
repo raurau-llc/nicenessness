@@ -1,0 +1,63 @@
+---
+import {articles,eras} from '../lib/data';
+---
+<section class="time-explorer" aria-label="服と暮らしの年表">
+  <div class="time-caption"><span>THROUGH TIME</span><span>年代に触れて、記事をひらく。</span></div>
+  <div class="time-scroll" aria-label="横にスクロールできる年表">
+    <div class="time-axis">
+      {eras.map(era=><a class="time-stop" href={`?era=${era.id}`} data-era={era.id} data-time-stop={era.id} aria-controls={`time-stories-${era.id}`} aria-expanded="false"><span class:list={["time-year",{"time-year-long":era.name.length>6}]}>{era.name}</span><span class="time-dot" aria-hidden="true"></span><span class="time-count">{articles.filter(a=>a.eras.includes(era.id)).length}記事</span></a>)}
+    </div>
+  </div>
+  <p class="time-help">← 横にたどる → <span>スマホでは年代をタップ。記事名から本文へ進めます。</span></p>
+  <div class="time-stage">
+    <p class="time-placeholder">気になる年代にカーソルを合わせてみてください。</p>
+    {eras.map(era=>{const stories=articles.filter(a=>a.eras.includes(era.id));return <section class="time-bubble" id={`time-stories-${era.id}`} data-time-panel={era.id} aria-label={`${era.name}の記事`} hidden>
+      <header><div><span class="small">この時代にある、服と暮らし</span><h2>{era.name}<small>{stories.length}記事</small></h2></div><button type="button" class="time-close" aria-label="吹き出しを閉じる">×</button></header>
+      <div class="time-stories">{stories.map(a=><a href={`/stories/${a.slug}/`}><strong>{a.title.replace('\n',' ')}</strong><span>{a.deck}</span><small>{a.place} · {a.period} ↗</small></a>)}</div>
+      <a class="time-filter" href={`?era=${era.id}`} data-era={era.id}>この年代で下の一覧を絞り込む ↓</a>
+    </section>})}
+  </div>
+  <p class="small time-scale">目盛りは記事の年代区分ごとに並べています。間隔は実際の年数に比例しません。</p>
+</section>
+<script>
+const timeline=document.querySelector<HTMLElement>('.time-explorer');
+if(timeline){
+ const stops=[...timeline.querySelectorAll<HTMLAnchorElement>('[data-time-stop]')];
+ const panels=[...timeline.querySelectorAll<HTMLElement>('[data-time-panel]')];
+ const scroll=timeline.querySelector<HTMLElement>('.time-scroll')!;
+ let current='';let timer:ReturnType<typeof setTimeout>;let suppressFocus=false;
+ function position(){
+  const stop=stops.find(a=>a.dataset.timeStop===current);const panel=panels.find(p=>p.dataset.timePanel===current);if(!stop||!panel)return;
+  const rect=timeline!.getBoundingClientRect(),anchor=stop.getBoundingClientRect();
+  const x=Math.max(14,Math.min(rect.width-14,anchor.left+anchor.width/2-rect.left));
+  const width=Math.min(460,rect.width);const left=Math.max(0,Math.min(rect.width-width,x-width/2));
+  panel.style.left=`${left}px`;panel.style.setProperty('--time-pointer',`${Math.max(14,Math.min(width-14,x-left))}px`);
+ }
+ function open(id:string,bringIntoView=false){
+  clearTimeout(timer);if(!stops.some(a=>a.dataset.timeStop===id))return;current=id;
+  panels.forEach(p=>p.hidden=p.dataset.timePanel!==id);
+  stops.forEach(a=>a.setAttribute('aria-expanded',String(a.dataset.timeStop===id)));
+  (timeline!.querySelector('.time-placeholder') as HTMLElement).hidden=true;
+  const stop=stops.find(a=>a.dataset.timeStop===id)!;
+  if(bringIntoView)scroll.scrollLeft=stop.offsetLeft-scroll.clientWidth/2+stop.offsetWidth/2;
+  position();
+ }
+ function close(){clearTimeout(timer);current='';panels.forEach(p=>p.hidden=true);stops.forEach(a=>a.setAttribute('aria-expanded','false'));(timeline!.querySelector('.time-placeholder') as HTMLElement).hidden=false;}
+ stops.forEach((stop,i)=>{
+  stop.addEventListener('pointerenter',e=>{if(e.pointerType!=='touch')open(stop.dataset.timeStop!)});
+  stop.addEventListener('focus',()=>{if(!suppressFocus)open(stop.dataset.timeStop!,true)});
+  stop.addEventListener('keydown',e=>{if(e.key==='ArrowDown'){e.preventDefault();panels.find(p=>p.dataset.timePanel===current)?.querySelector<HTMLAnchorElement>('.time-stories a')?.focus();return;}let next=i;if(e.key==='ArrowRight')next=Math.min(stops.length-1,i+1);else if(e.key==='ArrowLeft')next=Math.max(0,i-1);else if(e.key==='Home')next=0;else if(e.key==='End')next=stops.length-1;else return;e.preventDefault();stops[next].focus();});
+ });
+ timeline.addEventListener('pointerenter',()=>clearTimeout(timer));
+ timeline.addEventListener('pointerleave',()=>{timer=setTimeout(()=>{if(!timeline!.contains(document.activeElement))close()},300)});
+ timeline.addEventListener('keydown',e=>{if(e.key!=='Escape')return;const stop=stops.find(a=>a.dataset.timeStop===current);close();suppressFocus=true;stop?.focus({preventScroll:true});suppressFocus=false;});
+ timeline.querySelectorAll('.time-close').forEach(button=>button.addEventListener('click',()=>{const stop=stops.find(a=>a.dataset.timeStop===current);close();suppressFocus=true;stop?.focus({preventScroll:true});suppressFocus=false;}));
+ document.addEventListener('click',e=>{if(!timeline!.contains(e.target as Node))close()});
+ timeline.closest('.explorer')?.addEventListener('explorer:filter',((e:CustomEvent)=>{if(e.detail.era)open(e.detail.era,true);else close()}) as EventListener);
+ scroll.addEventListener('scroll',position,{passive:true});window.addEventListener('resize',position);
+ const initial=new URLSearchParams(location.search).get('era');if(initial)open(initial,true);
+}
+</script>
+<style>
+.time-explorer{margin:38px 0 24px;position:relative}.time-caption{display:flex;justify-content:space-between;gap:15px;font-size:12px;letter-spacing:.05em;border-top:1px solid var(--line);padding:18px 0}.time-caption>span:first-child{font-family:"Times New Roman",serif}.time-scroll{overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;position:relative}.time-axis{display:flex;width:max-content;position:relative;padding:14px 30px 8px;isolation:isolate}.time-axis:before{content:"";height:1px;background:#aaa;position:absolute;left:0;right:0;top:68.5px;z-index:-1}.time-stop{width:116px;min-height:112px;display:flex;align-items:center;flex-direction:column;text-decoration:none;gap:15px;padding:4px 0}.time-year{font-family:"Times New Roman","Hiragino Mincho ProN",serif;font-size:24px;line-height:30px;white-space:nowrap}.time-year-long{font-size:17px}.time-dot{width:11px;height:11px;border-radius:50%;border:1px solid #999;background:white}.time-count{font-size:11px;color:var(--muted)}.time-stop:hover,.time-stop[aria-expanded=true],.time-stop[aria-current=true]{color:var(--red)}.time-stop[aria-expanded=true] .time-dot,.time-stop[aria-current=true] .time-dot{background:var(--red);border-color:var(--red);box-shadow:0 0 0 5px #98001b0d}.time-stop:focus-visible{outline-offset:-5px}.time-help{display:flex;justify-content:space-between;gap:12px;font-size:11px;color:var(--muted);margin:8px 0 25px}.time-stage{position:relative;min-height:385px}.time-placeholder{padding:65px 20px;text-align:center;font-size:14px;color:var(--muted)}.time-bubble{position:relative;top:0;width:min(460px,100%);background:white;border:1px solid #bbb;box-shadow:0 12px 35px #00000009;padding:20px 24px 12px}.time-bubble:before{content:"";position:absolute;top:-7px;left:var(--time-pointer,50%);width:12px;height:12px;border-left:1px solid #bbb;border-top:1px solid #bbb;background:#fff;transform:translateX(-50%) rotate(45deg)}.time-bubble header{display:flex;justify-content:space-between;gap:10px}.time-bubble h2{font:30px "Times New Roman","Hiragino Mincho ProN",serif;margin:5px 0 14px}.time-bubble h2 small{font:12px Arial,sans-serif;color:var(--muted);margin-left:14px}.time-close{border:0;background:transparent;min-width:44px;height:44px;font-size:25px}.time-stories{max-height:222px;overflow-y:auto;overscroll-behavior-y:contain}.time-stories>a{display:block;text-decoration:none;padding:12px 3px;border-top:1px solid var(--line)}.time-stories strong{display:block;font-weight:400;font-size:16px;line-height:1.6}.time-stories span,.time-stories small{display:block;font-size:12px;line-height:1.7;color:var(--muted);margin-top:4px}.time-filter{display:flex;align-items:center;font-size:12px;min-height:44px;margin-top:5px}.time-scale{font-size:11px;margin:8px 0 24px}@media(max-width:760px){.time-caption{font-size:11px}.time-help{display:block}.time-help span{display:block;margin-top:5px}.time-bubble{padding:18px 16px 10px}.time-year{font-size:22px}.time-stop{width:105px}.time-stage{min-height:405px}}
+</style>

@@ -1,0 +1,33 @@
+---
+import {articles,regions} from '../lib/data';
+import positions from '../../content/region-map.json';
+import {atlasPanels,atlasAreas,atlasRegions,projectPoint} from '../lib/atlas.mjs';
+const places=atlasRegions(regions,articles,positions);
+---
+<div class="atlas-collection">
+  <p class="atlas-intro">{places.length}の国・地域から、服の背景をたどる。<span>まず世界地図で地域を選び、拡大地図から国・地域へ。</span></p>
+  <div class="atlas-panels">
+    {atlasPanels.map(panel=><section class:list={['atlas-panel',`atlas-${panel.id}`]} id={`atlas-${panel.id}`} data-atlas-panel={panel.id} hidden={panel.id!=='world'} aria-label={`${panel.title}の地図`}>
+      <header><h2 tabindex="-1">{panel.id==='world'?'01 — 地域を選ぶ':`02 — ${panel.title}`}</h2>{panel.id!=='world'&&<a class="atlas-back" href="?" data-atlas-world>← 世界地図へ戻る</a>}</header>
+      <div class="atlas-scroll" tabindex="0" aria-label={`${panel.title}の地図。狭い画面では横にスクロールできます。`}>
+        <div class="atlas-canvas" style={`--map-width:${panel.width}px;aspect-ratio:${panel.width}/${panel.height}`}>
+          <img src={`/maps/${panel.id}.svg`} alt="" width={panel.width} height={panel.height}/>
+          <svg viewBox={`0 0 ${panel.width} ${panel.height}`} aria-hidden="true" class="atlas-markers">
+            {(panel.id==='world'?atlasAreas:places.filter(r=>r.panel===panel.id)).map(r=>{
+              const [x,y]=projectPoint(panel,r.lon,r.lat);
+              const primary=true;
+              return <g>
+                {primary&&<path class="atlas-leader" d={`M${x},${y} L${r.label[0]+60},${r.label[1]+21}`}/>}
+                <circle cx={x} cy={y} r={('area' in r && r.area)?7:4} class:list={['atlas-dot',{'atlas-area':'area' in r && r.area}]}/>
+              </g>;
+            })}
+          </svg>
+          {panel.id==='world'&&atlasAreas.map(area=>{const members=places.filter(r=>r.panel===area.id);const count=articles.filter(a=>a.regions.some(r=>members.some(m=>m.id===r.id))).length;return <a class="atlas-place atlas-area-link" href={`?area=${area.id}`} data-atlas-area={area.id} style={`left:${area.label[0]/panel.width*100}%;top:${area.label[1]/panel.height*100}%`}><span>{area.name} →</span><small>{members.length}地域 · {count}記事</small></a>})}
+          {places.filter(r=>r.panel===panel.id).map(r=><a class="atlas-place" href={`?region=${r.id}`} data-region={r.id} aria-label={`${r.name}の記事${r.count}件を読む`} style={`left:${r.label[0]/panel.width*100}%;top:${r.label[1]/panel.height*100}%`}><span>{r.name}</span><small>{r.count}記事</small></a>)}
+        </div>
+      </div>
+    </section>)}
+  </div>
+  <p class="small atlas-caption">地点は概略位置です。○は西欧・南アジア・太平洋地域などの広域を表します。国境や文化圏の範囲を示すものではありません。着用地・製織地・原料産地などの関係は、各記事に記載しています。<span class="atlas-scroll-hint">地図は横にスクロールできます。</span></p>
+  <p class="small atlas-credit">地図データ：<a href="https://www.naturalearthdata.com/about/terms-of-use/" rel="external">Natural Earth</a></p>
+</div>
