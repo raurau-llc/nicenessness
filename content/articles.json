@@ -28052,5 +28052,516 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T091",
+    "slug": "tokaido-print-makers",
+    "title": "絵師だけでなく、彫師と摺師も記す\n東海道の風景版画",
+    "deck": "港の景色から、紙に残る制作分担へ。",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "版画に描かれた宿場・港と現代商品の製織・加工地域"
+      }
+    ],
+    "eras": [
+      "1830s"
+    ],
+    "tags": [
+      "東海道",
+      "木版",
+      "風景",
+      "制作分担"
+    ],
+    "category": "DRESS / 着る",
+    "model": "B.MAXIM",
+    "season": "SS26",
+    "item": "b-maxim-ss26",
+    "place": "日本・桑名と御油",
+    "period": "1833〜34年頃",
+    "context": "東海道の風景版画",
+    "opening": "帆を立てた船が、桑名の港へ近づいてくる。Metropolitan Museum of Artが所蔵する広重の「桑名 七里渡口」は、1833〜34年頃の多色木版画。水辺の風景は、旅の途中の一場面として紙に残されている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "makers",
+        "title": "宿の中に、作り手の名がある。",
+        "paragraphs": [
+          "同じく1833〜34年頃とされる「御油 旅人留女」では、宿へ客を引き入れようとする女性たちが描かれる。Metの解説は、宿の中の表示に絵師Ichiryūsai、彫師Jirobei、摺師Heibeiの名があると記す。Ichiryūsaiは広重の画号の一つだ。",
+          "絵を描く人、版を彫る人、摺る人。作者名だけを見る時には隠れやすい仕事の分担が、風景の内側に書き込まれている。"
+        ],
+        "fact_ids": [
+          "F04"
+        ]
+      },
+      {
+        "id": "publisher",
+        "title": "版元の名も、絵に入る。",
+        "paragraphs": [
+          "御油の画中には、柱に半分隠れた大きな円がある。Metはここに東海道シリーズの版元Takenouchiの名が記されると説明する。",
+          "完成した景色の中に、制作と出版の手がかりが残る。一枚の版画を、描かれた場所と、作られた仕組みの両方から見られる。"
+        ],
+        "fact_ids": [
+          "F04"
+        ]
+      }
+    ],
+    "closing": "船や宿の景色に目を留め、次に小さな文字を読む。風景を届けるまでの複数の仕事も、一枚の中から見えてくる。",
+    "bridge_title": "紙の風景を、生地の図柄へ。",
+    "bridge": "NICENESSのB.MAXIMとB.PALMERは、東海道五十三次から着想を得た帆船、富士山、桜、松などを描くと公式資料に記される。北陸で織ったレーヨンと綿の交織ギャバジンを京都で抜染・着色し、フェード加工を加えたという。",
+    "bridge_refs": [
+      "F06",
+      "F07"
+    ],
+    "boundary": "NICENESSが参照した絵師、シリーズの版、宿場、具体的な原図は未特定。所蔵版画を商品の直接の原型とはしていない。版画の制作分担を、現在の服の製作工程と同一視もしない。",
+    "product_title": "港町を、上着とシャツへ移す。",
+    "product_paragraphs": [
+      "SS26のB.MAXIMはスポーツジャケット、B.PALMERはボードシャツ。同じ風景の着想を、異なる服型へ置いている。",
+      "公式資料が示す北陸の製織と京都の加工は、現在の生地の工程。版画の作者や制作年とは分けて読む。"
+    ],
+    "product_refs": [
+      "F06",
+      "F07"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "b-maxim-ss26",
+        "model": "B.MAXIM",
+        "season": "SS26",
+        "number": "NN-1301B17",
+        "url": "https://www.niceness.jp/products/b-maxim-26ss",
+        "retained": "東海道五十三次から着想した帆船・富士山・桜・松。",
+        "changed": "北陸製織・京都抜染のギャバジンとフェード加工、スポーツジャケット。",
+        "factRefs": [
+          "F06"
+        ]
+      },
+      {
+        "id": "b-palmer-ss26",
+        "model": "B.PALMER",
+        "season": "SS26",
+        "number": "NN-1302Y17",
+        "url": "https://www.niceness.jp/products/b-palmer-26ss",
+        "retained": "東海道五十三次から着想した港町の風景。",
+        "changed": "北陸製織・京都着色抜染のギャバジンとフェード加工、ボードシャツ。",
+        "factRefs": [
+          "F07"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "M01",
+        "title": "桑名 七里渡口",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/55587",
+        "kind": "history"
+      },
+      {
+        "id": "M03",
+        "title": "御油 旅人留女",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/36957",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS B.MAXIM",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/b-maxim-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS B.PALMER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/b-palmer-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T097",
+    "slug": "london-denim-personal-wardrobe",
+    "title": "英国のデザイナー服と501を選ぶ\nロンドンのジーンズ",
+    "deck": "1980年代の一着を、持ち主の服選びから読む。",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "所蔵品の持ち主の生活地・現代商品が挙げる参照地域"
+      }
+    ],
+    "eras": [
+      "1980s"
+    ],
+    "tags": [
+      "ジーンズ",
+      "ワードローブ",
+      "デザイナー",
+      "型紙"
+    ],
+    "category": "DRESS / 着る",
+    "model": "CHARLES",
+    "season": "AW26",
+    "item": "charles-aw26",
+    "place": "英国・ロンドン",
+    "period": "1980年代",
+    "context": "個人のジーンズ選び",
+    "opening": "London Museumには、Kim Philpottsが1980年代に買ったKatharine Hamnettのジーンズがある。綿製で、製作年代は1980〜89年。一本のパンツと一緒に、持ち主がどんな服を選んだかも記録されている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "choices",
+        "title": "好きな作り手の服を選ぶ。",
+        "paragraphs": [
+          "同館によれば、ロンドンへ移ったPhilpottsは英国の服を好み、女性デザイナーの服にも関心を持っていた。Hamnettのデザインは、とりわけ好きだったという。",
+          "ここで見えるのは、一人の買い手の選択。仕事着、国民の定番、時代全体の制服といった大きな区分より、具体的な持ち主の好みからデニムを読める。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "wardrobe",
+        "title": "同じ人の中に、別のジーンズもある。",
+        "paragraphs": [
+          "Philpottsは1980年代にLevi’s 501も着ていたと、所蔵解説は記す。彼女から寄贈された多くの品は、1980〜90年代のロンドンに暮らす一人の女性のワードローブを伝える。",
+          "デザイナーのジーンズと501が、ひとりの服選びの中に並ぶ。一着の来歴から、複数の選択肢を持つ日常まで目を広げられる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "どこの服かだけでなく、誰が何と一緒に選んだか。ジーンズの記録にも、個人のワードローブを見る入口がある。",
+    "bridge_title": "年代への参照を、後ろ高の型で示す。",
+    "bridge": "NICENESSのCHARLESとP.CHARLESは、1980年代の英国のデニムトラウザーを参照し、後ろ高の立体的なパターンを採用したと説明する。CHARLESはムラ感のあるデニム、P.CHARLESは花柄を施した14ウェールのコーデュロイを用いる。",
+    "bridge_refs": [
+      "F04",
+      "F05"
+    ],
+    "boundary": "Hamnettの所蔵品の型紙や背面の高さは、目録本文では確認できない。CHARLESの直接の原型ともしていない。持ち主の生活地を縫製地へ読み替えず、ひとりの服選びを英国全体の着用規範へ広げない。",
+    "product_title": "同じ型の参照に、異なる表面を載せる。",
+    "product_paragraphs": [
+      "AW26のCHARLESは、グラフィックをプリントした裏地も採用する。P.CHARLESは京都の工場で、地色を抜きながら色を差す花柄の加工を施したという。",
+      "過去の一着に似ていると決めるより、ブランドが示した型と生地の選択から、今のトラウザーを見る。"
+    ],
+    "product_refs": [
+      "F04",
+      "F05"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "charles-aw26",
+        "model": "CHARLES",
+        "season": "AW26",
+        "number": "NN-1002T18",
+        "url": "https://www.niceness.jp/products/charles",
+        "retained": "1980年代英国デニムトラウザーへの参照と後ろ高の型。",
+        "changed": "ムラ感のあるデニム、グラフィック入り裏地。",
+        "factRefs": [
+          "F04"
+        ]
+      },
+      {
+        "id": "p-charles-aw26",
+        "model": "P.CHARLES",
+        "season": "AW26",
+        "number": "NN-1004T18",
+        "url": "https://www.niceness.jp/products/p-charles",
+        "retained": "同じ年代・地域への参照と後ろ高の型。",
+        "changed": "14ウェールコーデュロイに京都で加工した花柄。",
+        "factRefs": [
+          "F05"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "M01",
+        "title": "Trousers, jeans — 2010.53/23",
+        "publisher": "London Museum",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-782287/trousers-jeans/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS CHARLES",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/charles",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS P.CHARLES",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/p-charles",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T099",
+    "slug": "frisco-trousers-sailors-parade",
+    "title": "白いシャツと黒いパンツで歩く\n船員のフリスコジーンズ",
+    "deck": "行進の服装と、仲間になったという回想。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "行進・船員の回想の地域と現代商品の型の参照地域"
+      },
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "現代商品が挙げるスラックス構造の参照地域"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s"
+    ],
+    "tags": [
+      "フリスコ",
+      "船員",
+      "行進",
+      "帰属"
+    ],
+    "category": "DRESS / 着る",
+    "model": "N.MORLEY",
+    "season": "AW26",
+    "item": "n-morley-aw26",
+    "place": "米国・サンフランシスコ",
+    "period": "1948年の行進・後年の回想",
+    "context": "船員の非公式な服装",
+    "opening": "白いシャツと、黒いパンツ。Sailors’ Union of the Pacificの機関紙に載る1948年のレイバーデー行進写真は、Market Streetを歩く組合員たちの服装を、白シャツ、フリスコジーンズ、Lundebergの名を冠した帽子と説明する。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "cloth",
+        "title": "黒い綿の綾織を、まっすぐに。",
+        "paragraphs": [
+          "2001年の同紙でArchie Greenは、フリスコジーンズを厚い黒綿の綾織で作るストレートパンツと説明する。ジーンズという名前でも、この記述で挙げられるのは青いデニムではなく、黒い綿の綾織だ。",
+          "名前と色と布の構造を、一つずつ読む。行進の装いの中で、パンツがどのように説明されているかが見えてくる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "belonging",
+        "title": "服を揃え、仲間になったと感じる。",
+        "paragraphs": [
+          "Greenは、1940〜52年に船に乗ったJoe Gladstoneの後年の回想を引用している。黒いフリスコジーンズなどを揃え、初めて一式を買って店を出た時、西海岸の船員の仲間になったと感じたという。",
+          "これは非公式な装いの回想であり、軍の規定服ではない。揃った服が、人と仕事への帰属感を伝える場面として読める。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "布の仕様と、着る人の記憶。黒いストレートパンツの名前を、その二つからたどると、仲間と並んで歩く服装が見えてくる。",
+    "bridge_title": "フリスコ型に、スラックスの構造を重ねる。",
+    "bridge": "NICENESSのN.MORLEYとS.MORLEYは、1950年代米国のフリスコトラウザーを基礎に、英国のスラックスに見られる立体的な構造を取り入れたと説明する。過去の型を一つだけ再現するのではなく、複数の参照をストレートシルエットへ組み合わせている。",
+    "bridge_refs": [
+      "F04",
+      "F05"
+    ],
+    "boundary": "1948年の写真は、ブランドが挙げる1950年代より前の比較例。Greenの記事は2001年の回顧資料で、Gladstoneの体験も後年の回想を通して伝わる。写真のパンツの製造者や、NICENESSの具体的な原型は特定していない。",
+    "product_title": "布そのものと、見える表情を変える。",
+    "product_paragraphs": [
+      "AW26のN.MORLEYは、太番手リネンのキャンバスに1950年代のデニムをスキャンした表情を転写プリントする。見た目のデニムと、布のリネンを分けて考える作りだ。",
+      "S.MORLEYは8ウェールの絹綿コーデュロイを用い、肌に当たる裏側にシルクを配する。型の複合参照に、別々の素材の選択を重ねている。"
+    ],
+    "product_refs": [
+      "F04",
+      "F05"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "n-morley-aw26",
+        "model": "N.MORLEY",
+        "season": "AW26",
+        "number": "NN-0302T18",
+        "url": "https://www.niceness.jp/products/n-morley",
+        "retained": "1950年代米国フリスコ型と英国スラックスの立体構造。",
+        "changed": "リネンキャンバスに1950年代デニムの表情を転写。",
+        "factRefs": [
+          "F04"
+        ]
+      },
+      {
+        "id": "s-morley-aw26",
+        "model": "S.MORLEY",
+        "season": "AW26",
+        "number": "NN-0304T18",
+        "url": "https://www.niceness.jp/products/s-morley",
+        "retained": "1950年代米国フリスコ型と英国スラックスの立体構造。",
+        "changed": "8ウェール絹綿コーデュロイ、裏面にシルク。",
+        "factRefs": [
+          "F05"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "Harry Lundeberg Stetson — West Coast Sailors, p.3",
+        "publisher": "Sailors’ Union of the Pacific／Archie Green",
+        "url": "https://www.sailors.org/sites/default/files/newsletter/pdf/harrylundebergcentennial.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS N.MORLEY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/n-morley",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS S.MORLEY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-morley",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T317",
+    "slug": "british-combat-smock-m1953",
+    "title": "胸と脇のポケットを記録する\n英国のコンバットスモック",
+    "deck": "型式を確かめ、三国を混ぜる上着への参照と分ける。",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "所蔵品の型の対象地域・推定使用地"
+      },
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "現代商品が挙げる参照地域"
+      },
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "現代商品が挙げる参照地域"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1970s"
+    ],
+    "tags": [
+      "スモック",
+      "フィールドジャケット",
+      "ポケット",
+      "型式"
+    ],
+    "category": "DRESS / 着る",
+    "model": "LYNELL",
+    "season": "SS26",
+    "item": "lynell-ss26",
+    "place": "英国（所蔵品の型）",
+    "period": "M/1953・1970年代への商品参照",
+    "context": "コンバットスモック",
+    "opening": "オリーブグリーンのキャンバスに、ファスナー、肩章、胸と脇のポケット。デンマーク国立博物館は、英国の歩兵の兵士用コンバットスモックをM/1953の型として記録している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "details",
+        "title": "型の名前と、細部を組み合わせる。",
+        "paragraphs": [
+          "所蔵番号e 3486.a.2の説明には、服型、対象となる兵士、色と素材、開閉部とポケットの位置が並ぶ。スモックという名前だけでは見えない、一着の構成だ。",
+          "ファスナーがあることと、胸・脇にポケットがあることを別々に確かめる。大きな軍用服の括りから、記録された細部へ目を近づけられる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "record",
+        "title": "型式と、使われた時期を分ける。",
+        "paragraphs": [
+          "同館の使用欄は「推定使用」とし、英国での時期を1945〜91年という広い幅で示している。この幅から、1970年代の具体的な着用を証明することはできない。",
+          "M/1953という型式の表記と、個体がいつ着られたかという履歴は別の手がかり。どちらの欄を読んでいるかを残しておく。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "同じフィールドジャケットの仲間でも、型式と細部は一着ずつ確かめる。上着の名前を、記録された構成まで近づけて読む。",
+    "bridge_title": "三国の要素を、一つの型へ組み合わせる。",
+    "bridge": "NICENESSのLYNELLは、1970年代の米国・英国・フランスのフィールドジャケットの要素を織り交ぜたオリジナルの型と説明する。どの英国型のどの部分を採用したかは、公式本文では特定されていない。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "所蔵スモックをLYNELLの直接の原型とは扱わない。M/1953を1970年代の服と断定せず、所蔵地のデンマークを製造地にも読み替えない。既存記事が扱う米国での型式選択とは別に、ここでは英国の個体の構成を読む。",
+    "product_title": "古びた見た目と、三層の構造。",
+    "product_paragraphs": [
+      "SS26のLYNELLは、綿ダック、中間層の熱可塑性ポリウレタン、裏面のナイロンからなる三層構造の生地を使うと公式に記される。",
+      "表にフェードと揉みほぐしの加工を加え、防水加工と裏面の止水テープも採用する。外観の古びた表情と、現在の生地構造を組み合わせる説明として読む。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "lynell-ss26",
+        "model": "LYNELL",
+        "season": "SS26",
+        "number": "NN-0501B17",
+        "url": "https://www.niceness.jp/products/lynell-26ss",
+        "retained": "1970年代米国・英国・フランスのフィールドジャケットの要素。",
+        "changed": "綿ダック・ポリウレタン・ナイロンの三層生地、表面加工、防水加工と裏面止水テープ。",
+        "factRefs": [
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Combat smock M/1953",
+        "publisher": "National Museum of Denmark",
+        "url": "https://samlinger.natmus.dk/khs/object/48332",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS LYNELL",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lynell-26ss",
+        "kind": "brand"
+      }
+    ]
   }
 ]

@@ -55,3 +55,14 @@ Added 20 stories from SHA-matched fixed research snapshots in release.v11. Each 
 Held back from this batch: T091, T097 and T099, the same three held at the 150-article batch. Their research files no longer hash to their validation records — T097 and T099 were rewritten by the recorded `history-source-type-repair.v1` pass, and T091 differs with no repair record. Adopting them needs a fresh validation record from the research side, not a hash copied out of the file. Eleven snapshots show this drift in total. T048 is not among the open ones: its mismatch was reconciled when it was adopted at batch 03, against the validated 25daded snapshot. T075 carries the same drift with no reconciliation recorded and is not published; re-checking it is a separate task.
 
 Topics without an independently sourced historical fact remain unpublished. Of the 845 completed research topics, 648 were unpublished before this batch and only 52 carry at least one historical fact backed by a non-NICENESS source; brand-statement-only topics are not made into articles.
+
+
+## 2026-10-03: four proposed additions, release v13
+
+T091/T097/T099/T317 are proposed on main e1da630 (217 articles), giving 221 in this checkout. The five proposed articles in PR14 are a separate pending batch. If PR14 lands first, rebase this branch and reconcile the cumulative release before review/merge; preserve all adopted articles. Publication dates remain unset until actual release, and a date update requires approval of that final head.
+
+T091/T097/T099 remain unreconciled in the original archive validation. This proposal does not rewrite its expected hashes. Selected adopted claims were re-researched from primary source bodies, paired with the fixed official product corpus, and saved as new research-side scoped snapshots and validation records under research-revalidation-20261004 (separately held). release.v13 hashes those fresh snapshots. revalidation.v13 retains the old validation/input hashes, source locators, checked statements and scope limits. Unused research facts are not newly certified. T097/T099 source-type-only repairs were also checked against their preserved before records; that format repair alone is not content approval.
+
+T317 addresses the recorded construction of British museum object48332 and its presumed usage range; T316 addresses US model choice. Reusing LYNELL does not reuse that historical narrative. No new photographs or full third-party descriptions were copied.
+
+Live Sites version14 currently exposes197 stories, while main contains217. Publishing from this checkout would also expose the prior20. Their publication review must be resolved before deploying; do not treat successful CI or an AI editorial check as GitHub third-party approval. The protected branch requires an approving review and verify. No deployment occurred during preparation.

@@ -1,0 +1,318 @@
+{
+  "version": 13,
+  "reviewedOn": "2026-10-03",
+  "baseCommit": "e1da630764feabd820a0d951d87d048f10434dcf",
+  "publicationStatus": "Unpublished; independent editorial review and GitHub third-party approval pending.",
+  "mergeDependency": "If PR14 is merged first, rebase and reconcile the cumulative release before this PR can be approved or merged. Do not replace release v12 or drop its five articles.",
+  "records": [
+    {
+      "topicId": "T091",
+      "researchSha256": "1b33f68d311812ea9ff55fd07d81d66531a5ef7102b94299ea2c2d8cc32fe4a1",
+      "previousValidationSha256": "4615ada8f671790a01d19441f83a661cbd4a59535d0599525b3173e9884487dd",
+      "status": "claims_rechecked_for_proposed_article",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "Met所蔵「桑名 七里渡口」JP1491は歌川広重の1833〜34年頃の紙上多色木版で、船が桑名港へ到着する場面と解説される。",
+          "sourceIds": [
+            "M01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "historical_fact",
+          "claim": "Metは「御油」の画中表示を、絵師Ichiryūsai、彫師Jirobei、摺師Heibei、版元Takenouchiと解説する。",
+          "sourceIds": [
+            "M03"
+          ]
+        },
+        {
+          "id": "F06",
+          "kind": "brand_statement",
+          "claim": "B.MAXIMは東海道五十三次から帆船・富士山・桜・松の風景柄を着想し、北陸製織・京都抜染の生地にフェード加工したと公式に説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F07",
+          "kind": "brand_statement",
+          "claim": "B.PALMERは東海道五十三次に着想した港町風景を、北陸製織・京都着色抜染の生地とフェード加工で表したと公式に説明する。",
+          "sourceIds": [
+            "B02"
+          ]
+        }
+      ],
+      "primarySources": [
+        {
+          "id": "M01",
+          "url": "https://www.metmuseum.org/art/collection/search/55587",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03",
+          "locator": "Artwork details / JP1491",
+          "verifiedClaim": "Kuwana port scene; Hiroshige, ca.1833–34, multicolor woodblock on paper."
+        },
+        {
+          "id": "M03",
+          "url": "https://www.metmuseum.org/art/collection/search/36957",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03",
+          "locator": "Curatorial description / JP506",
+          "verifiedClaim": "Cartouches identify artist, engraver and printer; publisher name appears in a partially hidden circle."
+        }
+      ],
+      "brandEvidence": "Fixed official Web corpus snapshot (2026-09-08); current public URLs were checked where body retrievable. No price, availability or unsupported provenance inferred.",
+      "independentApproval": "pending",
+      "boundaries": "NICENESSが参照した絵師、シリーズの版、宿場、具体的な原図は未特定。所蔵版画を商品の直接の原型とはしていない。版画の制作分担を、現在の服の製作工程と同一視もしない。",
+      "hashDriftEvidence": "Current research matches committed85fcb8e snapshot, while old history-validation hash differs. No later full-research validation is claimed. Selected claims F01/F04 were rechecked against live Met bodies; unused F02/F03/F05 not adopted.",
+      "overlapReview": "No duplicate central subject or primary history URL among217 baseline articles or the five pending PR14 additions.",
+      "inputResearchSha256": "8b506ff6376297ae4be91b280ecc955653d3cc384e487837006ce454f814adf7",
+      "freshResearchRecord": "research-revalidation-20261004/T091.rechecked.json",
+      "freshResearchValidation": "research-revalidation-20261004/T091.validation.json",
+      "freshValidationScope": "Only the explicitly adopted claims for this proposed article; no certification of unused claims or entire archive.",
+      "brandSnapshotChecks": [
+        {
+          "model": "B.MAXIM",
+          "productId": "gid://shopify/Product/9219503751336",
+          "sourceUrl": "https://www.niceness.jp/products/b-maxim-26ss",
+          "descriptionSha256": "089bcf2a2a17496e124df8088627da271de18bbeab3e57ee26ec54659a100f10",
+          "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+        },
+        {
+          "model": "B.PALMER",
+          "productId": "gid://shopify/Product/9219503882408",
+          "sourceUrl": "https://www.niceness.jp/products/b-palmer-26ss",
+          "descriptionSha256": "2fd39c32cae7eed9393625c7e855d25dbee3a2c1aed096c54a3f24c8abbeda22",
+          "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+        }
+      ],
+      "officialCorpusSha256": "503cc52f1a2e78d0e6c952ffb78a2a1bad71660d5cf07cbad353dce0e0f3f5cd",
+      "previousValidationMatchesInputSnapshot": false
+    },
+    {
+      "topicId": "T097",
+      "researchSha256": "32f77a68e4dcee17319fecaaaa6df57e8a5105aea2c6b9f907f13d0bfb24dbf9",
+      "previousValidationSha256": "9db75e1bacb64e05777f2155080223fb58dc8d5f37b78d85eb582c2b18793165",
+      "status": "claims_rechecked_for_proposed_article",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "London MuseumはKim Philpottsが1980年代に購入したKatharine Hamnettの綿ジーンズを収蔵し、製作年代を1980〜1989年とする。",
+          "sourceIds": [
+            "M01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "claim": "同館はPhilpottsがロンドン転居後に英国の女性デザイナーの服を好み、1980年代にはLevi’s 501も着用したと記す。",
+          "sourceIds": [
+            "M01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "claim": "CHARLESは1980年代英国デニムトラウザーを参照した後ろ高の型に、ムラ感のある綿デニムとグラフィック入り裏地を採用したと公式に説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F05",
+          "kind": "brand_statement",
+          "claim": "P.CHARLESは1980年代英国デニムトラウザーを参照した後ろ高の型に、14ウェールコーデュロイと京都で加工した花柄を採用したと公式に説明する。",
+          "sourceIds": [
+            "B02"
+          ]
+        }
+      ],
+      "primarySources": [
+        {
+          "id": "M01",
+          "url": "https://www.londonmuseum.org.uk/collections/v/object-782287/trousers-jeans/",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03",
+          "locator": "Description and Object details / 2010.53/23",
+          "verifiedClaim": "Kim Philpotts bought Hamnett cotton jeans in the 1980s; wore Levi’s501; records one individual wardrobe, not a general dress code."
+        }
+      ],
+      "brandEvidence": "Fixed official Web corpus snapshot (2026-09-08); current public URLs were checked where body retrievable. No price, availability or unsupported provenance inferred.",
+      "independentApproval": "pending",
+      "boundaries": "Hamnettの所蔵品の型紙や背面の高さは、目録本文では確認できない。CHARLESの直接の原型ともしていない。持ち主の生活地を縫製地へ読み替えず、ひとりの服選びを英国全体の着用規範へ広げない。",
+      "hashDriftEvidence": "research target-preparation/history-source-type-repair.v1/validation.json reports PASS. Before/current diff contains only retailer source.type normalization, no fact changes. Historical claims were separately re-read from primary source bodies today; old validation remains unchanged.",
+      "overlapReview": "No duplicate central subject or primary history URL among217 baseline articles or the five pending PR14 additions.",
+      "inputResearchSha256": "9ce1ec434b2f74194761e5a2f250cea1d670e355c529eb2c69aba39d54c5496d",
+      "freshResearchRecord": "research-revalidation-20261004/T097.rechecked.json",
+      "freshResearchValidation": "research-revalidation-20261004/T097.validation.json",
+      "freshValidationScope": "Only the explicitly adopted claims for this proposed article; no certification of unused claims or entire archive.",
+      "brandSnapshotChecks": [
+        {
+          "model": "CHARLES",
+          "productId": "gid://shopify/Product/9468654420136",
+          "sourceUrl": "https://www.niceness.jp/products/charles",
+          "descriptionSha256": "bc2793b253722c24f4165d3cbcddd1879a74f2d64e2909c11d26ad3ab549c175",
+          "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+        },
+        {
+          "model": "P.CHARLES",
+          "productId": "gid://shopify/Product/9469536501928",
+          "sourceUrl": "https://www.niceness.jp/products/p-charles",
+          "descriptionSha256": "d07285fc65e4f28bc9bbd196cdb7acab4e46226ea492fc049a51f63207d71716",
+          "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+        }
+      ],
+      "officialCorpusSha256": "503cc52f1a2e78d0e6c952ffb78a2a1bad71660d5cf07cbad353dce0e0f3f5cd",
+      "previousValidationMatchesInputSnapshot": false
+    },
+    {
+      "topicId": "T099",
+      "researchSha256": "8f5287aa03cbd9b909c08552432044791a685f186a7ca832859e103a7f775e9b",
+      "previousValidationSha256": "411cdead5324f1c8e8584d9cd5a60688fdd3def67488016ca9dfa8638a45b92b",
+      "status": "claims_rechecked_for_proposed_article",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "Archie Greenはフリスコジーンズを厚い黒綿綾織のストレートパンツと説明し、Ben Davisが1935年からサンフランシスコで製造したと記す。",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "claim": "同紙の1948年レイバーデー行進写真は、Market Streetを歩くSUP集団の装いを白シャツ、フリスコジーンズ、白い帽子と説明する。",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "claim": "同記事が引用する船員Joe Gladstoneの回想は、黒いフリスコジーンズを含む非公式な装いを、西海岸船員への帰属感と結び付けている。",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "claim": "N.MORLEYは1950年代米国フリスコ型に英国スラックスの構造を組み合わせ、リネンに1950年代デニムの表情を転写したと公式に説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F05",
+          "kind": "brand_statement",
+          "claim": "S.MORLEYは1950年代米国フリスコ型に英国スラックスの構造を組み合わせ、裏面にシルクを配した絹綿コーデュロイで製作したと公式に説明する。",
+          "sourceIds": [
+            "B02"
+          ]
+        }
+      ],
+      "primarySources": [
+        {
+          "id": "E01",
+          "url": "https://www.sailors.org/sites/default/files/newsletter/pdf/harrylundebergcentennial.pdf",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03",
+          "locator": "WEST COAST SAILORS 2001-03-30, printed page3",
+          "verifiedClaim": "Green describes straight-leg heavy black cotton twill pants; the1948 parade caption lists frisco jeans; quoted later Gladstone memoir calls clothing unofficial and associates it with West Coast belonging."
+        }
+      ],
+      "brandEvidence": "Fixed official Web corpus snapshot (2026-09-08); current public URLs were checked where body retrievable. No price, availability or unsupported provenance inferred.",
+      "independentApproval": "pending",
+      "boundaries": "1948年の写真は、ブランドが挙げる1950年代より前の比較例。Greenの記事は2001年の回顧資料で、Gladstoneの体験も後年の回想を通して伝わる。写真のパンツの製造者や、NICENESSの具体的な原型は特定していない。",
+      "hashDriftEvidence": "research target-preparation/history-source-type-repair.v1/validation.json reports PASS. Before/current diff contains only retailer source.type normalization, no fact changes. Historical claims were separately re-read from primary source bodies today; old validation remains unchanged.",
+      "overlapReview": "No duplicate central subject or primary history URL among217 baseline articles or the five pending PR14 additions.",
+      "inputResearchSha256": "4f4bf484d255c5e3b8352f804945447730de8caf6fae9c49c7785bed35ae82bc",
+      "freshResearchRecord": "research-revalidation-20261004/T099.rechecked.json",
+      "freshResearchValidation": "research-revalidation-20261004/T099.validation.json",
+      "freshValidationScope": "Only the explicitly adopted claims for this proposed article; no certification of unused claims or entire archive.",
+      "brandSnapshotChecks": [
+        {
+          "model": "N.MORLEY",
+          "productId": "gid://shopify/Product/9469546856616",
+          "sourceUrl": "https://www.niceness.jp/products/n-morley",
+          "descriptionSha256": "b3858d0c7c9d0e9aa2e5e6f2d17d2c779aefff7a1748de9dc40d4a13542e124f",
+          "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+        },
+        {
+          "model": "S.MORLEY",
+          "productId": "gid://shopify/Product/9469550166184",
+          "sourceUrl": "https://www.niceness.jp/products/s-morley",
+          "descriptionSha256": "8f04a3874687c50920726a2a5548cf768f0fdd45e0e8fcca4c6d117f6daaaf84",
+          "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+        }
+      ],
+      "officialCorpusSha256": "503cc52f1a2e78d0e6c952ffb78a2a1bad71660d5cf07cbad353dce0e0f3f5cd",
+      "previousValidationMatchesInputSnapshot": false
+    },
+    {
+      "topicId": "T317",
+      "researchSha256": "6ccf49c259a6f7b8f7ec4c28bbf39d1799c2ad21b6ed6dcb530f733b81ee0a4a",
+      "previousValidationSha256": "f5ada0ccb04e19c9747e04f5ec3ea969d271c43d0faa4a170a7949bfd6f21778",
+      "status": "claims_rechecked_for_proposed_article",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "Denmark国立博物館所蔵の英国M/1953 infantry combat smockはolive canvas、zip、epaulette、胸・side pocketを備える。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "LYNELLは1970年代米英仏field jacketの要素を織り交ぜたoriginal型と公式資料に記載される。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "primarySources": [
+        {
+          "id": "H01",
+          "url": "https://samlinger.natmus.dk/khs/object/48332",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03",
+          "locator": "Beskrivelse; Brugt / object48332",
+          "verifiedClaim": "M/1953, olive canvas, zipper, shoulder straps, breast and side pockets. Usage is presumed, broadly1945–1991; does not establish specific1970s wear."
+        }
+      ],
+      "brandEvidence": "Fixed official Web corpus snapshot (2026-09-08); current public URLs were checked where body retrievable. No price, availability or unsupported provenance inferred.",
+      "independentApproval": "pending",
+      "boundaries": "所蔵スモックをLYNELLの直接の原型とは扱わない。M/1953を1970年代の服と断定せず、所蔵地のデンマークを製造地にも読み替えない。既存記事が扱う米国での型式選択とは別に、ここでは英国の個体の構成を読む。",
+      "overlapReview": "LYNELL also appears inT316, which concerns US model choice and civilian adoption. This article concerns the structure and catalog limits of British object48332; no historical source or narrative reused.",
+      "additionalSourceFields": [
+        "object number e3486.a.2",
+        "presumed usage England1945–1991"
+      ],
+      "inputResearchSha256": "f5ada0ccb04e19c9747e04f5ec3ea969d271c43d0faa4a170a7949bfd6f21778",
+      "freshResearchRecord": "research-revalidation-20261004/T317.rechecked.json",
+      "freshResearchValidation": "research-revalidation-20261004/T317.validation.json",
+      "freshValidationScope": "Only the explicitly adopted claims for this proposed article; no certification of unused claims or entire archive.",
+      "brandSnapshotChecks": [
+        {
+          "model": "LYNELL",
+          "productId": "gid://shopify/Product/9219459842216",
+          "sourceUrl": "https://www.niceness.jp/products/lynell-26ss",
+          "descriptionSha256": "d65f00c1a0d4604e5b121d84161905ecd83efed1ff3d4d145e32c978959f35e0",
+          "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+        }
+      ],
+      "officialCorpusSha256": "503cc52f1a2e78d0e6c952ffb78a2a1bad71660d5cf07cbad353dce0e0f3f5cd",
+      "previousValidationMatchesInputSnapshot": true
+    }
+  ]
+}
