@@ -7,7 +7,7 @@
   "records": [
     {
       "topicId": "T091",
-      "researchSha256": "1b33f68d311812ea9ff55fd07d81d66531a5ef7102b94299ea2c2d8cc32fe4a1",
+      "researchSha256": "ec1c5e059b4fa46d479d9edc7413b810be489dce243199104ab1437520446ffa",
       "previousValidationSha256": "4615ada8f671790a01d19441f83a661cbd4a59535d0599525b3173e9884487dd",
       "status": "claims_rechecked_for_proposed_article",
       "usedFacts": [
@@ -52,7 +52,7 @@
           "method": "web",
           "checkedOn": "2026-10-03",
           "locator": "Artwork details / JP1491",
-          "verifiedClaim": "Kuwana port scene; Hiroshige, ca.1833–34, multicolor woodblock on paper."
+          "verifiedClaim": "The Met states two boats in the foreground are about to reach Kuwana port. No claim of raised sails in these arriving boats. Hiroshige, ca.1833–34, multicolor woodblock on paper."
         },
         {
           "id": "M03",
@@ -90,7 +90,8 @@
         }
       ],
       "officialCorpusSha256": "503cc52f1a2e78d0e6c952ffb78a2a1bad71660d5cf07cbad353dce0e0f3f5cd",
-      "previousValidationMatchesInputSnapshot": false
+      "previousValidationMatchesInputSnapshot": false,
+      "editorialCorrection": "Independent review found the foreground arriving boats have lowered sails; changed the opening to two boats approaching Kuwana, as the Met text directly states. No product or other historical claims changed."
     },
     {
       "topicId": "T097",
