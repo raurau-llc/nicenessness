@@ -314,5 +314,6 @@
       "officialCorpusSha256": "503cc52f1a2e78d0e6c952ffb78a2a1bad71660d5cf07cbad353dce0e0f3f5cd",
       "previousValidationMatchesInputSnapshot": true
     }
-  ]
+  ],
+  "publicationGuard": "All proposed additions remain status review and are excluded from production pages. Promote to ready with actual publication dates only as part of the approved release; GitHub approval must cover the final head."
 }

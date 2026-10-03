@@ -27,3 +27,5 @@ GitHubは共同編集、GPT Sitesは静的配信を担当します。mainへの�
 `npm run export:community -- /absolute/new-directory`で公開用ソースの控えを作れます。出力先は上書きしません。Git履歴、研究入力、環境設定、依存パッケージ、配信成果物を除き、community-export.jsonにファイルハッシュを記録します。
 
 新規4本は未公開で、掲載日も未設定。PR14の5本を含む版とは独立したmain217本が基底です。PR14が先に採用される場合、本提案はrebaseして累積releaseを統合し、その最終headに第三者承認を得る必要があります。
+
+承認待ちの新規原稿はstatus=reviewで本番ビルド対象外。readyへの昇格と実際の掲載日は、公開する最終headへの通常の第三者承認と合わせて記録します。

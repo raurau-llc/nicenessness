@@ -66,3 +66,5 @@ T091/T097/T099 remain unreconciled in the original archive validation. This prop
 T317 addresses the recorded construction of British museum object48332 and its presumed usage range; T316 addresses US model choice. Reusing LYNELL does not reuse that historical narrative. No new photographs or full third-party descriptions were copied.
 
 Live Sites version14 currently exposes197 stories, while main contains217. Publishing from this checkout would also expose the prior20. Their publication review must be resolved before deploying; do not treat successful CI or an AI editorial check as GitHub third-party approval. The protected branch requires an approving review and verify. No deployment occurred during preparation.
+
+Proposed additions remain `review` and are excluded from production output. Local draft preview was validated separately before this guard correction. Promotion to `ready` with real publication dates requires normal review of the final release head.
