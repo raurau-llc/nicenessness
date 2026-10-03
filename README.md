@@ -10,7 +10,7 @@
 
 Node >=22.12.0。`npm ci`、`npm test`、`npm run build`。`npm run dev`でローカル表示。成果物はdist/です。Astroの計測を無効にする場合はASTRO_TELEMETRY_DISABLED=1を設定できます。
 
-content/articles.jsonに217本の原稿と出典情報を収録。readyの原稿のみを配信し、商品ID・シーズン・地域の役割・歴史の年代を分けています。release.v11.jsonは現在の採用時の研究記録ハッシュとfact参照です。研究資料原本や商品説明全文は含みません。
+content/articles.jsonに222本の原稿と出典情報を収録。このうち新規5本は第三者レビュー・採用・配信待ちです。readyの原稿のみをビルドし、商品ID・シーズン・地域の役割・歴史の年代を分けています。release.v12.jsonは使用する研究記録ハッシュとfact参照、revalidation.v12.jsonは新規5本の一次資料の再確認記録です。研究資料原本や商品説明全文は含みません。
 
 ## 公開とSEO
 
@@ -25,3 +25,5 @@ GitHubは共同編集、GPT Sitesは静的配信を担当します。mainへの�
 ## ソースの書き出し
 
 `npm run export:community -- /absolute/new-directory`で公開用ソースの控えを作れます。出力先は上書きしません。Git履歴、研究入力、環境設定、依存パッケージ、配信成果物を除き、community-export.jsonにファイルハッシュを記録します。
+
+承認待ちの新規原稿はstatus=reviewで本番ビルド対象外。readyへの昇格と実際の掲載日は、公開する最終headへの通常の第三者承認と合わせて記録します。

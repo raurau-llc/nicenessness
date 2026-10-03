@@ -11,7 +11,7 @@
 
 今後決めるもの：継続的なメンテナーと資料確認担当、コードと記事のライセンス、貢献者名の表示方針、自動デプロイの導入。CODEOWNERSには実在する担当者が決まってから登録します。第三者の原文・写真・ロゴへ一括してライセンスを付与しません。
 
-現在は217記事。研究全件の記事化は後続です。地図は概略図。投稿受付はGitHub Issueを使用し、サイト内の下書き保存そのものは送信ではありません。
+GitHub mainには217記事、2026-10-03確認時の公開サイトには197記事。本提案で5記事を追加した222記事はレビュー・採用・配信をそれぞれ必要とします。研究全件の記事化は後続です。地図は概略図。投稿受付はGitHub Issueを使用し、サイト内の下書き保存そのものは送信ではありません。
 
 ## 記事追加 v4（2026-09-12）
 
@@ -55,3 +55,15 @@ Added 20 stories from SHA-matched fixed research snapshots in release.v11. Each 
 Held back from this batch: T091, T097 and T099, the same three held at the 150-article batch. Their research files no longer hash to their validation records — T097 and T099 were rewritten by the recorded `history-source-type-repair.v1` pass, and T091 differs with no repair record. Adopting them needs a fresh validation record from the research side, not a hash copied out of the file. Eleven snapshots show this drift in total. T048 is not among the open ones: its mismatch was reconciled when it was adopted at batch 03, against the validated 25daded snapshot. T075 carries the same drift with no reconciliation recorded and is not published; re-checking it is a separate task.
 
 Topics without an independently sourced historical fact remain unpublished. Of the 845 completed research topics, 648 were unpublished before this batch and only 52 carry at least one historical fact backed by a non-NICENESS source; brand-statement-only topics are not made into articles.
+
+## 2026-10-03: five proposed stories
+
+Proposed additions: T102 (1950 rugby jersey), T222 (cloverleaf collar), T243 (1973 printed T-shirt), T300 (turquoise bangle), T304 (balloon silhouette). All 217 existing article objects are preserved. The first three were checked for scope, claim/source alignment, duplicate history, geographic roles and product boundaries before the remaining two were prepared. The five use fresh reads of museum, university and government sources. No photographs or full product descriptions were copied.
+
+T102 and T222 have stale archive validation hashes. Their selected claims were rechecked against the primary sources in `content/revalidation.v12.json`; the prior hashes are retained there. This verifies the claims used here, rather than claiming that every fact in the research file is complete. T243's previously inaccessible source was freshly read. T222 shares K.ROLAND with T063 but addresses the rounded collar of a 1915–17 collection object, without repeating T063's Italian tailoring narrative. T285 was not included because its source overlaps the published hoodie history. Cardin's late-1950s balloon dress is kept distinct from CALM's stated 1960s reference. DWIGHT's wishes are attributed to NICENESS rather than assigned to all Indigenous cultures or presented as effects of the stone.
+
+New `publishedAt` and `modifiedAt` values remain null until actual publication. Before release, record the real release date, obtain the required independent approval on the resulting head, and pass the `verify` check. An editorial check by the author does not fulfill that independent approval. Main requires one approving review and successful `verify` CI, including for administrators.
+
+The live site is Sites version 14 with 197 unique story links, while GitHub main at e1da630 contains 217 article objects. GitHub adoption and Sites deployment are separate operations; PR #13 added 20 articles to main but the live site has not received that version. The source histories were checked as compatible without overwriting either. PR #13 has successful CI but no approving review in its returned review history; its 20 articles are not silently counted as approved for a new deployment. Resolve that review evidence and the release scope before syncing them into Sites.
+
+Proposed additions remain `review` and are excluded from production output. Local draft preview was validated separately before this guard correction. Promotion to `ready` with real publication dates requires normal review of the final release head.

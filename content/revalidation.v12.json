@@ -1,0 +1,274 @@
+{
+  "version": 12,
+  "reviewedOn": "2026-10-03",
+  "baseCommit": "e1da630764feabd820a0d951d87d048f10434dcf",
+  "editorialReview": "Source and scope checks by the drafting agent; independent maintainer approval is pending.",
+  "publicationStatus": "Not published. Dates remain unset until the actual release.",
+  "images": "No new images or third-party photographs copied.",
+  "records": [
+    {
+      "topicId": "T102",
+      "researchSha256": "b0eaaa5d758b0d6e9833a21c0b0377fbec375f4ceafdf979d849d2c9e54f24b9",
+      "previousValidationSha256": "cd46a0f4af0d8b641c16ada62e3d0e2f5557a8f0422573048089adf5cc55784c",
+      "previousValidationMatches": false,
+      "status": "claims_rechecked_for_proposed_article",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "World Rugby MuseumはBritish & Irish Lionsが1950年に初めて赤いシャツを着用したと説明する。",
+          "sourceIds": [
+            "M01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "claim": "Rugby Australiaの収蔵記録はE.R. Johnが1950年豪州遠征で着たシャツを、綿100％、赤身頃・白襟・前に白い3ボタン・背番号24と記す。",
+          "sourceIds": [
+            "M02"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "claim": "同記録はそのシャツがJohnと対戦相手の豪州選手Sir Nicholas Shehadieの間で交換されたと説明する。",
+          "sourceIds": [
+            "M02"
+          ]
+        },
+        {
+          "id": "F05",
+          "kind": "brand_statement",
+          "claim": "SHACKLOCKは1950年代仏ドレスシャツと英国ラガーシャツを参照し、絹・カディ綿の手織り生地と2色の着脱襟を採用したと公式資料に記す。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F06",
+          "kind": "brand_statement",
+          "claim": "GLASCOCKは1950年代仏ドレスシャツと英国ラガーシャツを参照し、加工した高密度綿ブロードと2色の着脱襟を採用したと公式資料に記す。",
+          "sourceIds": [
+            "B02"
+          ]
+        }
+      ],
+      "primarySources": [
+        {
+          "id": "M01",
+          "url": "https://worldrugbymuseum.com/news/exhibitions/new-special-exhibitions-launched-at-the-world-rugby-museum",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03"
+        },
+        {
+          "id": "M02",
+          "url": "https://artsandculture.google.com/asset/swEMqzlsxcfRKQ?childAssetId=TwFqReIP7ETS0Q",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03"
+        }
+      ],
+      "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
+      "independentApproval": "pending",
+      "boundaries": "1950年の所蔵シャツが直接の原型かは未確認で、襟が取り外せるとも記録されていない。公式説明の「1950年代」が英国ラガーシャツにもかかるか、素材の原料・製織・縫製地も、ここでは補わない。",
+      "overlapReview": "No shared primary-history URL or duplicate central subject found among the 217 existing articles.",
+      "revalidationReason": "The prior validation is stale. Only the selected claims were checked again against live primary sources; archive records and earlier hashes remain unchanged."
+    },
+    {
+      "topicId": "T222",
+      "researchSha256": "2cf3f92327430bc4094753f670537013a9c3d8ee60eeec45553a141f3f814f0b",
+      "previousValidationSha256": "0153253b99ef718738b2b3702bdd559f993c3aab93b193ece2874a3368880888",
+      "previousValidationMatches": false,
+      "status": "claims_rechecked_for_proposed_article",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "UNHの目録は1915〜17年の黒いオットマン絹の婦人スーツ188aの襟先をcloverleafと記述する。作者は不明で、前身頃の左右の襟が重なる。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "AW23 K.ROLANDはクローバーの葉のような丸い襟を特徴とし、1950〜60年代イタリアのジャケットを参照した太番手梳毛のチェック接結生地と説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "primarySources": [
+        {
+          "id": "H01",
+          "url": "https://scholars.unh.edu/bowen_collection/220/",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03"
+        }
+      ],
+      "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
+      "independentApproval": "pending",
+      "boundaries": "1915〜17年のスーツの製造地・着用地、当時の襟型の呼び名、K.ROLANDの具体的な原型は未確認。米国は所蔵地であり、イタリアまでの伝播経路を示すものではない。判読できなかった公式資料の部分も補っていない。",
+      "overlapReview": "K.ROLAND also appears in T063. That article concerns Italian tailoring and London adoption; this article concerns the rounded collar of object 188a and does not repeat that historical narrative.",
+      "revalidationReason": "The prior validation is stale. Only the selected claims were checked again against live primary sources; archive records and earlier hashes remain unchanged."
+    },
+    {
+      "topicId": "T243",
+      "researchSha256": "32da0cb0560ab8c9c786339f363969e8ffef5808f17927a1b2f35aca9a35a2bc",
+      "previousValidationSha256": "32da0cb0560ab8c9c786339f363969e8ffef5808f17927a1b2f35aca9a35a2bc",
+      "previousValidationMatches": true,
+      "status": "claims_rechecked_for_proposed_article",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "UNTは2006.007.023を1973年の白綿Tシャツとして収蔵し、赤い人物図像とMillennium ’73の文字、デザイナーAnn, Kerryを記録する。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "KARLは1970年代米国古着Tシャツの細幅付け襟と袖口仕様を参照し、超長綿強撚生地、ステンシル抜染、製品洗いとタンブラー加工を用いる。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "primarySources": [
+        {
+          "id": "H01",
+          "url": "https://digital.library.unt.edu/ark:/67531/metadc2416402/",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03"
+        }
+      ],
+      "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
+      "independentApproval": "pending",
+      "boundaries": "所蔵品の人物、催事内容、着用者、製造地は未確認。KARLの直接の原型や、同じプリント・襟・袖口を持つ一着とは扱わない。目録のUnited Statesという地域欄から、製造地や着用地を決めていない。",
+      "overlapReview": "No shared primary-history URL or duplicate central subject found among the 217 existing articles."
+    },
+    {
+      "topicId": "T300",
+      "researchSha256": "4fce8f9409734eaceecfd6ebc1d6389aeedda62ebc3d31bc70b0ed4398517b07",
+      "previousValidationSha256": "4fce8f9409734eaceecfd6ebc1d6389aeedda62ebc3d31bc70b0ed4398517b07",
+      "previousValidationMatches": true,
+      "status": "claims_rechecked_for_proposed_article",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "Museum of Indian Arts and Cultureの展覧会説明は、米国南西部のturquoise jewelryを扱い、turquoiseが水・空、豊作、健康、保護を表すと館学芸員の説明を記す。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "claim": "同展覧会はturquoiseを地質、採掘、歴史、真正性、価値の各面から扱い、石の意味を物性・流通・文化と併せて検討する。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "DWIGHTはsilver925製horse-head bangleの両目にturquoiseを入れ、繁栄、成功、健やかな身体への願いを込めたと公式資料に記載される。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "primarySources": [
+        {
+          "id": "H01",
+          "url": "https://media.newmexicoculture.org/press_releases.php/292/?action=detail&releaseID=292",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03"
+        }
+      ],
+      "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
+      "independentApproval": "pending",
+      "boundaries": "DWIGHTの石の産地・採掘地・加工者、願いの文化的な出典は未確認。展覧会が紹介する意味との類似から、特定の共同体の伝統を直接継ぐ装身具とはしていない。願いを、石による実際の効能とも扱わない。",
+      "overlapReview": "No shared primary-history URL or duplicate central subject found among the 217 existing articles."
+    },
+    {
+      "topicId": "T304",
+      "researchSha256": "18dbabb6706b640621e503e210659a88a3c4b78a693e1967c6a614ebb2bcc409",
+      "previousValidationSha256": "18dbabb6706b640621e503e210659a88a3c4b78a693e1967c6a614ebb2bcc409",
+      "previousValidationMatches": true,
+      "status": "claims_rechecked_for_proposed_article",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "Cardinのバルーンドレスは1950年代の造形例として扱う。公式沿革はbubble dressを1954年、シンガポール国立博物館は導入を1950年代末と記すため、導入年を断定しない。同館は1960年代の幾何学的シフトドレスも記す。",
+          "sourceIds": [
+            "H01",
+            "H03"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "claim": "The Museum at FITは1957〜68年Paris coutureとready-to-wearの変化を扱い、1960年代に複数couturierが彫刻的silhouetteを作ったと示す。",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "CALMは1960年代Parisのcouturierが好んだballoon silhouetteをcasual itemへ落とし込んだと公式資料に記載される。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "primarySources": [
+        {
+          "id": "H01",
+          "url": "https://www.roots.gov.sg/Collection-Landing/listing/1020294",
+          "retrieval": "body_read",
+          "method": "browser",
+          "checkedOn": "2026-10-03"
+        },
+        {
+          "id": "H02",
+          "url": "https://www.fitnyc.edu/museum/exhibitions/paris-refashioned.php",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03"
+        },
+        {
+          "id": "H03",
+          "url": "https://pierrecardin.com/en/pages/la-maison",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03",
+          "locator": "PIERRE CARDIN / VISIONARY CREATOR AND BUSINESSMAN",
+          "verifiedClaim": "The House states that Cardin created the bubble dress in 1954."
+        }
+      ],
+      "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
+      "independentApproval": "pending",
+      "boundaries": "CALMが直接参照したクチュリエ、作品、製作年は未特定。CardinのドレスをCALMの原型とはしていない。Cardin公式沿革はbubble dressを1954年、博物館解説はバルーンドレスの導入を1950年代末と記すため、本記事では1950年代の造形例として扱い、導入年を一つに断定しない。",
+      "overlapReview": "No shared primary-history URL or duplicate central subject found among the 217 existing articles.",
+      "editorialCorrection": {
+        "factId": "F01",
+        "reason": "Independent review found conflicting dates. The live official Cardin history was read; adoption-year comparison was removed and the article broadened to the 1950s.",
+        "researchArchiveChanged": false,
+        "researchHashMeaning": "Hash still identifies the unchanged research snapshot; this verification record explicitly corrects the selected claim for the article.",
+        "independentApproval": "pending"
+      }
+    }
+  ],
+  "publicationGuard": "All proposed additions remain status review and are excluded from production pages. Promote to ready with actual publication dates only as part of the approved release; GitHub approval must cover the final head."
+}
