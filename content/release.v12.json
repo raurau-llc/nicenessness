@@ -7774,7 +7774,8 @@
           "id": "F01",
           "kind": "historical_fact",
           "sourceIds": [
-            "H01"
+            "H01",
+            "H03"
           ]
         },
         {

@@ -209,9 +209,10 @@
         {
           "id": "F01",
           "kind": "historical_fact",
-          "claim": "National Heritage BoardはPierre Cardinが1950年代末にballoon dress、1960年代に幾何学的shift dressを発表したと説明する。",
+          "claim": "Cardinのバルーンドレスは1950年代の造形例として扱う。公式沿革はbubble dressを1954年、シンガポール国立博物館は導入を1950年代末と記すため、導入年を断定しない。同館は1960年代の幾何学的シフトドレスも記す。",
           "sourceIds": [
-            "H01"
+            "H01",
+            "H03"
           ]
         },
         {
@@ -245,12 +246,28 @@
           "retrieval": "body_read",
           "method": "web",
           "checkedOn": "2026-10-03"
+        },
+        {
+          "id": "H03",
+          "url": "https://pierrecardin.com/en/pages/la-maison",
+          "retrieval": "body_read",
+          "method": "web",
+          "checkedOn": "2026-10-03",
+          "locator": "PIERRE CARDIN / VISIONARY CREATOR AND BUSINESSMAN",
+          "verifiedClaim": "The House states that Cardin created the bubble dress in 1954."
         }
       ],
       "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
       "independentApproval": "pending",
-      "boundaries": "CALMが直接参照したクチュリエ、作品、製作年は未特定。Cardinの1950年代末のバルーンドレスをCALMの原型とはしていない。博物館の歴史解説と、ブランドが述べる1960年代への参照を分けて読む。",
-      "overlapReview": "No shared primary-history URL or duplicate central subject found among the 217 existing articles."
+      "boundaries": "CALMが直接参照したクチュリエ、作品、製作年は未特定。CardinのドレスをCALMの原型とはしていない。Cardin公式沿革はbubble dressを1954年、博物館解説はバルーンドレスの導入を1950年代末と記すため、本記事では1950年代の造形例として扱い、導入年を一つに断定しない。",
+      "overlapReview": "No shared primary-history URL or duplicate central subject found among the 217 existing articles.",
+      "editorialCorrection": {
+        "factId": "F01",
+        "reason": "Independent review found conflicting dates. The live official Cardin history was read; adoption-year comparison was removed and the article broadened to the 1950s.",
+        "researchArchiveChanged": false,
+        "researchHashMeaning": "Hash still identifies the unchanged research snapshot; this verification record explicitly corrects the selected claim for the article.",
+        "independentApproval": "pending"
+      }
     }
   ]
 }
