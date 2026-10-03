@@ -28052,5 +28052,589 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T102",
+    "slug": "red-rugby-jersey-1950",
+    "title": "白い襟と背番号24を載せる\n赤いラガーシャツ",
+    "deck": "遠征で着た一枚が、対戦相手の手へ渡る。",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "代表選抜の構成地域"
+      },
+      {
+        "id": "ie",
+        "name": "アイルランド",
+        "role": "代表選抜の構成地域"
+      },
+      {
+        "id": "au",
+        "name": "オーストラリア",
+        "role": "1950年の遠征・着用地"
+      }
+    ],
+    "eras": [
+      "1950s"
+    ],
+    "tags": [
+      "ラグビー",
+      "襟",
+      "背番号",
+      "交換"
+    ],
+    "category": "DRESS / 着る",
+    "model": "SHACKLOCK",
+    "season": "AW23",
+    "item": "shacklock-aw23",
+    "place": "英国・アイルランド・オーストラリア",
+    "period": "1950年",
+    "context": "ラガーシャツ",
+    "opening": "赤い身頃に、白い襟。前に三つの白いボタン、背中には白い「24」が縫い付けられている。Rugby Australiaの所蔵記録に残るのは、E.R. Johnが1950年の豪州遠征で着た綿のシャツだ。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "red",
+        "title": "チームが初めて、赤を着る。",
+        "paragraphs": [
+          "World Rugby Museumによれば、British & Irish Lionsが初めて赤いシャツを着たのは1950年。イングランド、アイルランド、スコットランド、ウェールズの代表から選ばれる遠征チームの記録である。",
+          "一つの国の日常着として見るより、複数の代表が同じ色を着て遠征した一着として見る。赤い身頃と白い襟にも、着る人たちのまとまりが見えてくる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "exchange",
+        "title": "番号と一緒に、来歴が残る。",
+        "paragraphs": [
+          "所蔵記録は素材を綿100％とし、Johnが対戦相手の豪州選手Nicholas Shehadieとシャツを交換したと説明する。番号が付いた試合着は、その一人だけの手元に残ったわけではなかった。",
+          "色や襟の形に加えて、誰が着て、誰へ渡したかを読む。服の伝来が、試合をした人同士の関係を伝えている。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "襟、ボタン、背番号。細部を見てから来歴を読むと、競技の一着が人の手を渡ったことまでたどれる。",
+    "bridge_title": "襟を取り替える、いまのシャツ。",
+    "bridge": "NICENESSはSHACKLOCKとGLASCOCKを、英国ラガーシャツと1950年代のフランスのドレスシャツを組み合わせた服として説明する。どちらも2色の着脱襟を備え、SHACKLOCKは絹・カディ綿の手織り生地、GLASCOCKは加工した高密度綿ブロードを使う。",
+    "bridge_refs": [
+      "F05",
+      "F06"
+    ],
+    "boundary": "1950年の所蔵シャツが直接の原型かは未確認で、襟が取り外せるとも記録されていない。公式説明の「1950年代」が英国ラガーシャツにもかかるか、素材の原料・製織・縫製地も、ここでは補わない。",
+    "product_title": "競技着とドレスシャツを重ねて読む。",
+    "product_paragraphs": [
+      "AW23のSHACKLOCKは、英国ラガーシャツと1950年代のフランスのドレスシャツを参照したプルオーバー。公式資料は、絹・カディ綿の手織り生地と2色の着脱襟を挙げる。",
+      "同じ複合参照を持つGLASCOCKは、高密度綿ブロードを加工して用いる。素材を変え、襟も取り替えられる服にするという、現在の編集を見る。"
+    ],
+    "product_refs": [
+      "F05",
+      "F06"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "shacklock-aw23",
+        "model": "SHACKLOCK",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "retained": "英国ラガーシャツと1950年代フランスのドレスシャツ。",
+        "changed": "絹・カディ綿の手織り生地と2色の着脱襟。",
+        "factRefs": [
+          "F05"
+        ]
+      },
+      {
+        "id": "glascock-aw23",
+        "model": "GLASCOCK",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "retained": "英国ラガーシャツと1950年代フランスのドレスシャツ。",
+        "changed": "加工した高密度綿ブロードと2色の着脱襟。",
+        "factRefs": [
+          "F06"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "M01",
+        "title": "New Special Exhibitions launched at the World Rugby Museum",
+        "publisher": "World Rugby Museum",
+        "url": "https://worldrugbymuseum.com/news/exhibitions/new-special-exhibitions-launched-at-the-world-rugby-museum",
+        "kind": "history"
+      },
+      {
+        "id": "M02",
+        "title": "British Isles Jersey, worn by E.R. John",
+        "publisher": "Rugby Australia Archives／Google Arts & Culture",
+        "url": "https://artsandculture.google.com/asset/swEMqzlsxcfRKQ?childAssetId=TwFqReIP7ETS0Q",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS SHACKLOCK",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS GLASCOCK",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T222",
+    "slug": "cloverleaf-collar-suit",
+    "title": "丸い襟先を重ねる\nクローバー襟のスーツ",
+    "deck": "葉のような輪郭を、一着の記録から見る。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "比較する婦人スーツの所蔵地"
+      },
+      {
+        "id": "it",
+        "name": "イタリア",
+        "role": "現代商品が挙げる上着の参照地域"
+      }
+    ],
+    "eras": [
+      "1910s",
+      "1950s",
+      "1960s"
+    ],
+    "tags": [
+      "襟",
+      "ラペル",
+      "スーツ",
+      "丸み"
+    ],
+    "category": "DRESS / 着る",
+    "model": "K.ROLAND",
+    "season": "AW23",
+    "item": "k-roland-aw23",
+    "place": "米国（所蔵）・イタリア（商品参照）",
+    "period": "1915〜17年の所蔵品・1950〜60年代への参照",
+    "context": "クローバー襟",
+    "opening": "襟先が尖らず、丸く終わる。University of New Hampshireの衣服目録には、1915〜17年の黒い絹の婦人スーツがあり、前のラペルをクローバーの葉にたとえて記している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "overlap",
+        "title": "右の襟が、左に重なる。",
+        "paragraphs": [
+          "目録が説明するのは、横畝のあるオットマン絹のスーツ。前の丸い襟先は、左右対称に離れているだけではなく、右側が左側へ重なる。",
+          "丸い先端と、重なる位置。襟という小さな部分にも、輪郭と組み合わせを別々に見る余地がある。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "name",
+        "title": "形の名前と、当時の呼び名。",
+        "paragraphs": [
+          "目録のcloverleafは、丸い襟先を説明する記述語だ。製作者は不明で、1915〜17年の着用者が同じ言葉で呼んだかも、この記録は示していない。",
+          "形を見つけられたことと、名称の由来が分かったことを分けておく。葉のたとえを手がかりに、まず一着のつくりを読む。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "尖った襟、丸い襟、重なる襟。大きな服型の名前よりも小さな輪郭から、仕立てを見る入口がある。",
+    "bridge_title": "丸い襟を、チェックの上着へ。",
+    "bridge": "NICENESSのK.ROLANDは、クローバーの葉のように丸く切った襟と、1950〜60年代イタリアのテーラードジャケットへの参照を組み合わせる。公式資料は、太番手梳毛を使うチェックの接結生地を挙げている。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "1915〜17年のスーツの製造地・着用地、当時の襟型の呼び名、K.ROLANDの具体的な原型は未確認。米国は所蔵地であり、イタリアまでの伝播経路を示すものではない。判読できなかった公式資料の部分も補っていない。",
+    "product_title": "襟先の曲線と、生地の面。",
+    "product_paragraphs": [
+      "AW23のK.ROLANDは、クローバーの葉のような丸い襟を特徴とする。1950〜60年代イタリアの上着を参照し、太番手梳毛のチェック接結生地を使うと公式資料に記される。",
+      "イタリアンジャケットの背景を読む既存記事と合わせ、ここでは襟先の輪郭に目を向ける。比較した婦人スーツを直接の原型とする説明は確認していない。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "k-roland-aw23",
+        "model": "K.ROLAND",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "retained": "丸いクローバー形の襟と1950〜60年代イタリアの上着への参照。",
+        "changed": "太番手梳毛のチェック接結生地。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Suit, black ottoman silk ... 1915–1917, detail of bodice front and collar",
+        "publisher": "University of New Hampshire Library",
+        "url": "https://scholars.unh.edu/bowen_collection/220/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS K.ROLAND",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T243",
+    "slug": "millennium-1973-printed-tshirt",
+    "title": "赤い顔と文字を載せた\n1973年のTシャツ",
+    "deck": "読める文字と、まだ名の分からない人物。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "収蔵目録の地域欄・製造と着用の役割は未記載"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "Tシャツ",
+      "プリント",
+      "文字",
+      "綿"
+    ],
+    "category": "DRESS / 着る",
+    "model": "KARL",
+    "season": "SS26",
+    "item": "karl-ss26",
+    "place": "米国（目録の地域欄）",
+    "period": "1973年",
+    "context": "プリントTシャツ",
+    "opening": "白い綿の面に、赤い人物の顔。その上には「Millennium ’73」の文字がある。University of North TexasのTexas Fashion Collectionは、このTシャツを1973年の品として記録している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "record",
+        "title": "布の上の図と、文字を読む。",
+        "paragraphs": [
+          "収蔵番号は2006.007.023。目録には白い綿、赤いプリント、人物の顔、そして文字が記され、デザイナー欄には「Ann, Kerry」と登録されている。",
+          "文字が読めても、図に描かれた人物や着た人まで分かるとは限らない。一枚の表面に残るものと、その向こうの出来事を分けて見ておきたい。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "detail",
+        "title": "図柄と、シャツのつくり。",
+        "paragraphs": [
+          "この記録で確かめられるのは、素材や図柄、作品年代。襟幅や袖口の縫い方は、本文に仕様として記されていない。",
+          "プリントを見る入口と、衣服の構造を見る入口は少し違う。1970年代のTシャツという同じ範囲でも、一着ごとに確認できる細部は変わる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "一枚の布には、文字も、顔も、縫い目もある。それぞれを同じ確かさで読めるわけではないところに、古着をたどる面白さがある。",
+    "bridge_title": "襟と袖口を、強撚綿で読み替える。",
+    "bridge": "NICENESSのKARLは、1970年代の米国古着Tシャツの細幅の付け襟と袖口仕様を参照する。公式資料は、超長綿の強撚糸を使う生地、ステンシル抜染、製品洗いとタンブラー加工を挙げる。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "所蔵品の人物、催事内容、着用者、製造地は未確認。KARLの直接の原型や、同じプリント・襟・袖口を持つ一着とは扱わない。目録のUnited Statesという地域欄から、製造地や着用地を決めていない。",
+    "product_title": "古着の仕様と、現在の加工。",
+    "product_paragraphs": [
+      "SS26のKARLは、1970年代米国古着Tシャツの細幅付け襟と袖口を参照したと公式資料に記される。超長綿の強撚糸による生地に、ステンシル抜染を施し、製品洗いとタンブラー加工を組み合わせる。",
+      "図柄の似た古着を原型として当てはめる前に、ブランドが挙げた構造と加工を読む。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "karl-ss26",
+        "model": "KARL",
+        "season": "SS26",
+        "number": null,
+        "url": "https://www.niceness.jp/products/karl-26ss",
+        "retained": "1970年代米国古着Tシャツの細幅付け襟・袖口仕様。",
+        "changed": "超長綿強撚生地、ステンシル抜染、製品洗い・タンブラー加工。",
+        "factRefs": [
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Millennium ’73 T-Shirt, 2006.007.023",
+        "publisher": "UNT Texas Fashion Collection",
+        "url": "https://digital.library.unt.edu/ark:/67531/metadc2416402/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS KARL",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/karl-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T300",
+    "slug": "turquoise-horse-head-bangle",
+    "title": "馬の目に青い石を入れる\nターコイズのバングル",
+    "deck": "小さな石に託す願いと、その土地の意味。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "南西部の装身具を扱った展覧会・現代の石の産地は不明"
+      }
+    ],
+    "eras": [
+      "2010s"
+    ],
+    "tags": [
+      "ターコイズ",
+      "バングル",
+      "装身具",
+      "馬"
+    ],
+    "category": "DRESS / 着る",
+    "model": "DWIGHT",
+    "season": "AW23",
+    "item": "dwight-aw23",
+    "place": "米国南西部（展覧会の対象）",
+    "period": "2014年の展覧会解説",
+    "context": "ターコイズと装身具",
+    "opening": "馬の形をしたバングルの両端に、小さな青い目を入れる。NICENESSのDWIGHTは、馬頭の目にターコイズを使ったと公式資料に記される。石を留める場所から、その色に託す意味へ目を移してみたい。",
+    "opening_refs": [
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "meaning",
+        "title": "水や空を表す、青緑。",
+        "paragraphs": [
+          "Museum of Indian Arts and Cultureが2014年に紹介した展覧会「Turquoise, Water, Sky」は、米国南西部のターコイズ装身具を扱った。学芸員Maxine McBrinnは、その石を水や空、豊作、健康、保護と結び付けて説明している。",
+          "ここで読めるのは、この地域の装身具を扱う展覧会の説明。あらゆる先住民文化に共通する一つの意味へ広げず、誰がどの範囲について語ったのかを残しておく。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "material",
+        "title": "意味と一緒に、石の来歴も見る。",
+        "paragraphs": [
+          "同展覧会は、地質、採掘、歴史、真正性、価値も扱っている。願いを読むことと、石がどこから来たかを確かめることは、別々の問いとして並んでいる。",
+          "色が似ているから同じ産地、願いが似ているから同じ文化、とは決められない。小さな装身具にも、材料と意味をそれぞれたどる道筋がある。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "どこに石を置き、どんな願いを込めるか。装身具を読む楽しみは、その小さな選択と、残された説明を行き来するところにある。",
+    "bridge_title": "馬頭の目に、願いを留める。",
+    "bridge": "NICENESSはDWIGHTをシルバー925の馬頭バングルとし、両目のターコイズに繁栄、成功、健やかな身体への願いを込めたと説明する。これは、このバングルに対するブランド自身の意味づけだ。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "DWIGHTの石の産地・採掘地・加工者、願いの文化的な出典は未確認。展覧会が紹介する意味との類似から、特定の共同体の伝統を直接継ぐ装身具とはしていない。願いを、石による実際の効能とも扱わない。",
+    "product_title": "銀の馬と、ターコイズの目。",
+    "product_paragraphs": [
+      "AW23のDWIGHTは、シルバー925の両端を馬頭に造形したバングル。公式資料は、両目へターコイズを入れ、繁栄、成功、健やかな身体への願いを込めたと記す。",
+      "形と願いはブランドの説明として読む。石の採掘地や作り手の文化的背景は、その説明から推定しない。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "dwight-aw23",
+        "model": "DWIGHT",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "retained": "馬頭の目にターコイズを置き、繁栄・成功・健康への願いを込めるというブランドの説明。",
+        "changed": "シルバー925の両端を馬頭に造形したバングル。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Turquoise, Water, Sky: The Stone and Its Meaning",
+        "publisher": "New Mexico Department of Cultural Affairs / Museum of Indian Arts and Culture",
+        "url": "https://media.newmexicoculture.org/press_releases.php/292/?action=detail&releaseID=292",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS DWIGHT",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T304",
+    "slug": "balloon-silhouette-denim-blouson",
+    "title": "丸い量感をデニムに移す\nバルーンブルゾン",
+    "deck": "パリの立体的な輪郭と、日常の上着。",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "パリのクチュールと現代商品が挙げる参照地域"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1960s"
+    ],
+    "tags": [
+      "バルーン",
+      "シルエット",
+      "クチュール",
+      "デニム"
+    ],
+    "category": "DRESS / 着る",
+    "model": "CALM",
+    "season": "AW23",
+    "item": "calm-aw23",
+    "place": "フランス・パリ",
+    "period": "1950年代末・1960年代",
+    "context": "バルーンシルエット",
+    "opening": "風船を思わせる輪郭を、服に持たせる。シンガポール国立博物館の所蔵解説は、Pierre Cardinが1950年代末にバルーンドレスを導入したと記す。身体に沿う線だけではない、服の量感を見る入口になる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "dates",
+        "title": "風船形と、幾何学の形。",
+        "paragraphs": [
+          "同じ解説は、Cardinのバルーンドレスを1950年代末、幾何学的なシフトドレスを1960年代としている。近い時代に語られる形でも、同じ年の同じ作品ではない。",
+          "デザイナー名だけで一つにまとめず、どの輪郭を、どの時期に説明しているかを見る。服の形をたどる時には、年号にも小さな区切りがある。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "paris",
+        "title": "複数の作り手が、輪郭を考える。",
+        "paragraphs": [
+          "The Museum at FITの「Paris Refashioned」は、1957〜68年のパリで、オートクチュール、既製服、ポピュラー文化が交わる状況を扱った。1960年代の展示では、彫刻的な輪郭の上着や幾何学的なドレスが紹介される。",
+          "バルーンという一つの言葉だけでは、この時代の服は収まらない。複数の作り手が形を試みた文脈の中で、丸い量感も見てみたい。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "身体のまわりに、布でどんな空間をつくるか。ドレスと上着を行き来すると、素材や用途が変わっても輪郭を考える楽しみが続いている。",
+    "bridge_title": "クチュールの量感を、ブルゾンへ。",
+    "bridge": "NICENESSのCALMは、1960年代パリのクチュリエが好んだというバルーンシルエットを、カジュアルなブルゾンに取り入れたと公式資料に記される。11オンスの別注デニムを使い、ポケットを省いた形にまとめる。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "CALMが直接参照したクチュリエ、作品、製作年は未特定。Cardinの1950年代末のバルーンドレスをCALMの原型とはしていない。博物館の歴史解説と、ブランドが述べる1960年代への参照を分けて読む。",
+    "product_title": "ポケットを省いて、輪郭を見る。",
+    "product_paragraphs": [
+      "AW23のCALMは、1960年代パリのバルーンシルエットをカジュアルな服へ移したと説明される。スモーキーブルーの11オンス別注デニムを用い、ポケットを省いたブルゾンにしている。",
+      "立体的な輪郭を、日常に着る布と上着の型へ移す。その変更は公式の説明として読み、特定のドレスとの直接の系譜は補わない。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "calm-aw23",
+        "model": "CALM",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "retained": "1960年代パリのクチュリエが好んだというバルーンシルエット。",
+        "changed": "11オンスの別注デニム、スモーキーブルー、ポケットを省いたブルゾン。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "A navy blue Pierre Cardin jacket",
+        "publisher": "National Heritage Board, Singapore",
+        "url": "https://www.roots.gov.sg/Collection-Landing/listing/1020294",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Paris Refashioned, 1957–1968",
+        "publisher": "The Museum at FIT",
+        "url": "https://www.fitnyc.edu/museum/exhibitions/paris-refashioned.php",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS CALM",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
   }
 ]
