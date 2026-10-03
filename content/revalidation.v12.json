@@ -269,5 +269,6 @@
         "independentApproval": "pending"
       }
     }
-  ]
+  ],
+  "publicationGuard": "All proposed additions remain status review and are excluded from production pages. Promote to ready with actual publication dates only as part of the approved release; GitHub approval must cover the final head."
 }
