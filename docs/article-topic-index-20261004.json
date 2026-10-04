@@ -3732,11 +3732,78 @@
         "https://nara-media.s3.amazonaws.com/electronic-records/rg-330/Directives/rec_160415.PDF",
         "https://www.niceness.jp/products/marsh"
       ]
+    },
+    {
+      "id": "T323",
+      "source": "PR19",
+      "status": "review",
+      "title": "革とタン色ヘリンボーンを合わせた / 1950年頃のシングルブレストジャケット",
+      "context": "シングルブレストのスポーツジャケット",
+      "openingFirstSentence": "米国国立公園局のHarry S Truman National Historic Siteは、1950年頃の一着をCalifornia Sportswear Co.製、ロサンゼルスと記録する。",
+      "model": "H.KENT",
+      "item": "h-kent-aw23",
+      "sourceUrls": [
+        "https://www.nps.gov/hstr/learn/historyculture/sports-jacket-circa-1950.htm"
+      ]
+    },
+    {
+      "id": "T041",
+      "source": "PR19",
+      "status": "review",
+      "title": "裏地にも表にも移る図案 / ダ・ヴィンチ柄のシルクスカーフ",
+      "context": "図案とプリント",
+      "openingFirstSentence": "ひとつの図案が、シャツの表地にも、ジャケットの裏地にも、スカーフにも置かれる。",
+      "model": "LEO",
+      "item": "leo-aw25",
+      "sourceUrls": [
+        "https://www.niceness.jp/episode/drawings-and-discoveries/",
+        "https://www.niceness.jp/products/leo"
+      ]
+    },
+    {
+      "id": "T341",
+      "source": "PR19",
+      "status": "review",
+      "title": "身頃と襟で参照を分ける / ドビーのバンドカラーシャツ",
+      "context": "シャツの設計と仕上げ",
+      "openingFirstSentence": "NICENESSのGUARINOは、公式説明の中で身頃、襟と袖、生地にそれぞれ異なる参照背景を与えている。",
+      "model": "GUARINO",
+      "item": "guarino-aw24",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/guarino"
+      ]
+    },
+    {
+      "id": "T039",
+      "source": "PR19",
+      "status": "review",
+      "title": "替え襟を付け替え、外して着る / 二色の襟を添えたロングシャツ",
+      "context": "替え襟とシャツの着方",
+      "openingFirstSentence": "NICENESSのC.IOMMI AW25は、二色の替え襟が付属するロングシャツ。",
+      "model": "C.IOMMI",
+      "item": "c-iommi-aw25",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/c-iommi"
+      ]
+    },
+    {
+      "id": "T331",
+      "source": "PR19",
+      "status": "review",
+      "title": "強撚コットンダックに染めと加工を重ねる / HAYESの色と凹凸",
+      "context": "ダック生地の加工",
+      "openingFirstSentence": "NICENESSのHAYES AW25は、強撚コットンで織ったダック生地に硫化染めとバイオ加工を施したハンティングジャケット。",
+      "model": "HAYES",
+      "item": "hayes-aw25",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/hayes"
+      ]
     }
   ],
   "notes": [
     "PR17 T330 is held but included in overlap screening.",
-    "PR18 articles file is hashed because the correction has not yet been committed; its GitHub head must be checked again before selection.",
-    "Same source URL is a review flag, not automatic semantic duplication; compare the exact object, question, claim and product relationship."
+    "Same source URL is a review flag, not automatic semantic duplication; compare the exact object, question, claim and product relationship.",
+    "PR19 T323 attributes the H.KENT description to a user-provided saved document; issuer/official status are unverified and no public URL is available.",
+    "PR19 contains five review-only proposals. T323 attributes H.KENT statements to user-provided saved material; issuer/official status are unverified and there is no public URL."
   ]
 }

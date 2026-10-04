@@ -2,8 +2,8 @@
   "version": 16,
   "reviewedOn": "2026-10-04",
   "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
-  "publicationStatus": "Unpublished; all three proposed articles remain status review. User-reported content approval exists for T041 and T341 on the prior PR head with reviewer/model identity unspecified. T323 revision feedback was received; final approval is not reported. Maintainer adoption remains pending; no merge or deployment has occurred.",
-  "method": "Reopened claim-bearing public primary/official sources for the public-source claims in T323, T041 and T341. The NPS object statements, NICENESS design descriptions, and T323 user-provided saved-document statements are kept distinct. No original research photos, scan identifiers, full official product copy, or third-party images were added. T041 does not identify a specific Leonardo drawing. T341 leaves the relationship between the product-page country label and sewing attribution unresolved and does not claim finished-garment origin. All three drafts remain review-only. Hash equality identifies research snapshots; it does not replace independent editorial review or maintainer adoption. User-reported independent editorial feedback on prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332 was recorded with reviewer and model identities marked unspecified; T041 and T341 were reported approved, while T323 received factual confirmation and requested revisions. This metadata limitation is explicit and does not substitute for maintainer adoption.",
+  "publicationStatus": "Unpublished; all five proposed articles remain status review. User-reported content approval exists for T041 and T341 on the prior PR head with reviewer/model identity unspecified. T323 revision feedback was received; final approval is not reported. T039 and T331 have not received independent editorial review. Maintainer adoption remains pending; no merge or deployment has occurred.",
+  "method": "Reopened claim-bearing public primary/official sources for the public-source claims in T323, T041 and T341. The NPS object statements, NICENESS design descriptions, and T323 user-provided saved-document statements are kept distinct. No original research photos, scan identifiers, full official product copy, or third-party images were added. T041 does not identify a specific Leonardo drawing. T341 leaves the relationship between the product-page country label and sewing attribution unresolved and does not claim finished-garment origin. All five drafts remain review-only. NICENESS product-page claims in T039 and T331 are attributed to the brand; they are not presented as independently established historical facts. Hash equality identifies research snapshots; it does not replace independent editorial review or maintainer adoption. User-reported independent editorial feedback on prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332 was recorded with reviewer and model identities marked unspecified; T041 and T341 were reported approved, while T323 received factual confirmation and requested revisions. This metadata limitation is explicit and does not substitute for maintainer adoption.",
   "records": [
     {
       "topicId": "T323",
@@ -63,7 +63,7 @@
       "claimsStatus": "The NPS entry confirms the circa-1950 specimen material, structure, label and maker/location. It does not identify wearer or specific use. The H.KENT statements are attributed only to a user-provided saved document whose issuer and official status are unverified.",
       "boundary": "The NPS specimen and user-provided document are kept separate. No direct prototype claim or claim of official NICENESS authorship is made.",
       "independentReview": "User-reported independent editorial feedback reviewed prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332. The NPS factual description was confirmed; requested revisions were to center leather + tan herringbone and single-breasted structure, shorten the generic use/wearer caution, and label H.KENT source as user-provided, independently unverified, no public URL. Reviewer identity/model were not specified. Revisions are not represented as independently approved.",
-      "editorialOverlap": "Reviewed against the prior 237-entry topic index. Distinct circa-1950 specimen; article centers its leather + tan herringbone combination and single-breasted structure, not a general caveat about garment classifications. No direct prototype link to H.KENT is asserted."
+      "editorialOverlap": "Compared against the 237-entry main/open-PR topic index before the first three-article correction; T323 is distinct from T289 because it focuses one documented garment’s leather + tan herringbone and single-breasted structure. The generic wearer/use caution is limited to one sentence."
     },
     {
       "topicId": "T041",
@@ -131,7 +131,7 @@
       "claimsStatus": "The current official episode and product page support a design-process reading about one pattern across exterior garment surfaces, scarf, and lining. They do not identify a drawing sheet, exact original, or meaning for individual symbols.",
       "boundary": "The article reports NICENESS’s own design explanation and does not assert reproduction of a named Leonardo work or decode a hidden message.",
       "independentReview": "User-reported independent editorial feedback approved T041 content on prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332. Scope: article content and source-to-claim mapping for T041; no change was requested. Reviewer identity and model were not specified in the report. This is a user-reported approval record, not GitHub review or maintainer adoption.",
-      "editorialOverlap": "Compared against the 237-entry main/open-PR topic index. T323 uses a distinct circa-1950 jacket object and does not identify it as H.KENT’s direct prototype. T041 concerns the placement of a drawing-inspired print across LEO and related garments, distinct from T035’s Newton portrait and T209’s scientific wall/fabric designs. T341 is restricted to the previously unused GUARINO item and focuses on construction composition/hand finishing, not the TOTTI product used in T007."
+      "editorialOverlap": "Compared against the 240-entry index after adding these three PR19 articles. T041 concerns one drawing-inspired graphic’s placement across exterior surfaces, scarf and linings; distinct from T035’s portrait and T209’s scientific imagery."
     },
     {
       "topicId": "T341",
@@ -170,7 +170,117 @@
       "claimsStatus": "The product page supports a design statement and hand-finish claim. It does not name the specific hand-sewn seams. Its country label and sewing attribution are not reconciled, so final-garment origin is left unasserted.",
       "boundary": "The article separates inspiration/material geography from finished-garment origin. It makes no country-of-manufacture claim and does not infer which stitches were hand-sewn.",
       "independentReview": "User-reported independent editorial feedback approved T341 content on prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332. Scope: article content and source-to-claim mapping for T341; no change was requested. Reviewer identity and model were not specified in the report. This is a user-reported approval record, not GitHub review or maintainer adoption.",
-      "editorialOverlap": "Compared against the 237-entry main/open-PR topic index. T323 uses a distinct circa-1950 jacket object and does not identify it as H.KENT’s direct prototype. T041 concerns the placement of a drawing-inspired print across LEO and related garments, distinct from T035’s Newton portrait and T209’s scientific wall/fabric designs. T341 is restricted to the previously unused GUARINO item and focuses on construction composition/hand finishing, not the TOTTI product used in T007."
+      "editorialOverlap": "Compared against the 240-entry index after adding these three PR19 articles. T341 uses GUARINO and focuses a split of body/collar/fabric references and the hand-finish statement; distinct from T007’s TOTTI."
+    },
+    {
+      "topicId": "T039",
+      "researchSha256": "f60a255a40d2774c0fd550440c4bd3bbfa56a27bed6bc9b1e0b4e4e053dabe1f",
+      "previousValidationSha256": "f60a255a40d2774c0fd550440c4bd3bbfa56a27bed6bc9b1e0b4e4e053dabe1f",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "PR source-claim map snapshot",
+      "hashInterpretation": "SHA-256 covers this PR’s claim/source map snapshot only; it does not independently verify the linked product page or historical background.",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "claim": "NICENESS describes C.IOMMI as a long shirt using densely woven end-on-end chambray made with Supima compact yarn, with bio processing for drape and smooth touch.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "NICENESS says two color collars are included and may be changed or the shirt may be worn as a band-collar shirt.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "NICENESS names 1920s US dress shirts and British military shirts as references for cuts/details; no specific historical specimen is named.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "B01",
+          "title": "NICENESS C.IOMMI AW25",
+          "publisher": "NICENESS",
+          "type": "official_product_page",
+          "url": "https://www.niceness.jp/products/c-iommi"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "id": "B01",
+          "checkedOn": "2026-10-04",
+          "locator": "product description and material/origin panel",
+          "verifiedClaim": "Page identifies C.IOMMI NN-3102Y16, end-on-end chambray long shirt; description states high-density Supima compact yarn, bio-processing, two color collars, detachable/replacement use, band-collar option, and 1920s US dress-shirt/British military-shirt references. These remain attributed design statements."
+        }
+      ],
+      "claimsStatus": "The live official product page supports the garment, fabric, collar options, construction/design statement and made-in-Japan label. It does not name a specific historical specimen or document the historical use of these collar options.",
+      "boundary": "The article reports only NICENESS’s public product-page statements about its product and stated references. Historical prototypes and technical effects beyond that wording are not asserted.",
+      "independentReview": "Pending. No independent editorial review of this draft has been reported.",
+      "editorialOverlap": "Compared against 240 main/open-PR index entries. No existing indexed article covers C.IOMMI AW25 or its interchangeable two-color collar plus band-collar wearing options. A separate existing T041 mention of V.IOMMI concerns a graphic print and a different item."
+    },
+    {
+      "topicId": "T331",
+      "researchSha256": "e83c8b74ea60a94c327b642750b3d214d7c78d48034097b44d6b3a5e3f9f97dd",
+      "previousValidationSha256": "e83c8b74ea60a94c327b642750b3d214d7c78d48034097b44d6b3a5e3f9f97dd",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "PR source-claim map snapshot",
+      "hashInterpretation": "SHA-256 covers this PR’s claim/source map snapshot only; it does not independently verify the linked product page or historical background.",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "claim": "NICENESS describes HAYES as a hunting jacket using strong-twist cotton duck treated with sulfur dye and bio processing.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "NICENESS says special processing gives the fabric vintage-like color and raised three-dimensional texture; it does not assign each effect to an individual step.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "NICENESS says the fabric was produced with reference to 1930s US-made fireman canvas; it does not identify a particular canvas specimen.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "B01",
+          "title": "NICENESS HAYES AW25",
+          "publisher": "NICENESS",
+          "type": "official_product_page",
+          "url": "https://www.niceness.jp/products/hayes"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "id": "B01",
+          "checkedOn": "2026-10-04",
+          "locator": "product description and material/origin panel",
+          "verifiedClaim": "Page identifies HAYES NN-1801B16, strong-twist cotton duck, sulfur dye, bio processing, vintage-like colors and raised texture associated with special processing, and a 1930s US-made fireman-canvas fabric reference. No unlisted chemical details or performance claims are inferred."
+        }
+      ],
+      "claimsStatus": "The live official product page supports the material, named processing, brand-described appearance, reference statement, and made-in-Japan label. It does not explain processing sequence, individual process effects, durability, care, or a specific historical canvas specimen.",
+      "boundary": "The article reports only NICENESS’s public product-page statements about its product and stated references. Historical prototypes and technical effects beyond that wording are not asserted.",
+      "independentReview": "Pending. No independent editorial review of this draft has been reported.",
+      "editorialOverlap": "Compared against 240 main/open-PR index entries. Existing T189 covers HAYES removable hood and T264 its placket/field-jacket structure; T331 has a distinct, narrow focus on the official fabric-treatment statement and material appearance."
     }
   ]
 }
