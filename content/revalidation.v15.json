@@ -1,0 +1,129 @@
+{
+  "version": 15,
+  "reviewedOn": "2026-10-04",
+  "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+  "publicationStatus": "Unpublished; two proposed articles remain status review. Independent editorial review and maintainer adoption are pending; no merge or deployment has occurred.",
+  "method": "Reopened the claim-bearing public source passages for T131 and T253. T131 separates The Mountain’s undated 30-store account from its 1976 print-shop account and flags the 1991/1996 chronology discrepancy. T253 remains tied to its matching history-validation snapshot, with the selected public sources reopened for this draft. No archive originals were edited, no images or extended third-party text were added, and both articles stay review-only. Hash equality identifies the research snapshot and does not replace independent editorial review or maintainer adoption.",
+  "records": [
+    {
+      "topicId": "T131",
+      "researchSha256": "cc3bbd33268490e2988b5b0bc97261ab98743ebf379fd64a2537652504aad575",
+      "previousValidationSha256": "cc3bbd33268490e2988b5b0bc97261ab98743ebf379fd64a2537652504aad575",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "The Mountainの自社史は、ベルト販売と1972年の初店舗を記す。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "claim": "The Mountainの自社史は、Tシャツ工房の設立、店舗網、自社プリントTシャツ、および店舗売却後に印刷へ専念したと記す。年表の1991年表示と本文の1996年記載が一致しない。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "claim": "The Mountainの自社史は、Three Wolf Moon後にBig Face動物Tシャツを始めたと記す。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "claim": "NICENESSの公式商品ページはG.BERNARDのイメージソース、色別の重ね刷り、6.0oz、現行品のニカラグア製を説明している。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "H01",
+          "title": "Our Story",
+          "publisher": "The Mountain",
+          "type": "manufacturer_retrospective",
+          "url": "https://themountain.com/our-storys/"
+        },
+        {
+          "id": "B01",
+          "title": "NICENESS G.BERNARD",
+          "publisher": "NICENESS",
+          "type": "official_product_page",
+          "url": "https://www.niceness.jp/products/g-bernard"
+        }
+      ],
+      "claimsStatus": "The Mountain’s official timeline places its 30 retail locations in the 1972 section and the print shop in a separate 1976 section. The page does not date the 30-store milestone, so the article no longer implies the stores followed the print shop. Its 1996 prose and 1991 timeline heading remain explicitly discrepant.",
+      "independentReview": "Pending. The author’s source recheck is not represented as independent editorial review.",
+      "editorialCorrection": "Updated the headline and separated the 1976 print-shop account from the undated 30-store account; no unsupported order is stated."
+    },
+    {
+      "topicId": "T253",
+      "researchSha256": "a86b22f1f85af24902100ca7a874b2c22b08144292e1276738d6b8242dcec211",
+      "previousValidationSha256": "a86b22f1f85af24902100ca7a874b2c22b08144292e1276738d6b8242dcec211",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "partial",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "The September 1955 revision of DoD Instruction 4210.2 lists “Jacket, Flying Man’s Type N-2B” in its Air Force textile-items table for quarterly receipt reporting.",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "NICENESS describes MARSH as a Japan-made cold-weather vest editing details seen on 1950s US N-2/N-3 flight jackets and other military garments.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "H01",
+          "title": "Department of Defense Instruction 4210.2, Change 1",
+          "publisher": "U.S. Department of Defense / National Archives",
+          "type": "government_record",
+          "url": "https://nara-media.s3.amazonaws.com/electronic-records/rg-330/Directives/rec_160415.PDF"
+        },
+        {
+          "id": "B01",
+          "title": "NICENESS MARSH AW24",
+          "publisher": "NICENESS",
+          "type": "official_product_page",
+          "url": "https://www.niceness.jp/products/marsh"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "id": "H01",
+          "checkedOn": "2026-10-04",
+          "locator": "Air Force textile items table, p.9",
+          "verifiedClaim": "The 1955 revision includes “Jacket, Flying Man’s Type N-2B”; the list records an item label, not a specific wearer or conditions."
+        },
+        {
+          "id": "B01",
+          "checkedOn": "2026-10-04",
+          "locator": "Product description / MARSH",
+          "verifiedClaim": "Official page describes the Japan-made wool/nylon cold-weather vest, North American coyote fur and editing of N-2/N-3 and other military details."
+        }
+      ],
+      "claimsStatus": "Existing research and validation hashes match. The government list establishes the item label; it does not identify MARSH’s direct source or specific issue/use.",
+      "boundary": "The DoD list gives a type label, not a detailed garment or wear record. NICENESS names N-2/N-3 and various military details but does not identify N-2B as its direct source.",
+      "independentReview": "Pending; source rechecking by the drafter is not independent editorial review.",
+      "editorialOverlap": "Main T137 already uses a nearby N-3-series type and the distinction between a type label and an identified reference garment. T253 uses a different 1955 Air Force document and N-2B label, but currently adds little about the garment’s form or use; keep it in review until its separate reader value is established."
+    }
+  ]
+}

@@ -28052,5 +28052,237 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T131",
+    "slug": "the-mountain-printed-animal-tees",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "メーカー自社史の舞台"
+      }
+    ],
+    "eras": [
+      "1970s",
+      "1990s",
+      "2000s"
+    ],
+    "tags": [
+      "プリントTシャツ",
+      "アニマル柄",
+      "小売店",
+      "版"
+    ],
+    "category": "DRESS / 着る",
+    "model": "G.BERNARD",
+    "season": "AW25",
+    "item": "g-bernard-aw25",
+    "title": "小売店を売却し、プリントに専念する\nThe MountainのTシャツ",
+    "deck": "ベルトの売り場から始まった会社の自社史をたどると、Tシャツを刷る工房と、動物の顔を大きく配したプリントへつながっていく。",
+    "place": "米国・ニューハンプシャー州",
+    "period": "1972年以降・2008年以降",
+    "context": "プリントTシャツと売り場",
+    "opening": "胸いっぱいに動物の顔をのせたTシャツ。The Mountainの会社史は、その動物柄へ至る歩みを、ニューハンプシャーで作ったベルトや、フェアの売り場から語り始める。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "belt",
+        "title": "山の景色を、ベルトに。",
+        "paragraphs": [
+          "The Mountainの自社史によれば、創業者たちはニューハンプシャーへ移った後、フェアや祭りでベルトやバックルを販売した。山の景色を飾ったベルトが人気を集め、ブランド名の着想になったという。",
+          "最初の実店舗を開いたのは1972年。会社の物語は、Tシャツのプリントではなく、身につける小物と対面の売り場から始まっている。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "printshop",
+        "title": "売る店から、刷る工房へ。",
+        "paragraphs": [
+          "同社史の1976年の項目は、Tシャツを売っていたアーティスト二人と出会い、共同でプリントショップをつくったと記す。別の項目では、同社がミッドアトランティック各地に30の小売店を運営し、自社の手染め・プリントTシャツを他の商品と並べていたと振り返る。ページはこの店舗網ができた時期を特定していないため、1976年の後に30店へ拡大したとは断定しない。",
+          "自社史の本文は、小売店を売却してプリント衣料へ専念した年を1996年と記す一方、隣接する年表の見出しは1991年になっている。年には表示の食い違いがあるため、ここでは店舗運営からプリントへ軸足を移したという記述として読む。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "big-face",
+        "title": "動物の顔を、正面へ。",
+        "paragraphs": [
+          "会社の年表は2008年、同社のThree Wolf MoonのTシャツが広く話題になった出来事を記録している。その後、写実的な動物の顔を大きく描くBig Faceシリーズを始めたとも説明する。",
+          "これはThe Mountainが自ら記す一社の歩みだ。動物柄Tシャツがいつ、どこで、どんな人に着られたかを示す資料ではない。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "一社の回顧からは、店頭で売るTシャツからプリントを担う側へ移り、後年に動物の顔を前面に出した流れが見える。特定のヴィンテージTシャツの産地や着用者まで、会社史が明らかにするわけではない。",
+    "bridge_title": "動物の図案を、色ごとの版で重ねる。",
+    "bridge": "NICENESSのG.BERNARDは、1980〜90年代のアメリカ製アニマルプリントTシャツをイメージソースにしたと公式に説明される。UMAの図案を色ごとに版分けして重ね刷りする現行品で、NICENESSの商品ページにはニカラグア製と記載されている。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "The Mountainの自社史は同社による回顧で、G.BERNARDが同社の特定商品を参照したとは確認できない。NICENESSが示す着想年代・参照地域と、現行品の製造地も別の情報として扱う。",
+    "product_title": "参照した年代と、いまの生産地。",
+    "product_paragraphs": [
+      "公式説明によれば、G.BERNARD（AW25）は6.0ozのTシャツに、ネッシー、ビッグフット、ツチノコの図案を色ごとに版分けして重ね刷りする。イメージソースは1980〜90年代のアメリカ製アニマルプリントTシャツとされる。",
+      "現行品の生産地はニカラグア。参照対象の説明から、個別のヴィンテージの製造地やThe Mountainとの直接のつながりを補うことはできない。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "g-bernard-aw25",
+        "model": "G.BERNARD",
+        "season": "AW25",
+        "number": "NN-4102J16",
+        "url": "https://www.niceness.jp/products/g-bernard",
+        "retained": "NICENESS公式説明上のイメージソースである、1980〜90年代のアメリカ製アニマルプリントTシャツ。",
+        "changed": "6.0ozの生地にUMAの図案を色別の版で重ね刷り。現行品の生産地はニカラグア。",
+        "factRefs": [
+          "F04"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Our Story",
+        "publisher": "The Mountain",
+        "url": "https://themountain.com/our-storys/",
+        "kind": "maker"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS G.BERNARD",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/g-bernard",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T253",
+    "slug": "1955-air-force-n-2b-record-marsh",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "1955年の米空軍品目表"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "MARSH現行品の製造地"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "2020s"
+    ],
+    "tags": [
+      "N-2B",
+      "飛行服",
+      "空軍装備",
+      "品目表"
+    ],
+    "category": "DRESS / 着る",
+    "model": "MARSH",
+    "season": "AW24",
+    "item": "marsh-aw24",
+    "title": "一覧表に記されたN-2B\n米空軍の飛行服",
+    "deck": "1955年の公的記録が残すのは型名と管理上の分類。現行のベストとのつながりも、公式説明の範囲に留める。",
+    "place": "米国",
+    "period": "1955年",
+    "context": "空軍の繊維品目表",
+    "opening": "1955年改訂の米国防総省の文書は、米空軍の繊維品目表に「Jacket, Flying Man’s Type N-2B」を載せている。型名は記録に残るが、この一覧だけでは着用場面や個々の服の姿までは分からない。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "list",
+        "title": "型名が並ぶ、受入報告の一覧",
+        "paragraphs": [
+          "文書の見出しは、空軍が受け入れた繊維品を四半期報告に含めるための一覧と説明する。表にはN-3BやL-2Bなどの飛行服と並んで、N-2Bの型名が記載される。",
+          "これは品目と仕様を分類する記録で、特定の隊員への支給や特定の基地での着用を示す記録ではない。表にある型名から、細部や使用状況を補わない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "似た型名を、同一視しない",
+        "paragraphs": [
+          "NICENESSのMARSHは、1950年代の米国N-2・N-3飛行服などに見られる細部を編集したコールドウェザーベストと公式に説明される。ページはN-2Bを特定の原型として挙げていない。",
+          "公文書にN-2Bが載ることと、MARSHがN-2Bを直接複製したことは別の主張だ。現行商品の参照説明を、軍の一覧が裏付けるかのように扱わない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "1955年の表は、N-2Bという名前が空軍の繊維品目として記録されたことを示す。そこから先の形や着用実態は、別の資料で確かめる必要がある。",
+    "bridge_title": "記録の型名と、現在の編集。",
+    "bridge": "MARSHはウール・ナイロンの高密度ギャバジンで作られた日本製のベスト。NICENESSはN-2・N-3などの軍用服に見られる細部を編集したと説明するが、N-2Bの直接参照とは記していない。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "1955年のDoD一覧はN-2Bの型名と品目分類を示す資料で、形状・着用者・環境の詳細は記さない。NICENESSのMARSH説明はN-2/N-3を挙げている。N-2Bを特定の直接原型とはしない。現行品は公式ページ上で日本製とされる。",
+    "product_title": "細部を編集した、日本製のベスト。",
+    "product_paragraphs": [
+      "MARSHの公式ページは、ナイロンとウールの高密度ギャバジン、北米産デッドストックのコヨーテファーを用いたコールドウェザーベストと記す。参照は1950年代のN-2・N-3や、さまざまな軍用服に見られるディテールの編集と説明される。",
+      "1955年の一覧と現行品は、型名の近さだけでは結べない。製造地も別に記され、MARSHは日本製。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "marsh-aw24",
+        "model": "MARSH",
+        "season": "AW24",
+        "number": "NN-1602V14",
+        "url": "https://www.niceness.jp/products/marsh",
+        "retained": "1950年代のN-2・N-3や軍用服に見られるディテールを編集したとする参照。",
+        "changed": "ウール・ナイロンのギャバジンとコヨーテファーを用いた日本製のコールドウェザーベスト。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Department of Defense Instruction 4210.2, Change 1",
+        "publisher": "U.S. Department of Defense / National Archives",
+        "url": "https://nara-media.s3.amazonaws.com/electronic-records/rg-330/Directives/rec_160415.PDF",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS MARSH AW24",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/marsh",
+        "kind": "brand"
+      }
+    ]
   }
 ]
