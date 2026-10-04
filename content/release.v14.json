@@ -1,7 +1,7 @@
 {
   "version": 14,
   "sourceRevision": "85fcb8e3fed1c71f840fcb7780cbf845baa90b41",
-  "scope": "226 articles: the 217-article main baseline plus nine proposed stories. All nine additions remain in review and unpublished.",
+  "scope": "226 articles: the 217-article main baseline plus eight proposed review candidates and one held review draft (T330). No proposed article is published.",
   "articles": [
     {
       "topicId": "T170",
@@ -7687,7 +7687,7 @@
           ]
         }
       ],
-      "storySha256": "248340fe9ed83ff005b8f8d48f7e4103ab1bb6cf836d80e34c64b6c447abac72"
+      "storySha256": "3187f70aedea73c0db1a3034e823ce7357704e55535150ae9952c3fc25e49dbe"
     },
     {
       "topicId": "T276",
@@ -7712,7 +7712,7 @@
           ]
         }
       ],
-      "storySha256": "7e5debc0ed6a0e65800bffcf0e775b295cba8de2944413066bb5296db0707e57"
+      "storySha256": "cb9607820f8cb52d718fe4a216703aa8c4dbf418b8ff9c54dfd68872ca94da0a"
     },
     {
       "topicId": "T277",
@@ -7748,7 +7748,7 @@
         {
           "id": "F02",
           "kind": "historical_fact",
-          "claim": "Australian War Memorial所蔵の英国軍復員兵用Pattern M259レインコートは約1946年英国製で、綿ギャバジンの4分の3丈、タータン裏地、茶色の樹脂ボタン、左右腰ポケットを備える。",
+          "claim": "Australian War Memorial所蔵の英国軍復員兵用Pattern M259は約1946年の英国製で、綿ギャバジンの表地、タータン裏地、茶色のプラスチックボタン、左右の腰ポケットを備える。",
           "sourceIds": [
             "H02"
           ]
@@ -7762,7 +7762,7 @@
           ]
         }
       ],
-      "storySha256": "784be22ce80e7abdd8e33da74a2861f31d804e4982a01fe0fc15cc5077baaee5"
+      "storySha256": "6c4629dc1e2af81badecdbc158806451afb9f7cc509b26adab77ee2d854837fe"
     },
     {
       "topicId": "T285",
@@ -7838,7 +7838,7 @@
         {
           "id": "F02",
           "kind": "historical_fact",
-          "claim": "Autry Museum所蔵の1950年代初頭North Hollywood製男性用舞台衣装は、毛gabardineのjacket、pants、shirtで、jacketに胸・腰ポケットと配色パイピング、波状矢印装飾を備える。",
+          "claim": "Autry MuseumのEddie Dean舞台スーツはDate欄が1950–1975、Remarksがcirca early 1950s。毛ギャバジンのジャケットに胸・腰ポケットと背腰の青いパイピングが記録される。",
           "sourceIds": [
             "H02"
           ]
@@ -7860,7 +7860,7 @@
           ]
         }
       ],
-      "storySha256": "9732f656d2442eda842430bb6c727a5a7a30dee9a1a71aeaf82103aaea888ee4"
+      "storySha256": "7c076f01360063add58a71fd82018161d5cb7cf4089d355e77caece6c948a3bc"
     },
     {
       "topicId": "T297",
@@ -7908,7 +7908,7 @@
           ]
         }
       ],
-      "storySha256": "62eb0b6cb89cdac6c3847c4948f48f8df0d8487c23cef24dbff8b3ca258d355a"
+      "storySha256": "b4a6b3e7b2dd9b2cb4d11eea5e26e0eb1abb478b022b45ae8f96311af08d6945"
     }
   ],
   "previousRelease": "release.v11.json",
@@ -7925,5 +7925,18 @@
     "T330"
   ],
   "verificationRecord": "revalidation.v14.json",
-  "pendingReleaseNote": "PR17 is review-only and unpublished. PR14 and PR15 remain separate pending review branches; reconcile cumulative release provenance before any later merge."
+  "pendingReleaseNote": "PR17 remains draft and unpublished. T330 is held pending independent retrieval and verification of its DoD and Army sources. PR14 and PR15 remain separate pending review; reconcile cumulative release provenance before any later merge.",
+  "publicationCandidateIds": [
+    "T267",
+    "T276",
+    "T277",
+    "T279",
+    "T285",
+    "T290",
+    "T297",
+    "T077"
+  ],
+  "heldArticleIds": [
+    "T330"
+  ]
 }

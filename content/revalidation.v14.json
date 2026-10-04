@@ -2,7 +2,7 @@
   "version": 14,
   "reviewedOn": "2026-10-04",
   "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
-  "publicationStatus": "Unpublished on PR17; all nine proposed additions have status review. No merge or deployment in this update.",
+  "publicationStatus": "Unpublished; eight articles passed content review for later publication consideration, while T330 is held pending independent source verification. All nine retain status review; no merge or deployment.",
   "method": "Reopened accessible public collection, museum, archive, auction, and official product records listed per story; read only the claim-bearing portions. Visually inspected the cited portions of user-supplied saved NICENESS scans, but did not independently authenticate issuer or contents. Removed claims tied to inaccessible Les Pêcheries and National Army Museum pages and an unconfirmed Library of Congress ad. For T330, DoD and Army history pages were not retrievable in this pass; their fixed research records are retained only with that limitation disclosed. SHA-256 fields identify local research records and do not establish source revalidation.",
   "records": [
     {
@@ -79,8 +79,8 @@
       "claimsStatus": "Existing exhibition and clothing claims were mapped to fixed records; the Access object record for Sperry Top-Sider was reopened. The museum record does not identify a Commodore shoe or establish a link to GEORGIA.",
       "brandEvidence": "Public official product page used for the GEORGIA wording. The Sperry record is a separate museum object record.",
       "editorialReview": "Pending independent editorial review.",
-      "boundary": "「Commodore」はブランド説明にある呼称として扱う。美術館のSperry Top-Sider記録との同一性やGEORGIAの直接の原型関係は確認されていない。",
-      "overlapReview": "T267 remains a clothing-and-portrait story. The Sperry record is used only to distinguish an O’Keeffe Museum catalog entry from the brand’s “Commodore” phrasing; no identity with the shoe in the brand text is asserted. T266 is unchanged."
+      "boundary": "「Commodore」はブランド説明の呼称として扱う。美術館記録との同一性やGEORGIAの直接の原型関係は特定できない。",
+      "overlapReview": "T267 remains a clothing-and-portrait story. The Sperry record distinguishes a museum catalog entry from the brand’s “Commodore” phrasing; it does not establish a same-shoe identification. A curated link points to T266 for the separate shoe record."
     },
     {
       "topicId": "T276",
@@ -187,7 +187,7 @@
         {
           "id": "F02",
           "kind": "historical_fact",
-          "claim": "Australian War Memorial所蔵の英国軍復員兵用Pattern M259レインコートは約1946年英国製で、綿ギャバジンの4分の3丈、タータン裏地、茶色の樹脂ボタン、左右腰ポケットを備える。",
+          "claim": "Australian War Memorial所蔵の英国軍復員兵用Pattern M259は約1946年の英国製で、綿ギャバジンの表地、タータン裏地、茶色のプラスチックボタン、左右の腰ポケットを備える。",
           "sourceIds": [
             "H02"
           ]
@@ -217,11 +217,11 @@
           "url": null
         }
       ],
-      "claimsStatus": "AWM record reopened. NAM inventory could not be retrieved and was removed along with its comparative claims.",
+      "claimsStatus": "AWM record reopened. The record’s button material is represented as “plastic.” The inaccessible NAM inventory was removed with its comparative claims.",
       "brandEvidence": "The saved FINN material was visually inspected at the claim-bearing portion. It was supplied as NICENESS material by the user; issuer and contents have not been independently authenticated, and it has no public URL.",
       "editorialReview": "Pending independent editorial review.",
       "boundary": "M259は1946年頃の英国製一着で、FINNの公式参照と同じ型式とは確認されていない。歴史的な素材・仕様と現行品の説明は別々に示す。",
-      "overlapReview": "The article now treats only AWM object M259, recorded circa 1946. The 1944–55 comparison range and inaccessible NAM records were removed; “表地” is used."
+      "overlapReview": "The article treats only AWM object M259, recorded circa 1946. The inaccessible NAM comparison was removed; “表地” and “プラスチックボタン” follow the source. A curated link points to T280 for the atelier-workwear context."
     },
     {
       "topicId": "T285",
@@ -341,11 +341,11 @@
           "url": "https://www.niceness.jp/products/h-tweedy"
         }
       ],
-      "claimsStatus": "Existing fixed source summaries retained as a narrow comparison; the DoD and Army pages could not be retrieved in this pass. HBT fiber is not attributed to the DoD page; the wool/cotton distinction is only stated as the Army-history record’s description.",
+      "claimsStatus": "Not a publication candidate in this batch. The DoD and Army history pages were not retrievable in this pass; the fixed research records are insufficient for final publication approval. No further retrieval loop was run.",
       "brandEvidence": "Current public H.TWEEDY product page reopened; its product season is AW25.",
-      "editorialReview": "Pending independent editorial review.",
+      "editorialReview": "Held from the publication candidate set pending independent verification of the DoD and Army source pages. Article remains review-only.",
       "boundary": "第二次大戦・朝鮮戦争の資料はH.TWEEDYの直接の原型を示さない。H.TWEEDYの商品説明にある初期の英米軍用ウールと、後年の米軍ウール制服・綿HBT制服を同一の服として扱わない。",
-      "overlapReview": "The story compares documented wool uniforms with cotton HBT as separately described sources; it does not say HBT is wool. Distinct from T096 (pocket-oriented HBT workwear), T036 (two-piece utility uniform), and T020 (specific herringbone garment)."
+      "overlapReview": "The wool-uniform/cotton-HBT comparison is distinct from T096, T036, and T020, but remains held because the DoD and Army source pages have not been independently retrieved in this review."
     },
     {
       "topicId": "T290",
@@ -358,7 +358,7 @@
         {
           "id": "F02",
           "kind": "historical_fact",
-          "claim": "Autry Museum所蔵の1950年代初頭North Hollywood製男性用舞台衣装は、毛gabardineのjacket、pants、shirtで、jacketに胸・腰ポケットと配色パイピング、波状矢印装飾を備える。",
+          "claim": "Autry MuseumのEddie Dean舞台スーツはDate欄が1950–1975、Remarksがcirca early 1950s。毛ギャバジンのジャケットに胸・腰ポケットと背腰の青いパイピングが記録される。",
           "sourceIds": [
             "H02"
           ]
@@ -403,11 +403,11 @@
           "url": "https://www.niceness.jp/products/c-maxim-26ss"
         }
       ],
-      "claimsStatus": "Autry and Philadelphia Museum of Art collection records and the C.MAXIM page reopened. The unconfirmed Library of Congress advertisement claim is excluded.",
+      "claimsStatus": "Autry Museum record reopened. The broad Date field (1950–1975) is distinguished from Remarks (circa early 1950s); the latter is the stated source of the approximate date in the article. The suit is identified as Eddie Dean stagewear; blue piping is located at the back waist.",
       "brandEvidence": "Current public C.MAXIM product page reopened; its product season is SS26.",
       "editorialReview": "Pending independent editorial review.",
       "boundary": "Autryの舞台衣装やMcCardellの女性用スーツがC.MAXIMの直接の原型とは確認されていない。ブランドが挙げるスポーツジャケットの参照は別の説明として扱い、収蔵例を一般的なスポーツジャケットの標準とはしない。",
-      "overlapReview": "The story compares two specific, unlike jackets: an Autry western stage suit and a Philadelphia Museum of Art women’s business/casual suit. Neither is presented as the general sports-jacket standard or as C.MAXIM’s direct source; topic and evidence differ from PR14/15."
+      "overlapReview": "The story compares Autry’s Eddie Dean stage suit with the Philadelphia Museum of Art women’s business/casual suit, distinct from T157/T158; curated links point to the existing Yabusame and western motif stories. Neither collection record is presented as C.MAXIM’s direct source."
     },
     {
       "topicId": "T297",
