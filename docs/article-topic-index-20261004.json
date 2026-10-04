@@ -1,0 +1,3870 @@
+{
+  "asOf": "2026-10-04",
+  "purpose": "Exclude both ID collisions and semantic overlap when screening new stories. Refresh the current main and every open article PR before use.",
+  "sources": [
+    {
+      "name": "main",
+      "ref": "origin/main",
+      "head": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+      "articlesSha256": "b99d871665aff1265d12756d982d5ddcf74268f7821ad3c768715983560cdaa7",
+      "includedArticleCount": 217
+    },
+    {
+      "name": "PR14",
+      "ref": "origin/codex/articles-five-20261004",
+      "head": "68d61204a3d877b835c285da4c88dd335a5419a6",
+      "articlesSha256": "f4b5904ba2834d2f9aeed7023884e9b5dac1e311582cbd915be5129f21b74416",
+      "includedArticleCount": 5
+    },
+    {
+      "name": "PR15",
+      "ref": "origin/codex/articles-four-20261004",
+      "head": "321aee02949e78e0f7ce0e221d22cea9c2bfa693",
+      "articlesSha256": "74313a8be2ca0fe99cd0dfe4166a47658c8ca36fa5b6d98e893243fab900e108",
+      "includedArticleCount": 4
+    },
+    {
+      "name": "PR17",
+      "ref": "origin/codex/articles-ten-20261004",
+      "head": "4831714e83be0413843713914f6fc812257a284a",
+      "articlesSha256": "7db101458d4f0f9f14dcd2cff346c270a4e27efcb55ad190552a2b0c4bb2b6af",
+      "includedArticleCount": 9
+    },
+    {
+      "name": "PR18",
+      "ref": "current working tree codex/articles-20-20261004",
+      "baseHead": "b1226ea4ee218bf121e2849db9509cbfa7f5bd4d",
+      "articlesSha256": "b94053342bf84eee9d0dc9f7d8b1ce42e937452ec08589f8b876fcd5d08a93fc",
+      "includedArticleCount": 2
+    },
+    {
+      "name": "PR19",
+      "ref": "origin/codex/articles-five-next-20261004",
+      "head": "b680cc713b78eef052a48b1198ddaf1a8378ea93",
+      "articlesSha256": "b661a731c0b0838bc26d9d6045c8c5d255a91b082d70a04d12366f2bd1de5f0e",
+      "includedArticleCount": 9
+    }
+  ],
+  "articles": [
+    {
+      "id": "T170",
+      "source": "main",
+      "status": "ready",
+      "title": "背中の裾を前で留める / デニソンスモック",
+      "context": "空挺兵とスモック",
+      "openingFirstSentence": "戦闘服の上に、もう一枚を着る。",
+      "model": "WILLI",
+      "item": "willi-ss23",
+      "sourceUrls": [
+        "https://paradata.org.uk/content/4663558",
+        "https://paradata.org.uk/content/4663703"
+      ]
+    },
+    {
+      "id": "T021",
+      "source": "main",
+      "status": "ready",
+      "title": "自転車の両側に提げる / 新聞配達バッグ",
+      "context": "新聞配達と運搬袋",
+      "openingFirstSentence": "1929年、カナダのコキットラム周辺で新聞を配っていたアントニオ・パレは、日曜日の配達をこう振り返っている。",
+      "model": null,
+      "item": null,
+      "sourceUrls": [
+        "https://opac2.mdah.ms.gov/queries/pialeph/152141",
+        "https://speccol.msa.maryland.gov/pages/speccol/series.aspx?series=2&speccol=6018",
+        "https://www.coquitlam.ca/1408/Extra-Extra-Read-All-About-It-Coquitlams",
+        "https://www.niceness.jp/products/hefner",
+        "https://www.niceness.jp/products/hefner-1",
+        "https://www.niceness.jp/products/hefner-26ss",
+        "https://www.niceness.jp/products/l-hefner",
+        "https://www.niceness.jp/products/l-hefner-26ss"
+      ]
+    },
+    {
+      "id": "T002",
+      "source": "main",
+      "status": "ready",
+      "title": "糸を染め分けて柄を織る / 久留米絣",
+      "context": "絣を織る仕事",
+      "openingFirstSentence": "着物になり、夜具にもなる。",
+      "model": null,
+      "item": null,
+      "sourceUrls": [
+        "https://kurumekasuri.jp/about/process/",
+        "https://online.bunka.go.jp/heritages/detail/137254",
+        "https://oriyasan.com/kasuri/bunjinkasuri/",
+        "https://www.city.kurume.fukuoka.jp/1090sangyou/2020shoukougyou/3050tokusan/2017-0223-2013-74.html",
+        "https://www.niceness.jp/products/cato-26ss"
+      ]
+    },
+    {
+      "id": "T027",
+      "source": "main",
+      "status": "ready",
+      "title": "手袋のまま留められる / ダッフルコート",
+      "context": "寒さと留め具",
+      "openingFirstSentence": "手袋を脱がずに、コートの前を留める。",
+      "model": null,
+      "item": null,
+      "sourceUrls": [
+        "https://collection.nam.ac.uk/detail.php?acc=1992-02-287-1",
+        "https://www.niceness.jp/products/devolle",
+        "https://www.niceness.jp/products/h-pierre",
+        "https://www.niceness.jp/products/pierre",
+        "https://www.niceness.jp/products/r-wetton",
+        "https://www.niceness.jp/products/wetton",
+        "https://www.rmg.co.uk/collections/objects/rmgc-object-1204402"
+      ]
+    },
+    {
+      "id": "T012",
+      "source": "main",
+      "status": "ready",
+      "title": "直線に裁って身体にまとう / 着物",
+      "context": "着物の裁断と着装",
+      "openingFirstSentence": "まっすぐに縫われた布を身体にまとい、帯の下で丈を調整する。",
+      "model": null,
+      "item": null,
+      "sourceUrls": [
+        "https://www.kci.or.jp/articles/files/E_FT06_OGATA_Kimono_as_Everyday_Wear_and_Making_Clothes_JP_EN.pdf",
+        "https://www.mukogawa-u.ac.jp/~kyoumuka/syllabus/2001/html/tan/seikatsu/087.htm",
+        "https://www.niceness.jp/products/d-thornhill-26ss",
+        "https://www.niceness.jp/products/thornhill-26ss",
+        "https://www.vam.ac.uk/articles/kimono"
+      ]
+    },
+    {
+      "id": "T037",
+      "source": "main",
+      "status": "ready",
+      "title": "補強の金具を布で隠す / デニムトラウザー",
+      "context": "補強の金具を布で隠すデニムトラウザー",
+      "openingFirstSentence": "ポケットを丈夫にする金具が、鞍の革を傷つける。",
+      "model": null,
+      "item": null,
+      "sourceUrls": [
+        "https://patents.google.com/patent/US1999927A/en",
+        "https://www.levistrauss.com/2017/07/06/80-year-cover/",
+        "https://www.niceness.jp/products/b-stu",
+        "https://www.niceness.jp/products/bolan",
+        "https://www.niceness.jp/products/e-stu",
+        "https://www.niceness.jp/products/stu"
+      ]
+    },
+    {
+      "id": "T048",
+      "source": "main",
+      "status": "ready",
+      "title": "曲がった滴形を織り込む / ペイズリーショール",
+      "context": "曲がった滴形を織り込むペイズリーショール",
+      "openingFirstSentence": "肩を覆う布に、先端の曲がった滴のような形が並ぶ。",
+      "model": null,
+      "item": null,
+      "sourceUrls": [
+        "https://risdmuseum.org/exhibitions-events/exhibitions/whats-name-paisley-pattern-kashmir-shawls",
+        "https://www.metmuseum.org/art/collection/search/157846",
+        "https://www.niceness.jp/products/das",
+        "https://www.niceness.jp/products/gyan"
+      ]
+    },
+    {
+      "id": "T062",
+      "source": "main",
+      "status": "ready",
+      "title": "走行中のずれを抑える / メッセンジャーバッグ",
+      "context": "走行中のずれを抑えるメッセンジャーバッグ",
+      "openingFirstSentence": "ペダルを踏む身体と、背中に載せた荷物。",
+      "model": null,
+      "item": null,
+      "sourceUrls": [
+        "https://chromeindustries.com/blogs/stories/how-to-choose-the-right-messenger-bag",
+        "https://chromeindustries.com/pages/our-story",
+        "https://www.niceness.jp/products/d-lands",
+        "https://www.niceness.jp/products/i-lands",
+        "https://www.niceness.jp/products/z-lands",
+        "https://www.timbuk2.com/pages/about-us"
+      ]
+    },
+    {
+      "id": "T088",
+      "source": "main",
+      "status": "ready",
+      "title": "受話器と配線を組み込む / 飛行帽",
+      "context": "受話器と配線を組み込む飛行帽",
+      "openingFirstSentence": "飛行帽を、頭を覆うだけのものとして見ないでみる。",
+      "model": null,
+      "item": null,
+      "sourceUrls": [
+        "https://airandspace.si.edu/collection-objects/helmet-flying-protective-type-h-4-united-states-navy/nasm_A19790171000",
+        "https://collections.rafmuseum.org.uk/collection/object/object-72003/",
+        "https://www.niceness.jp/products/m-strick",
+        "https://www.niceness.jp/products/strick"
+      ]
+    },
+    {
+      "id": "T004",
+      "source": "main",
+      "status": "ready",
+      "title": "町の動作を描き集めた / 北斎の絵手本",
+      "context": "町の動作を描き集めた北斎の絵手本",
+      "openingFirstSentence": "餅をつく人、飴をつくる職人、角兵衛獅子。",
+      "model": null,
+      "item": null,
+      "sourceUrls": [
+        "https://hokusai-museum.jp/modules/Collection/collections/view/93?lang=ja",
+        "https://hokusai-museum.jp/modules/Exhibition/exhibitions/view/4932?lang=ja",
+        "https://www.edo-tokyo-museum.or.jp/s-exhibition/hokusai-manga/",
+        "https://www.edohakuarchives.jp/detail-43.html",
+        "https://www.niceness.jp/products/bangalter-26ss",
+        "https://www.niceness.jp/products/christo-26ss",
+        "https://www.shimane-art-museum-ukiyoe.jp/life/life-taito/index.html"
+      ]
+    },
+    {
+      "id": "T005",
+      "source": "main",
+      "status": "ready",
+      "title": "前プリーツからV字の線へ / デニムジャケット",
+      "context": "デニム",
+      "openingFirstSentence": "胸の前に布を畳んだジャケットと、ポケットから裾へV字の線が伸びるジャケット。",
+      "model": "N.JETT",
+      "item": "n-jett-aw26",
+      "sourceUrls": [
+        "https://exhibitions.fitnyc.edu/denim-fashions-frontier/",
+        "https://www.levistrauss.com/2020/10/23/levis-vintage-denim-jackets-detailed-in-new-book/",
+        "https://www.levistrauss.com/2023/10/17/trucker-or-non-trucker/",
+        "https://www.niceness.jp/products/n-jett",
+        "https://www.niceness.jp/products/s-jett"
+      ]
+    },
+    {
+      "id": "T007",
+      "source": "main",
+      "status": "ready",
+      "title": "深い襟にスカーフを合わせる / 1970年代の英国シャツ",
+      "context": "シャツ",
+      "openingFirstSentence": "シャツの襟を大きく深くして、揃いのスカーフタイを添える。",
+      "model": "CLEMENT",
+      "item": "clement-aw25",
+      "sourceUrls": [
+        "https://archive.marksandspencer.com/timeline/ms-menswear-timeline/",
+        "https://www.londonmuseum.org.uk/collections/v/object-82546/shirt/",
+        "https://www.metmuseum.org/art/collection/search/80125",
+        "https://www.niceness.jp/products/clement",
+        "https://www.niceness.jp/products/mansell",
+        "https://www.niceness.jp/products/marc",
+        "https://www.niceness.jp/products/moyet",
+        "https://www.niceness.jp/products/totti"
+      ]
+    },
+    {
+      "id": "T009",
+      "source": "main",
+      "status": "ready",
+      "title": "六枚の布で丸くつくる / セーラーハット",
+      "context": "帽子",
+      "openingFirstSentence": "丸い頭部を、六枚の三角形の布でつくる。",
+      "model": "B.MATLOCK",
+      "item": "b-matlock-ss25",
+      "sourceUrls": [
+        "https://intrepid.emuseum.com/objects/19289/us-navy-white-hat?ctx=c508d3e83aa8be74933b5337c853eb74c6cc6f27&idx=0",
+        "https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=2235634&ModuleId=791&PortalId=1",
+        "https://www.niceness.jp/products/b-matlock",
+        "https://www.niceness.jp/products/d-matlock",
+        "https://www.niceness.jp/products/e-matlock",
+        "https://www.niceness.jp/products/l-matlock",
+        "https://www.niceness.jp/products/matlock",
+        "https://www.niceness.jp/products/sylvain"
+      ]
+    },
+    {
+      "id": "T011",
+      "source": "main",
+      "status": "ready",
+      "title": "二股のボディを舞台に掲げる / フライングV",
+      "context": "音楽",
+      "openingFirstSentence": "大きく二股に分かれたボディは、演奏する人の姿と一緒に記憶に残る。",
+      "model": "D.SCHENKER",
+      "item": "d-schenker-aw25",
+      "sourceUrls": [
+        "https://gibson.jp/electric/jimi-hendrix-1969-flying-v",
+        "https://gibson.jp/news-events/7939",
+        "https://www.gibson.com/blogs/gibson-gazette/kirk-hammett-on-the-iconic-michael-schenker-flying-v",
+        "https://www.jimihendrix.com/category/news/page/5/",
+        "https://www.jimihendrix.com/news/hard-rock-cafe-seattle-unveils-hendrix-memorabilia-collection/",
+        "https://www.niceness.jp/products/d-schenker",
+        "https://www.niceness.jp/products/h-schenker",
+        "https://www.niceness.jp/products/kirk",
+        "https://www.niceness.jp/products/mustaine",
+        "https://www.niceness.jp/products/randy",
+        "https://www.niceness.jp/products/s-schenker",
+        "https://www.niceness.jp/products/schenker",
+        "https://www.niceness.jp/products/thanh"
+      ]
+    },
+    {
+      "id": "T013",
+      "source": "main",
+      "status": "ready",
+      "title": "ヘルメットも着替えも運ぶ / ヘルメットバッグ",
+      "context": "バッグ",
+      "openingFirstSentence": "ヘルメットは頭にかぶり、バッグには着替えを入れる。",
+      "model": "D.APHEX",
+      "item": "d-aphex-ss26",
+      "sourceUrls": [
+        "https://mcoecbamcoepwprd01.blob.core.usgovcloudapi.net/library/ebooks/Richard_Parrish_Memoir.pdf",
+        "https://www.niceness.jp/products/d-aphex-26ss",
+        "https://www.niceness.jp/products/h-aphex-26ss",
+        "https://www.niceness.jp/products/l-aphex-26ss",
+        "https://www.niceness.jp/products/n-aphex-26ss",
+        "https://www.niceness.jp/products/s-aphex-26ss",
+        "https://www.niceness.jp/products/t-aphex-26ss"
+      ]
+    },
+    {
+      "id": "T016",
+      "source": "main",
+      "status": "ready",
+      "title": "底と持ち手を補強する / キャンバストート",
+      "context": "トート",
+      "openingFirstSentence": "重いものを入れる袋は、底や持ち手をどう支えるのか。",
+      "model": "D.APHEX",
+      "item": "d-aphex-ss26",
+      "sourceUrls": [
+        "https://asset.library.wisc.edu/1711.dl/ACZY4ZQPKR5L79D/R/file-763a0.pdf",
+        "https://www.llbean.co.jp/pages/bsc-begin.html",
+        "https://www.niceness.jp/products/d-aphex-26ss",
+        "https://www.niceness.jp/products/h-aphex-26ss",
+        "https://www.niceness.jp/products/l-aphex-26ss",
+        "https://www.niceness.jp/products/n-aphex-26ss",
+        "https://www.niceness.jp/products/s-aphex-26ss",
+        "https://www.niceness.jp/products/t-aphex-26ss"
+      ]
+    },
+    {
+      "id": "T020",
+      "source": "main",
+      "status": "ready",
+      "title": "綾目を折り返す布を使う / ボージョン",
+      "context": "作業着",
+      "openingFirstSentence": "短い上着を着て、仕事や兵営内の作業をする。",
+      "model": "F.BALIN",
+      "item": "f-balin-ss25",
+      "sourceUrls": [
+        "https://cottonworks.com/learning-hub/weaving/basic-woven-fabric-designs/",
+        "https://www.dictionnaire-academie.fr/article/A8B1215",
+        "https://www.dictionnaire-academie.fr/article/A9B1834",
+        "https://www.niceness.jp/products/f-balin",
+        "https://www.niceness.jp/products/loran",
+        "https://www.niceness.jp/products/nicolas",
+        "https://www.niceness.jp/products/sylvain",
+        "https://www.niceness.jp/products/thierry",
+        "https://www.niceness.jp/products/thompson"
+      ]
+    },
+    {
+      "id": "T022",
+      "source": "main",
+      "status": "ready",
+      "title": "施錠する袋と紐で閉じる袋 / 郵便袋",
+      "context": "郵便",
+      "openingFirstSentence": "郵便を運ぶ袋にも、鍵を掛けるものと、紐で閉じるものがある。",
+      "model": "HEFNER",
+      "item": "hefner-aw25",
+      "sourceUrls": [
+        "https://about.usps.com/who/profile/history/universal-service-postal-monopoly-history.htm",
+        "https://www.gutenberg.org/files/48014/48014-h/48014-h.htm",
+        "https://www.niceness.jp/products/hefner",
+        "https://www.niceness.jp/products/hefner-1",
+        "https://www.niceness.jp/products/hefner-26ss",
+        "https://www.niceness.jp/products/l-hefner",
+        "https://www.niceness.jp/products/l-hefner-26ss"
+      ]
+    },
+    {
+      "id": "T028",
+      "source": "main",
+      "status": "ready",
+      "title": "洗うと脚の線が回る / デニムパンツ",
+      "context": "デニム",
+      "openingFirstSentence": "洗う前には横にあった縫い目が、脚の前へ少し回ってくる。",
+      "model": "D.AMENT",
+      "item": "d-ament-aw25",
+      "sourceUrls": [
+        "https://patentimages.storage.googleapis.com/24/24/26/e0c159af27ab8e/US3959826.pdf",
+        "https://patents.google.com/patent/US3959826A/en",
+        "https://www.niceness.jp/products/d-ament",
+        "https://www.niceness.jp/products/d-sharky-26ss",
+        "https://www.niceness.jp/products/i-ament",
+        "https://www.niceness.jp/products/sharky-26ss",
+        "https://www.niceness.jp/products/z-ament"
+      ]
+    },
+    {
+      "id": "T031",
+      "source": "main",
+      "status": "ready",
+      "title": "服の上から白で覆う / スノーパーカ",
+      "context": "パーカ",
+      "openingFirstSentence": "すでに着ている服の上から、白いパーカを重ねる。",
+      "model": "BIDDU",
+      "item": "biddu-ss26",
+      "sourceUrls": [
+        "https://assets.publishing.service.gov.uk/media/61f7cdc4e90e07689e1f3ecd/Information_on_UK-SC-3698_for_Parka__Man_s__Cold_Weather_.pdf",
+        "https://www.niceness.jp/products/biddu-26ss",
+        "https://www.niceness.jp/products/c-biddu-26ss",
+        "https://www.niceness.jp/products/d-biddu",
+        "https://www.niceness.jp/products/i-biddu-26ss"
+      ]
+    },
+    {
+      "id": "T034",
+      "source": "main",
+      "status": "ready",
+      "title": "首の小樽が物語になった / セント・バーナードの救助画",
+      "context": "救助犬",
+      "openingFirstSentence": "雪の中の旅行者を助ける犬。",
+      "model": "C.BALIN",
+      "item": "c-balin-ss25",
+      "sourceUrls": [
+        "https://www.barryland.ch/en/about-us-556/",
+        "https://www.barryland.ch/en/discover/the-worlds-of-barry-570/",
+        "https://www.metmuseum.org/art/collection/search/654056",
+        "https://www.nga.gov/artworks/220510-alpine-mastiffs-reanimating-distressed-traveler",
+        "https://www.nga.gov/stories/articles/who-sir-edwin-landseer-10-things-know",
+        "https://www.niceness.jp/products/c-balin-1",
+        "https://www.niceness.jp/products/c-balin-2",
+        "https://www.niceness.jp/products/f-balin",
+        "https://www.niceness.jp/products/l-k-balin-2"
+      ]
+    },
+    {
+      "id": "T035",
+      "source": "main",
+      "status": "ready",
+      "title": "コートと白い首布で描かれる / ニュートンの肖像",
+      "context": "肖像",
+      "openingFirstSentence": "同じ人物の肖像でも、着ているものや姿勢は違う。",
+      "model": "C.ISAAC",
+      "item": "c-isaac-aw26",
+      "sourceUrls": [
+        "https://pictures.royalsociety.org/image-rs-9252",
+        "https://royalsociety.org/blog/2021/03/perfect-copy/",
+        "https://www.niceness.jp/products/c-isaac",
+        "https://www.niceness.jp/products/c-yeoman",
+        "https://www.niceness.jp/products/r-isaac",
+        "https://www.niceness.jp/products/r-yeoman",
+        "https://www.npg.org.uk/collections/search/portrait/mw04660/Sir-Isaac-Newton"
+      ]
+    },
+    {
+      "id": "T042",
+      "source": "main",
+      "status": "ready",
+      "title": "松に猛禽を配した / 松鷹図",
+      "context": "鷹",
+      "openingFirstSentence": "大きな松に、鷹や鷲が宿る。",
+      "model": "E.BLOW",
+      "item": "e-blow-ss25",
+      "sourceUrls": [
+        "https://museum.city.fukuoka.jp/archives/leaflet/476/index02.html",
+        "https://nijo-jocastle.city.kyoto.lg.jp/wp-content/uploads/2019/07/R1-2.pdf",
+        "https://nijo-jocastle.city.kyoto.lg.jp/wp-content/uploads/2025/04/c0994d30d227a728cfc29af7450ef7f7.pdf",
+        "https://www.niceness.jp/products/e-blow",
+        "https://www.niceness.jp/products/e-blow-26ss",
+        "https://www.niceness.jp/products/s-e-blow",
+        "https://www.niceness.jp/products/s-e-blow-26ss"
+      ]
+    },
+    {
+      "id": "T043",
+      "source": "main",
+      "status": "ready",
+      "title": "折返しを省き吊りボタンを残す / ユーティリティ・トラウザー",
+      "context": "トラウザー",
+      "openingFirstSentence": "裾の折返しがなく、腰には吊りバンド用のボタンが並ぶ。",
+      "model": "CAVALIERS",
+      "item": "cavaliers-aw24",
+      "sourceUrls": [
+        "https://www.londonmuseum.org.uk/collections/v/object-84678/trousers/",
+        "https://www.niceness.jp/products/cavaliers",
+        "https://www.niceness.jp/products/moyes"
+      ]
+    },
+    {
+      "id": "T045",
+      "source": "main",
+      "status": "ready",
+      "title": "ヨークを縁取りで際立たせる / ウエスタンシャツ",
+      "context": "シャツ",
+      "openingFirstSentence": "肩から胸へ伸びる切替を、細い縁取りでなぞる。",
+      "model": "B.ROLLO",
+      "item": "b-rollo-ss26",
+      "sourceUrls": [
+        "https://blog.fitnyc.edu/precollegeprograms/2013/07/22/lets-sew-sew-sew/",
+        "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM509148%3Btype%3D101",
+        "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM548628%3Btype%3D101",
+        "https://www.niceness.jp/products/b-rollo-26ss",
+        "https://www.niceness.jp/products/h-rollo-26ss",
+        "https://www.niceness.jp/products/l-rollo-26ss",
+        "https://www.niceness.jp/products/s-rollo-26ss"
+      ]
+    },
+    {
+      "id": "T051",
+      "source": "main",
+      "status": "ready",
+      "title": "引き手で開閉する歯をつなぐ / CLIXファスナー",
+      "context": "ファスナー",
+      "openingFirstSentence": "服の前を開けるたびに触れる引き手。",
+      "model": "H.HAYWOOD",
+      "item": "h-haywood-ss26",
+      "sourceUrls": [
+        "https://peterleehistory.co.uk/knowledge-base/clix-fasterners/",
+        "https://www.lewisleathers.jp/products/detail/325",
+        "https://www.niceness.jp/products/h-haywood-26ss",
+        "https://www.niceness.jp/products/h-stooges-26ss"
+      ]
+    },
+    {
+      "id": "T052",
+      "source": "main",
+      "status": "ready",
+      "title": "靴底に鋲を打ち断熱を重ねる / 登山靴",
+      "context": "登山靴",
+      "openingFirstSentence": "雪や氷で足を止め、冷えから足を守る。",
+      "model": "B.DYLAN",
+      "item": "b-dylan-aw26",
+      "sourceUrls": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8059312/pair-of-special-lightweight-double-clinker-nailed-climbing-boots-used-on-the-1933-everest-expedition",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8593949/rubber-boot-designed-for-1953-mount-everest-expedition",
+        "https://www.niceness.jp/products/b-dylan",
+        "https://www.niceness.jp/products/dylan",
+        "https://www.niceness.jp/products/dylan-1",
+        "https://www.niceness.jp/products/dylan-2"
+      ]
+    },
+    {
+      "id": "T055",
+      "source": "main",
+      "status": "ready",
+      "title": "綿を高密度に織り上げる / ベンタイル",
+      "context": "綿",
+      "openingFirstSentence": "長く身に着ける快適さと、水にさらされる場面への備え。",
+      "model": "ALIAS",
+      "item": "alias-aw24",
+      "sourceUrls": [
+        "https://collection.sciencemuseumgroup.org.uk/people/ap8781/shirley-institute",
+        "https://ventile.co.uk/",
+        "https://ventile.co.uk/wp-content/uploads/2025/02/Ventile-Sustainable-Spec-Sheet-FEB-2025-web.pdf",
+        "https://www.niceness.jp/products/alias",
+        "https://www.niceness.jp/products/cocker",
+        "https://www.niceness.jp/products/melchior"
+      ]
+    },
+    {
+      "id": "T063",
+      "source": "main",
+      "status": "ready",
+      "title": "細いラペルと短い丈で整える / イタリアンジャケット",
+      "context": "テーラード",
+      "openingFirstSentence": "ラペルを細く、上着の丈を短くする。",
+      "model": "K.ROLAND",
+      "item": "k-roland-aw23",
+      "sourceUrls": [
+        "https://www.vam.ac.uk/__data/assets/pdf_file/0007/238426/The-Glamour-of-Italian-Fashion-Highlights.pdf",
+        "https://www.vam.ac.uk/articles/the-peacock-revolution-1960s-menswear"
+      ]
+    },
+    {
+      "id": "T064",
+      "source": "main",
+      "status": "ready",
+      "title": "腰を絞り肩にゆとりをつくる / ドレープ・スーツ",
+      "context": "スーツ",
+      "openingFirstSentence": "腰を整えながら、肩には形と着心地を持たせる。",
+      "model": "ORNETTE",
+      "item": "ornette-aw24",
+      "sourceUrls": [
+        "https://exhibitions.fitnyc.edu/fashions-of-the-1930s/",
+        "https://www.niceness.jp/products/ornette"
+      ]
+    },
+    {
+      "id": "T065",
+      "source": "main",
+      "status": "ready",
+      "title": "肩の緩衝部と弾の収納を備える / シューティングベスト",
+      "context": "ベスト",
+      "openingFirstSentence": "肩に当たる部分を和らげ、必要なものを手元へ収める。",
+      "model": "BLUNSTONE",
+      "item": "blunstone-aw24",
+      "sourceUrls": [
+        "https://gunsmagazine.com/wp-content/uploads/2022/07/G0672.pdf",
+        "https://www.niceness.jp/products/blunstone"
+      ]
+    },
+    {
+      "id": "T067",
+      "source": "main",
+      "status": "ready",
+      "title": "宮廷風の線を乗馬へ取り入れる / ライディングジャケット",
+      "context": "乗馬",
+      "openingFirstSentence": "馬に乗るための上着にも、過去の宮廷服を思わせる線がある。",
+      "model": "D.VEDDER",
+      "item": "d-vedder-aw25",
+      "sourceUrls": [
+        "https://www.cooperhewitt.org/wp-content/uploads/2018/03/Hewitt_Sisters_Brochure_031418.pdf",
+        "https://www.metmuseum.org/art/collection/search/158808",
+        "https://www.niceness.jp/products/d-vedder",
+        "https://www.niceness.jp/products/i-vedder",
+        "https://www.niceness.jp/products/z-vedder"
+      ]
+    },
+    {
+      "id": "T069",
+      "source": "main",
+      "status": "ready",
+      "title": "土地の色を配色に重ねる / エステートツイード",
+      "context": "ツイード",
+      "openingFirstSentence": "岩地の灰色や、猟場の茶色を、着る布の配色へ重ねる。",
+      "model": "C.FINCH",
+      "item": "c-finch-aw26",
+      "sourceUrls": [
+        "https://discover.johnstonsofelgin.com/our-story/evolution-of-tweed",
+        "https://www.campbellsofbeauly.com/tailoring/estate-tweed/",
+        "https://www.liveborders.org.uk/news/twill-to-tweed-lovat-mill-200-years-of-tweed-1826-2026/",
+        "https://www.niceness.jp/products/c-finch",
+        "https://www.niceness.jp/products/c-huffam",
+        "https://www.niceness.jp/products/c-tartt"
+      ]
+    },
+    {
+      "id": "T073",
+      "source": "main",
+      "status": "ready",
+      "title": "ゆとりある肩と大きなポケットを持つ / ビーチジャケット",
+      "context": "ジャケット",
+      "openingFirstSentence": "肩と袖にはゆとりを取り、大きなポケットを付ける。",
+      "model": "B.BEN",
+      "item": "b-ben-aw25",
+      "sourceUrls": [
+        "https://www.govinfo.gov/content/pkg/FR-1942-06-17/pdf/FR-1942-06-17.pdf",
+        "https://www.niceness.jp/products/b-ben",
+        "https://www.niceness.jp/products/b-beth",
+        "https://www.niceness.jp/products/b-billie",
+        "https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/highballing_at_sixty_below.pdf"
+      ]
+    },
+    {
+      "id": "T082",
+      "source": "main",
+      "status": "ready",
+      "title": "花葉の唐草を織り出す / 笹蔓緞子",
+      "context": "緞子",
+      "openingFirstSentence": "道具を入れる袋や、書画の表装に、織られた布を使う。",
+      "model": "DAS",
+      "item": "das-ss25",
+      "sourceUrls": [
+        "https://knmdb.kyohaku.go.jp/5795.html",
+        "https://www.museum.city.nagoya.jp/exhibition/special/past/tenji201010.html",
+        "https://www.niceness.jp/products/das",
+        "https://www.niceness.jp/products/gyan",
+        "https://www.niceness.jp/products/nair",
+        "https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=7969"
+      ]
+    },
+    {
+      "id": "T157",
+      "source": "main",
+      "status": "ready",
+      "title": "弓と和鞍と合図の扇を備える / 流鏑馬の道具",
+      "context": "流鏑馬",
+      "openingFirstSentence": "馬上で弓を引く人の周りに、鞍や鐙、合図の扇がある。",
+      "model": "C.MAXIM",
+      "item": "c-maxim-ss26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/c-maxim-26ss",
+        "https://www.ogasawara-yabusame.com/ogasawara_07sinji.html",
+        "https://yabusame.or.jp/"
+      ]
+    },
+    {
+      "id": "T161",
+      "source": "main",
+      "status": "ready",
+      "title": "腰ダーツと七本のループを備える / 綿カーキトラウザー",
+      "context": "チノ",
+      "openingFirstSentence": "腰帯、後ろのダーツ、七本のベルトループ。",
+      "model": "MALDOON",
+      "item": "maldoon-ss23",
+      "sourceUrls": [
+        "https://history.army.mil/Publications/Publications-Catalog/Noncommissioned-Officer-Images-of-an-Army-in-Action/",
+        "https://www.nps.gov/goga/learn/historyculture/upload/Cronkhite-Historic-Furnishings-Report.pdf"
+      ]
+    },
+    {
+      "id": "T184",
+      "source": "main",
+      "status": "ready",
+      "title": "紋章と赤いボタンを載せる / カレッジキャップ",
+      "context": "帽子",
+      "openingFirstSentence": "紺色のウールに大学の紋章を付け、頭頂へ赤いボタンを載せる。",
+      "model": "CORNWELL",
+      "item": "cornwell-ss25",
+      "sourceUrls": [
+        "https://archives.upenn.edu/collections/finding-aid/mem/",
+        "https://archives.upenn.edu/exhibits/penn-history/traditions/hey-day/timeline/",
+        "https://www.niceness.jp/products/cornwell"
+      ]
+    },
+    {
+      "id": "T110",
+      "source": "main",
+      "status": "ready",
+      "title": "腰を絞り袖口のジップを内へ移す / ライディングジャケット",
+      "context": "ライダース",
+      "openingFirstSentence": "背中を大きな一枚に変え、腰へ調節具を加える。",
+      "model": "GEOFF",
+      "item": "geoff-aw26",
+      "sourceUrls": [
+        "https://www.lewisleathers.com/blogs/blog/honeyee-interview-pt-2",
+        "https://www.lewisleathers.com/blogs/blog/jacket-profile-super-sportsman",
+        "https://www.lewisleathers.com/en-de/products/the-corsair-no-60",
+        "https://www.niceness.jp/products/geoff"
+      ]
+    },
+    {
+      "id": "T115",
+      "source": "main",
+      "status": "ready",
+      "title": "袖を切って装いを変える / パンクTシャツ",
+      "context": "Tシャツ",
+      "openingFirstSentence": "Tシャツの袖を切り、ミニドレスとして着る。",
+      "model": "MCGEOCH",
+      "item": "mcgeoch-aw26",
+      "sourceUrls": [
+        "https://www.londonmuseum.org.uk/blog/london-punk-personal-history-objects/",
+        "https://www.londonmuseum.org.uk/collections/v/object-744566/t-shirt/",
+        "https://www.niceness.jp/products/mcgeoch"
+      ]
+    },
+    {
+      "id": "T116",
+      "source": "main",
+      "status": "ready",
+      "title": "仕事ごとに縞が違う / ワークシャツ",
+      "context": "ストライプ",
+      "openingFirstSentence": "縞の仕事着、と聞くと一つの姿を思い浮かべてしまう。",
+      "model": "V.LESH",
+      "item": "v-lesh-aw26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/v-lesh",
+        "https://www.reading.ac.uk/adlib/Details/collect/17602",
+        "https://www.zuiderzeecollectie.nl/object/collect/Zuiderzee_museum-11080",
+        "https://www.zuiderzeecollectie.nl/object/collect/Zuiderzee_museum-15782"
+      ]
+    },
+    {
+      "id": "T126",
+      "source": "main",
+      "status": "ready",
+      "title": "腕の動きに余白をつくる / スウェットシャツ",
+      "context": "スポーツ",
+      "openingFirstSentence": "走っている時間だけが、スポーツではない。",
+      "model": "COURTNEY",
+      "item": "courtney-aw24",
+      "sourceUrls": [
+        "https://patents.google.com/patent/US2613360A/en",
+        "https://www.champion.com/pages/about-champion",
+        "https://www.niceness.jp/products/courtney"
+      ]
+    },
+    {
+      "id": "T129",
+      "source": "main",
+      "status": "ready",
+      "title": "小さなフードとグローブポケットの / スポーツフーディー",
+      "context": "フード",
+      "openingFirstSentence": "フードをかぶると、服が頭まで続いていることを感じる。",
+      "model": "C.YEOMAN",
+      "item": "c-yeoman-aw26",
+      "sourceUrls": [
+        "https://nieuweinstituut.nl/en/projects/the-hoodie/curator-lou-stoppard-over-hoodie",
+        "https://www.moma.org/collection/works/274908",
+        "https://www.niceness.jp/products/c-yeoman"
+      ]
+    },
+    {
+      "id": "T136",
+      "source": "main",
+      "status": "ready",
+      "title": "冷える艦内で重ねる / ウールの潜水艦服",
+      "context": "海軍",
+      "openingFirstSentence": "海の中にいれば、風を避けられる。",
+      "model": "H.TWEEDY",
+      "item": "h-tweedy-aw25",
+      "sourceUrls": [
+        "https://www.maritime.org/doc/pdf/duff.pdf",
+        "https://www.niceness.jp/products/h-tweedy"
+      ]
+    },
+    {
+      "id": "T140",
+      "source": "main",
+      "status": "ready",
+      "title": "所属をまとって入場する / トラックスーツ",
+      "context": "スポーツ",
+      "openingFirstSentence": "試合は、まだ始まっていない。",
+      "model": "BERLIN",
+      "item": "berlin-aw25",
+      "sourceUrls": [
+        "https://nationalfootballmuseum.com/stories/jack-charlton-tracksuit/",
+        "https://olympic-museum-artefacts.zetcom.net/en/collection/item/178217/",
+        "https://www.adidas-group.com/en/magazine/innovation/the-history-of-the-tracksuit-from-athletes-to-athleisure",
+        "https://www.niceness.jp/products/berlin"
+      ]
+    },
+    {
+      "id": "T152",
+      "source": "main",
+      "status": "ready",
+      "title": "織物の表情を着る / チマヨジャケット",
+      "context": "織物",
+      "openingFirstSentence": "土地で織られた布が、そこを訪れる人の服になる。",
+      "model": "STEPHENS",
+      "item": "stephens-aw24",
+      "sourceUrls": [
+        "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM520077%3Btype%3D101",
+        "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/99000500_text",
+        "https://www.chimayoweavers.com/collections/irvin-trujillo",
+        "https://www.niceness.jp/products/stephens"
+      ]
+    },
+    {
+      "id": "T156",
+      "source": "main",
+      "status": "ready",
+      "title": "小さな金具でかかとを留める / 足袋",
+      "context": "足袋",
+      "openingFirstSentence": "足袋のかかと側を閉じる、小さな金具。",
+      "model": "K.BARNEY",
+      "item": "k-barney-ss26",
+      "sourceUrls": [
+        "https://fukuske.co.jp/topics/20210402_780",
+        "https://www.fukuske.com/f/tabi",
+        "https://www.niceness.jp/products/k-barney-26ss"
+      ]
+    },
+    {
+      "id": "T164",
+      "source": "main",
+      "status": "ready",
+      "title": "獲物用の裏地を引き出せる / ハンティングコート",
+      "context": "狩猟",
+      "openingFirstSentence": "ポケットは、物を入れる場所。",
+      "model": "N.FIELDING",
+      "item": "n-fielding-aw26",
+      "sourceUrls": [
+        "https://global.llbean.com/llb/shop/129624.html?CORECRD=true",
+        "https://patents.google.com/patent/US1724343A/en",
+        "https://www.niceness.jp/products/n-fielding"
+      ]
+    },
+    {
+      "id": "T187",
+      "source": "main",
+      "status": "ready",
+      "title": "写真に手で色を重ねる / プリントシャツ",
+      "context": "写真",
+      "openingFirstSentence": "旅で見た風景を、持ち帰る。",
+      "model": "ED",
+      "item": "ed-ss26",
+      "sourceUrls": [
+        "https://inventory.yokohama.art.museum/13549",
+        "https://topmuseum.jp/exhibition/3453/",
+        "https://www.niceness.jp/products/ed-26ss",
+        "https://yokohama-archives.jp/available-documents/photo/photographs/photo-albums",
+        "https://yokohama-art-museum.note.jp/n/nfff32b5f7c52"
+      ]
+    },
+    {
+      "id": "T200",
+      "source": "main",
+      "status": "ready",
+      "title": "胸ポケットに校章を刺繍する / スクールブレザー",
+      "context": "制服",
+      "openingFirstSentence": "上着が全部残っていなくても、その服の行き先が見えることがある。",
+      "model": "DENNIS",
+      "item": "dennis-ss23",
+      "sourceUrls": [
+        "https://artsandculture.google.com/story/the-authentics-%E2%80%93eternal-source-of-creativity%E2%80%93-japan-fashion-and-lifestyle-foundation/xAWhOK1aomcaKA?hl=en",
+        "https://www.norrismuseum.org.uk/discover/museum-collection/post-mediaeval-collection/"
+      ]
+    },
+    {
+      "id": "T008",
+      "source": "main",
+      "status": "ready",
+      "title": "黒の下に藍を重ねる / デニムパンツ",
+      "context": "デニム",
+      "openingFirstSentence": "黒いパンツが、着るうちに藍色を見せる。",
+      "model": "D.AMENT",
+      "item": "d-ament-aw25",
+      "sourceUrls": [
+        "https://cottonworks.com/learning-hub/denim/denim-basics/",
+        "https://cottonworks.com/learning-hub/denim/denim-finishing/",
+        "https://cottonworks.com/learning-hub/finishing/mechanical-finishing/",
+        "https://www.niceness.jp/products/d-ament",
+        "https://www.niceness.jp/products/d-lands",
+        "https://www.niceness.jp/products/d-matlock",
+        "https://www.niceness.jp/products/d-mccready",
+        "https://www.niceness.jp/products/d-vedder"
+      ]
+    },
+    {
+      "id": "T014",
+      "source": "main",
+      "status": "ready",
+      "title": "広いつばと顎紐を備える / サファリハット",
+      "context": "帽子",
+      "openingFirstSentence": "大きなつばと、顎の下へ回る紐。",
+      "model": "B.MATLOCK",
+      "item": "b-matlock-ss25",
+      "sourceUrls": [
+        "https://www.collinsdictionary.com/dictionary/english/safari-hat",
+        "https://www.niceness.jp/products/b-matlock",
+        "https://www.niceness.jp/products/d-matlock",
+        "https://www.niceness.jp/products/e-matlock",
+        "https://www.niceness.jp/products/l-matlock",
+        "https://www.niceness.jp/products/matlock",
+        "https://www.niceness.jp/products/sylvain",
+        "https://www.westleyrichards.com/products/westley-richards-safari-hat-green-herringbone-band"
+      ]
+    },
+    {
+      "id": "T025",
+      "source": "main",
+      "status": "ready",
+      "title": "二列のジップで身幅を変える / ライダースジャケット",
+      "context": "ライダース",
+      "openingFirstSentence": "寒い日は、革の下にもう一枚着たい。",
+      "model": "H.HAYWOOD",
+      "item": "h-haywood-ss26",
+      "sourceUrls": [
+        "https://chrysler.org/exhibition/worn-to-be-wild/",
+        "https://www.lewisleathers.com/blogs/blog/jacket-profile-super-sportsman",
+        "https://www.lewisleathers.com/products/twin-track-bronx-no-440",
+        "https://www.niceness.jp/products/h-haywood-26ss",
+        "https://www.niceness.jp/products/h-stooges-26ss",
+        "https://www.niceness.jp/products/s-haywood-26ss",
+        "https://www.niceness.jp/products/s-stooges-26ss"
+      ]
+    },
+    {
+      "id": "T033",
+      "source": "main",
+      "status": "ready",
+      "title": "大きく口を開ける / ハンティングバッグ",
+      "context": "バッグ",
+      "openingFirstSentence": "出かける時の荷物には、まとめて詰めるものと、途中ですぐに取り出したいものがある。",
+      "model": "D.DOYLE",
+      "item": "d-doyle-ss25",
+      "sourceUrls": [
+        "https://www.newyorker.com/magazine/1950/12/16/merry-christmas-to-all",
+        "https://www.niceness.jp/products/d-doyle",
+        "https://www.niceness.jp/products/l-doyle",
+        "https://www.niceness.jp/products/l-doyle-1",
+        "https://www.niceness.jp/products/v-doyle"
+      ]
+    },
+    {
+      "id": "T036",
+      "source": "main",
+      "status": "ready",
+      "title": "上下に分かれた / ユーティリティウェア",
+      "context": "仕事着",
+      "openingFirstSentence": "上衣とズボンに分かれた、夏の服。",
+      "model": "B.ROLLO",
+      "item": "b-rollo-ss26",
+      "sourceUrls": [
+        "https://history.army.mil/Publications/Publications-Catalog/The-American-Soldier-Print-Set-3/",
+        "https://www.niceness.jp/products/b-rollo-26ss",
+        "https://www.niceness.jp/products/h-rollo-26ss",
+        "https://www.niceness.jp/products/l-rollo-26ss",
+        "https://www.niceness.jp/products/s-rollo-26ss"
+      ]
+    },
+    {
+      "id": "T078",
+      "source": "main",
+      "status": "ready",
+      "title": "首元を深く開いた / ヴァルーズ",
+      "context": "襟",
+      "openingFirstSentence": "首元に、深く開いたVの線がある。",
+      "model": "BRUFORD",
+      "item": "bruford-aw24",
+      "sourceUrls": [
+        "https://www.momu.be/fr/expositions/reizende-tentoonstelling-margiela-de-hermes-jaren",
+        "https://www.niceness.jp/products/bruford",
+        "https://www.niceness.jp/products/jeanne",
+        "https://www.niceness.jp/products/vassiliu"
+      ]
+    },
+    {
+      "id": "T080",
+      "source": "main",
+      "status": "ready",
+      "title": "菊に季節を重ねた / 小袖",
+      "context": "植物文様",
+      "openingFirstSentence": "服の上に花がある。",
+      "model": "CHAO",
+      "item": "chao-ss25",
+      "sourceUrls": [
+        "https://www.niceness.jp/episode/connecting-cultures-through-bandanna/",
+        "https://www.niceness.jp/products/chao",
+        "https://www.niceness.jp/products/jamet",
+        "https://www.niceness.jp/products/pat",
+        "https://www.tnm.jp/modules/r_exhibition/index.php?controller=item&id=8194&lang=ja"
+      ]
+    },
+    {
+      "id": "T081",
+      "source": "main",
+      "status": "ready",
+      "title": "葵の文様をまとった / 小袖",
+      "context": "葵",
+      "openingFirstSentence": "葵と聞いて思い浮かべる形は、一つとは限らない。",
+      "model": "DAS",
+      "item": "das-ss25",
+      "sourceUrls": [
+        "https://knmdb.kyohaku.go.jp/11379.html",
+        "https://knmdb.kyohaku.go.jp/6087.html",
+        "https://www.kyohaku.go.jp/jp/learn/home/dictio/senshoku/186/",
+        "https://www.niceness.jp/products/das",
+        "https://www.niceness.jp/products/gyan",
+        "https://www.niceness.jp/products/nair"
+      ]
+    },
+    {
+      "id": "T083",
+      "source": "main",
+      "status": "ready",
+      "title": "頭から被りやすく仕立てた / 被衣",
+      "context": "被衣",
+      "openingFirstSentence": "外へ出る時、衣服を頭から被る。",
+      "model": "DAS",
+      "item": "das-ss25",
+      "sourceUrls": [
+        "https://museum.city.fukuoka.jp/archives/leaflet/322/index.html",
+        "https://museum.city.fukuoka.jp/archives/leaflet/322/index02.html",
+        "https://www.niceness.jp/products/das",
+        "https://www.niceness.jp/products/gyan",
+        "https://www.niceness.jp/products/nair"
+      ]
+    },
+    {
+      "id": "T084",
+      "source": "main",
+      "status": "ready",
+      "title": "雲の輪郭を描いた / 振袖",
+      "context": "雲",
+      "openingFirstSentence": "雲を描くのに、内側を埋める必要はない。",
+      "model": "DAS",
+      "item": "das-ss25",
+      "sourceUrls": [
+        "https://knmdb.kyohaku.go.jp/21885.html",
+        "https://knmdb.kyohaku.go.jp/eng/5779.html",
+        "https://www.niceness.jp/products/das",
+        "https://www.niceness.jp/products/gyan",
+        "https://www.niceness.jp/products/nair"
+      ]
+    },
+    {
+      "id": "T085",
+      "source": "main",
+      "status": "ready",
+      "title": "引き上げて外す / ストラップホック",
+      "context": "留め具",
+      "openingFirstSentence": "引っ張る場所を変えると、留め具が開く。",
+      "model": "CS.MARTY",
+      "item": "cs-marty-aw25",
+      "sourceUrls": [
+        "https://www.loxx-products.com/live/automotive-security-snap-fastener/automotive.aspx",
+        "https://www.loxx-products.com/live/snap-fastener-LOXX/loxx.aspx",
+        "https://www.niceness.jp/products/cs-marty",
+        "https://www.niceness.jp/products/d-marty",
+        "https://www.niceness.jp/products/d-marty-1"
+      ]
+    },
+    {
+      "id": "T086",
+      "source": "main",
+      "status": "ready",
+      "title": "三つ杢の表情を裏に持つ / ショーツ",
+      "context": "杢糸",
+      "openingFirstSentence": "一色に見えた布へ近づくと、細かな色の違いが現れる。",
+      "model": "BOLAN",
+      "item": "bolan-aw24",
+      "sourceUrls": [
+        "https://nissenken.or.jp/2017/08/15/no-94/",
+        "https://www.niceness.jp/products/bolan",
+        "https://www.niceness.jp/products/bowie",
+        "https://www.niceness.jp/products/clifford"
+      ]
+    },
+    {
+      "id": "T089",
+      "source": "main",
+      "status": "ready",
+      "title": "耳覆いを頭頂で結べる / 防寒帽",
+      "context": "帽子",
+      "openingFirstSentence": "耳まで覆う部分を、頭の上で結び留める。",
+      "model": "M.STRICK",
+      "item": "m-strick-aw26",
+      "sourceUrls": [
+        "https://collection.powerhouse.com.au/object/161023",
+        "https://www.niceness.jp/products/m-strick"
+      ]
+    },
+    {
+      "id": "T090",
+      "source": "main",
+      "status": "ready",
+      "title": "動物の姿で足を受ける / レザーのフットスツール",
+      "context": "レザー",
+      "openingFirstSentence": "足を休める道具が、動物の姿をしている。",
+      "model": "B.CHESTY",
+      "item": "b-chesty-aw25",
+      "sourceUrls": [
+        "https://omersa.co.uk/about/",
+        "https://omersa.co.uk/product/turtle-standard/",
+        "https://www.niceness.jp/products/b-chesty"
+      ]
+    },
+    {
+      "id": "T092",
+      "source": "main",
+      "status": "ready",
+      "title": "裏に錨の刻印を持つ / バックルベルト",
+      "context": "バックル",
+      "openingFirstSentence": "ベルトを裏返すと、小さな錨が見える。",
+      "model": "BLADE D.B-25",
+      "item": "blade-d-b-25-aw24",
+      "sourceUrls": [
+        "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM547619%3Btype%3D102",
+        "https://nbindustrial.org/north-judd",
+        "https://www.niceness.jp/products/blade-d-b-25"
+      ]
+    },
+    {
+      "id": "T093",
+      "source": "main",
+      "status": "ready",
+      "title": "干支で時の巡りを描く / プリントシャツ",
+      "context": "干支",
+      "openingFirstSentence": "新しい年を迎える時、絵の入った小さな暦を友人や得意先へ贈る。",
+      "model": "BANGALTER",
+      "item": "bangalter-ss26",
+      "sourceUrls": [
+        "https://hokusai-museum.jp/Edocalendar/",
+        "https://www.ndl.go.jp/koyomi/chapter3/s1.html",
+        "https://www.ndl.go.jp/koyomi/quiz/level3_q2.html",
+        "https://www.niceness.jp/products/bangalter-26ss"
+      ]
+    },
+    {
+      "id": "T094",
+      "source": "main",
+      "status": "ready",
+      "title": "恵比寿の姿を配した / プリントシャツ",
+      "context": "恵比寿",
+      "openingFirstSentence": "同じ恵比寿でも、どこに、どんな姿で現れるかは違う。",
+      "model": "BANGALTER",
+      "item": "bangalter-ss26",
+      "sourceUrls": [
+        "https://www.britishmuseum.org/collection/object/A_1982-1118-0-1-1-2",
+        "https://www.metmuseum.org/art/collection/search/25716",
+        "https://www.metmuseum.org/art/collection/search/57283",
+        "https://www.niceness.jp/products/bangalter-26ss"
+      ]
+    },
+    {
+      "id": "T095",
+      "source": "main",
+      "status": "ready",
+      "title": "大黒天の姿を載せた / プリントシャツ",
+      "context": "大黒天",
+      "openingFirstSentence": "絵の中には、大黒天と大根が描かれている。",
+      "model": "BANGALTER",
+      "item": "bangalter-ss26",
+      "sourceUrls": [
+        "https://hokusai-museum.jp/modules/Event/events/view/3035?lang=ja",
+        "https://www.metmuseum.org/art/collection/search/57265",
+        "https://www.niceness.jp/products/bangalter-26ss"
+      ]
+    },
+    {
+      "id": "T100",
+      "source": "main",
+      "status": "ready",
+      "title": "ピンと円盤で姿を変える / デニムジャケット",
+      "context": "デニム",
+      "openingFirstSentence": "同じ出発点から、違う上着が生まれる。",
+      "model": "P.STERLING",
+      "item": "p-sterling-aw26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/p-sterling",
+        "https://www.vam.ac.uk/articles/blitz-magazine-and-the-tale-of-22-denim-jackets",
+        "https://www.vam.ac.uk/articles/x-raying-the-fashion-collection"
+      ]
+    },
+    {
+      "id": "T104",
+      "source": "main",
+      "status": "ready",
+      "title": "配色とパイピングで輪郭を描く / ウエスタンシャツ",
+      "context": "音楽",
+      "openingFirstSentence": "肩のヨークと袖口の色が切り替わり、その輪郭を細い線が縁取る。",
+      "model": "COLEMAN",
+      "item": "coleman-aw24",
+      "sourceUrls": [
+        "https://countrymusichalloffame.org/exhibit/suiting-the-sound/westernstyle/",
+        "https://www.niceness.jp/products/coleman"
+      ]
+    },
+    {
+      "id": "T107",
+      "source": "main",
+      "status": "ready",
+      "title": "腕を上げても袖口が引かれにくい / シューティングシャツ",
+      "context": "袖",
+      "openingFirstSentence": "袖の長さは、腕を下ろした時だけでは決められない。",
+      "model": "D.TUCKER",
+      "item": "d-tucker-aw26",
+      "sourceUrls": [
+        "https://shop.purdey.com/en-us/pages/what-to-wear-on-a-shoot",
+        "https://shop.purdey.com/products/mens-shooting-tattersall-shirt-in-loden",
+        "https://www.niceness.jp/products/d-tucker"
+      ]
+    },
+    {
+      "id": "T111",
+      "source": "main",
+      "status": "ready",
+      "title": "背中の収納へ両側から手が届く / ハンティングジャケット",
+      "context": "狩猟",
+      "openingFirstSentence": "前のポケットと、背中のポケット。",
+      "model": "B.WOBBLE",
+      "item": "b-wobble-aw26",
+      "sourceUrls": [
+        "https://japan.barbour.com/Page/features/2023/features_7/",
+        "https://www.niceness.jp/products/b-wobble"
+      ]
+    },
+    {
+      "id": "T112",
+      "source": "main",
+      "status": "ready",
+      "title": "キルトの裏地で暖かさをうたう / カーコート",
+      "context": "コート",
+      "openingFirstSentence": "カーコートという名前でも、出かける先は車の中だけではない。",
+      "model": "DEVOTE",
+      "item": "devote-aw26",
+      "sourceUrls": [
+        "https://oregonnews.uoregon.edu/lccn/sn97071090/1960-09-21/ed-1/seq-26.pdf",
+        "https://www.niceness.jp/products/devote"
+      ]
+    },
+    {
+      "id": "T114",
+      "source": "main",
+      "status": "ready",
+      "title": "大ぶりにかぶる / ワッチキャップ",
+      "context": "帽子",
+      "openingFirstSentence": "大きなTシャツ、太いジーンズ。",
+      "model": "COREY",
+      "item": "corey-aw25",
+      "sourceUrls": [
+        "https://nmaahc.si.edu/object/nmaahc_2015.132.265",
+        "https://www.fitnyc.edu/museum/exhibitions/hip-hop-style.php",
+        "https://www.niceness.jp/products/corey"
+      ]
+    },
+    {
+      "id": "T124",
+      "source": "main",
+      "status": "ready",
+      "title": "腰位置を高く見せる / ロカビリートラウザー",
+      "context": "音楽",
+      "openingFirstSentence": "腰の位置が高く、脚のまわりに幅がある。",
+      "model": "COIMBRA",
+      "item": "coimbra-aw23",
+      "sourceUrls": [
+        "https://fashion2fiber.osu.edu/exhibits/show/fashion-and-music/rockabilly-and-elvis",
+        "https://www.countrymusichalloffame.org/from-where-i-stand/digging-countrys-roots"
+      ]
+    },
+    {
+      "id": "T130",
+      "source": "main",
+      "status": "ready",
+      "title": "首のまちで着脱を助ける / スウェットシャツ",
+      "context": "スウェット",
+      "openingFirstSentence": "頭から服をかぶる時、首元に少し伸びる余地が欲しい。",
+      "model": "LARS",
+      "item": "lars-aw25",
+      "sourceUrls": [
+        "https://patents.google.com/patent/US2126186A/en",
+        "https://www.niceness.jp/products/lars-1"
+      ]
+    },
+    {
+      "id": "T139",
+      "source": "main",
+      "status": "ready",
+      "title": "肩と襟を布で補強する / フリースジャケット",
+      "context": "フリース",
+      "openingFirstSentence": "柔らかなフリースの肩に、別の布が重なる。",
+      "model": "BAILEY",
+      "item": "bailey-aw26",
+      "sourceUrls": [
+        "https://www.awm.gov.au/collection/C1001109",
+        "https://www.niceness.jp/products/bailey"
+      ]
+    },
+    {
+      "id": "T146",
+      "source": "main",
+      "status": "ready",
+      "title": "三層の布で外側を包む / シェルパンツ",
+      "context": "軍装",
+      "openingFirstSentence": "一枚に見える布にも、層がある。",
+      "model": "DARREN",
+      "item": "darren-aw25",
+      "sourceUrls": [
+        "https://ciehub.info/ref/ADA336776.pdf",
+        "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=24268",
+        "https://www.niceness.jp/products/darren"
+      ]
+    },
+    {
+      "id": "T147",
+      "source": "main",
+      "status": "ready",
+      "title": "溝のあるゴム底を備えた / ボートシューズ",
+      "context": "靴",
+      "openingFirstSentence": "甲はキャンバス、底は溝の入ったゴム。",
+      "model": "GEORGIA",
+      "item": "georgia-ss25",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/georgia",
+        "https://www.sperry.com/blogs/articles/the-sperry-cvo",
+        "https://www.sperry.com/pages/about-us"
+      ]
+    },
+    {
+      "id": "T154",
+      "source": "main",
+      "status": "ready",
+      "title": "小袋を連ねて身体に掛ける / バンダリア",
+      "context": "携行具",
+      "openingFirstSentence": "小さな蓋が、一つずつ並ぶ。",
+      "model": "K.BLOOMFIELD",
+      "item": "k-bloomfield-aw23",
+      "sourceUrls": [
+        "https://paradata.org.uk/content/4706700",
+        "https://www.awm.gov.au/collection/C153520"
+      ]
+    },
+    {
+      "id": "T158",
+      "source": "main",
+      "status": "ready",
+      "title": "愛馬の姿を飾った / ウエスタンシャツ",
+      "context": "馬",
+      "openingFirstSentence": "シャツの上に、馬の頭と蹄鉄がある。",
+      "model": "C.MAXIM",
+      "item": "c-maxim-ss26",
+      "sourceUrls": [
+        "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM548628%3Btype%3D101",
+        "https://www.autry.com/musicmovies/andmore/index.php",
+        "https://www.niceness.jp/products/c-maxim-26ss"
+      ]
+    },
+    {
+      "id": "T159",
+      "source": "main",
+      "status": "ready",
+      "title": "内側に管理の印が残る / ミリタリージャケット",
+      "context": "スタンプ",
+      "openingFirstSentence": "服を開くと、インクの文字と矢印が見える。",
+      "model": "HOPPER",
+      "item": "hopper-ss23",
+      "sourceUrls": [
+        "https://www.awm.gov.au/collection/C109983",
+        "https://www.awm.gov.au/collection/C1231569"
+      ]
+    },
+    {
+      "id": "T160",
+      "source": "main",
+      "status": "ready",
+      "title": "熱帯で上下をそろえる / カーキの制服",
+      "context": "カーキ",
+      "openingFirstSentence": "シャツとズボンを、カーキでそろえる。",
+      "model": "MALDOON",
+      "item": "maldoon-aw24",
+      "sourceUrls": [
+        "https://history.army.mil/Publications/Publications-Catalog/Noncommissioned-Officer-Images-of-an-Army-in-Action/",
+        "https://www.niceness.jp/products/maldoon",
+        "https://www.ww2online.org/image/us-marines-stand-together-outside-military-building-oahu-hawaii-22-march-1945"
+      ]
+    },
+    {
+      "id": "T162",
+      "source": "main",
+      "status": "ready",
+      "title": "裾をボタンで上げられる / ボンベイブルーマーズ",
+      "context": "パンツ",
+      "openingFirstSentence": "長い裾を上げ、ボタンで留める。",
+      "model": "MALDOON",
+      "item": "maldoon-ss23",
+      "sourceUrls": [
+        "https://collection.nam.ac.uk/detail.php?acc=1983-01-113-4"
+      ]
+    },
+    {
+      "id": "T166",
+      "source": "main",
+      "status": "ready",
+      "title": "下へ閉めるジップを備えた / ライダースジャケット",
+      "context": "ライダース",
+      "openingFirstSentence": "ジップを閉めた時、引き手はどこにあるだろう。",
+      "model": "BRENT",
+      "item": "brent-aw24",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/brent",
+        "https://www.schottnyc.com/products/118-classic-perfecto-leather-motorcycle-jacket",
+        "https://www.vansonleathers.com/content/43-what-makes-a-vanson-a-vanson"
+      ]
+    },
+    {
+      "id": "T168",
+      "source": "main",
+      "status": "ready",
+      "title": "首・袖口・裾をリブで編む / 潜水艦セーター",
+      "context": "セーター",
+      "openingFirstSentence": "白い身頃の端で、編み方が変わる。",
+      "model": "NIGEL",
+      "item": "nigel-aw23",
+      "sourceUrls": [
+        "https://www.awm.gov.au/collection/C1193550",
+        "https://www.rmg.co.uk/collections/objects/rmgc-object-74774"
+      ]
+    },
+    {
+      "id": "T171",
+      "source": "main",
+      "status": "ready",
+      "title": "背中に三角のニットを入れる / ハンティングジャケット",
+      "context": "狩猟",
+      "openingFirstSentence": "ジャケットの背中に、三角のウールニットが組み込まれている。",
+      "model": "ATOLL",
+      "item": "atoll-aw23",
+      "sourceUrls": [
+        "https://www.parismuseescollections.paris.fr/fr/palais-galliera/oeuvres/veste-247"
+      ]
+    },
+    {
+      "id": "T176",
+      "source": "main",
+      "status": "ready",
+      "title": "厚い手織り布を使う / チマヨベスト",
+      "context": "チマヨ",
+      "openingFirstSentence": "ベストになるのは、毛布ほどの厚さを持つ手織り布。",
+      "model": "VANDER",
+      "item": "vander-aw24",
+      "sourceUrls": [
+        "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/99000500_text",
+        "https://ortegasweaving.com/vests-coats/",
+        "https://www.chimayoweavers.com/collections/chimayo-coats-1",
+        "https://www.niceness.jp/products/vander"
+      ]
+    },
+    {
+      "id": "T179",
+      "source": "main",
+      "status": "ready",
+      "title": "甘撚りの糸で裏を柔らかくする / ジャージーパンツ",
+      "context": "ジャージー",
+      "openingFirstSentence": "同じ編み地でも、触れた時の柔らかさはどこから来るのだろう。",
+      "model": "BERLIN",
+      "item": "berlin-aw25",
+      "sourceUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a2/Knits_in_Western_Europe_-_their_impact_on_cotton_%28IA_knitsinwesterneu252horn%29.pdf",
+        "https://www.niceness.jp/products/berlin"
+      ]
+    },
+    {
+      "id": "T192",
+      "source": "main",
+      "status": "ready",
+      "title": "防水の脚まわりを備える / 消防隊のトラウザー",
+      "context": "消防",
+      "openingFirstSentence": "ヘルメット、長靴、トラウザー、防水のレギンス。",
+      "model": "JOSEPH",
+      "item": "joseph-ss23",
+      "sourceUrls": [
+        "https://www.london-fire.gov.uk/museum/london-fire-brigade-history-and-stories/the-second-world-war/firefighters-of-the-second-world-war/",
+        "https://www.londonsscreenarchives.org.uk/title/1294/"
+      ]
+    },
+    {
+      "id": "T193",
+      "source": "main",
+      "status": "ready",
+      "title": "丸襟と胸当てを備える / 子どものシャツ",
+      "context": "シャツ",
+      "openingFirstSentence": "丸い襟の下に胸当てがあり、前には三つのボタン。",
+      "model": "LAURENCE",
+      "item": "laurence-aw23",
+      "sourceUrls": [
+        "https://www.parismuseescollections.paris.fr/en/node/195660",
+        "https://www.parismuseescollections.paris.fr/fr/ressources-bibliographiques/au-louvre-exposition-de-vetements-et-trousseaux-pour-hommes-et-enfants"
+      ]
+    },
+    {
+      "id": "T194",
+      "source": "main",
+      "status": "ready",
+      "title": "ボタンのない胸フラップを持つ / ボードシャツ",
+      "context": "シャツ",
+      "openingFirstSentence": "斜めの胸ポケットに、ボタンのないフラップ。",
+      "model": "C.PALMER",
+      "item": "c-palmer-ss26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/c-palmer-26ss",
+        "https://www.pendleton-usa.com/blog/the-board-shirt-by-pendleton-for-an-endless-summer/",
+        "https://www.pendleton-usa.com/on/demandware.static/-/Library-Sites-library-shared/default/v3b368daa563b2febd9ad00a07a189a89e4d7e2d4/assets/files/pdf/Centennial_of_Shirts_WOVEN.pdf"
+      ]
+    },
+    {
+      "id": "T196",
+      "source": "main",
+      "status": "ready",
+      "title": "貝ボタンを付けた / ウールのハンティングシャツ",
+      "context": "シャツ",
+      "openingFirstSentence": "ウールのシャツに、貝のボタンが付いている。",
+      "model": "VEDDER",
+      "item": "vedder-aw25",
+      "sourceUrls": [
+        "https://www.mainememory.net/record/111603",
+        "https://www.niceness.jp/products/vedder"
+      ]
+    },
+    {
+      "id": "T225",
+      "source": "main",
+      "status": "ready",
+      "title": "前垂れで開き、背で結ぶ / セーラーパンツ",
+      "context": "パンツ",
+      "openingFirstSentence": "前には金属ボタン、後ろには調整する紐。",
+      "model": "VARLEY",
+      "item": "varley-ss26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/varley-26ss",
+        "https://www.rmg.co.uk/collections/objects/rmgc-object-1135351",
+        "https://www.rmg.co.uk/collections/objects/rmgc-object-71441"
+      ]
+    },
+    {
+      "id": "T201",
+      "source": "main",
+      "status": "ready",
+      "title": "肩の色が切り替わる / ドンキージャケット",
+      "context": "仕事着",
+      "openingFirstSentence": "黒いフェルトの上着に、蛍光色の肩がある。",
+      "model": "GREGORY",
+      "item": "gregory-aw26",
+      "sourceUrls": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8412245/donkey-jacket-from-agecroft-colliery-jacket",
+        "https://www.cannockchasedc.gov.uk/sites/default/files/document-library/Chase%20Heritage%20Trail/Panel%2022B%20-%20Working%20life%20around%20Market%20Square.pdf",
+        "https://www.niceness.jp/products/gregory"
+      ]
+    },
+    {
+      "id": "T203",
+      "source": "main",
+      "status": "ready",
+      "title": "白い襟と専用ボタンを持つ / ハンティングコート",
+      "context": "狩猟",
+      "openingFirstSentence": "襟が白く、ボタンにも所属の手がかりがある。",
+      "model": "DIETER",
+      "item": "dieter-aw26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/dieter",
+        "https://www.reading.ac.uk/adlib/Details/collect/20181"
+      ]
+    },
+    {
+      "id": "T209",
+      "source": "main",
+      "status": "ready",
+      "title": "科学の図を模様に移す / レースシャツ",
+      "context": "科学",
+      "openingFirstSentence": "結晶を調べる図が、部屋の壁を飾る模様になる。",
+      "model": "GILLAN",
+      "item": "gillan-ss23",
+      "sourceUrls": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8084425/festival-pattern-group-fabric-1951",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8084443/festival-pattern-group-wallpaper-1951"
+      ]
+    },
+    {
+      "id": "T215",
+      "source": "main",
+      "status": "ready",
+      "title": "掴み合うために厚くする / 柔道衣",
+      "context": "柔道",
+      "openingFirstSentence": "相手が握れる服であること。",
+      "model": "J.ATHENA",
+      "item": "j-athena-ss25",
+      "sourceUrls": [
+        "https://kdkjudo.org/自他共栄とは/",
+        "https://www.judo.or.jp/what-is-judo/buy-uniform-belt/",
+        "https://www.niceness.jp/products/j-athena"
+      ]
+    },
+    {
+      "id": "T218",
+      "source": "main",
+      "status": "ready",
+      "title": "ヨーク裏に山と湖を写す / 絣のジャケット",
+      "context": "富士山",
+      "openingFirstSentence": "山の姿と、水面に映った姿が違う。",
+      "model": "K.SAVILLE",
+      "item": "k-saville-ss26",
+      "sourceUrls": [
+        "https://online.bunka.go.jp/heritages/detail/238286",
+        "https://www.fujisan-whc.jp/about/parts/index.html",
+        "https://www.niceness.jp/products/k-saville-26ss"
+      ]
+    },
+    {
+      "id": "T224",
+      "source": "main",
+      "status": "ready",
+      "title": "腰を紐で結ぶ / ピジャマ",
+      "context": "パンツ",
+      "openingFirstSentence": "腰に紐を通し、結んで着るゆとりのある下衣。",
+      "model": "VARLEY",
+      "item": "varley-ss26",
+      "sourceUrls": [
+        "https://imp-art.org/articles/kurta/",
+        "https://imp-art.org/articles/pyjama/",
+        "https://www.niceness.jp/products/varley-26ss"
+      ]
+    },
+    {
+      "id": "T208",
+      "source": "main",
+      "status": "ready",
+      "title": "大きな千鳥格子で上下をそろえる / スカのジャケット",
+      "context": "スカ",
+      "openingFirstSentence": "音楽を読む紙面に、服を買うための広告もある。",
+      "model": "LYDON",
+      "item": "lydon-aw26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/lydon",
+        "https://www.worldradiohistory.com/UK/Sounds/80s/80/Sounds-1980-11-08-S-OCR.pdf"
+      ]
+    },
+    {
+      "id": "T019",
+      "source": "main",
+      "status": "ready",
+      "title": "身頃と袖を別々に裁つ / 着物の袖",
+      "context": "着物",
+      "openingFirstSentence": "袖を振ると、身頃も少し動く。",
+      "model": "BRANDEN",
+      "item": "branden-ss25",
+      "sourceUrls": [
+        "https://publications.ca.uky.edu/sites/publications.ca.uky.edu/files/fcs2807.pdf",
+        "https://www.jstage.jst.go.jp/article/clothingresearch/30/1/30_13/_article/-char/ja",
+        "https://www.niceness.jp/products/branden",
+        "https://www.niceness.jp/products/freeman",
+        "https://www.niceness.jp/products/s-freeman",
+        "https://www.ohhara.ac.jp/course/sawing.php"
+      ]
+    },
+    {
+      "id": "T029",
+      "source": "main",
+      "status": "ready",
+      "title": "肩当ての位置を動かせる / ギターストラップ",
+      "context": "ストラップ",
+      "openingFirstSentence": "肩から楽器を下げる一本の帯。",
+      "model": "CS.MARTY",
+      "item": "cs-marty-aw25",
+      "sourceUrls": [
+        "https://au.fender.com/products/standard-vintage-strap",
+        "https://www.gibson.com/products/gibson-the-modern-vintage-mini-black",
+        "https://www.niceness.jp/products/cs-marty",
+        "https://www.niceness.jp/products/d-marty",
+        "https://www.niceness.jp/products/d-marty-1",
+        "https://www.niceness.jp/products/od-marty",
+        "https://www.niceness.jp/products/s-marty",
+        "https://www.scottymoore.net/casecandy.html"
+      ]
+    },
+    {
+      "id": "T032",
+      "source": "main",
+      "status": "ready",
+      "title": "釣鐘形の頭部につばが続く / バケットハット",
+      "context": "帽子",
+      "openingFirstSentence": "上から下へ、釣鐘のようにつながる輪郭。",
+      "model": "CATO",
+      "item": "cato-ss26",
+      "sourceUrls": [
+        "https://www.larousse.fr/dictionnaires/francais/bob/9945",
+        "https://www.niceness.jp/products/cato-26ss",
+        "https://www.niceness.jp/products/cornwell",
+        "https://www.niceness.jp/products/e-pew",
+        "https://www.niceness.jp/products/h-pew"
+      ]
+    },
+    {
+      "id": "T038",
+      "source": "main",
+      "status": "ready",
+      "title": "ベルト通しと背面の帯が共存する / ジーンズ",
+      "context": "デニム",
+      "openingFirstSentence": "腰にベルトを通す輪があっても、背中には締める帯がある。",
+      "model": "D.DOUG",
+      "item": "d-doug-aw24",
+      "sourceUrls": [
+        "https://m.levistrauss.com/wp-content/uploads/2014/01/History-of-Levis-501-Jeans.pdf",
+        "https://www.levistrauss.com/2015/07/02/throwback-thursday-whisker-jeans/",
+        "https://www.levistrauss.com/2022/05/18/countdown-to-150-501-fab-facts-the-first-belt-loops/",
+        "https://www.niceness.jp/products/d-doug",
+        "https://www.niceness.jp/products/d-ford",
+        "https://www.niceness.jp/products/doug",
+        "https://www.niceness.jp/products/ford"
+      ]
+    },
+    {
+      "id": "T046",
+      "source": "main",
+      "status": "ready",
+      "title": "脇の接ぎ目を省いた / スウェットパンツ",
+      "context": "スウェット",
+      "openingFirstSentence": "スウェットの脇に手を沿わせると、縫い目が続くものも、途中から見えなくなるものもある。",
+      "model": "BRETT",
+      "item": "brett-ss25",
+      "sourceUrls": [
+        "https://championstore.jp/products/c3-a218",
+        "https://www.mvmuseum.org/EAD_FindingAids/findingaid_get.php?record-unit=RU515",
+        "https://www.niceness.jp/products/brett",
+        "https://www.niceness.jp/products/dexter",
+        "https://www.niceness.jp/products/s-dexter"
+      ]
+    },
+    {
+      "id": "T047",
+      "source": "main",
+      "status": "ready",
+      "title": "着ると丸みが立ち上がる / 平面構成のジャケット",
+      "context": "着物",
+      "openingFirstSentence": "平らに置いた服と、身体にまとった服は違う姿になる。",
+      "model": "D.MCCREADY",
+      "item": "d-mccready-aw25",
+      "sourceUrls": [
+        "https://www.jstage.jst.go.jp/article/jhej1951/34/7/34_7_405/_pdf",
+        "https://www.mukogawa-u.ac.jp/~kyoumuka/syllabus/2001/html/tan/seikatsu/087.htm",
+        "https://www.niceness.jp/products/d-mccready",
+        "https://www.niceness.jp/products/i-mccready",
+        "https://www.niceness.jp/products/z-mccready",
+        "https://www.vam.ac.uk/articles/kimono"
+      ]
+    },
+    {
+      "id": "T056",
+      "source": "main",
+      "status": "ready",
+      "title": "綾の線が浮かぶ / チノクロス",
+      "context": "チノ",
+      "openingFirstSentence": "軍服をつくるには、服の形だけでなく、その生地を定める必要がある。",
+      "model": "GARVEY",
+      "item": "garvey-ss25",
+      "sourceUrls": [
+        "https://www.govinfo.gov/content/pkg/GOVPUB-GP3-553d96b1f7d04dcddf90b75455f88a6c/pdf/GOVPUB-GP3-553d96b1f7d04dcddf90b75455f88a6c.pdf",
+        "https://www.niceness.jp/products/garvey",
+        "https://www.niceness.jp/products/headon",
+        "https://www.niceness.jp/products/maher",
+        "https://www.niceness.jp/products/shelley"
+      ]
+    },
+    {
+      "id": "T057",
+      "source": "main",
+      "status": "ready",
+      "title": "洗いと織りで柔らかさをつくる / ダックのワークウェア",
+      "context": "ダック",
+      "openingFirstSentence": "同じ仕事着の形でも、デニムからブラウンダックへ変われば見え方が変わる。",
+      "model": "Z.AMENT",
+      "item": "z-ament-aw25",
+      "sourceUrls": [
+        "https://carlmurawski.com/the-history-and-legacy-of-the-carhartt-detroit-jacket/",
+        "https://www.carhartt.com/product/106234/re-engineered-rugged-flex-relaxed-fit-duck-detroit-jacket---1-warm-rating",
+        "https://www.niceness.jp/products/z-ament",
+        "https://www.niceness.jp/products/z-lands",
+        "https://www.niceness.jp/products/z-mccready",
+        "https://www.niceness.jp/products/z-vedder"
+      ]
+    },
+    {
+      "id": "T066",
+      "source": "main",
+      "status": "ready",
+      "title": "上着の下に重ねる / 射撃のプルオーバー",
+      "context": "射撃",
+      "openingFirstSentence": "射撃の装いを考えると、まず上着のポケットや肘に目が向く。",
+      "model": "BLUNSTONE",
+      "item": "blunstone-aw24",
+      "sourceUrls": [
+        "https://collection.nam.ac.uk/inventory/objects/results.php?associatedName=&campaign=&event=&flag=1&keyword=&page=4&placeNotes=&productionNotes=&shortDescription=&unit=middle+regiment",
+        "https://www.barbour.com/gb/archive-reimagined.html",
+        "https://www.barbour.com/gb/our-history.html",
+        "https://www.niceness.jp/products/blunstone"
+      ]
+    },
+    {
+      "id": "T068",
+      "source": "main",
+      "status": "ready",
+      "title": "脇から内側のポケットへ届く / マックコート",
+      "context": "コート",
+      "openingFirstSentence": "雨を受ける外側の服は、その下の装いを包み込む。",
+      "model": "E.CALDER",
+      "item": "e-calder-aw26",
+      "sourceUrls": [
+        "https://collection.nam.ac.uk/inventory/objects/results.php?associatedName=&campaign=&event=&flag=0&keyword=&page=400&placeNotes=&productionNotes=&shortDescription=&unit=",
+        "https://collection.nam.ac.uk/inventory/objects/results.php?associatedName=&campaign=&event=&flag=1&keyword=&page=225&placeNotes=&productionNotes=&shortDescription=&unit=royal",
+        "https://www.niceness.jp/products/e-calder",
+        "https://www.niceness.jp/products/h-calder"
+      ]
+    },
+    {
+      "id": "T072",
+      "source": "main",
+      "status": "ready",
+      "title": "腰にゆとりを置いて裾を絞る / スラックス",
+      "context": "パンツ",
+      "openingFirstSentence": "パンツの内側のラベルを読むと、表の輪郭だけでは分からない移動が見えてくる。",
+      "model": "S.AYLER",
+      "item": "s-ayler-ss26",
+      "sourceUrls": [
+        "https://www.metmuseum.org/art/collection/search/87931",
+        "https://www.niceness.jp/products/s-ayler-26ss",
+        "https://www.niceness.jp/products/t-ayler-26ss",
+        "https://www.niceness.jp/products/w-ayler-26ss"
+      ]
+    },
+    {
+      "id": "T210",
+      "source": "main",
+      "status": "ready",
+      "title": "幾何学の図案を布へ印刷する / インテリアテキスタイル",
+      "context": "幾何学",
+      "openingFirstSentence": "まだない暮らしを考えるとき、図は人に見せるための道具になる。",
+      "model": "WEAVER",
+      "item": "weaver-ss23",
+      "sourceUrls": [
+        "https://history.arc.nasa.gov/hist_pdfs/guides/art1387_artifacts.pdf",
+        "https://www.cooperhewitt.org/2018/05/15/color-vision/"
+      ]
+    },
+    {
+      "id": "T195",
+      "source": "main",
+      "status": "ready",
+      "title": "肘と縫い目を補強する / ワークシャツ",
+      "context": "シャツ",
+      "openingFirstSentence": "仕事のためのシャツを売るとき、何を伝えたのだろう。",
+      "model": "O.ROMEO",
+      "item": "o-romeo-aw26",
+      "sourceUrls": [
+        "https://oregonnews.uoregon.edu/lccn/sn85042470/1940-04-24/ed-1/seq-12.pdf",
+        "https://www.niceness.jp/products/o-romeo"
+      ]
+    },
+    {
+      "id": "T096",
+      "source": "main",
+      "status": "ready",
+      "title": "大きなポケットで必需品を運ぶ / HBT作業服",
+      "context": "軍服",
+      "openingFirstSentence": "着るだけでなく、食べ物や必需品を運ぶ。",
+      "model": "B.BLISS",
+      "item": "b-bliss-ss26",
+      "sourceUrls": [
+        "https://history.army.mil/Publications/Publications-Catalog/Noncommissioned-Officer-Images-of-an-Army-in-Action/",
+        "https://history.army.mil/Publications/Publications-Catalog/The-American-Soldier-Print-Set-3/",
+        "https://www.niceness.jp/products/b-bliss-26ss"
+      ]
+    },
+    {
+      "id": "T197",
+      "source": "main",
+      "status": "ready",
+      "title": "直線の身頃にゆとりを持たせる / スリーピングシャツ",
+      "context": "寝衣",
+      "openingFirstSentence": "軍服の記録は、外で活動する服だけではない。",
+      "model": "CHRISTO",
+      "item": "christo-ss26",
+      "sourceUrls": [
+        "https://collection.nam.ac.uk/inventory/objects/results.php?associatedName=&campaign=&event=&flag=1&keyword=&otArc=1&page=904&placeNotes=&productionNotes=&shortDescription=&unit=",
+        "https://www.niceness.jp/products/christo-26ss"
+      ]
+    },
+    {
+      "id": "T199",
+      "source": "main",
+      "status": "ready",
+      "title": "接ぎ目を縮絨でなじませる / ニットベスト",
+      "context": "ニット",
+      "openingFirstSentence": "英国の仕立てを考えるとき、国全体の型を思い浮かべるより、作り手の名前が残る一着から見てみたい。",
+      "model": "BLUNDER",
+      "item": "blunder-aw24",
+      "sourceUrls": [
+        "https://www.metmuseum.org/art/collection/search/102789",
+        "https://www.niceness.jp/products/blunder"
+      ]
+    },
+    {
+      "id": "T205",
+      "source": "main",
+      "status": "ready",
+      "title": "手を加えて自分のものにする / デニムジャケット",
+      "context": "デニム",
+      "openingFirstSentence": "服は、店を出たところで完成とは限らない。",
+      "model": "BOWIE",
+      "item": "bowie-aw24",
+      "sourceUrls": [
+        "https://www.levistrauss.com/2017/10/04/levis-makes-personalization-business/",
+        "https://www.levistrauss.com/2023/10/17/trucker-or-non-trucker/",
+        "https://www.niceness.jp/products/bowie"
+      ]
+    },
+    {
+      "id": "T103",
+      "source": "main",
+      "status": "ready",
+      "title": "裏面を起毛して暖かさを持たせる / フリースオーバーシャツ",
+      "context": "フリース",
+      "openingFirstSentence": "暖かい服でも、濡れたあとの重さや乾き方は違う。",
+      "model": "BORLAND",
+      "item": "borland-aw26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/borland",
+        "https://www.patagonia.com/stories/culture/community/the-story-of-fleece/story-91208.html"
+      ]
+    },
+    {
+      "id": "T214",
+      "source": "main",
+      "status": "ready",
+      "title": "豆絞りで頬を覆って踊る / 盆踊りの装い",
+      "context": "祭り",
+      "openingFirstSentence": "呼び太鼓を打つ若者と、踊りの輪に入る人。",
+      "model": "ED",
+      "item": "ed-ss26",
+      "sourceUrls": [
+        "https://kunishitei.bunka.go.jp/heritage/detail/312/217",
+        "https://www.niceness.jp/products/ed-26ss"
+      ]
+    },
+    {
+      "id": "T108",
+      "source": "main",
+      "status": "ready",
+      "title": "暑い土地で着る / 綿ポプリンの制服シャツ",
+      "context": "軍服",
+      "openingFirstSentence": "制服のシャツを一種類だと思うと、見落とす違いがある。",
+      "model": "CAROL",
+      "item": "carol-aw24",
+      "sourceUrls": [
+        "https://webdoc.sub.gwdg.de/ebook/p/2005/CMH_2/www.army.mil/cmh-pg/books/wac/appendix-d.htm",
+        "https://www.niceness.jp/products/carol"
+      ]
+    },
+    {
+      "id": "T211",
+      "source": "main",
+      "status": "ready",
+      "title": "十三の版を重ねて柄をつくる / シルクツイル",
+      "context": "絵画",
+      "openingFirstSentence": "最初から描くものを決めず、線の中に形を見いだす。",
+      "model": "HARTI",
+      "item": "harti-aw25",
+      "sourceUrls": [
+        "https://www.moma.org/collection/works/79018",
+        "https://www.moma.org/interactives/exhibitions/1998/miro/artistic_context3.html",
+        "https://www.niceness.jp/products/harti"
+      ]
+    },
+    {
+      "id": "T113",
+      "source": "main",
+      "status": "ready",
+      "title": "動物の姿を持ち歩く / ブルドッグのバッグ",
+      "context": "バッグ",
+      "openingFirstSentence": "ブルドッグという姿は、ポスターにも、基地で暮らす一頭にも現れる。",
+      "model": "B.CHESTY",
+      "item": "b-chesty-aw25",
+      "sourceUrls": [
+        "https://www.mcrdpi.marines.mil/Portals/76/Docs/CentennialCelebrationBook/MCRDPI-history-book-11.pdf",
+        "https://www.niceness.jp/products/b-chesty",
+        "https://www.tecom.marines.mil/In-the-News/Stories/News-Article-Display/Article/527962/depot-mascots-carry-on-proud-tradition/"
+      ]
+    },
+    {
+      "id": "T120",
+      "source": "main",
+      "status": "ready",
+      "title": "鶯茶の絹を表紙に貼る / 上製本",
+      "context": "色",
+      "openingFirstSentence": "鶯茶という色を、まず服ではなく本の表紙で見てみる。",
+      "model": "W.ROLAND",
+      "item": "w-roland-ss26",
+      "sourceUrls": [
+        "https://aozorashoin.com/title/393",
+        "https://dcollections.lib.keio.ac.jp/ja/fukuzawa/a53/117",
+        "https://www.niceness.jp/products/w-roland-26ss"
+      ]
+    },
+    {
+      "id": "T121",
+      "source": "main",
+      "status": "ready",
+      "title": "夏の気温で布を選び分ける / スラックス",
+      "context": "スラックス",
+      "openingFirstSentence": "夏のズボンを選ぶとき、薄ければよいとは限らない。",
+      "model": "N.DICKENS",
+      "item": "n-dickens-aw26",
+      "sourceUrls": [
+        "https://www.newyorker.com/magazine/1940/06/29/as-to-men",
+        "https://www.niceness.jp/products/n-dickens"
+      ]
+    },
+    {
+      "id": "T216",
+      "source": "main",
+      "status": "ready",
+      "title": "防具を着けて打ち合う / 剣道の稽古装備",
+      "context": "剣道",
+      "openingFirstSentence": "打ち合う稽古には、身体を守る装備も関わってくる。",
+      "model": "K.ATHENA",
+      "item": "k-athena-ss25",
+      "sourceUrls": [
+        "https://www.kendo.or.jp/en/knowledge/kendo-concept/",
+        "https://www.kendo.or.jp/knowledge/books/kendogijutsu_02/",
+        "https://www.niceness.jp/products/k-athena"
+      ]
+    },
+    {
+      "id": "T123",
+      "source": "main",
+      "status": "ready",
+      "title": "岩に触れることを考えた / クライミングショーツ",
+      "context": "ショーツ",
+      "openingFirstSentence": "身体を動かすだけでなく、岩にも触れる。",
+      "model": "PRESIDEN",
+      "item": "presiden-aw24",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/presiden",
+        "https://www.royalrobbins.com/eu/en-gb/who-we-are/heritage/"
+      ]
+    },
+    {
+      "id": "T125",
+      "source": "main",
+      "status": "ready",
+      "title": "シャツと短パンを組み合わせる / 将校用の夏服",
+      "context": "軍服",
+      "openingFirstSentence": "将校のズボンというと、長い丈を思い浮かべるかもしれない。",
+      "model": "WALLER",
+      "item": "waller-aw23",
+      "sourceUrls": [
+        "https://history.army.mil/portals/143/Images/Publications/catalog/45-6.pdf"
+      ]
+    },
+    {
+      "id": "T127",
+      "source": "main",
+      "status": "ready",
+      "title": "腰の折り返しに紐を通す / スウェットパンツ",
+      "context": "スウェット",
+      "openingFirstSentence": "柔らかなパンツを、腰でどう支えるか。",
+      "model": "AUF",
+      "item": "auf-aw24",
+      "sourceUrls": [
+        "https://patents.google.com/patent/US2613360A/en",
+        "https://www.niceness.jp/products/auf"
+      ]
+    },
+    {
+      "id": "T018",
+      "source": "main",
+      "status": "ready",
+      "title": "内側に通気孔を開ける / バスケットボールシューズ",
+      "context": "靴",
+      "openingFirstSentence": "足首の内側にパッチがあり、その下には小さな穴が並ぶ。",
+      "model": "CHET",
+      "item": "chet-aw24",
+      "sourceUrls": [
+        "https://batashoemuseum.ca/obsessed/",
+        "https://converse.co.jp/pages/history-all-star",
+        "https://www.niceness.jp/products/chet",
+        "https://www.niceness.jp/products/chet-cap",
+        "https://www.niceness.jp/products/evans",
+        "https://www.niceness.jp/products/evans-cap"
+      ]
+    },
+    {
+      "id": "T133",
+      "source": "main",
+      "status": "ready",
+      "title": "肩と前腕に補強を重ねる / コマンドセーター",
+      "context": "ニット",
+      "openingFirstSentence": "編み地の上に、別の層が重なる。",
+      "model": "DELANEY",
+      "item": "delaney-aw23",
+      "sourceUrls": [
+        "https://hatchfive.wordpress.com/2014/12/11/british-army-wooly-pully/"
+      ]
+    },
+    {
+      "id": "T135",
+      "source": "main",
+      "status": "ready",
+      "title": "膝から裾が広がる / ブーツカットパンツ",
+      "context": "パンツ",
+      "openingFirstSentence": "パンツの裾は、靴と出会う場所でもある。",
+      "model": "C.FINCH",
+      "item": "c-finch-aw26",
+      "sourceUrls": [
+        "https://www.levistrauss.com/2019/08/08/peace-love-bell-bottoms-celebrating-50-years-of-an-iconic-style/",
+        "https://www.niceness.jp/products/c-finch"
+      ]
+    },
+    {
+      "id": "T137",
+      "source": "main",
+      "status": "ready",
+      "title": "高密度の布で仕立て直す / N-3系パーカ",
+      "context": "パーカ",
+      "openingFirstSentence": "N-3、N-3B。",
+      "model": "EISNER",
+      "item": "eisner-aw24",
+      "sourceUrls": [
+        "https://alphaindustries.co.jp/pages/about-us-the-alpha-industries-story",
+        "https://www.niceness.jp/products/eisner"
+      ]
+    },
+    {
+      "id": "T138",
+      "source": "main",
+      "status": "ready",
+      "title": "ファスナーで首元の形を変える / トップス",
+      "context": "ファスナー",
+      "openingFirstSentence": "ファスナーを動かすと、開きが増えるだけでなく、首元の輪郭も変わる。",
+      "model": "HARPER",
+      "item": "harper-ss25",
+      "sourceUrls": [
+        "https://kerrytaylor.blob.core.windows.net/main/OCT%2020_UPDATED.pdf",
+        "https://www.niceness.jp/products/harper"
+      ]
+    },
+    {
+      "id": "T142",
+      "source": "main",
+      "status": "ready",
+      "title": "黒と茶の両面で着る / レインコート",
+      "context": "リバーシブル",
+      "openingFirstSentence": "表を返すと、別の色の服になる。",
+      "model": "ENNIS",
+      "item": "ennis-ss23",
+      "sourceUrls": [
+        "https://www.parismuseescollections.paris.fr/en/node/609990"
+      ]
+    },
+    {
+      "id": "T144",
+      "source": "main",
+      "status": "ready",
+      "title": "シェルの下で暖かさを担う / パイルウェア",
+      "context": "パイル",
+      "openingFirstSentence": "山で着る服の役目を、一枚ですべて担わせる必要はない。",
+      "model": "ALISON",
+      "item": "alison-aw26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/alison",
+        "https://www.patagonia.com.au/pages/company-history"
+      ]
+    },
+    {
+      "id": "T145",
+      "source": "main",
+      "status": "ready",
+      "title": "ポリプロピレンで編む / スポーツアンダーウェア",
+      "context": "アンダーウェア",
+      "openingFirstSentence": "外に着るジャケットの下で、身体に近い層にも新しい材料が選ばれてきた。",
+      "model": "CATHERALL",
+      "item": "catherall-aw24",
+      "sourceUrls": [
+        "https://www.hellyhansen.jp/history/",
+        "https://www.niceness.jp/products/catherall"
+      ]
+    },
+    {
+      "id": "T150",
+      "source": "main",
+      "status": "ready",
+      "title": "袖山をいせ込んで立体にする / セットイン袖",
+      "context": "袖",
+      "openingFirstSentence": "袖を身頃へ縫いつけるとき、ただ端を合わせるだけではない。",
+      "model": "CROWE",
+      "item": "crowe-aw26",
+      "sourceUrls": [
+        "https://pubs.nmsu.edu/_c/C211/index.html",
+        "https://www.niceness.jp/products/crowe"
+      ]
+    },
+    {
+      "id": "T151",
+      "source": "main",
+      "status": "ready",
+      "title": "曲線で袖をつなぐ / フリーダムスリーブ",
+      "context": "袖",
+      "openingFirstSentence": "フリーダムスリーブという名前だけでは、布のつながり方は見えてこない。",
+      "model": "LARS",
+      "item": "lars-ss25",
+      "sourceUrls": [
+        "https://www.deluxeware.net/c/deluxeware/S102-NV",
+        "https://www.niceness.jp/products/lars",
+        "https://www.prnewswire.com/news-releases/goodwear-usa-reinvents-the-vintage-swing-sleeve-hoodie-with-freedom-sleeve-sweatshirts-235044591.html"
+      ]
+    },
+    {
+      "id": "T155",
+      "source": "main",
+      "status": "ready",
+      "title": "腰を吊り、背面で締める / 初期のデニムパンツ",
+      "context": "デニム",
+      "openingFirstSentence": "腰を支えるボタン、背面で締める帯、補強のリベット。",
+      "model": "H.DIGGLE",
+      "item": "h-diggle-ss25",
+      "sourceUrls": [
+        "https://www.levistrauss.com/2016/11/10/case-missing-button/",
+        "https://www.levistrauss.com/2020/12/03/best-value-jean-in-1890/",
+        "https://www.niceness.jp/products/h-diggle"
+      ]
+    },
+    {
+      "id": "T163",
+      "source": "main",
+      "status": "ready",
+      "title": "カーキの色と生地を見分ける / 軍用トラウザー",
+      "context": "カーキ",
+      "openingFirstSentence": "カーキの軍用ズボンと聞くと、綿のチノを思い浮かべるかもしれない。",
+      "model": "MALDOON",
+      "item": "maldoon-ss23",
+      "sourceUrls": [
+        "https://samlinger.natmus.dk/khs/object/48640"
+      ]
+    },
+    {
+      "id": "T167",
+      "source": "main",
+      "status": "ready",
+      "title": "ポケットに保護フラップを重ねる / ハンティングウェア",
+      "context": "狩猟",
+      "openingFirstSentence": "田園で使う服には、荷物を収める場所も組み込まれる。",
+      "model": "N.FIELDING",
+      "item": "n-fielding-aw26",
+      "sourceUrls": [
+        "https://www.barbour.com/gb/archive-reimagined.html",
+        "https://www.metmuseum.org/art/collection/search/108600",
+        "https://www.niceness.jp/products/n-fielding"
+      ]
+    },
+    {
+      "id": "T169",
+      "source": "main",
+      "status": "ready",
+      "title": "フラップの下にジップを隠す / ジャケットのポケット",
+      "context": "ファスナー",
+      "openingFirstSentence": "ポケットの口を覆うフラップをめくると、その下にも留めるものがある。",
+      "model": "BRENT",
+      "item": "brent-aw24",
+      "sourceUrls": [
+        "https://www.lewisleathers.com/blogs/blog/d-lewis-ltd-countryman-and-lumber-jackets-now-out",
+        "https://www.lewisleathers.com/pages/custom-ordering",
+        "https://www.niceness.jp/products/brent"
+      ]
+    },
+    {
+      "id": "T217",
+      "source": "main",
+      "status": "ready",
+      "title": "和紙に柿渋を塗って仕上げる / 来民渋うちわ",
+      "context": "うちわ",
+      "openingFirstSentence": "骨を割り、紙を貼り、形を切り、渋を塗る。",
+      "model": "JAGATARA",
+      "item": "jagatara-ss25",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/jagatara",
+        "https://www.uchiwa.jp/about.html"
+      ]
+    },
+    {
+      "id": "T220",
+      "source": "main",
+      "status": "ready",
+      "title": "翼を広げる鳥を編み込む / サンダーバード柄ニット",
+      "context": "ニット",
+      "openingFirstSentence": "翼を広げる鳥の姿を、ひとまとめに「民族柄」と呼ばずに見てみたい。",
+      "model": "HAMMILL",
+      "item": "hammill-aw23",
+      "sourceUrls": [
+        "https://www.burkemuseum.org/static/totempoles/textOnly.html",
+        "https://www.canada.ca/en/canadian-heritage/services/art-monuments/public-art/totem-pole.html"
+      ]
+    },
+    {
+      "id": "T175",
+      "source": "main",
+      "status": "ready",
+      "title": "小さな革片を接いでつくる / ジャーキン",
+      "context": "革",
+      "openingFirstSentence": "一枚の革に見えても、よく見ると何枚もの片がつながっている。",
+      "model": "VANDER",
+      "item": "vander-aw24",
+      "sourceUrls": [
+        "https://hatchfive.wordpress.com/2015/06/26/indian-made-leather-jerkin/",
+        "https://www.niceness.jp/products/vander"
+      ]
+    },
+    {
+      "id": "T003",
+      "source": "main",
+      "status": "ready",
+      "title": "シャツ型の袖口を持つ / テバジャケット",
+      "context": "テバ",
+      "openingFirstSentence": "ラペルのある上着なのに、手元にはシャツのような袖口がある。",
+      "model": "CASABLANCAS",
+      "item": "casablancas-aw25",
+      "sourceUrls": [
+        "https://belycia.com/es/chaqueta-bel-teba/",
+        "https://justogimeno.es/iconos",
+        "https://rutadelsemblematics.cat/barcelona-camiseria-bel.html",
+        "https://www.niceness.jp/products/casablancas",
+        "https://www.niceness.jp/products/keenan",
+        "https://www.niceness.jp/products/n-yorke"
+      ]
+    },
+    {
+      "id": "T186",
+      "source": "main",
+      "status": "ready",
+      "title": "外側にキルトの収納を付ける / トートバッグ",
+      "context": "トート",
+      "openingFirstSentence": "大きな袋の外側に、小さなポケットが載る。",
+      "model": "P.VALE",
+      "item": "p-vale-aw26",
+      "sourceUrls": [
+        "https://asset.library.wisc.edu/1711.dl/ACZY4ZQPKR5L79D/R/file-763a0.pdf",
+        "https://www.niceness.jp/products/p-vale"
+      ]
+    },
+    {
+      "id": "T189",
+      "source": "main",
+      "status": "ready",
+      "title": "フードを外して着方を変える / ワークジャケット",
+      "context": "作業着",
+      "openingFirstSentence": "作業用のジャケットを、一つの名前だけで見てしまわず、素材や残された年代も読んでみる。",
+      "model": "HAYES",
+      "item": "hayes-aw25",
+      "sourceUrls": [
+        "https://taigatakahashi.com/pages/archive/1950-023-01",
+        "https://www.niceness.jp/products/hayes"
+      ]
+    },
+    {
+      "id": "T229",
+      "source": "main",
+      "status": "ready",
+      "title": "胸当てと一緒に着る / 雨天用トラウザー",
+      "context": "ビブ",
+      "openingFirstSentence": "雨の日に着る装備を、一枚ずつ選ぶのではなく、組み合わせとして見る。",
+      "model": "GLENN",
+      "item": "glenn-aw23",
+      "sourceUrls": [
+        "https://cyca.com.au/wp-content/uploads/2021/02/Offshore-1990-April-_-low-res.pdf"
+      ]
+    },
+    {
+      "id": "T283",
+      "source": "main",
+      "status": "ready",
+      "title": "腰の境目を覆う / カマーバンド",
+      "context": "腰帯",
+      "openingFirstSentence": "シャツの裾とトラウザーの腰。",
+      "model": "LEVIN",
+      "item": "levin-aw23",
+      "sourceUrls": [
+        "https://www.asiaresearchnews.com/node/18856",
+        "https://www.metmuseum.org/art/collection/search/157158"
+      ]
+    },
+    {
+      "id": "T287",
+      "source": "main",
+      "status": "ready",
+      "title": "小さな突起で地面を捉える / ランニングシューズ",
+      "context": "靴底",
+      "openingFirstSentence": "靴の底に並ぶ小さな突起。",
+      "model": "OSCAR",
+      "item": "oscar-aw25",
+      "sourceUrls": [
+        "https://artgallery.wa.gov.au/whats-on/exhibitions/culture-juice-the-rise-of-sneaker-culture/",
+        "https://www.niceness.jp/products/oscar",
+        "https://www.si.edu/es/object/nike-waffle-trainer%3Anmah_1413776"
+      ]
+    },
+    {
+      "id": "T294",
+      "source": "main",
+      "status": "ready",
+      "title": "作業の背中に掛かる / 襷",
+      "context": "襷",
+      "openingFirstSentence": "糊をする人の姿に、鉢巻と襷が描かれている。",
+      "model": "DEL",
+      "item": "del-ss26",
+      "sourceUrls": [
+        "https://archives.nijl.ac.jp/G000000253300/data/00169",
+        "https://www.chiba-muse.or.jp/NATURAL/special/rekisihp/section03/gallery05.html",
+        "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201211/201211_04.html",
+        "https://www.niceness.jp/products/del-26ss"
+      ]
+    },
+    {
+      "id": "T295",
+      "source": "main",
+      "status": "ready",
+      "title": "腰の両脇を紐で締める / もんぺ",
+      "context": "もんぺ",
+      "openingFirstSentence": "腰の両脇に紐がある。",
+      "model": "K.KRUGER",
+      "item": "k-kruger-ss26",
+      "sourceUrls": [
+        "https://online.bunka.go.jp/heritages/detail/282380",
+        "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202007/202007_05_en.html",
+        "https://www.niceness.jp/products/k-kruger-26ss"
+      ]
+    },
+    {
+      "id": "T335",
+      "source": "main",
+      "status": "ready",
+      "title": "いくつもの工程を重ねる / カーフレザー",
+      "context": "革",
+      "openingFirstSentence": "一枚の革を手に取る。",
+      "model": "BAYRAY",
+      "item": "bayray-ss25",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/a-lands",
+        "https://www.niceness.jp/products/bayray",
+        "https://www.niceness.jp/products/bayray-1",
+        "https://www.niceness.jp/products/biafra",
+        "https://www.niceness.jp/products/biafra-1",
+        "https://www.niceness.jp/products/eden",
+        "https://www.niceness.jp/products/enrico",
+        "https://www.niceness.jp/products/gainsbarre",
+        "https://www.niceness.jp/products/hansgen",
+        "https://www.niceness.jp/products/hansgen-1",
+        "https://www.niceness.jp/products/jeanne",
+        "https://www.niceness.jp/products/jeff",
+        "https://www.niceness.jp/products/jello",
+        "https://www.niceness.jp/products/jello-1",
+        "https://www.niceness.jp/products/klaus",
+        "https://www.niceness.jp/products/klaus-1",
+        "https://www.niceness.jp/products/peligro",
+        "https://www.niceness.jp/products/peligro-1",
+        "https://www.niceness.jp/products/r-wetton",
+        "https://www.niceness.jp/products/todd",
+        "https://www.niceness.jp/products/vander",
+        "https://www.niceness.jp/products/vassiliu",
+        "https://www.niceness.jp/products/wetton",
+        "https://www.niceness.jp/products/yacoub",
+        "https://www.tanneries-haas.com/",
+        "https://www.tanneries-haas.com/en/savoir-faire"
+      ]
+    },
+    {
+      "id": "T235",
+      "source": "main",
+      "status": "ready",
+      "title": "肩から斜めに袖がつながる / ラグランスウェット",
+      "context": "ラグラン",
+      "openingFirstSentence": "大学の売店に並ぶスウェット。",
+      "model": "FRANCES",
+      "item": "frances-aw25",
+      "sourceUrls": [
+        "https://collection.powerhouse.com.au/object/358718",
+        "https://stuff.mit.edu/activities/voodoo/archive/pdfs/1966-Summer.pdf",
+        "https://www.niceness.jp/products/frances"
+      ]
+    },
+    {
+      "id": "T236",
+      "source": "main",
+      "status": "ready",
+      "title": "引き紐と大きな前ポケットの / フーディー",
+      "context": "フード",
+      "openingFirstSentence": "海辺へ、自転車へ、ハイキングへ。",
+      "model": "DEL",
+      "item": "del-ss26",
+      "sourceUrls": [
+        "https://digitize.gp.lib.mi.us/history/newspapers/grossePointeNews/year_ranges/1970s/1974/pdf/1974-08-22.pdf",
+        "https://www.niceness.jp/products/del-26ss"
+      ]
+    },
+    {
+      "id": "T242",
+      "source": "main",
+      "status": "ready",
+      "title": "襟端をリブで挟む / Tシャツ",
+      "context": "襟",
+      "openingFirstSentence": "繰り返し着て、洗う。",
+      "model": "HYDE",
+      "item": "hyde-ss26",
+      "sourceUrls": [
+        "https://patents.google.com/patent/US3296627A/en",
+        "https://www.niceness.jp/products/hyde-26ss"
+      ]
+    },
+    {
+      "id": "T246",
+      "source": "main",
+      "status": "ready",
+      "title": "胸に文字と刺繍を添えた / スクールカーディガン",
+      "context": "学校",
+      "openingFirstSentence": "胸に大きなD。",
+      "model": "FEAT",
+      "item": "feat-aw23",
+      "sourceUrls": [
+        "https://archives.dickinson.edu/artifacts-dickinson-subject/athletics"
+      ]
+    },
+    {
+      "id": "T257",
+      "source": "main",
+      "status": "ready",
+      "title": "難燃綿でつくられた / 製鉄所のジャケット",
+      "context": "製鉄",
+      "openingFirstSentence": "製鉄所で着られた上着が、博物館に残っている。",
+      "model": "RAVI",
+      "item": "ravi-ss26",
+      "sourceUrls": [
+        "https://api.si.edu/openaccess/api/v1.0/search?q=Bethlehem%20Steel%20Worker%27s%20Jacket&api_key=DEMO_KEY",
+        "https://www.niceness.jp/products/ravi-26ss"
+      ]
+    },
+    {
+      "id": "T261",
+      "source": "main",
+      "status": "ready",
+      "title": "内側へ留めて暖かさを足す / ミリタリーライナー",
+      "context": "重ね着",
+      "openingFirstSentence": "寒さに合わせて、服の内側を変える。",
+      "model": "BLOSSOM",
+      "item": "blossom-aw24",
+      "sourceUrls": [
+        "https://americanhistory.si.edu/collections/object/nmah_430962",
+        "https://samlinger.natmus.dk/khs/object/48888",
+        "https://www.niceness.jp/products/blossom"
+      ]
+    },
+    {
+      "id": "T262",
+      "source": "main",
+      "status": "ready",
+      "title": "指先を覆わない / 編み手袋",
+      "context": "手袋",
+      "openingFirstSentence": "手をすべて包むのではなく、指先を開けておく。",
+      "model": "TOBY",
+      "item": "toby-aw26",
+      "sourceUrls": [
+        "https://collection.nam.ac.uk/detail.php?acc=1994-03-198-2",
+        "https://samlinger.natmus.dk/khs/object/50344",
+        "https://www.niceness.jp/products/toby"
+      ]
+    },
+    {
+      "id": "T268",
+      "source": "main",
+      "status": "ready",
+      "title": "全身を一続きに包む / フライトスーツ",
+      "context": "飛行",
+      "openingFirstSentence": "飛行のための服を、上着だけでなく全身で考える。",
+      "model": "MELCHIOR",
+      "item": "melchior-aw24",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/melchior",
+        "https://www.si.edu/es/object/suit-flying1940-pattern-royal-air-force%3Anasm_A19730545000",
+        "https://www.warmuseum.ca/collections/artifact/1123799"
+      ]
+    },
+    {
+      "id": "T275",
+      "source": "main",
+      "status": "ready",
+      "title": "ジップとボタンを備えた / 技術者のジャケット",
+      "context": "技術者",
+      "openingFirstSentence": "宇宙計画に携わった人が着たジャケット。",
+      "model": "FLINT",
+      "item": "flint-ss23",
+      "sourceUrls": [
+        "https://www.si.edu/object/jacket-laboratory-style-mcdonnell-aviation%3Anasm_A20050071000"
+      ]
+    },
+    {
+      "id": "T278",
+      "source": "main",
+      "status": "ready",
+      "title": "銀を打ち出して形にする / コンチョ",
+      "context": "銀",
+      "openingFirstSentence": "小さな銀の面にも、つくり手の仕事が残る。",
+      "model": "DADA CONCHO",
+      "item": "dada-concho-ss23",
+      "sourceUrls": [
+        "https://americanindian.si.edu/collections-search/object/NMAI_221209",
+        "https://art.nelson-atkins.org/objects/55453/concha-belt"
+      ]
+    },
+    {
+      "id": "T280",
+      "source": "main",
+      "status": "ready",
+      "title": "平織りの綿で仕立てた / 仕事のブラウス",
+      "context": "仕事",
+      "openingFirstSentence": "仕事のために着る長い上着。",
+      "model": "FINN",
+      "item": "finn-ss23",
+      "sourceUrls": [
+        "https://www.louvrelens.fr/exhibition/shabiller-en-artiste/",
+        "https://www.parismuseescollections.paris.fr/fr/palais-galliera/oeuvres/blouse-1"
+      ]
+    },
+    {
+      "id": "T282",
+      "source": "main",
+      "status": "ready",
+      "title": "帯状の革で足を留める / サンダル",
+      "context": "革",
+      "openingFirstSentence": "足を包む部分を減らし、帯で留める。",
+      "model": "SIMONE",
+      "item": "simone-ss23",
+      "sourceUrls": [
+        "https://www.britishmuseum.org/collection/object/G_1914-0902-4",
+        "https://www.britishmuseum.org/collection/object/H_1856-0701-1008-a"
+      ]
+    },
+    {
+      "id": "T288",
+      "source": "main",
+      "status": "ready",
+      "title": "小さな図柄を身につける / ピンバッジ",
+      "context": "バッジ",
+      "openingFirstSentence": "伝えたい言葉や図柄を、小さな円にして胸元へ。",
+      "model": "BIRTHDAY",
+      "item": "birthday-aw25",
+      "sourceUrls": [
+        "https://albuquerque.emuseum.com/people/788/badge--a--mint/objects",
+        "https://collections.si.edu/search/record/ark%3A/65665/fd59adf3ac1f26048cb86beae4517748d0a?q=%22Decolonization%22",
+        "https://www.niceness.jp/products/birthday-2"
+      ]
+    },
+    {
+      "id": "T308",
+      "source": "main",
+      "status": "ready",
+      "title": "背中にパッチを重ねる / モーターサイクルベスト",
+      "context": "バイク",
+      "openingFirstSentence": "ベストの背中に、クラブの印や走った場所の記憶が重なる。",
+      "model": "DREXCIYA",
+      "item": "drexciya-ss26",
+      "sourceUrls": [
+        "https://www.harley-davidson.com/us/en/content/stories/motorcycle-vest-history-waistcoat-to-cut.html",
+        "https://www.niceness.jp/products/drexciya-26ss"
+      ]
+    },
+    {
+      "id": "T309",
+      "source": "main",
+      "status": "ready",
+      "title": "靴の上から脱ぐための / ウォームアップパンツ",
+      "context": "競技",
+      "openingFirstSentence": "競技に入る前、上に重ねたパンツを脱ぐ。",
+      "model": "ZOOM",
+      "item": "zoom-aw25",
+      "sourceUrls": [
+        "https://nmaahc.si.edu/object/nmaahc_2016.140.1.3",
+        "https://www.metmuseum.org/art/collection/search/79030",
+        "https://www.niceness.jp/products/zoom"
+      ]
+    },
+    {
+      "id": "T310",
+      "source": "main",
+      "status": "ready",
+      "title": "空気を入れて使う / ライフベスト",
+      "context": "航空",
+      "openingFirstSentence": "ベストの形をした装備の中に、空気を入れる袋がある。",
+      "model": "HENRI",
+      "item": "henri-aw24",
+      "sourceUrls": [
+        "https://airandspace.si.edu/collection-objects/life-vest-pneumatic-mark-2-united-states-navy/nasm_A19731185000",
+        "https://www.niceness.jp/products/henri"
+      ]
+    },
+    {
+      "id": "T312",
+      "source": "main",
+      "status": "ready",
+      "title": "腰から裾へ広がる / フロックコート",
+      "context": "コート",
+      "openingFirstSentence": "コートの裾が腰から広がる。",
+      "model": "H.FLETCHER",
+      "item": "h-fletcher-aw23",
+      "sourceUrls": [
+        "https://blog.twmuseums.org.uk/menswear-from-1800-to-1900/",
+        "https://www.metmuseum.org/art/collection/search/84364"
+      ]
+    },
+    {
+      "id": "T313",
+      "source": "main",
+      "status": "ready",
+      "title": "腰の切替を持たない / ラウンジジャケット",
+      "context": "スーツ",
+      "openingFirstSentence": "腰で切り替えず、前のボタンも低い位置へ。",
+      "model": "MONDO",
+      "item": "mondo-ss25",
+      "sourceUrls": [
+        "https://fashionhistory.fitnyc.edu/1897-sargent-mr-stokes/",
+        "https://www.bexhillmuseum.org.uk/access-centre/museum-exhibitions-displays/costume-social-history-gallery/costume-textile-design-manufacture/",
+        "https://www.niceness.jp/products/mondo"
+      ]
+    },
+    {
+      "id": "T325",
+      "source": "main",
+      "status": "ready",
+      "title": "頭から首まで続けて覆う / バラクラバ",
+      "context": "防寒",
+      "openingFirstSentence": "帽子と襟のあいだを、ひと続きに覆う。",
+      "model": "KARAS",
+      "item": "karas-aw23",
+      "sourceUrls": [
+        "https://www.awm.gov.au/collection/C2702661"
+      ]
+    },
+    {
+      "id": "T332",
+      "source": "main",
+      "status": "ready",
+      "title": "細かな色の交わりを織る / シャンブレーシャツ",
+      "context": "シャンブレー",
+      "openingFirstSentence": "同じシャツの生地でも、仕事や着る場面によって求められるものは変わる。",
+      "model": "S.THOM",
+      "item": "s-thom-aw25",
+      "sourceUrls": [
+        "https://cdnbbsr.s3waas.gov.in/s3kv06304ffb5f48403451385fa0c83ecf/uploads/2024/10/2024102393.pdf",
+        "https://www.nal.usda.gov/exhibits/ipd/apronsandkitchens/items/show/46",
+        "https://www.niceness.jp/products/s-thom"
+      ]
+    },
+    {
+      "id": "T334",
+      "source": "main",
+      "status": "ready",
+      "title": "裁断から縫製までをつなぐ / 革職人の仕事",
+      "context": "革",
+      "openingFirstSentence": "一つの革製品ができるまで、手は何度も道具を替える。",
+      "model": "FATS",
+      "item": "fats-aw24",
+      "sourceUrls": [
+        "https://www.museum.qld.gov.au/rail-workshops/whats-on/leathercraft-workshop",
+        "https://www.niceness.jp/products/fats",
+        "https://www.niceness.jp/products/fats-1",
+        "https://www.niceness.jp/products/fats-2",
+        "https://www.niceness.jp/products/fats-26ss",
+        "https://www.niceness.jp/products/fats-h-h",
+        "https://www.niceness.jp/products/h-r-fats",
+        "https://www.niceness.jp/products/h-r-lowe",
+        "https://www.niceness.jp/products/lowe",
+        "https://www.niceness.jp/products/lowe-1",
+        "https://www.niceness.jp/products/lowe-2",
+        "https://www.niceness.jp/products/lowe-26ss",
+        "https://www.niceness.jp/products/lowe-h-h",
+        "https://www.niceness.jp/products/lowe-h-h-midi",
+        "https://www.niceness.jp/products/lowe-h-h-petit",
+        "https://www.niceness.jp/products/lowe-midi-1",
+        "https://www.niceness.jp/products/lowe-midi-2",
+        "https://www.niceness.jp/products/lowe-midi-26ss",
+        "https://www.niceness.jp/products/lowe-midi-3",
+        "https://www.niceness.jp/products/lowe-petit",
+        "https://www.niceness.jp/products/lowe-petit-1",
+        "https://www.niceness.jp/products/lowe-petit-2",
+        "https://www.niceness.jp/products/lowe-petit-26ss",
+        "https://www.niceness.jp/products/s-fats",
+        "https://www.niceness.jp/products/s-lowe",
+        "https://www.niceness.jp/products/s-lowe-midi",
+        "https://www.niceness.jp/products/s-lowe-petit",
+        "https://www.niceness.jp/products/s-o-fats-26ss",
+        "https://www.niceness.jp/products/s-o-lowe-26ss",
+        "https://www.niceness.jp/products/s-o-lowe-midi-26ss",
+        "https://www.niceness.jp/products/s-o-lowe-petit-26ss",
+        "https://www.niceness.jp/products/u-lowe",
+        "https://www.niceness.jp/products/u-lowe-midi",
+        "https://www.niceness.jp/products/u-lowe-petit",
+        "https://www.thehenryford.org/collections/explore/artifact/19082"
+      ]
+    },
+    {
+      "id": "T109",
+      "source": "main",
+      "status": "ready",
+      "title": "背中を一枚の革でつなぐ / ライダースジャケット",
+      "context": "ライダース",
+      "openingFirstSentence": "背面を大きな一枚で取る。",
+      "model": "DEVOTE",
+      "item": "devote-aw26",
+      "sourceUrls": [
+        "https://www.lewisleathers.com/blogs/blog/jacket-profile-super-sportsman",
+        "https://www.londonmuseum.org.uk/collections/v/object-795738/group-of-bikers-at-a-festival-in-hyde-park/",
+        "https://www.niceness.jp/products/devote"
+      ]
+    },
+    {
+      "id": "T122",
+      "source": "main",
+      "status": "ready",
+      "title": "裾の折返しをなくした / 戦時のスラックス",
+      "context": "スラックス",
+      "openingFirstSentence": "布を節約するために、ポケットや襟、ズボンの裾まで見直された。",
+      "model": "N.DICKENS",
+      "item": "n-dickens-aw26",
+      "sourceUrls": [
+        "https://www.iwm.org.uk/sites/default/files/files/2023-10/second_world_war_galleries_large_print.pdf",
+        "https://www.niceness.jp/products/n-dickens"
+      ]
+    },
+    {
+      "id": "T128",
+      "source": "main",
+      "status": "ready",
+      "title": "脇のリブで縮みに応える / スウェット",
+      "context": "スウェット",
+      "openingFirstSentence": "洗うと縮む身頃に、伸びる布を添える。",
+      "model": "DILTZ",
+      "item": "diltz-aw24",
+      "sourceUrls": [
+        "https://patents.google.com/patent/US2613360A/en",
+        "https://www.niceness.jp/products/diltz"
+      ]
+    },
+    {
+      "id": "T207",
+      "source": "main",
+      "status": "ready",
+      "title": "袖を切り落として着る / パンクTシャツ",
+      "context": "パンク",
+      "openingFirstSentence": "完成したTシャツから袖を外す。",
+      "model": "SHERWOOD",
+      "item": "sherwood-aw26",
+      "sourceUrls": [
+        "https://www.londonmuseum.org.uk/blog/london-punk-personal-history-objects/",
+        "https://www.londonmuseum.org.uk/collections/v/object-79032/t-shirt-vest/",
+        "https://www.londonmuseum.org.uk/collections/v/object-800616/punks-at-a-festival/",
+        "https://www.niceness.jp/products/sherwood"
+      ]
+    },
+    {
+      "id": "T226",
+      "source": "main",
+      "status": "ready",
+      "title": "足首を絞る幅広の / ズアーブパンツ",
+      "context": "ズアーブ",
+      "openingFirstSentence": "腰から広がり、足首で絞る。",
+      "model": "ZOOM",
+      "item": "zoom-aw25",
+      "sourceUrls": [
+        "https://www.cheminsdememoire.gouv.fr/sites/default/files/editeur/web_Parcours_Harkis_onac_vg.pdf",
+        "https://www.musee-armee.fr/magazine/les-origines-militaires-des-expressions-francaises.html",
+        "https://www.niceness.jp/products/zoom",
+        "https://www.servicehistorique.sga.defense.gouv.fr/ark/25374"
+      ]
+    },
+    {
+      "id": "T230",
+      "source": "main",
+      "status": "ready",
+      "title": "V字の襟と裾の帯を持つ / カデットセーター",
+      "context": "学校",
+      "openingFirstSentence": "学校の制服写真に残る、長袖のセーター。",
+      "model": "B.BETH",
+      "item": "b-beth-aw25",
+      "sourceUrls": [
+        "https://wmamuseum.org/wp-content/uploads/2023/11/YearbookWMA-1940.pdf",
+        "https://www.niceness.jp/products/b-beth"
+      ]
+    },
+    {
+      "id": "T233",
+      "source": "main",
+      "status": "ready",
+      "title": "襟の内側へ差し込む / 防炎フード",
+      "context": "海軍",
+      "openingFirstSentence": "頭と首を別の布で覆い、その端を襟の内側へ入れる。",
+      "model": "BUCKLEY",
+      "item": "buckley-aw25",
+      "sourceUrls": [
+        "https://navymuseum.co.nz/wp-content/uploads/2012/01/white-ensign-issue-5.pdf",
+        "https://www.niceness.jp/products/buckley"
+      ]
+    },
+    {
+      "id": "T244",
+      "source": "main",
+      "status": "ready",
+      "title": "菱形と麦束を編み込む / アランカーディガン",
+      "context": "アラン",
+      "openingFirstSentence": "赤い毛糸の中に、ブラックベリー、菱形、麦束。",
+      "model": "ROBBIE",
+      "item": "robbie-aw26",
+      "sourceUrls": [
+        "https://cms.museum.ie/en-IE/Collections-Research/Collection/Top-things-to-see-in-the-Irish-Folklife-Collection/Artefact/Red-Aran-cardigan/aa03deb0-e9d7-41d2-b7f0-0da13b5c2c8b",
+        "https://www.niceness.jp/products/robbie"
+      ]
+    },
+    {
+      "id": "T247",
+      "source": "main",
+      "status": "ready",
+      "title": "中にも外にも着られる / パイルカーディガン",
+      "context": "アウトドア",
+      "openingFirstSentence": "寒い日は中間着に、春秋は一枚で。",
+      "model": "SADE",
+      "item": "sade-aw25",
+      "sourceUrls": [
+        "https://ttabvue.uspto.gov/ttabvue/ttabvue-91190587-OPP-13.pdf",
+        "https://www.niceness.jp/products/sade"
+      ]
+    },
+    {
+      "id": "T249",
+      "source": "main",
+      "status": "ready",
+      "title": "スナップで前を留める / チームジャケット",
+      "context": "ナイロン",
+      "openingFirstSentence": "ナイロンの表と裏、前に並ぶスナップ。",
+      "model": "CORNICK",
+      "item": "cornick-aw23",
+      "sourceUrls": [
+        "https://nmaahc.si.edu/object/nmaahc_2015.5"
+      ]
+    },
+    {
+      "id": "T252",
+      "source": "main",
+      "status": "ready",
+      "title": "木製トグルで留める / ダッフルコート",
+      "context": "海軍",
+      "openingFirstSentence": "手袋をしたままでも触れそうな大きな留め具。",
+      "model": "K.CRIMSO",
+      "item": "k-crimso-aw26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/k-crimso",
+        "https://www.rmg.co.uk/collections/objects/rmgc-object-1204402",
+        "https://www.rmg.co.uk/collections/objects/rmgc-object-246555"
+      ]
+    },
+    {
+      "id": "T254",
+      "source": "main",
+      "status": "ready",
+      "title": "洗うと脇線がねじれる / デニムトラウザー",
+      "context": "デニム",
+      "openingFirstSentence": "まっすぐだった脇線が、洗うことで回って見える。",
+      "model": "BELEW",
+      "item": "belew-aw25",
+      "sourceUrls": [
+        "https://access-ok.okeeffemuseum.org/object/7377/",
+        "https://www.freepatentsonline.com/4015318.html",
+        "https://www.niceness.jp/products/belew"
+      ]
+    },
+    {
+      "id": "T258",
+      "source": "main",
+      "status": "ready",
+      "title": "背番号と徽章を載せる / 競技シャツ",
+      "context": "サッカー",
+      "openingFirstSentence": "青いシャツの背に5、胸に黄色の徽章。",
+      "model": "ASTAIRE",
+      "item": "astaire-aw24",
+      "sourceUrls": [
+        "https://designmuseum.org/asset/download?id=6705874f-108c-4a1e-9d41-cdb416252659",
+        "https://www.chelseafc.com/en/news/article/dempseys-historic-fa-cup-shirt-on-display-in-chelsea-museum",
+        "https://www.niceness.jp/products/astaire"
+      ]
+    },
+    {
+      "id": "T266",
+      "source": "main",
+      "status": "ready",
+      "title": "革をひだ状に寄せる / フラットシューズ",
+      "context": "靴",
+      "openingFirstSentence": "一枚のスエードを足の甲で寄せる。",
+      "model": "GEORGIA",
+      "item": "georgia-ss25",
+      "sourceUrls": [
+        "https://collections.okeeffemuseum.org/object/7572/",
+        "https://www.niceness.jp/products/georgia"
+      ]
+    },
+    {
+      "id": "T273",
+      "source": "main",
+      "status": "ready",
+      "title": "埃と泥から服を守る / ダスターコート",
+      "context": "旅行",
+      "openingFirstSentence": "初期の自動車旅行で、衣服の上にもう一枚。",
+      "model": "SYLVIAN",
+      "item": "sylvian-aw26",
+      "sourceUrls": [
+        "https://monmouthhistory.emuseum.com/objects/3129/duster-coat",
+        "https://www.niceness.jp/products/sylvian",
+        "https://www.philamuseum.org/objects/210279"
+      ]
+    },
+    {
+      "id": "T286",
+      "source": "main",
+      "status": "ready",
+      "title": "筒とバックルで足を包む / エンジニアブーツ",
+      "context": "ブーツ",
+      "openingFirstSentence": "紐ではなく、足首のバックルで留める。",
+      "model": "NEWELL",
+      "item": "newell-ss26",
+      "sourceUrls": [
+        "https://www.heddels.com/2015/03/history-engineer-boots-john-lofgren/",
+        "https://www.niceness.jp/products/newell",
+        "https://www.nps.gov/gosp/learn/historyculture/railroad-workers.htm"
+      ]
+    },
+    {
+      "id": "T292",
+      "source": "main",
+      "status": "ready",
+      "title": "羊皮と鹿革を組み合わせる / グリズリージャケット",
+      "context": "ムートン",
+      "openingFirstSentence": "身頃と袖で革を替える。",
+      "model": "CANUCKS",
+      "item": "canucks-aw24",
+      "sourceUrls": [
+        "https://designmuseum.org/asset/download?id=b6aa4fac-9799-4ded-90a4-c99ba2737790",
+        "https://www.metmuseum.org/art/collection/search/99710",
+        "https://www.niceness.jp/products/canucks"
+      ]
+    },
+    {
+      "id": "T296",
+      "source": "main",
+      "status": "ready",
+      "title": "結んで巻いて拭える / バンダナ",
+      "context": "バンダナ",
+      "openingFirstSentence": "四角い布は、頭や首へ巻かれ、手元を拭う道具にもなる。",
+      "model": "NAIR",
+      "item": "nair-ss25",
+      "sourceUrls": [
+        "https://www.heddels.com/2017/05/the-history-of-the-bandana/",
+        "https://www.niceness.jp/products/nair"
+      ]
+    },
+    {
+      "id": "T301",
+      "source": "main",
+      "status": "ready",
+      "title": "脚に沿って縫い目がねじれる / 立体デニム",
+      "context": "デニム",
+      "openingFirstSentence": "まっすぐな筒ではなく、脚の動きに沿って縫い目を回す。",
+      "model": "ELMES",
+      "item": "elmes-ss26",
+      "sourceUrls": [
+        "https://levi.jp/pages/history",
+        "https://www.levistrauss.com/2019/06/13/levis-engineered-jeans-at-20-the-innovative-backstory-of-lej/",
+        "https://www.niceness.jp/products/elmes-26ss"
+      ]
+    },
+    {
+      "id": "T311",
+      "source": "main",
+      "status": "ready",
+      "title": "獲物を運べる大きさの / ハンティングポケット",
+      "context": "狩猟",
+      "openingFirstSentence": "上着の内側や背中に隠れた、大きな袋。",
+      "model": "TYNER",
+      "item": "tyner-ss25",
+      "sourceUrls": [
+        "https://artsandculture.google.com/asset/shooting-jacket-unknown/lQFPyIMTskM1kA?hl=en",
+        "https://www.chhs.colostate.edu/avenir/exhibitions/past-exhibitions/thanks-it-has-pockets/",
+        "https://www.niceness.jp/products/tyner"
+      ]
+    },
+    {
+      "id": "T315",
+      "source": "main",
+      "status": "ready",
+      "title": "左右の胸にポケットを置く / ワークシャツ",
+      "context": "ワークシャツ",
+      "openingFirstSentence": "胸の両側に同じようなポケットを置く。",
+      "model": "KIRKLAND",
+      "item": "kirkland-ss26",
+      "sourceUrls": [
+        "https://intrepid.emuseum.com/objects/20697/us-navy-chambray-shirt",
+        "https://postalmuseum.si.edu/object/npm_1990.0587.7",
+        "https://www.niceness.jp/products/kirkland-26ss"
+      ]
+    },
+    {
+      "id": "T010",
+      "source": "main",
+      "status": "ready",
+      "title": "裁ち目を減らして仕立てる / 長着の試み",
+      "context": "裁断と構成",
+      "openingFirstSentence": "長着は、ふつう八枚に裁って縫い合わせる。",
+      "model": "H.IGGY",
+      "item": "h-iggy-ss25",
+      "sourceUrls": [
+        "https://journal.otsuma.ac.jp/documents/journal/2024no34/2024_453.pdf",
+        "https://www.metmuseum.org/ko/exhibitions/kimono-style",
+        "https://www.niceness.jp/products/gunn",
+        "https://www.niceness.jp/products/h-iggy",
+        "https://www.niceness.jp/products/p-iggy"
+      ]
+    },
+    {
+      "id": "T238",
+      "source": "main",
+      "status": "ready",
+      "title": "二重のフードで風を防ぐ / 厚手のスウェット",
+      "context": "冬の売り場",
+      "openingFirstSentence": "二重のフード、手を入れるマフポケット、柔らかな裏起毛。",
+      "model": "NOVOSELIC",
+      "item": "novoselic-aw25",
+      "sourceUrls": [
+        "https://oregonnews.uoregon.edu/lccn/2024240281/1963-11-07/ed-1/seq-6.pdf",
+        "https://www.niceness.jp/products/novoselic"
+      ]
+    },
+    {
+      "id": "T239",
+      "source": "main",
+      "status": "ready",
+      "title": "ウォームアップジャケットとも呼ばれた / スウェット",
+      "context": "競技と暖機の上着",
+      "openingFirstSentence": "スウェットは、ウォームアップジャケットとも呼ばれていた。",
+      "model": "NAVARRO",
+      "item": "navarro-aw25",
+      "sourceUrls": [
+        "https://library.sfo2.cdn.digitaloceanspaces.com/publications/sports/catalogs/DMAYX-1929-01-draper-maynard-sports-catalog-RJ1OH.pdf",
+        "https://www.niceness.jp/products/navarro"
+      ]
+    },
+    {
+      "id": "T250",
+      "source": "main",
+      "status": "ready",
+      "title": "裾の広がりを記録する / 1970年前後のパンツ",
+      "context": "裾の広がり",
+      "openingFirstSentence": "ロサンゼルス郡立美術館が収蔵する一本のトラウザーは、1967〜69年にサンフランシスコでつくられた革製で、画像の説明ではフレアの形とされている。",
+      "model": "C.SIZE",
+      "item": "c-size-ss26",
+      "sourceUrls": [
+        "https://collections.lacma.org/object/197990",
+        "https://collections.tepapa.govt.nz/object/711160",
+        "https://www.niceness.jp/products/c-size-26ss"
+      ]
+    },
+    {
+      "id": "T263",
+      "source": "main",
+      "status": "ready",
+      "title": "ボタンで頭を足す / 着脱式のフード",
+      "context": "フードの着脱",
+      "openingFirstSentence": "デンマーク国立博物館が収蔵するM-1951パーカの外殻には、衣服の表示が残っている。",
+      "model": "COCKER",
+      "item": "cocker-aw24",
+      "sourceUrls": [
+        "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=116260",
+        "https://samlinger.natmus.dk/khs/object/48888",
+        "https://www.niceness.jp/products/cocker"
+      ]
+    },
+    {
+      "id": "T264",
+      "source": "main",
+      "status": "ready",
+      "title": "ジッパーをボタンの帯で覆う / フィールドジャケットの前立て",
+      "context": "前立てと襟",
+      "openingFirstSentence": "パリ・ミュゼが収蔵する1941〜45年の米軍M-41第2型は、綿ポプリン製で、前部のジッパーを五つのボタンが付いた帯で覆う構造を持つ。",
+      "model": "HAYES",
+      "item": "hayes-aw25",
+      "sourceUrls": [
+        "https://parismuseescollections.paris.fr/en/node/200752",
+        "https://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=23626",
+        "https://www.niceness.jp/products/hayes"
+      ]
+    },
+    {
+      "id": "T269",
+      "source": "main",
+      "status": "ready",
+      "title": "複数の素材でできている / 1970年代の英国トレンチ",
+      "context": "トレンチコート",
+      "openingFirstSentence": "メトロポリタン美術館が収蔵する1970年代英国Burberryのトレンチコート一式は、綿、絹、プラスチックなど複数の素材からできていると記録されている。",
+      "model": "ROWAN",
+      "item": "rowan-aw26",
+      "sourceUrls": [
+        "https://collections.lacma.org/object/205878",
+        "https://www.metmuseum.org/art/collection/search/129586",
+        "https://www.niceness.jp/products/rowan"
+      ]
+    },
+    {
+      "id": "T270",
+      "source": "main",
+      "status": "ready",
+      "title": "目録と回顧に残る / 1970年代のダウンベスト",
+      "context": "ベストの記録",
+      "openingFirstSentence": "ユタ州立大学図書館は、The North Faceの1970年のアウトドア商品カタログを特別コレクションとして収蔵している。",
+      "model": "ROTHER",
+      "item": "rother-aw26",
+      "sourceUrls": [
+        "https://crescentdownworks.com/pages/50th-anniversary-lookbook",
+        "https://exhibits.lib.usu.edu/items/show/22755",
+        "https://www.niceness.jp/products/rother"
+      ]
+    },
+    {
+      "id": "T271",
+      "source": "main",
+      "status": "ready",
+      "title": "軽い革に、図柄を刷る / 1970年前後の手仕事",
+      "context": "革の手仕事",
+      "openingFirstSentence": "ASU FIDM Museumは、Cavalliが1960年代末から70年代初頭にかけて軽量の革やスエードへ印刷する技法を発展させ、単体の衣料にもパッチワークの衣料にも用いたと説明している。",
+      "model": "ROKER",
+      "item": "roker-ss26",
+      "sourceUrls": [
+        "https://asufidmmuseum.asu.edu/learn/articles/roberto-cavalli-poncho-c-1970",
+        "https://collections.heritage.brussels/nl/objects/57847",
+        "https://www.niceness.jp/products/roker-26ss"
+      ]
+    },
+    {
+      "id": "T272",
+      "source": "main",
+      "status": "ready",
+      "title": "肖像に写る / 1980年代の革ジャケット",
+      "context": "革のジャケット",
+      "openingFirstSentence": "RISD Museumは、Robert Mapplethorpeの1980年のSelf-Portraitについて、本人が革のジャケットを着て反逆者として自らを表したと説明している。",
+      "model": "SAMO",
+      "item": "samo-aw24",
+      "sourceUrls": [
+        "https://risdmuseum.org/art-design/collection/self-portrait-199697",
+        "https://www.metmuseum.org/art/collection/search/80717",
+        "https://www.niceness.jp/products/samo"
+      ]
+    },
+    {
+      "id": "T274",
+      "source": "main",
+      "status": "ready",
+      "title": "穴を開けて、ひもで組む / 1970年代の革ベスト",
+      "context": "ベストの仕立て",
+      "openingFirstSentence": "裁った革へ穴を開け、革ひもで組み立てる。",
+      "model": "KRAVITZ",
+      "item": "kravitz-ss26",
+      "sourceUrls": [
+        "https://www.londonmuseum.org.uk/collections/v/object-85021/waistcoat/",
+        "https://www.niceness.jp/products/kravitz-26ss",
+        "https://www.nzfashionmuseum.org.nz/l/leather-mini-vest/"
+      ]
+    },
+    {
+      "id": "T289",
+      "source": "main",
+      "status": "ready",
+      "title": "一つの型を指していない / American styleのジャケット",
+      "context": "呼び名と分類",
+      "openingFirstSentence": "1952年の米国の新聞広告は、leisure jacket、corduroy jacket、nylonとrayonコードのsports jacket、tartan woolのsports jacketを、それぞれ別の商品として並べている。",
+      "model": "B.MAXIM",
+      "item": "b-maxim-ss26",
+      "sourceUrls": [
+        "https://tile.loc.gov/storage-services/service/ndnp/dlc/batch_dlc_borisgodunov_ver01/data/sn83045462/0028060608A/1952090401/0496.pdf",
+        "https://www.metmuseum.org/art/collection/search/156233",
+        "https://www.metmuseum.org/art/collection/search/174412",
+        "https://www.niceness.jp/products/b-maxim-26ss"
+      ]
+    },
+    {
+      "id": "T293",
+      "source": "main",
+      "status": "ready",
+      "title": "袖の端の形が違う / 各地の着物",
+      "context": "袖のかたち",
+      "openingFirstSentence": "日本政府の広報資料は、着物の前後の身頃と袖を、幅約38センチ・長さ12〜13メートルの一反から縫うと説明する。",
+      "model": "LALLY",
+      "item": "lally-ss25",
+      "sourceUrls": [
+        "https://spencerart.ku.edu/art/collections-online/object/18143",
+        "https://www.britishmuseum.org/collection/object/A_1987-1005-21",
+        "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201211/201211_04.html",
+        "https://www.niceness.jp/products/lally"
+      ]
+    },
+    {
+      "id": "T298",
+      "source": "main",
+      "status": "ready",
+      "title": "古着の棚から、遠くの服を探す / 1960年代のロンドン",
+      "context": "若者と服の探しかた",
+      "openingFirstSentence": "V&Aは、1960年代のロンドンで若者向けのファッション市場とブティック街が発達し、後半にはカウンターカルチャーと結びついた非西洋の文化の服が、別の装いのために使われたと説明している。",
+      "model": "MAO",
+      "item": "mao-aw24",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/mao",
+        "https://www.vam.ac.uk/articles/an-introduction-to-1960s-fashion",
+        "https://www.vam.ac.uk/articles/the-peacock-revolution-1960s-menswear"
+      ]
+    },
+    {
+      "id": "T299",
+      "source": "main",
+      "status": "ready",
+      "title": "道具をつくらせ、人を招く / 千利休の記録",
+      "context": "茶の湯の記録",
+      "openingFirstSentence": "京都国立博物館は、千利休を1522年から1591年の茶人とし、信長・秀吉に仕え、同時代の茶の伝統を体現しながら独自の道具の制作を促し、日本独自の茶の実践の発展に関わったと説明している。",
+      "model": "T.ATHENA",
+      "item": "t-athena-ss25",
+      "sourceUrls": [
+        "https://www.kyohaku.go.jp/eng/exhibitions/special/chanoyu_2022/",
+        "https://www.metmuseum.org/art/collection/search/830711",
+        "https://www.niceness.jp/products/t-athena",
+        "https://www.shokoku-ji.jp/en/museum/exhibition/chanoyu/"
+      ]
+    },
+    {
+      "id": "T302",
+      "source": "main",
+      "status": "ready",
+      "title": "背中のストラップで腰を合わせる / 1942年のトラウザー",
+      "context": "腰の調整",
+      "openingFirstSentence": "オーストラリア戦争記念館が収蔵する1942年のスーツのトラウザーは、前にプリーツを持たず、左右のウエストバンドと背面のストラップ・バックルでフィットを調整する構造になっている。",
+      "model": "HOWLETT",
+      "item": "howlett-ss26",
+      "sourceUrls": [
+        "https://www.awm.gov.au/collection/C212577",
+        "https://www.metmuseum.org/art/collection/search/92134",
+        "https://www.niceness.jp/products/howlett-26ss"
+      ]
+    },
+    {
+      "id": "T314",
+      "source": "main",
+      "status": "ready",
+      "title": "風と雨を止める / ハンティングスーツの細部",
+      "context": "防寒と防候",
+      "openingFirstSentence": "メトロポリタン美術館が収蔵する約1960年のWoolrichのハンティングスーツは、ウールのフィールドコートとパンツからなり、ストームフラップとネックタブによって風雨と寒さへ対応する。",
+      "model": "KIRKLAND",
+      "item": "kirkland-ss26",
+      "sourceUrls": [
+        "https://www.metmuseum.org/art/collection/search/159490",
+        "https://www.niceness.jp/products/kirkland-26ss"
+      ]
+    },
+    {
+      "id": "T316",
+      "source": "main",
+      "status": "ready",
+      "title": "新しい型が出ても、前の型を選ぶ / フィールドジャケット",
+      "context": "型式の選択",
+      "openingFirstSentence": "米陸軍輸送博物館は、DePuy将軍が1973年から76年にかけて着たフィールドジャケットを所蔵し、M65の導入後もM1951が端正で糊付けできるために好まれたと説明している。",
+      "model": "LYNELL",
+      "item": "lynell-ss26",
+      "sourceUrls": [
+        "https://transportation.army.mil/museum/AOTM/2023/may_2023.html",
+        "https://www.alphaindustries.com/pages/heritage-lp",
+        "https://www.niceness.jp/products/lynell-26ss"
+      ]
+    },
+    {
+      "id": "T318",
+      "source": "main",
+      "status": "ready",
+      "title": "サスペンダーのための高い腰 / 1941年の英空軍トラウザー",
+      "context": "腰の支え方",
+      "openingFirstSentence": "1941年に英国でつくられた英空軍のサービストラウザーは、ボタンフライ、サイドポケット、サスペンダー用の高い背中のウエストとボタン、そしてウエストと股の補強を備えている。",
+      "model": "MALDOON",
+      "item": "maldoon-aw24",
+      "sourceUrls": [
+        "https://collection.nam.ac.uk/detail.php?acc=1980-04-23-11",
+        "https://musees-reims.fr/oeuvre/pantalon-de-service-armee-de-lair-britannique-aviateur",
+        "https://www.niceness.jp/products/maldoon"
+      ]
+    },
+    {
+      "id": "T327",
+      "source": "main",
+      "status": "ready",
+      "title": "日産1300本の記録 / 綿カーキのトラウザー",
+      "context": "生産と仕様",
+      "openingFirstSentence": "1941年のケンタッキーの工場では、米陸軍の需品科の規格に従って、綿カーキとウールサージのトラウザーが34のサイズで、一日あたり1300本つくられていた。",
+      "model": "BOWIE",
+      "item": "bowie-aw24",
+      "sourceUrls": [
+        "https://www.loc.gov/item/2017690037/",
+        "https://www.niceness.jp/products/bowie",
+        "https://www.nps.gov/goga/learn/historyculture/upload/Cronkhite-Historic-Furnishings-Report.pdf"
+      ]
+    },
+    {
+      "id": "T102",
+      "source": "PR14",
+      "status": "review",
+      "title": "白い襟と背番号24を載せる / 赤いラガーシャツ",
+      "context": "ラガーシャツ",
+      "openingFirstSentence": "赤い身頃に、白い襟。",
+      "model": "SHACKLOCK",
+      "item": "shacklock-aw23",
+      "sourceUrls": [
+        "https://artsandculture.google.com/asset/swEMqzlsxcfRKQ?childAssetId=TwFqReIP7ETS0Q",
+        "https://worldrugbymuseum.com/news/exhibitions/new-special-exhibitions-launched-at-the-world-rugby-museum"
+      ]
+    },
+    {
+      "id": "T222",
+      "source": "PR14",
+      "status": "review",
+      "title": "丸い襟先を重ねる / クローバー襟のスーツ",
+      "context": "クローバー襟",
+      "openingFirstSentence": "襟先が尖らず、丸く終わる。",
+      "model": "K.ROLAND",
+      "item": "k-roland-aw23",
+      "sourceUrls": [
+        "https://scholars.unh.edu/bowen_collection/220/"
+      ]
+    },
+    {
+      "id": "T243",
+      "source": "PR14",
+      "status": "review",
+      "title": "赤い顔と文字を載せた / 1973年のTシャツ",
+      "context": "プリントTシャツ",
+      "openingFirstSentence": "白い綿の面に、赤い人物の顔。",
+      "model": "KARL",
+      "item": "karl-ss26",
+      "sourceUrls": [
+        "https://digital.library.unt.edu/ark:/67531/metadc2416402/",
+        "https://www.niceness.jp/products/karl-26ss"
+      ]
+    },
+    {
+      "id": "T300",
+      "source": "PR14",
+      "status": "review",
+      "title": "馬の目に青い石を入れる / ターコイズのバングル",
+      "context": "ターコイズと装身具",
+      "openingFirstSentence": "馬の形をしたバングルの両端に、小さな青い目を入れる。",
+      "model": "DWIGHT",
+      "item": "dwight-aw23",
+      "sourceUrls": [
+        "https://media.newmexicoculture.org/press_releases.php/292/?action=detail&releaseID=292"
+      ]
+    },
+    {
+      "id": "T304",
+      "source": "PR14",
+      "status": "review",
+      "title": "丸い量感をデニムに移す / バルーンブルゾン",
+      "context": "バルーンシルエット",
+      "openingFirstSentence": "風船を思わせる輪郭を、服に持たせる。",
+      "model": "CALM",
+      "item": "calm-aw23",
+      "sourceUrls": [
+        "https://pierrecardin.com/en/pages/la-maison",
+        "https://www.fitnyc.edu/museum/exhibitions/paris-refashioned.php",
+        "https://www.roots.gov.sg/Collection-Landing/listing/1020294"
+      ]
+    },
+    {
+      "id": "T091",
+      "source": "PR15",
+      "status": "review",
+      "title": "絵師だけでなく、彫師と摺師も記す / 東海道の風景版画",
+      "context": "東海道の風景版画",
+      "openingFirstSentence": "二艘の船が、桑名の港へ近づいてくる。",
+      "model": "B.MAXIM",
+      "item": "b-maxim-ss26",
+      "sourceUrls": [
+        "https://www.metmuseum.org/art/collection/search/36957",
+        "https://www.metmuseum.org/art/collection/search/55587",
+        "https://www.niceness.jp/products/b-maxim-26ss",
+        "https://www.niceness.jp/products/b-palmer-26ss"
+      ]
+    },
+    {
+      "id": "T097",
+      "source": "PR15",
+      "status": "review",
+      "title": "英国のデザイナー服と501を選ぶ / ロンドンのジーンズ",
+      "context": "個人のジーンズ選び",
+      "openingFirstSentence": "London Museumには、Kim Philpottsが1980年代に買ったKatharine Hamnettのジーンズがある。",
+      "model": "CHARLES",
+      "item": "charles-aw26",
+      "sourceUrls": [
+        "https://www.londonmuseum.org.uk/collections/v/object-782287/trousers-jeans/",
+        "https://www.niceness.jp/products/charles",
+        "https://www.niceness.jp/products/p-charles"
+      ]
+    },
+    {
+      "id": "T099",
+      "source": "PR15",
+      "status": "review",
+      "title": "白いシャツと黒いパンツで歩く / 船員のフリスコジーンズ",
+      "context": "船員の非公式な服装",
+      "openingFirstSentence": "白いシャツと、黒いパンツ。",
+      "model": "N.MORLEY",
+      "item": "n-morley-aw26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/n-morley",
+        "https://www.niceness.jp/products/s-morley",
+        "https://www.sailors.org/sites/default/files/newsletter/pdf/harrylundebergcentennial.pdf"
+      ]
+    },
+    {
+      "id": "T317",
+      "source": "PR15",
+      "status": "review",
+      "title": "胸と脇のポケットを記録する / 英国のコンバットスモック",
+      "context": "コンバットスモック",
+      "openingFirstSentence": "オリーブグリーンのキャンバスに、ファスナー、肩章、胸と脇のポケット。",
+      "model": "LYNELL",
+      "item": "lynell-ss26",
+      "sourceUrls": [
+        "https://samlinger.natmus.dk/khs/object/48332",
+        "https://www.niceness.jp/products/lynell-26ss"
+      ]
+    },
+    {
+      "id": "T267",
+      "source": "PR17",
+      "status": "review",
+      "title": "衣服とポーズで、自分の像をつくる / ジョージア・オキーフ",
+      "context": "Georgia O’Keeffeの衣服とポートレート",
+      "openingFirstSentence": "衣服の輪郭と、写真に写るポーズ。",
+      "model": "GEORGIA",
+      "item": "georgia",
+      "sourceUrls": [
+        "https://access-ok.okeeffemuseum.org/object/10108/",
+        "https://collections.okeeffemuseum.org/exhibition/34/",
+        "https://www.clevelandart.org/articles/dressing-photographer-georgia-okeeffe-and-her-clothes",
+        "https://www.niceness.jp/products/georgia-1"
+      ]
+    },
+    {
+      "id": "T276",
+      "source": "PR17",
+      "status": "review",
+      "title": "前合わせとひとつのボタン / 短い綿ベスト",
+      "context": "Paris Muséesのベスト収蔵記録",
+      "openingFirstSentence": "Paris Muséesの記録は、この短い綿ベストの製作を「circa 1970」、写真撮影を「circa 1961」とする。",
+      "model": "FLINT",
+      "item": "flint",
+      "sourceUrls": [
+        "https://www.parismuseescollections.paris.fr/en/node/1016466"
+      ]
+    },
+    {
+      "id": "T277",
+      "source": "PR17",
+      "status": "review",
+      "title": "波打ち際で釣る人のジャケット / Martha’s Vineyard Museumの写真目録",
+      "context": "波打ち際で釣りをする人物の写真記録",
+      "openingFirstSentence": "Martha’s Vineyard Museumの写真目録は、波打ち際で釣りをする男性の写真を1950年代または1960年代のものとして記録する。",
+      "model": "LYLE",
+      "item": "lyle",
+      "sourceUrls": [
+        "https://www.mvmuseum.org/EAD_FindingAids/findingaid_get.php?record-unit=RU515"
+      ]
+    },
+    {
+      "id": "T279",
+      "source": "PR17",
+      "status": "review",
+      "title": "Pattern M259の裏地とポケット / 英国軍の復員用レインコート",
+      "context": "英国軍復員兵用Pattern M259",
+      "openingFirstSentence": "Australian War Memorialは、英国軍復員兵用Pattern M259を1946年頃の英国製レインコートとして記録する。",
+      "model": "FINN",
+      "item": "finn",
+      "sourceUrls": [
+        "https://www.awm.gov.au/collection/C317465"
+      ]
+    },
+    {
+      "id": "T285",
+      "source": "PR17",
+      "status": "review",
+      "title": "フードを付けたスウェット / フーディーの形と広がり",
+      "context": "フード付きスウェットの形と着用の広がり",
+      "openingFirstSentence": "MoMAの解説は、フードの付いた厚手のスウェットを、前開きジップの有無を含む服型として扱う。",
+      "model": "GRAAF",
+      "item": "graaf",
+      "sourceUrls": [
+        "https://www.metmuseum.org/art/collection/search/99005",
+        "https://www.moma.org/collection/works/274908"
+      ]
+    },
+    {
+      "id": "T330",
+      "source": "PR17",
+      "status": "review",
+      "title": "ウールの軍服と綿HBTを分けて読む / 戦域・年代ごとの素材記録",
+      "context": "ウール軍服と綿HBTの比較",
+      "openingFirstSentence": "第二次大戦期の米軍服について、国防総省の展示資料は欧州戦域のウール制服と、太平洋方面の海兵隊HBT制服を別々に説明する。",
+      "model": "H.TWEEDY",
+      "item": "h-tweedy",
+      "sourceUrls": [
+        "https://history.army.mil/Publications/Publications-Catalog/Noncommissioned-Officer-Images-of-an-Army-in-Action/",
+        "https://www.defense.gov/Multimedia/Experience/Common-Threads/Common-Threads-Marine-Corps/source/GovDelivery/",
+        "https://www.niceness.jp/products/h-tweedy"
+      ]
+    },
+    {
+      "id": "T290",
+      "source": "PR17",
+      "status": "review",
+      "title": "舞台衣装とビジネスにも使うスーツ / ポケットと縁取りを比べる",
+      "context": "舞台衣装とbusiness/casual suitのジャケット",
+      "openingFirstSentence": "Autry MuseumはEddie Deanの舞台スーツを、Date欄では「1950–1975」、Remarksでは「circa early 1950s」と記録する。",
+      "model": "C.MAXIM",
+      "item": "c-maxim",
+      "sourceUrls": [
+        "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM504559%3Btype%3D101",
+        "https://www.niceness.jp/products/c-maxim-26ss",
+        "https://www.philamuseum.org/objects/92566"
+      ]
+    },
+    {
+      "id": "T297",
+      "source": "PR17",
+      "status": "review",
+      "title": "泳ぐ人を描くスポーツウェア / 1930年代のプリント",
+      "context": "プリントを用いたactivewearの展示例",
+      "openingFirstSentence": "The Museum at FITの1930年代展は、スキー、ゴルフ、水着などのactivewearが広がり、プリント柄もスポーツウェアに使われたと紹介する。",
+      "model": "R.PARADA",
+      "item": "r-parada",
+      "sourceUrls": [
+        "https://exhibitions.fitnyc.edu/fashions-of-the-1930s/",
+        "https://www.niceness.jp/products/r-parada"
+      ]
+    },
+    {
+      "id": "T077",
+      "source": "PR17",
+      "status": "review",
+      "title": "Buddy Holly着用とされる / 茶色のDa Vinciシャツ",
+      "context": "競売目録がBuddy Hollyの舞台着と帰属するシャツ",
+      "openingFirstSentence": "Heritage Auctionsの出品番号38619は、茶色のナイロンシャツに金色の縁取りがある品を、1950年代頃のBuddy Holly所有・着用の舞台衣装として記録する。",
+      "model": "G.SWISH",
+      "item": "g-swish",
+      "sourceUrls": [
+        "https://entertainment.ha.com/itm/music-memorabilia/memorabilia/buddy-holly-owned-and-worn-brown-da-vinci-shirt-ca-1950s-/a/7433-38619.s",
+        "https://www.niceness.jp/products/g-swish"
+      ]
+    },
+    {
+      "id": "T131",
+      "source": "PR18",
+      "status": "review",
+      "title": "小売店を売却し、プリントに専念する / The MountainのTシャツ",
+      "context": "プリントTシャツと売り場",
+      "openingFirstSentence": "胸いっぱいに動物の顔をのせたTシャツ。",
+      "model": "G.BERNARD",
+      "item": "g-bernard-aw25",
+      "sourceUrls": [
+        "https://themountain.com/our-storys/",
+        "https://www.niceness.jp/products/g-bernard"
+      ]
+    },
+    {
+      "id": "T253",
+      "source": "PR18",
+      "status": "review",
+      "title": "一覧表に記されたN-2B / 米空軍の飛行服",
+      "context": "空軍の繊維品目表",
+      "openingFirstSentence": "1955年改訂の米国防総省の文書は、米空軍の繊維品目表に「Jacket, Flying Man’s Type N-2B」を載せている。",
+      "model": "MARSH",
+      "item": "marsh-aw24",
+      "sourceUrls": [
+        "https://nara-media.s3.amazonaws.com/electronic-records/rg-330/Directives/rec_160415.PDF",
+        "https://www.niceness.jp/products/marsh"
+      ]
+    },
+    {
+      "id": "T323",
+      "source": "PR19",
+      "status": "review",
+      "title": "革とタン色ヘリンボーンを合わせた / 1950年頃のシングルブレストジャケット",
+      "context": "シングルブレストのスポーツジャケット",
+      "openingFirstSentence": "米国国立公園局のHarry S Truman National Historic Siteは、1950年頃の一着をCalifornia Sportswear Co.製、ロサンゼルスと記録する。",
+      "model": "H.KENT",
+      "item": "h-kent-aw23",
+      "sourceUrls": [
+        "https://www.nps.gov/hstr/learn/historyculture/sports-jacket-circa-1950.htm"
+      ]
+    },
+    {
+      "id": "T041",
+      "source": "PR19",
+      "status": "review",
+      "title": "裏地にも表にも移る図案 / ダ・ヴィンチ柄のシルクスカーフ",
+      "context": "図案とプリント",
+      "openingFirstSentence": "ひとつの図案が、シャツの表地にも、ジャケットの裏地にも、スカーフにも置かれる。",
+      "model": "LEO",
+      "item": "leo-aw25",
+      "sourceUrls": [
+        "https://www.niceness.jp/episode/drawings-and-discoveries/",
+        "https://www.niceness.jp/products/leo"
+      ]
+    },
+    {
+      "id": "T341",
+      "source": "PR19",
+      "status": "review",
+      "title": "身頃と襟で参照を分ける / ドビーのバンドカラーシャツ",
+      "context": "シャツの設計と仕上げ",
+      "openingFirstSentence": "NICENESSのGUARINOは、公式説明の中で身頃、襟と袖、生地にそれぞれ異なる参照背景を与えている。",
+      "model": "GUARINO",
+      "item": "guarino-aw24",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/guarino"
+      ]
+    },
+    {
+      "id": "T039",
+      "source": "PR19",
+      "status": "review",
+      "title": "替え襟を付け替え、外して着る / 二色の襟を添えたロングシャツ",
+      "context": "替え襟とシャツの着方",
+      "openingFirstSentence": "NICENESSのC.IOMMI AW25は、二色の替え襟が付属するロングシャツ。",
+      "model": "C.IOMMI",
+      "item": "c-iommi-aw25",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/c-iommi"
+      ]
+    },
+    {
+      "id": "T331",
+      "source": "PR19",
+      "status": "review",
+      "title": "硫化染めとバイオ加工のHAYES / 強撚コットンダックの色と凹凸",
+      "context": "ダック生地の加工",
+      "openingFirstSentence": "NICENESSのHAYES AW25は、強撚コットンで織ったダック生地に硫化染めとバイオ加工を施したハンティングジャケット。",
+      "model": "HAYES",
+      "item": "hayes-aw25",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/hayes"
+      ]
+    },
+    {
+      "id": "T001",
+      "source": "PR19",
+      "status": "review",
+      "title": "折り込んだマチをリベットで留める / H.LEDZのレザートート",
+      "context": "マチの折り込みとリベット留め",
+      "openingFirstSentence": "ショルダーストラップの付いたトートバッグに、マチの折り込みをリベットで留める。",
+      "model": "H.LEDZ",
+      "item": "h-ledz-aw25",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/h-ledz-2"
+      ]
+    },
+    {
+      "id": "T015",
+      "source": "PR19",
+      "status": "review",
+      "title": "日差しを遮るつば、参照を語るつば / LOESSのロングビルキャップ",
+      "context": "ロングビルキャップの用途と素材",
+      "openingFirstSentence": "長いつばは、日差しを遮る用途として説明されることがある。",
+      "model": "LOESS",
+      "item": "loess-ss26",
+      "sourceUrls": [
+        "https://www.villagehatshop.com/products/vhs-long-bill-adjustable-baseball-cap",
+        "https://duckcamp.com/products/brrr-performance-flats-cap-long-bill-sagebrush",
+        "https://www.niceness.jp/products/loess-26ss"
+      ]
+    },
+    {
+      "id": "T191",
+      "source": "PR19",
+      "status": "review",
+      "title": "深いタックへ縫い込むスエードベルト / METHODのショートパンツ",
+      "context": "タックに縫い込まれたベルト",
+      "openingFirstSentence": "前身頃の深いタックに、スエードのベルトを縫い込む。",
+      "model": "METHOD",
+      "item": "method-ss26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/method-26ss"
+      ]
+    },
+    {
+      "id": "T219",
+      "source": "PR19",
+      "status": "review",
+      "title": "膝の屈伸を考えた立体裁断 / JOANのローバーパンツ",
+      "context": "膝の動きを考慮した立体裁断",
+      "openingFirstSentence": "膝の屈伸を想定して立体裁断を取り入れる。",
+      "model": "JOAN",
+      "item": "joan-ss26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/joan-26ss"
+      ]
+    }
+  ],
+  "notes": [
+    "PR17 T330 is held but included in overlap screening.",
+    "Same source URL is a review flag, not automatic semantic duplication; compare the exact object, question, claim and product relationship.",
+    "PR19 T323 attributes the H.KENT description to a user-provided saved document; issuer/official status are unverified and no public URL is available.",
+    "PR19 latest story-source snapshot is correction commit b680cc713b78eef052a48b1198ddaf1a8378ea93 (articles SHA-256 b661a731c0b0838bc26d9d6045c8c5d255a91b082d70a04d12366f2bd1de5f0e); it contains nine review-only proposals. Follow-up Luna findings on parent 035cd2f requested and the correction commit applies T001/T015/T191 scope/attribution fixes; T219 and the earlier five approvals were maintained. The corrected wording has not yet had a separate independent recheck. T323 attributes H.KENT statements to user-provided saved material with unverified issuer/official status and no public URL."
+  ]
+}
