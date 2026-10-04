@@ -1,0 +1,237 @@
+{
+  "version": 18,
+  "reviewedOn": "2026-10-04",
+  "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+  "publicationStatus": "review proposals; not adopted and not publicly generated",
+  "scope": "Five new proposals T346–T350 plus the 217 main article provenance entries carried forward from release.v11.json.",
+  "sourceMethod": "Read NICENESS official product-page descriptions and product/material labels; keep brand references, design intent and predicted aging attributed to the brand. No historical, user-experience, performance, pricing, availability or brand-history claim is added.",
+  "duplicateReservationCheck": {
+    "ids": [
+      "T346",
+      "T347",
+      "T348",
+      "T349",
+      "T350"
+    ],
+    "result": "GitHub issue searches for each ID and each selected product model returned zero matches on 2026-10-04."
+  },
+  "topicIndexCheck": {
+    "path": "docs/article-topic-index-20261004.json",
+    "baselineTopics": 250,
+    "includes": "main, PR14–PR20 proposal topics; proposed T346–T350 intentionally kept out of this baseline snapshot.",
+    "sha256": "41d9c72f52fe0ed156e4b634e6eac44310d6c2e477cf15055df56a9a7fc1b539",
+    "pr19Head": "07dbf498315e35c50291b9e9758ad7c6b0f8bf58",
+    "pr20Head": "33ec6c1809894f4f23dec9bb07d54b77a982cad7"
+  },
+  "independentReview": {
+    "model": "gpt-6-luna",
+    "status": "PASS",
+    "reviewedOn": "2026-10-04",
+    "scope": [
+      "T346",
+      "T347",
+      "T348",
+      "T349",
+      "T350"
+    ],
+    "reviewedArticlesSha256": "37e692725686ee6c7c8c782d63f8a44569b31008636ae45c6863e81cf1864ad6",
+    "conclusion": "All five proposals pass editorial/source-to-claim review. The 250-topic overlap index and candidate screen were reviewed; no direct ID/model duplicates found, and noted adjacent topics are distinguished.",
+    "findings": [
+      "All facts are supported by NICENESS official product pages; seasons absent from two pages are explicitly marked as not stated.",
+      "T349 body and sleeve lining compositions were separated and rechecked against the official materials listing; PASS."
+    ],
+    "maintainerAdoption": "pending"
+  },
+  "articles": [
+    {
+      "topicId": "T346",
+      "articleStatus": "review",
+      "publicPageGenerated": false,
+      "sourceUrl": "https://www.niceness.jp/products/c-joshua-26ss",
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS describes 150-count hand-spun and hand-woven khadi and a boxy silhouette referring to 1950s US vintage shirts.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "The check interval is 5 × 7 cm, its lines are 4 mm wide, and NICENESS says it expresses the lines by pulling threads one at a time by hand.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "The composition is 100% cotton and the country-of-manufacture label says India.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "格子の寸法、糸を抜く方法、生地とシルエットはNICENESSの商品説明に記された仕様・参照として紹介する。どの方向の糸を何本抜くか、工程順や処理方法、参照元となった特定の古着は確認していない。",
+      "overlapScreen": "Distinct from T002 (kasuri jacket) and PR20 T344 (warp/weft dobby stripe); focus is measured hand-pulled lattice on this khadi shirt.",
+      "sourceCheckSha256": "b734d18e375b365373d76bbdd4898830403000dd26d9ad37498cff147b0cfa04",
+      "storySha256": "77a43091b3ea8a70f209f76cbdf06ce1bc7e92329509ccf4b0d0e69d70a211fe",
+      "seasonDisclosure": "SS26"
+    },
+    {
+      "topicId": "T347",
+      "articleStatus": "review",
+      "publicPageGenerated": false,
+      "sourceUrl": "https://www.niceness.jp/products/lockie",
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS describes the low-volume triangle shape and its intended relation to wrapping and ornament.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "The apple motif is expressed on a 28-gauge computer jacquard machine; the yarn is described as Südwolle 15.5 micron Super160s wool and as shrink-resistant finished.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "The material label says 100% wool and the country-of-manufacture label says Japan.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "三角形のフォルム、リンゴ柄の製法、糸の規格、防縮仕上げは公式の商品説明に帰属させる。図案の由来、具体的な編み目構造や加工条件、独立した着用評価は確認していない。",
+      "overlapScreen": "Distinct from T041 (scarf motif) and T015 (cap brim); focus is the apple jacquard and triangle form of this scarf.",
+      "sourceCheckSha256": "21848f146636659eb6ea854828e766b1c725ef1ea5d595ca4a1897399841f42d",
+      "storySha256": "473ae498ae525f793ca45ddf089d4b2cc41e8186482f4a54b5f5d0c1c7aea43d",
+      "seasonDisclosure": "AW26"
+    },
+    {
+      "topicId": "T348",
+      "articleStatus": "review",
+      "publicPageGenerated": false,
+      "sourceUrl": "https://www.niceness.jp/products/lanegan",
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS cites snow-camouflage military garments as the design reference, without identifying a specific uniform or period.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "The product uses a light cashmere tweed made with cashmere yarn spun while incorporating air; the outer fabric is twill.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "The shell is 100% cashmere, the lining is 70% cotton and 30% silk, and the country-of-manufacture label says Japan; the page does not state a season.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "雪山カモフラージュ用ミリタリーウェアはNICENESSが挙げるデザイン参照として扱う。紡績方法の仕組み、保温性能、具体的な軍服・年代・着用者、発売シーズンは確認していない。",
+      "overlapScreen": "Avoids T099 (Frisco history) and PR20 T344 (weaving); focus is current cashmere-yarn/twill/lining construction. Season not stated.",
+      "sourceCheckSha256": "cb62bc944acc950bca397418fef7c123441a3f44aedcf770584a0313e36a5f5e",
+      "storySha256": "54ba7a20b9c94c80339d84b2ac2c8976952fdcafc86020ed04220177312e9c29",
+      "seasonDisclosure": "季節表記なし"
+    },
+    {
+      "topicId": "T349",
+      "articleStatus": "review",
+      "publicPageGenerated": false,
+      "sourceUrl": "https://www.niceness.jp/en/products/russell",
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS cites 1930s–40s USAAF/aviator jackets as a design reference and says the current design adopts denim-jacket construction.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "The calf leather is tanned in India and dyed and wax-finished at a factory in Japan; this does not establish rawhide origin or individual operators.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "The material listing identifies calf leather shell, body lining of 63% polyester/35% rayon/2% polyurethane, sleeve lining of 60% polyester/40% cupro, and 89% wool/10% nylon/1% polyurethane rib, with Japan as country of manufacture.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "1930〜40年代のジャケットはNICENESSの商品ページが挙げるデザイン参照として扱う。革の希少性、着用性能、歴史上のA2の仕様、原皮の産地、各工程の製造者は独立確認していない。",
+      "overlapScreen": "Distinct from T110 (British riding-jacket/GEOFF) and T323 (sports-jacket record); focus is the current leather-treatment route and the brand’s A2/denim-construction explanation.",
+      "sourceCheckSha256": "b0e1ae886fcf870695b478b1df1f2398612ebceb749edcb5565d32c17ec087a6",
+      "storySha256": "fd1b2292d606c07354c6acdcc6cc1210a4b31e0de935e64708d36cd8d6c94ca9",
+      "seasonDisclosure": "AW25"
+    },
+    {
+      "topicId": "T350",
+      "articleStatus": "review",
+      "publicPageGenerated": false,
+      "sourceUrl": "https://www.niceness.jp/products/tracy",
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS describes minimizing cutting to retain the expression of a single hide and identifies UK lamb leather and Italian merino lining mouton.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "The product page predicts that wear may crack the grain and reveal the brown base; this is a brand statement, not an observed user outcome or durability test.",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "The material listing identifies mouton leather for the body and lamb leather and cowhide for some parts, with Japan as country of manufacture; the page does not state a season.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "裁断の少なさ、素材の産地、経年変化はNICENESSの商品説明に帰属させる。特定個体の観察、革の裁断配置、変化の速度や程度、着用感、発売シーズンは確認していない。",
+      "overlapScreen": "Adjacent to T292 (shearling/deerhide jacket) and T334 (leather artisan workflow), but limited to TRACY’s minimized-cut design, material origins, and explicitly brand-attributed aging prediction. Season not stated.",
+      "sourceCheckSha256": "40e7fc8c7d0dea7857ddb0b619ead47357d15b67540e9de25d9dde7846bce933",
+      "storySha256": "50633998843b38d72732b8f62f7d5061f7f9b50e8c0b0b59d2c6a942e02e7cd1",
+      "seasonDisclosure": "季節表記なし"
+    }
+  ]
+}
