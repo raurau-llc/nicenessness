@@ -2,8 +2,8 @@
   "version": 16,
   "reviewedOn": "2026-10-04",
   "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
-  "publicationStatus": "Unpublished; three proposed articles remain status review. Independent editorial review and maintainer adoption are pending; no merge or deployment has occurred.",
-  "method": "Reopened claim-bearing public primary/official sources for T323, T041 and T341. Historical object statements are separated from NICENESS design descriptions. No original research photos, scan identifiers, full official product copy, or third-party images were added. T041 does not identify a specific Leonardo drawing. T341 leaves the relationship between the product-page country label and sewing attribution unresolved and does not claim finished-garment origin. All three drafts remain review-only. Hash equality identifies research snapshots; it does not replace independent editorial review or maintainer adoption.",
+  "publicationStatus": "Unpublished; all three proposed articles remain status review. User-reported content approval exists for T041 and T341 on the prior PR head with reviewer/model identity unspecified. T323 revision feedback was received; final approval is not reported. Maintainer adoption remains pending; no merge or deployment has occurred.",
+  "method": "Reopened claim-bearing public primary/official sources for the public-source claims in T323, T041 and T341. The NPS object statements, NICENESS design descriptions, and T323 user-provided saved-document statements are kept distinct. No original research photos, scan identifiers, full official product copy, or third-party images were added. T041 does not identify a specific Leonardo drawing. T341 leaves the relationship between the product-page country label and sewing attribution unresolved and does not claim finished-garment origin. All three drafts remain review-only. Hash equality identifies research snapshots; it does not replace independent editorial review or maintainer adoption. User-reported independent editorial feedback on prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332 was recorded with reviewer and model identities marked unspecified; T041 and T341 were reported approved, while T323 received factual confirmation and requested revisions. This metadata limitation is explicit and does not substitute for maintainer adoption.",
   "records": [
     {
       "topicId": "T323",
@@ -23,8 +23,8 @@
         },
         {
           "id": "F03",
-          "kind": "brand_statement",
-          "claim": "NICENESS’s user-attested official archive describes H.KENT as drawing on 1950s–60s US sports jackets and UK hunting jackets, then using reversible double-woven worsted construction with fewer seams.",
+          "kind": "user_provided_statement",
+          "claim": "The user-provided saved document says H.KENT references 1950s–60s US sports jackets and UK hunting jackets, and describes reversible double-woven worsted construction with fewer seams; issuer and official status are unverified.",
           "sourceIds": [
             "B01"
           ]
@@ -40,9 +40,9 @@
         },
         {
           "id": "B01",
-          "title": "NICENESS H.KENT AW23",
-          "publisher": "NICENESS",
-          "type": "official_user_attested_document",
+          "title": "H.KENT AW23に関する保存資料",
+          "publisher": "User-provided saved document; issuer and official status unverified",
+          "type": "user_provided_archive_document_unverified",
           "url": null
         }
       ],
@@ -56,14 +56,14 @@
         {
           "id": "B01",
           "checkedOn": "2026-10-04",
-          "locator": "user-attested official archive statement",
-          "verifiedClaim": "Used only as a separately attributed NICENESS design statement; the archive source does not identify the NPS jacket as H.KENT’s direct reference."
+          "locator": "user-provided saved document; no public URL",
+          "verifiedClaim": "The user provided a saved document containing these statements. Its publisher, issuer and NICENESS official status have not been independently verified. No visual observations are claimed."
         }
       ],
-      "claimsStatus": "The NPS entry confirms one garment’s label and construction. It does not identify a wearer or sporting use. H.KENT’s official archive refers to broader categories and does not name this NPS item.",
-      "boundary": "The historical object and NICENESS statement are separate. No claim is made that the NPS jacket was worn by Truman or directly inspired H.KENT.",
-      "independentReview": "Pending. The author’s source recheck is not independent editorial review.",
-      "editorialOverlap": "Compared against the 237-entry main/open-PR topic index. T323 uses a distinct circa-1950 jacket object and does not identify it as H.KENT’s direct prototype. T041 concerns the placement of a drawing-inspired print across LEO and related garments, distinct from T035’s Newton portrait and T209’s scientific wall/fabric designs. T341 is restricted to the previously unused GUARINO item and focuses on construction composition/hand finishing, not the TOTTI product used in T007."
+      "claimsStatus": "The NPS entry confirms the circa-1950 specimen material, structure, label and maker/location. It does not identify wearer or specific use. The H.KENT statements are attributed only to a user-provided saved document whose issuer and official status are unverified.",
+      "boundary": "The NPS specimen and user-provided document are kept separate. No direct prototype claim or claim of official NICENESS authorship is made.",
+      "independentReview": "User-reported independent editorial feedback reviewed prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332. The NPS factual description was confirmed; requested revisions were to center leather + tan herringbone and single-breasted structure, shorten the generic use/wearer caution, and label H.KENT source as user-provided, independently unverified, no public URL. Reviewer identity/model were not specified. Revisions are not represented as independently approved.",
+      "editorialOverlap": "Reviewed against the prior 237-entry topic index. Distinct circa-1950 specimen; article centers its leather + tan herringbone combination and single-breasted structure, not a general caveat about garment classifications. No direct prototype link to H.KENT is asserted."
     },
     {
       "topicId": "T041",
@@ -130,7 +130,7 @@
       ],
       "claimsStatus": "The current official episode and product page support a design-process reading about one pattern across exterior garment surfaces, scarf, and lining. They do not identify a drawing sheet, exact original, or meaning for individual symbols.",
       "boundary": "The article reports NICENESS’s own design explanation and does not assert reproduction of a named Leonardo work or decode a hidden message.",
-      "independentReview": "Pending. The author’s source recheck is not independent editorial review.",
+      "independentReview": "User-reported independent editorial feedback approved T041 content on prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332. Scope: article content and source-to-claim mapping for T041; no change was requested. Reviewer identity and model were not specified in the report. This is a user-reported approval record, not GitHub review or maintainer adoption.",
       "editorialOverlap": "Compared against the 237-entry main/open-PR topic index. T323 uses a distinct circa-1950 jacket object and does not identify it as H.KENT’s direct prototype. T041 concerns the placement of a drawing-inspired print across LEO and related garments, distinct from T035’s Newton portrait and T209’s scientific wall/fabric designs. T341 is restricted to the previously unused GUARINO item and focuses on construction composition/hand finishing, not the TOTTI product used in T007."
     },
     {
@@ -169,7 +169,7 @@
       ],
       "claimsStatus": "The product page supports a design statement and hand-finish claim. It does not name the specific hand-sewn seams. Its country label and sewing attribution are not reconciled, so final-garment origin is left unasserted.",
       "boundary": "The article separates inspiration/material geography from finished-garment origin. It makes no country-of-manufacture claim and does not infer which stitches were hand-sewn.",
-      "independentReview": "Pending. The author’s source recheck is not independent editorial review.",
+      "independentReview": "User-reported independent editorial feedback approved T341 content on prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332. Scope: article content and source-to-claim mapping for T341; no change was requested. Reviewer identity and model were not specified in the report. This is a user-reported approval record, not GitHub review or maintainer adoption.",
       "editorialOverlap": "Compared against the 237-entry main/open-PR topic index. T323 uses a distinct circa-1950 jacket object and does not identify it as H.KENT’s direct prototype. T041 concerns the placement of a drawing-inspired print across LEO and related garments, distinct from T035’s Newton portrait and T209’s scientific wall/fabric designs. T341 is restricted to the previously unused GUARINO item and focuses on construction composition/hand finishing, not the TOTTI product used in T007."
     }
   ]

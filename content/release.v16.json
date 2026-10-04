@@ -7652,7 +7652,7 @@
       "topicId": "T323",
       "sha256": "53f54c99f42155e6e24efc9e93052dc8a3403aa55439436c230d334dba198218",
       "validationSha256": "53f54c99f42155e6e24efc9e93052dc8a3403aa55439436c230d334dba198218",
-      "validationBasis": "Existing history-validation record hash matches the unchanged partial research snapshot; the claim-bearing public or user-attested official source was reopened for this review draft.",
+      "validationBasis": "Research snapshot hash unchanged; NPS claim rechecked against live primary source. H.KENT description is from user-provided saved material with issuer/official status unverified and no public URL.",
       "facts": [
         {
           "id": "F01",
@@ -7663,13 +7663,13 @@
         },
         {
           "id": "F03",
-          "kind": "brand_statement",
+          "kind": "user_provided_statement",
           "sourceIds": [
             "B01"
           ]
         }
       ],
-      "storySha256": "405efdf4e679ff6c0db6406490e2d1d9274617e70488a8de4cf0bc14acf1cd9f"
+      "storySha256": "f97b2a079b03232c0c68afe73d520cc37be8a57e9ba67ffeaf8e9fc6c9bb761f"
     },
     {
       "topicId": "T041",
