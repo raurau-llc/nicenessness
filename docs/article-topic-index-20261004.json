@@ -40,8 +40,8 @@
     {
       "name": "PR19",
       "ref": "origin/codex/articles-five-next-20261004",
-      "head": "81b0058a4d8b0f0bdf25ca8fdcaeb821b3afe515",
-      "articlesSha256": "8ec947dddf1414ca81f6c80f6204a6c1f63589a40f277fcf4a7a70b3df25f36e",
+      "head": "b680cc713b78eef052a48b1198ddaf1a8378ea93",
+      "articlesSha256": "b661a731c0b0838bc26d9d6045c8c5d255a91b082d70a04d12366f2bd1de5f0e",
       "includedArticleCount": 9
     }
   ],
@@ -3865,7 +3865,6 @@
     "PR17 T330 is held but included in overlap screening.",
     "Same source URL is a review flag, not automatic semantic duplication; compare the exact object, question, claim and product relationship.",
     "PR19 T323 attributes the H.KENT description to a user-provided saved document; issuer/official status are unverified and no public URL is available.",
-    "PR19 contains five review-only proposals. T323 attributes H.KENT statements to user-provided saved material; issuer/official status are unverified and there is no public URL.",
-    "PR19 now includes four additional review-only stories (T001, T015, T191, T219); their independent editorial review is pending."
+    "PR19 latest story-source snapshot is correction commit b680cc713b78eef052a48b1198ddaf1a8378ea93 (articles SHA-256 b661a731c0b0838bc26d9d6045c8c5d255a91b082d70a04d12366f2bd1de5f0e); it contains nine review-only proposals. Follow-up Luna findings on parent 035cd2f requested and the correction commit applies T001/T015/T191 scope/attribution fixes; T219 and the earlier five approvals were maintained. The corrected wording has not yet had a separate independent recheck. T323 attributes H.KENT statements to user-provided saved material with unverified issuer/official status and no public URL."
   ]
 }
