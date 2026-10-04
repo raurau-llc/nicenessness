@@ -2,8 +2,8 @@
   "version": 15,
   "reviewedOn": "2026-10-04",
   "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
-  "publicationStatus": "Unpublished; five proposed articles remain status review. Independent editorial review and maintainer adoption are pending; no merge or deployment has occurred.",
-  "method": "Reopened the claim-bearing public source passages for T131, T091, T097, T099 and T253. For T091/T097/T099, used scoped selected-claim rechecks that retain each current research input hash and prior validation hash; the input and earlier validation hashes differ, and the new records check only adopted facts against cited source bodies and official product pages. T253 remains tied to its matching history-validation snapshot. No archive originals were edited, no images or extended third-party text were added, and all new articles stay review-only. Hash equality identifies the selected recheck snapshot and does not replace independent editorial review or maintainer adoption.",
+  "publicationStatus": "Unpublished; two proposed articles remain status review. Independent editorial review and maintainer adoption are pending; no merge or deployment has occurred.",
+  "method": "Reopened the claim-bearing public source passages for T131 and T253. T131 separates The Mountain’s undated 30-store account from its 1976 print-shop account and flags the 1991/1996 chronology discrepancy. T253 remains tied to its matching history-validation snapshot, with the selected public sources reopened for this draft. No archive originals were edited, no images or extended third-party text were added, and both articles stay review-only. Hash equality identifies the research snapshot and does not replace independent editorial review or maintainer adoption.",
   "records": [
     {
       "topicId": "T131",
@@ -67,254 +67,6 @@
       "editorialCorrection": "Updated the headline and separated the 1976 print-shop account from the undated 30-store account; no unsupported order is stated."
     },
     {
-      "topicId": "T097",
-      "researchSha256": "9ce1ec434b2f74194761e5a2f250cea1d670e355c529eb2c69aba39d54c5496d",
-      "previousValidationSha256": "9db75e1bacb64e05777f2155080223fb58dc8d5f37b78d85eb582c2b18793165",
-      "previousValidationMatches": false,
-      "previousValidationStatus": "partial",
-      "selectedClaimsRecheckSha256": "32f77a68e4dcee17319fecaaaa6df57e8a5105aea2c6b9f907f13d0bfb24dbf9",
-      "usedFacts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "claim": "London Museum records cotton jeans bought by Kim Philpotts in the 1980s, made by Katharine Hamnett and dated 1980–1989.",
-          "sourceIds": [
-            "M01"
-          ]
-        },
-        {
-          "id": "F02",
-          "kind": "historical_fact",
-          "claim": "The museum describes Philpotts’s preference for British women designers and notes that she also wore Levi’s 501s; this is one person’s wardrobe.",
-          "sourceIds": [
-            "M01"
-          ]
-        },
-        {
-          "id": "F04",
-          "kind": "brand_statement",
-          "claim": "NICENESS says CHARLES references 1980s British denim trousers, uses a raised-back pattern, cotton denim and printed lining, and is made in Japan.",
-          "sourceIds": [
-            "B01"
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "id": "M01",
-          "title": "Trousers, jeans — 2010.53/23",
-          "publisher": "London Museum",
-          "type": "museum_collection_record",
-          "url": "https://www.londonmuseum.org.uk/collections/v/object-782287/trousers-jeans/"
-        },
-        {
-          "id": "B01",
-          "title": "NICENESS CHARLES",
-          "publisher": "NICENESS",
-          "type": "official_product_page",
-          "url": "https://www.niceness.jp/products/charles"
-        },
-        {
-          "id": "R01",
-          "title": "CHARLES British Denim Trousers — 26AW",
-          "publisher": "Kerouac",
-          "type": "retailer_listing",
-          "url": "https://kerouac.okinawa/view/item/000000005069?category_page_id=ct5"
-        }
-      ],
-      "sourceChecks": [
-        {
-          "id": "M01",
-          "checkedOn": "2026-10-04",
-          "locator": "Description and Object details / 2010.53/23",
-          "verifiedClaim": "Kim Philpotts bought Katharine Hamnett cotton jeans in the 1980s; object dated 1980–1989. Museum says she preferred British female designers and also wore Levi’s 501s."
-        },
-        {
-          "id": "B01",
-          "checkedOn": "2026-10-04",
-          "locator": "Product description / CHARLES",
-          "verifiedClaim": "Official page identifies a British 1980s denim-trouser reference, raised-back pattern, cotton denim, graphic lining and Made in Japan."
-        },
-        {
-          "id": "R01",
-          "checkedOn": "2026-10-04",
-          "locator": "Product title and description",
-          "verifiedClaim": "Retailer labels this CHARLES product 26AW; used only for season metadata."
-        }
-      ],
-      "claimsStatus": "Selected claims confirmed. The museum object is one person’s purchase, not a typical British pattern; it does not identify CHARLES’s precise source or the object’s sewing location.",
-      "boundary": "London Museum records one owner’s garment. The relationship to CHARLES is a brand-stated reference, not an object identification.",
-      "independentReview": "Pending; source rechecking by the drafter is not independent editorial review."
-    },
-    {
-      "topicId": "T091",
-      "researchSha256": "8b506ff6376297ae4be91b280ecc955653d3cc384e487837006ce454f814adf7",
-      "previousValidationSha256": "4615ada8f671790a01d19441f83a661cbd4a59535d0599525b3173e9884487dd",
-      "previousValidationMatches": false,
-      "previousValidationStatus": "partial",
-      "selectedClaimsRecheckSha256": "ec1c5e059b4fa46d479d9edc7413b810be489dce243199104ab1437520446ffa",
-      "usedFacts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "claim": "The Met describes Hiroshige’s ca.1833–34 Kuwana print as two boats approaching Kuwana port after a two-hour trip from Miya.",
-          "sourceIds": [
-            "M01"
-          ]
-        },
-        {
-          "id": "F04",
-          "kind": "historical_fact",
-          "claim": "A separate Hiroshige Goyu print has visible credits naming Ichiryūsai, engraver Jirobei, printer Heibei and publisher Takenouchi, as the Met explains.",
-          "sourceIds": [
-            "M03"
-          ]
-        },
-        {
-          "id": "F07",
-          "kind": "brand_statement",
-          "claim": "NICENESS says B.PALMER’s port-town landscape was inspired by the Tokaido Fifty-Three Stations and describes the current fabric’s Hokuriku weaving and Kyoto discharge printing.",
-          "sourceIds": [
-            "B02"
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "id": "M01",
-          "title": "Station Forty-Three: Kuwana, Seven-Ri Ferry at the Port",
-          "publisher": "The Metropolitan Museum of Art",
-          "type": "museum_collection_record",
-          "url": "https://www.metmuseum.org/art/collection/search/55587"
-        },
-        {
-          "id": "M03",
-          "title": "Goyu, Tabibito Ryujo",
-          "publisher": "The Metropolitan Museum of Art",
-          "type": "museum_collection_record",
-          "url": "https://www.metmuseum.org/art/collection/search/36957"
-        },
-        {
-          "id": "B02",
-          "title": "NICENESS B.PALMER SS26",
-          "publisher": "NICENESS",
-          "type": "official_product_page",
-          "url": "https://www.niceness.jp/products/b-palmer-26ss"
-        }
-      ],
-      "sourceChecks": [
-        {
-          "id": "M01",
-          "checkedOn": "2026-10-04",
-          "locator": "Artwork details / JP1491",
-          "verifiedClaim": "Met says foreground boats are about to reach Kuwana port after a two-hour journey from Miya; Hiroshige, ca.1833–34, woodblock print."
-        },
-        {
-          "id": "M03",
-          "checkedOn": "2026-10-04",
-          "locator": "Artwork explanation / JP506",
-          "verifiedClaim": "Met identifies the print credits including Ichiryūsai as a Hiroshige pseudonym, engraver Jirobei, printer Heibei and publisher Takenouchi."
-        },
-        {
-          "id": "B02",
-          "checkedOn": "2026-10-04",
-          "locator": "Product description / B.PALMER",
-          "verifiedClaim": "Official page states port-landscape inspiration from Tokaido Fifty-Three Stations, current board-shirt construction and textile/print processes."
-        }
-      ],
-      "claimsStatus": "Selected claims confirmed. No exact reference print, artist, station or individual image was attributed to B.PALMER. The Goyu print is a comparison source, not an identified garment source.",
-      "boundary": "The Met works are comparison records, not identified B.PALMER originals. NICENESS does not name an exact print; print credits are not equated with current clothing production.",
-      "independentReview": "Pending; source rechecking by the drafter is not independent editorial review."
-    },
-    {
-      "topicId": "T099",
-      "researchSha256": "4f4bf484d255c5e3b8352f804945447730de8caf6fae9c49c7785bed35ae82bc",
-      "previousValidationSha256": "411cdead5324f1c8e8584d9cd5a60688fdd3def67488016ca9dfa8638a45b92b",
-      "previousValidationMatches": false,
-      "previousValidationStatus": "partial",
-      "selectedClaimsRecheckSha256": "8f5287aa03cbd9b909c08552432044791a685f186a7ca832859e103a7f775e9b",
-      "usedFacts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "claim": "Archie Green’s 2001 article describes Frisco jeans as straight-leg heavy black cotton twill and reports Ben Davis had made them in San Francisco since 1935.",
-          "sourceIds": [
-            "E01"
-          ]
-        },
-        {
-          "id": "F02",
-          "kind": "historical_fact",
-          "claim": "The 1948 Labor Day parade caption identifies the SUP contingent’s outfit as white shirts, Frisco jeans and white caps.",
-          "sourceIds": [
-            "E01"
-          ]
-        },
-        {
-          "id": "F03",
-          "kind": "historical_fact",
-          "claim": "Green quotes Joe Gladstone’s later recollection of an unofficial outfit associated with belonging to West Coast seafarers.",
-          "sourceIds": [
-            "E01"
-          ]
-        },
-        {
-          "id": "F04",
-          "kind": "brand_statement",
-          "claim": "NICENESS says N.MORLEY uses a 1950s US Frisco trouser base with British trouser construction and a linen canvas carrying a scanned denim transfer print.",
-          "sourceIds": [
-            "B01"
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "id": "E01",
-          "title": "Harry Lundeberg Stetson: A Centennial Tribute — p.3",
-          "publisher": "West Coast Sailors / Sailors’ Union of the Pacific",
-          "type": "union_history_article_and_photo_caption",
-          "url": "https://www.sailors.org/sites/default/files/newsletter/pdf/harrylundebergcentennial.pdf"
-        },
-        {
-          "id": "B01",
-          "title": "NICENESS N.MORLEY",
-          "publisher": "NICENESS",
-          "type": "official_product_page",
-          "url": "https://www.niceness.jp/products/n-morley"
-        },
-        {
-          "id": "R01",
-          "title": "NICENESS 26AW product listing — N.MORLEY",
-          "publisher": "kiretto",
-          "type": "retailer_listing",
-          "url": "https://kiretto.shop-pro.jp/?cbid=2757832&csid=0&mode=cate"
-        }
-      ],
-      "sourceChecks": [
-        {
-          "id": "E01",
-          "checkedOn": "2026-10-04",
-          "locator": "p.3; printed page 3",
-          "verifiedClaim": "Caption lists white shirts, Frisco jeans and Lundeberg stetsons for the 1948 parade. Article gives Green’s Frisco-jeans description, says outfit was unofficial and quotes Gladstone’s later recollection."
-        },
-        {
-          "id": "B01",
-          "checkedOn": "2026-10-04",
-          "locator": "Product description / N.MORLEY",
-          "verifiedClaim": "Official page states 1950s US Frisco trousers, British slacks construction, linen canvas with scanned 1950s denim transfer and Made in Japan."
-        },
-        {
-          "id": "R01",
-          "checkedOn": "2026-10-04",
-          "locator": "26AW category and N.MORLEY listing",
-          "verifiedClaim": "Retail listing identifies N.MORLEY within its 26AW assortment; used only for season metadata."
-        }
-      ],
-      "claimsStatus": "Selected claims confirmed. Green’s description is a 2001 retrospective, not a 1935 manufacturer catalog. The parade outfit is described as unofficial, and the exact date of any union mandate remains unknown. The 1948 comparison predates the stated 1950s product reference.",
-      "boundary": "The photograph/caption and later recollection are bounded to their stated contexts; no universal sailor dress code, exact garment manufacturer from the photograph or direct NICENESS prototype is claimed.",
-      "independentReview": "Pending; source rechecking by the drafter is not independent editorial review."
-    },
-    {
       "topicId": "T253",
       "researchSha256": "a86b22f1f85af24902100ca7a874b2c22b08144292e1276738d6b8242dcec211",
       "previousValidationSha256": "a86b22f1f85af24902100ca7a874b2c22b08144292e1276738d6b8242dcec211",
@@ -324,7 +76,7 @@
         {
           "id": "F01",
           "kind": "historical_fact",
-          "claim": "The 1955 revision of DoD Instruction 4210.2 lists Flying Man’s Type N-2B in an Air Force textile-items table with wool/nylon and a MIL-J-6278-series specification.",
+          "claim": "The September 1955 revision of DoD Instruction 4210.2 lists “Jacket, Flying Man’s Type N-2B” in its Air Force textile-items table for quarterly receipt reporting.",
           "sourceIds": [
             "H01"
           ]
@@ -370,7 +122,8 @@
       ],
       "claimsStatus": "Existing research and validation hashes match. The government list establishes the item label; it does not identify MARSH’s direct source or specific issue/use.",
       "boundary": "The DoD list gives a type label, not a detailed garment or wear record. NICENESS names N-2/N-3 and various military details but does not identify N-2B as its direct source.",
-      "independentReview": "Pending; source rechecking by the drafter is not independent editorial review."
+      "independentReview": "Pending; source rechecking by the drafter is not independent editorial review.",
+      "editorialOverlap": "Main T137 already uses a nearby N-3-series type and the distinction between a type label and an identified reference garment. T253 uses a different 1955 Air Force document and N-2B label, but currently adds little about the garment’s form or use; keep it in review until its separate reader value is established."
     }
   ]
 }
