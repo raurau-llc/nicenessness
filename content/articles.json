@@ -28054,407 +28054,6 @@
     ]
   },
   {
-    "id": "T079",
-    "slug": "paisley-kashmir-shawl",
-    "title": "カシミールのショールから、Paisleyの名へ\n曲がった滴形の文様",
-    "deck": "呼び名が、織物の産地を経て柄の名になる。",
-    "regions": [
-      {
-        "id": "in",
-        "name": "インド",
-        "role": "butehとカシミール製ショールの参照地"
-      },
-      {
-        "id": "uk",
-        "name": "英国",
-        "role": "機械織の模倣品の産地Paisley"
-      },
-      {
-        "id": "jp",
-        "name": "日本",
-        "role": "現代商品の植物文様との組合せ"
-      }
-    ],
-    "eras": [
-      "1600s",
-      "1700s",
-      "1800s",
-      "1900s"
-    ],
-    "tags": [
-      "ペイズリー",
-      "カシミール",
-      "ショール",
-      "文様"
-    ],
-    "category": "DRESS / 着る",
-    "model": "CHAO",
-    "season": "AW25",
-    "item": "chao",
-    "place": "インド・カシミール／スコットランド・Paisley",
-    "period": "17世紀末〜20世紀初め",
-    "context": "butehとPaisley柄",
-    "opening": "先端が曲がった滴のような形。RISD Museumは、この文様をインド・ペルシアでbutaまたはbotehと呼ぶと説明する。初期形の由来には複数の説があり、一つの発祥地に決めてはいない。",
-    "opening_refs": [
-      "F01"
-    ],
-    "sections": [
-      {
-        "id": "shawls",
-        "title": "カシミールの織物が、欧州へ渡る。",
-        "paragraphs": [
-          "Textile Research Centreの解説は、17世紀末のムガル朝インドで鉤状のbutehが好まれ、カシミールの手織り毛ショールなどに使われたとする。RISDは、18世紀半ばからカシミール製ショールが欧州へ輸入され、1790年代末には上層の女性の間で流行したと記す。",
-          "ここで確かめられるのは、特定の文様の起源ではなく、織物と柄の用いられ方について各館が説明する範囲だ。"
-        ],
-        "fact_ids": [
-          "F02",
-          "F05"
-        ]
-      },
-      {
-        "id": "name",
-        "title": "産地の名が、柄の呼び名になる。",
-        "paragraphs": [
-          "欧州で機械織りの模倣品を作ったスコットランドの町Paisleyは、ショールの通称としても使われた。RISDの解説では、20世紀初めまでに町の名が柄そのものの呼び方へ広がっている。",
-          "現在よく使われる名称には、織物が移動し、別の土地で模倣生産された歴史が重なる。名前だけから文様の唯一の起源を決めることはできない。"
-        ],
-        "fact_ids": [
-          "F03"
-        ]
-      }
-    ],
-    "closing": "柄の形、ショールの産地、欧州での呼び名。由来を一つにまとめず、それぞれの記録から文様の移動をたどる。",
-    "bridge_title": "異なる植物文様を、同じ布へ。",
-    "bridge": "NICENESSはCHAO、JAMET、PATについて、Paisleyと日本の植物文様を組み合わせた図柄をシルクスクリーンでプリントすると説明する。経糸にシルク、緯糸に綿を使うローンを用いるという。",
-    "bridge_refs": [
-      "F06",
-      "F07"
-    ],
-    "boundary": "歴史上のカシミール製ショールを、現行商品の直接の原型とはしていない。各文様の具体的な原図や起源も特定していない。現代商品の組成・加工はブランドの公式説明として記す。",
-    "product_title": "スカーフの図柄を、シャツとタイへ。",
-    "product_paragraphs": [
-      "CHAOは交織ローンのスカーフ、PATは同じく柄を使ったスカーフタイ。JAMETはスカーフの柄と細部を活かすパターンのオープンカラーシャツとして紹介される。",
-      "柄を配する面積や服の形を変える現在の編集として読み、Paisley柄の歴史とは別の資料に基づく説明として置く。"
-    ],
-    "product_refs": [
-      "F06",
-      "F07"
-    ],
-    "status": "review",
-    "editorialCredit": "NICENESSness 編集",
-    "publishedAt": null,
-    "modifiedAt": null,
-    "products": [
-      {
-        "id": "chao",
-        "model": "CHAO",
-        "season": "AW25",
-        "number": null,
-        "url": "https://www.niceness.jp/products/chao",
-        "retained": "カシミール由来と説明されるPaisleyと日本の植物文様の組合せ。",
-        "changed": "シルクスクリーンのプリントを交織ローンに載せたスカーフ。",
-        "factRefs": [
-          "F06",
-          "F08"
-        ]
-      },
-      {
-        "id": "jamet",
-        "model": "JAMET",
-        "season": "AW25",
-        "number": null,
-        "url": "https://www.niceness.jp/products/jamet",
-        "retained": "異なる植物文様を組み合わせた柄。",
-        "changed": "柄とスカーフの細部を活かすオープンカラーシャツのパターン。",
-        "factRefs": [
-          "F06",
-          "F09"
-        ]
-      },
-      {
-        "id": "pat",
-        "model": "PAT",
-        "season": "AW25",
-        "number": null,
-        "url": "https://www.niceness.jp/products/pat",
-        "retained": "異なる植物文様を組み合わせた柄。",
-        "changed": "交織ローンを使ったスカーフタイ。",
-        "factRefs": [
-          "F06",
-          "F10"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "E01",
-        "title": "What's in a Name? The Paisley Pattern in Kashmir Shawls",
-        "publisher": "RISD Museum／Madelyn Shaw",
-        "url": "https://risdmuseum.org/exhibitions-events/exhibitions/whats-name-paisley-pattern-kashmir-shawls",
-        "kind": "history"
-      },
-      {
-        "id": "E03",
-        "title": "3. History of the paisley motif",
-        "publisher": "Textile Research Centre, Leiden",
-        "url": "https://trc-leiden.nl/trc-digital-exhibition/index.php/from-buteh-to-paisley/item/265-3-history-of-the-paisley-motif",
-        "kind": "history"
-      },
-      {
-        "id": "B01",
-        "title": "NICENESS CHAO",
-        "publisher": "NICENESS",
-        "url": "https://www.niceness.jp/products/chao",
-        "kind": "brand"
-      },
-      {
-        "id": "B02",
-        "title": "NICENESS JAMET",
-        "publisher": "NICENESS",
-        "url": "https://www.niceness.jp/products/jamet",
-        "kind": "brand"
-      },
-      {
-        "id": "B03",
-        "title": "NICENESS PAT",
-        "publisher": "NICENESS",
-        "url": "https://www.niceness.jp/products/pat",
-        "kind": "brand"
-      }
-    ]
-  },
-  {
-    "id": "T177",
-    "slug": "army-khaki-trouser-waistband",
-    "title": "腰帯と前開きを変える\n米軍のカーキトラウザー",
-    "deck": "腰まわりの仕様が変わった二つの時点を、資料で分けて読む。",
-    "regions": [
-      {
-        "id": "us",
-        "name": "米国",
-        "role": "国立公園局報告が記録する米軍トラウザー"
-      }
-    ],
-    "eras": [
-      "1950s"
-    ],
-    "tags": [
-      "トラウザー",
-      "カーキ",
-      "ベルトループ",
-      "前開き"
-    ],
-    "category": "DRESS / 着る",
-    "model": "ALBARN",
-    "season": "AW26",
-    "item": "albarn",
-    "place": "米国",
-    "period": "1954〜58年",
-    "context": "米軍のカーキ綿トラウザー",
-    "opening": "腰に別付けする帯と、太いベルトループ。National Park ServiceのFort Cronkhite歴史調度報告は、米軍のカーキ綿トラウザーの仕様を年代とともに記録している。",
-    "opening_refs": [
-      "F01"
-    ],
-    "sections": [
-      {
-        "id": "waist",
-        "title": "1954年の腰まわり。",
-        "paragraphs": [
-          "報告によれば、1954年にはトラウザーに別付けの腰帯と太いベルトループが採用されていた。腰帯とループは、パンツの胴まわりを構成する別々の細部として記録されている。",
-          "この記述から分かるのは、該当資料がまとめた軍用衣服の仕様。すべての着用者や支給品が同じ作りだったとは広げない。"
-        ],
-        "fact_ids": [
-          "F01"
-        ]
-      },
-      {
-        "id": "closure",
-        "title": "前開きの変更は、1958年までに。",
-        "paragraphs": [
-          "同じ報告は、1958年までに前開きがジッパー式へ変わったと記す。1954年の腰帯・ループの記述と、数年後までに確認される前開きの変更は、別の仕様として読む。",
-          "一つの型を年代の流れとして見る時も、同じ時点で全ての部位が一斉に変わったと決めず、資料が示す範囲にとどめる。"
-        ],
-        "fact_ids": [
-          "F01"
-        ]
-      }
-    ],
-    "closing": "ベルトを通す部分と、前を留める部分。腰まわりの小さな構成を分けると、トラウザーの仕様がどう記録されたか見えてくる。",
-    "bridge_title": "軍用チノの参照を、特注生地へ。",
-    "bridge": "NICENESSのALBARNは1950〜60年代の軍用チノをイメージした特注チノクロスを使うと説明される。生地にはエイジング加工を施し、柔らかさと膨らみを加えるという。",
-    "bridge_refs": [
-      "F02"
-    ],
-    "boundary": "NPSのカーキ綿トラウザーとALBARNを同一の型や規格とはしていない。ブランドが述べる参照は1950〜60年代の軍用チノで、製造規格や対象部隊は公式説明から特定できない。NPS報告の1954年・1958年の記録範囲を、軍服全体の一律な変化とも扱わない。",
-    "product_title": "同じ参照を、チノクロスとジャケットへ。",
-    "product_paragraphs": [
-      "AW26のALBARNは、軍用チノをイメージしたチノクロスを使い、エイジングで柔らかさと膨らみを出す。C.COXONは同様の参照生地を、別年代の米陸軍デニム型を組み直したジャケットに用いる。",
-      "一方はトラウザー、もう一方はジャケット。公式資料が説明する現代の組合せとして記し、1950年代の米軍支給品と同一視しない。"
-    ],
-    "product_refs": [
-      "F02"
-    ],
-    "status": "review",
-    "editorialCredit": "NICENESSness 編集",
-    "publishedAt": null,
-    "modifiedAt": null,
-    "products": [
-      {
-        "id": "albarn",
-        "model": "ALBARN",
-        "season": "AW26",
-        "number": null,
-        "url": "https://www.niceness.jp/products/albarn",
-        "retained": "1950〜60年代軍用チノへの参照。",
-        "changed": "特注チノクロスと、柔らかさ・膨らみを加えるエイジング加工。",
-        "factRefs": [
-          "F02"
-        ]
-      },
-      {
-        "id": "c-coxon",
-        "model": "C.COXON",
-        "season": "AW26",
-        "number": null,
-        "url": "https://www.niceness.jp/products/c-coxon",
-        "retained": "軍用チノのイメージを生地に採用。",
-        "changed": "別年代の米陸軍デニム型を再構築したジャケット。",
-        "factRefs": [
-          "F03"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "H01",
-        "title": "Fort Cronkhite Historic Furnishings Report",
-        "publisher": "National Park Service",
-        "url": "https://www.nps.gov/goga/learn/historyculture/upload/Cronkhite-Historic-Furnishings-Report.pdf",
-        "kind": "history"
-      },
-      {
-        "id": "B01",
-        "title": "NICENESS ALBARN",
-        "publisher": "NICENESS",
-        "url": "https://www.niceness.jp/products/albarn",
-        "kind": "brand"
-      },
-      {
-        "id": "B02",
-        "title": "NICENESS C.COXON",
-        "publisher": "NICENESS",
-        "url": "https://www.niceness.jp/products/c-coxon",
-        "kind": "brand"
-      }
-    ]
-  },
-  {
-    "id": "T223",
-    "slug": "army-summer-shorts-1956",
-    "title": "半袖シャツとカーキショーツ\n1956年の米陸軍夏服",
-    "deck": "公式史に掲載された写真から、男性士官用夏服の組合せを見る。",
-    "regions": [
-      {
-        "id": "us",
-        "name": "米国",
-        "role": "米陸軍公式史が掲載する夏服の写真"
-      }
-    ],
-    "eras": [
-      "1950s"
-    ],
-    "tags": [
-      "米陸軍",
-      "夏服",
-      "ショーツ",
-      "カーキ"
-    ],
-    "category": "DRESS / 着る",
-    "model": "MAHER",
-    "season": "SS25",
-    "item": "maher",
-    "place": "米国",
-    "period": "1956年",
-    "context": "男性士官用カーキ夏服",
-    "opening": "米陸軍公式史には、1956年12月17日に綿カーキのシャツとショーツからなる男性士官用夏服を、モデルが着用した写真が掲載されている。",
-    "opening_refs": [
-      "F02"
-    ],
-    "sections": [
-      {
-        "id": "photograph",
-        "title": "一枚の写真に残る、夏服の組合せ。",
-        "paragraphs": [
-          "米陸軍Center of Military Historyの記録は、シャツとショーツを綿のカーキ服として説明する。モデルの着用写真は、夏服の全身の組合せを示す資料として残されている。",
-          "写真に写る一例から、配給数や日常的な着用頻度までは分からない。ここでは掲載された服装と日付に限って記す。"
-        ],
-        "fact_ids": [
-          "F02"
-        ]
-      },
-      {
-        "id": "uniform",
-        "title": "ショーツだけでなく、全身の仕様を見る。",
-        "paragraphs": [
-          "ショーツを単独で見ると、制服の一部であることを見落としやすい。記録が示すのは、半袖のカーキシャツとショーツを含む男性士官向け夏服の着用例だ。",
-          "写真は軍服の組合せを見せるが、現在の商品の直接の型紙や素材を示す資料ではない。"
-        ],
-        "fact_ids": [
-          "F02"
-        ]
-      }
-    ],
-    "closing": "制服の写真に並ぶのは、ショーツだけではない。半袖シャツと合わせて見ると、夏服の一式として着られたことが分かる。",
-    "bridge_title": "夏用の軍服を、通気性のある現代ショーツへ。",
-    "bridge": "NICENESSのMAHERは、米軍のサマーショーツを参照し、独自のムラ糸チノにレザーとメッシュを組み合わせて通気性を高めると説明される。",
-    "bridge_refs": [
-      "F03"
-    ],
-    "boundary": "MAHERを1956年の写真に写る服の再現や直接の後継品とはしていない。写真はモデル着用の例であり、他の兵士の制服仕様や着用状況を代表するとは限らない。",
-    "product_title": "素材と部位を現在の設計に組み合わせる。",
-    "product_paragraphs": [
-      "SS25のMAHERは、米軍サマーショーツへの参照を起点に、ムラ糸チノとレザー、メッシュを使うと公式資料が説明する。",
-      "写真の制服が綿カーキであることと、現在の商品が用いる素材・通気性の工夫を混同せず、二つの時点を分けて読む。"
-    ],
-    "product_refs": [
-      "F03"
-    ],
-    "status": "review",
-    "editorialCredit": "NICENESSness 編集",
-    "publishedAt": null,
-    "modifiedAt": null,
-    "products": [
-      {
-        "id": "maher",
-        "model": "MAHER",
-        "season": "SS25",
-        "number": null,
-        "url": "https://www.niceness.jp/products/maher",
-        "retained": "米軍のサマーショーツへの参照。",
-        "changed": "ムラ糸チノとレザー・メッシュを組み合わせる。",
-        "factRefs": [
-          "F03"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "H02",
-        "title": "From New Look to Flexible Response: The U.S. Army in National Security, 1953–1963",
-        "publisher": "Donald A. Carter / U.S. Army Center of Military History",
-        "url": "https://history.army.mil/portals/143/Images/Publications/catalog/45-6.pdf",
-        "kind": "history"
-      },
-      {
-        "id": "B01",
-        "title": "NICENESS MAHER",
-        "publisher": "NICENESS",
-        "url": "https://www.niceness.jp/products/maher",
-        "kind": "brand"
-      }
-    ]
-  },
-  {
     "id": "T267",
     "slug": "okeeffe-clothes-portraits",
     "title": "衣服とポーズで、自分の像をつくる\nジョージア・オキーフ",
@@ -28517,19 +28116,21 @@
       }
     ],
     "closing": "装いの意味は、布の形だけで決まらない。美術館の解釈と衣服の具体的な構成を分けると、写真の中で服が担った役割を丁寧に追える。",
-    "bridge_title": "二つの靴の参照を、ヨットシューズへ。",
-    "bridge": "NICENESSのGEORGIAは、米軍のボートシューズとオキーフの汚れた「コモドール」に着想した革のヨットシューズと説明される。これはブランドが挙げる現代商品の参照先として記す。",
+    "bridge_title": "ブランドの呼称と、収蔵記録を分ける。",
+    "bridge": "NICENESSのGEORGIA商品説明は、米軍のボートシューズとO’Keeffeの「dirty Commodore」を着想源として挙げる。一方、Georgia O’Keeffe Museum Accessが記録する靴（2000.3.689）はSperry Top-Siderの白いキャンバススニーカー。二つが同じ靴を指すとは確認できない。",
     "bridge_refs": [
-      "F03"
+      "F03",
+      "F04"
     ],
-    "boundary": "美術館資料は、展示の解釈と好まれた衣服の種類を示すが、「コモドール」と呼ばれる靴の来歴を立証するものではない。GEORGIAがオキーフ本人の所有品を再現したとも扱わない。",
-    "product_title": "装いの記録と、現在の靴の参照。",
+    "boundary": "「Commodore」はブランド説明にある呼称として扱う。美術館のSperry Top-Sider記録との同一性やGEORGIAの直接の原型関係は確認されていない。",
+    "product_title": "異なる出典の靴を、別々に記録する。",
     "product_paragraphs": [
-      "公式資料はGEORGIAを、米軍ボートシューズとオキーフの「コモドール」への参照を組み合わせた革靴として紹介する。",
-      "商品名に使われる人物と、作品や所蔵資料の間に直接の原型関係が確認できない場合は、ブランドの説明と美術館の記録を別々に置く。"
+      "GEORGIAはSS26の商品説明で、米軍ボートシューズと「dirty Commodore」への参照を挙げる。これはブランドの表現として記す。",
+      "美術館記録のSperry Top-Siderは別の所蔵記録であり、両者の関係は特定できない。"
     ],
     "product_refs": [
-      "F03"
+      "F03",
+      "F04"
     ],
     "status": "review",
     "editorialCredit": "NICENESSness 編集",
@@ -28542,8 +28143,8 @@
         "season": "SS26",
         "number": null,
         "url": "https://www.niceness.jp/products/georgia-1",
-        "retained": "米軍ボートシューズと、ブランド資料がO’Keeffeの「コモドール」と呼ぶ靴。",
-        "changed": "革製ヨットシューズとして再構成。",
+        "retained": "ブランドの商品説明が挙げる米軍ボートシューズと「dirty Commodore」への参照。",
+        "changed": "SS26の革製ヨットシューズ。",
         "factRefs": [
           "F03"
         ]
@@ -28570,76 +28171,85 @@
         "publisher": "NICENESS",
         "url": "https://www.niceness.jp/products/georgia-1",
         "kind": "brand"
+      },
+      {
+        "id": "H03",
+        "title": "Sperry Top-Sider white canvas sneakers, well-worn and soiled with clay",
+        "publisher": "Georgia O’Keeffe Museum Access",
+        "url": "https://access-ok.okeeffemuseum.org/object/10108/",
+        "kind": "collection"
       }
     ]
   },
   {
     "id": "T276",
     "slug": "french-farm-vest-1961",
-    "title": "前を一つのボタンで留める\n1961年頃のフランス製ベスト",
-    "deck": "農村の生活記録と、一着の綿ベストを別々にたどる。",
+    "title": "製作年と撮影年が食い違う\nParis Muséesの短いベスト",
+    "deck": "一着の収蔵記録に併記された二つの年代を、混ぜずに読む。",
     "regions": [
       {
         "id": "fr",
         "name": "フランス",
-        "role": "INAの農村資料とPalais Galliera所蔵ベストの地域"
+        "role": "Paris Muséesに登録されたベストの製作地・所蔵記録"
       }
     ],
     "eras": [
-      "1960s"
+      "1960s",
+      "1970s"
     ],
     "tags": [
       "ベスト",
-      "フランス",
-      "農村",
-      "前合わせ"
+      "綿",
+      "収蔵記録",
+      "年代"
     ],
     "category": "DRESS / 着る",
     "model": "FLINT",
     "season": "SS26",
     "item": "flint",
-    "place": "フランス",
-    "period": "1959〜61年頃",
-    "context": "農村の写真資料と綿ベスト",
-    "opening": "袖がなく、前を合わせ、一つのボタンで留める。Palais Gallieraの収蔵記録には、1961年頃に撮影されたフランス製の短い綿ベストがある。",
+    "place": "フランス・Saint-Tropez（収蔵記録）",
+    "period": "製作 circa 1970／撮影 circa 1961",
+    "context": "Paris Muséesのベスト収蔵記録",
+    "opening": "Paris Muséesの記録は、この短い綿ベストの製作を「circa 1970」、写真撮影を「circa 1961」とする。記録内で年代が前後しており、どちらが正しいかは同資料からは解決できない。",
     "opening_refs": [
       "F02"
     ],
     "sections": [
       {
-        "id": "rural",
-        "title": "農村の変化を、写真と映像で記録する。",
+        "id": "dates",
+        "title": "製作は1970年頃、写真は1961年頃。",
         "paragraphs": [
-          "フランスのINAが公開する1960年代のアルバムは、農業の機械化を含む農村生活の変化を写真や映像でたどる。服飾博物館のベスト記録とは異なる資料群だ。",
-          "二つを同じ人物・同じ土地の記録と結びつけず、当時の農村を写した資料と、一着の服の記述として並べて読む。"
-        ],
-        "fact_ids": [
-          "F01"
-        ]
-      },
-      {
-        "id": "shape",
-        "title": "短い身頃と、単一ボタン。",
-        "paragraphs": [
-          "収蔵記録にあるベストは袖なしで、前合わせを一つのボタンで留める。写真撮影年と服の構造が記される一方、着用者の職業や日常の使い方は説明されていない。",
-          "農夫の服として広げるのではなく、ブランドが明示する農夫ベストへの参照と、この一着の記録を分けて扱う。"
+          "コレクション記録の制作欄はPeau d’Ane、Saint-Tropez、circa 1970を挙げる。一方、説明文はLucien Morisseと写る写真をcirca 1961と記す。",
+          "これは服の製作年と写真の撮影年を分けて読む必要がある記載上の不一致だ。本文は不一致を解消せず、どちらかを確定年として採らない。"
         ],
         "fact_ids": [
           "F02"
         ]
+      },
+      {
+        "id": "form",
+        "title": "短い身頃と、ひとつの留め具。",
+        "paragraphs": [
+          "同じ記録には、短い袖なしの綿ベスト、交差する前合わせ、半球状のボタンが記される。製作地や形の情報は残るが、着用者の職業は特定されていない。",
+          "ブランド資料はFLINTのデザイン参照に「フランス農夫ベスト」という語を使う。これはブランド側の説明であり、この収蔵品を農作業着とする根拠ではない。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
       }
     ],
-    "closing": "社会の変化を伝える写真資料と、ボタンの位置まで記された収蔵品。異なる資料が答える問いを混ぜず、ベストの形へ近づく。",
-    "bridge_title": "フランスのベスト要素を、別の上着へ。",
-    "bridge": "NICENESSのFLINTは、1960年代フランス農夫ベストの要素を、同年代の米国エンジニアジャケットへ合わせたと公式資料に記される。",
+    "closing": "収蔵記録の二つの年代は一致しない。形の観察と、記録が示す製作・撮影情報を分けることで、一着について分かることの範囲を保てる。",
+    "bridge_title": "ベストの要素を、別の上着へ。",
+    "bridge": "利用者がNICENESSの保存資料として提供したFLINTの記述は、1960年代フランスの農夫ベストと米国エンジニアジャケットの要素を組み合わせたと説明する。これはブランド資料のデザイン参照として扱う。",
     "bridge_refs": [
       "F03"
     ],
-    "boundary": "Galliera所蔵の短い綿ベストがFLINTの直接の原型とは確認されていない。INAの農村資料が示す生活変化も、所蔵ベストの着用者や具体的用途を特定するものではない。",
+    "boundary": "Paris Muséesの一着は製作 circa 1970・写真 circa 1961と記録され、その不一致は未解決。製作者、用途、着用者を「農夫」とは特定しない。FLINTと同じ型や原型とも確認されていない。",
     "product_title": "二つの服型を合わせる。",
     "product_paragraphs": [
-      "公式説明によれば、FLINTはフランスの農夫ベストと米国のエンジニアジャケット、二つの参照を組み合わせた上着。",
-      "収蔵品の形とブランドが示すデザイン参照を分けて読み、所蔵品から製造地や着用者を推定しない。"
+      "保存ブランド資料は、FLINTをフランスのベストと米国のエンジニアジャケットへの参照を組み合わせた上着として紹介する。",
+      "収蔵品の形とブランドのデザイン説明は別の記録に基づく。"
     ],
     "product_refs": [
       "F03"
@@ -28655,7 +28265,7 @@
         "season": "SS26",
         "number": null,
         "url": null,
-        "retained": "1960年代フランス農夫ベストと米国エンジニアジャケットの要素。",
+        "retained": "保存ブランド資料が挙げる1960年代フランス農夫ベストと米国エンジニアジャケットの要素。",
         "changed": "二つの服型を合わせた現代の上着。",
         "factRefs": [
           "F03"
@@ -28664,18 +28274,11 @@
     ],
     "sources": [
       {
-        "id": "H01",
-        "title": "À quoi ressemblaient les campagnes françaises dans les années 60",
-        "publisher": "Institut national de l’audiovisuel",
-        "url": "https://www.ina.fr/actualites-ina/l-album-photo/album-photo-la-campagne-francaise-des-annees-60",
-        "kind": "history"
-      },
-      {
         "id": "H02",
         "title": "Gilet",
         "publisher": "Paris Musées",
         "url": "https://www.parismuseescollections.paris.fr/en/node/1016466",
-        "kind": "history"
+        "kind": "collection"
       },
       {
         "id": "B01",
@@ -28689,18 +28292,13 @@
   {
     "id": "T277",
     "slug": "fisherman-jacket-and-rainwear",
-    "title": "波打ち際のジャケットと、トロール船の雨具",
-    "deck": "釣り場と船上、二つの記録に残る防水の仕事着。",
+    "title": "波打ち際で釣る人のジャケット\nMartha’s Vineyard Museumの写真目録",
+    "deck": "写真目録が記すのは、釣りの場面と衣服の一部まで。",
     "regions": [
       {
         "id": "us",
         "name": "米国",
-        "role": "Martha’s Vineyardの釣り人写真"
-      },
-      {
-        "id": "fr",
-        "name": "フランス",
-        "role": "Fécampで製造されたトロール船用雨具"
+        "role": "Martha’s Vineyard Museumの写真目録"
       }
     ],
     "eras": [
@@ -28708,57 +28306,57 @@
       "1960s"
     ],
     "tags": [
-      "漁師",
+      "釣り",
       "ジャケット",
       "ウェーダー",
-      "雨具"
+      "写真目録"
     ],
     "category": "DRESS / 着る",
     "model": "LYLE",
     "season": "SS26",
     "item": "lyle",
-    "place": "米国・Martha’s Vineyard／フランス・Fécamp",
-    "period": "1950〜60年代",
-    "context": "釣りとトロール漁の仕事着",
-    "opening": "波打ち際に立つ男性は、長袖のジャケットと胸までのウェーダーを着ている。Martha’s Vineyard Museumの写真目録は、この釣りの場面を1950年代または60年代のものとして記録する。",
+    "place": "米国・Martha’s Vineyard",
+    "period": "1950年代または1960年代",
+    "context": "波打ち際で釣りをする人物の写真記録",
+    "opening": "Martha’s Vineyard Museumの写真目録は、波打ち際で釣りをする男性の写真を1950年代または1960年代のものとして記録する。長袖ジャケットと胸までのウェーダーが記される。",
     "opening_refs": [
       "F01"
     ],
     "sections": [
       {
-        "id": "shore",
-        "title": "水際で着る上着。",
+        "id": "record",
+        "title": "目録に残るのは、釣りの場面。",
         "paragraphs": [
-          "写真目録が示すのは、釣り人の服装と場所、年代の幅だ。ジャケットの製作者や素材、ウェーダーの型式までは特定していない。",
-          "波打ち際で釣る人の装いを、一枚の写真に残された範囲で見る。"
+          "写真の項目番号2001.32.916は、男性が長袖ジャケットと胸までのウェーダーを着て、波打ち際で釣りをする場面を説明する。撮影年は1950年代または1960年代と幅を持たせている。",
+          "目録はジャケットの防水性、素材、職業や製作者を示していない。確認できるのは衣服の見え方と撮影場面までだ。"
         ],
         "fact_ids": [
           "F01"
         ]
       },
       {
-        "id": "trawler",
-        "title": "船上の雨具には、製造地と使用者が残る。",
+        "id": "design",
+        "title": "記録された服と、デザイン参照。",
         "paragraphs": [
-          "フランスのLes Pêcheriesの記録では、Fécampで作られた雨具が1960〜65年頃、トロール船Shamrock IIIでMaurice Villardに使われた。製造元Brumentは、加硫ゴム製品や雨具を扱っていたと紹介される。",
-          "こちらは別の国・別の場面の記録で、Martha’s Vineyardの写真と同じ服を示すものではない。水辺での仕事着にも、資料ごとに異なる来歴の残り方がある。"
+          "利用者がNICENESSの保存資料として提供したLYLEの説明は、1960年代のフィッシャーマンジャケットにフランス農夫ベストの要素を加え、1950年代フランスのワークウェアを思わせる凹凸ストライプを生地に採用したとする。",
+          "これはブランドの参照説明であり、目録写真のジャケットがLYLEの直接の原型だとは示していない。"
         ],
         "fact_ids": [
-          "F02"
+          "F03"
         ]
       }
     ],
-    "closing": "写真には着用場面が、船の記録には製造元と使用者が残る。水辺の仕事着を一つの「漁師服」にまとめず、二つの場所から見る。",
-    "bridge_title": "フィッシャーマンジャケットを、別の仕事着と組み合わせる。",
-    "bridge": "NICENESSのLYLEは、1960年代のフィッシャーマンジャケットを基に、フランス農夫ベストの要素を加えたと説明される。生地は1950年代フランスのワークウェアに見られる凹凸ストライプを参照した別注素材という。",
+    "closing": "水辺の写真は着用場面を、ブランドの保存資料は現代のデザイン参照を記す。二つを結びつけず、それぞれの記録の範囲から衣服を見る。",
+    "bridge_title": "異なる参照を、一着の上着に。",
+    "bridge": "保存ブランド資料でLYLEは、フィッシャーマンジャケット、フランス農夫ベスト、凹凸のあるワークウェア生地を組み合わせるデザインとして説明される。",
     "bridge_refs": [
       "F03"
     ],
-    "boundary": "Martha’s Vineyardの写真に写るジャケットやFécamp製雨具を、LYLEの直接の原型とはしていない。公式資料はデザインの参照年代や生地のイメージを示すが、特定の博物館資料との同定はしていない。",
-    "product_title": "三つの参照を、一着へ。",
+    "boundary": "Martha’s Vineyard Museumの目録は写真の人物を職業的な漁師とは特定せず、ジャケットを防水着とも記していない。LYLEとの直接の原型関係も確認されていない。",
+    "product_title": "場面の記録と、ブランドの説明を分ける。",
     "product_paragraphs": [
-      "公式説明にあるLYLEの参照は、フィッシャーマンジャケット、農夫ベスト、フランスのワークウェア生地。異なる服や表面の要素を、現在の一着へ組み合わせる。",
-      "歴史資料が記録した着用例と、ブランドが示すデザイン参照を分けて読む。"
+      "LYLEの保存資料が挙げる参照は、フィッシャーマンジャケット、農夫ベスト、フランスのワークウェア生地。",
+      "写真目録にある波打ち際の服装とは、別の資料として読む。"
     ],
     "product_refs": [
       "F03"
@@ -28774,7 +28372,7 @@
         "season": "SS26",
         "number": null,
         "url": null,
-        "retained": "1960年代フィッシャーマンジャケット、フランス農夫ベスト、1950年代フランスワークウェア。",
+        "retained": "保存ブランド資料が挙げるフィッシャーマンジャケットと農夫ベストへの参照。",
         "changed": "凹凸ストライプを参照した別注生地。",
         "factRefs": [
           "F03"
@@ -28787,14 +28385,7 @@
         "title": "Martha's Vineyard Museum Photograph Collection RU 515",
         "publisher": "Martha's Vineyard Museum",
         "url": "https://www.mvmuseum.org/EAD_FindingAids/findingaid_get.php?record-unit=RU515",
-        "kind": "history"
-      },
-      {
-        "id": "H02",
-        "title": "Musée Les Pêcheries programme",
-        "publisher": "Réseau des musées de Normandie / Les Pêcheries",
-        "url": "https://www.musees-normandie.fr/IMG/pdf/lespecheries_prog26-148x210-v9.pdf",
-        "kind": "history"
+        "kind": "collection"
       },
       {
         "id": "B01",
@@ -28808,76 +28399,74 @@
   {
     "id": "T279",
     "slug": "british-demobilized-raincoat",
-    "title": "裏地とポケットを記す\n英国軍の復員用レインコート",
-    "deck": "似た用途の外套も、資料では別々の型として登録される。",
+    "title": "Pattern M259の裏地とポケット\n英国軍の復員用レインコート",
+    "deck": "一着の記録にある年代、製造地、素材と構造を分けて読む。",
     "regions": [
       {
-        "id": "uk",
+        "id": "gb",
         "name": "英国",
-        "role": "軍用レインコートの型と製造地"
+        "role": "Pattern M259の製造地として記録"
       },
       {
         "id": "au",
         "name": "オーストラリア",
-        "role": "所蔵地"
+        "role": "Australian War Memorialの所蔵記録"
       }
     ],
     "eras": [
-      "1940s",
-      "1950s"
+      "1940s"
     ],
     "tags": [
       "レインコート",
-      "綿ギャバジン",
-      "ポケット",
-      "軍服"
+      "M259",
+      "ギャバジン",
+      "裏地"
     ],
     "category": "DRESS / 着る",
     "model": "FINN",
     "season": "AW26",
     "item": "finn",
-    "place": "英国（製造）・オーストラリア（所蔵）",
-    "period": "1944〜55年",
-    "context": "軍用防水外套",
-    "opening": "四分の三丈の綿ギャバジンに、タータンの裏地、茶色の樹脂ボタン、左右の腰ポケット。Australian War Memorialは英国軍復員兵用Pattern M259を、約1946年の英国製レインコートとして記録する。",
+    "place": "英国製（Australian War Memorial所蔵）",
+    "period": "1946年頃",
+    "context": "英国軍復員兵用Pattern M259",
+    "opening": "Australian War Memorialは、英国軍復員兵用Pattern M259を1946年頃の英国製レインコートとして記録する。綿ギャバジンの表地、タータンの裏地、茶色のプラスチックボタン、左右の腰ポケットが挙げられている。",
     "opening_refs": [
       "F02"
     ],
     "sections": [
       {
-        "id": "patterns",
-        "title": "雨具は一つの型ではない。",
+        "id": "coat",
+        "title": "製造地と所蔵地は、別の情報。",
         "paragraphs": [
-          "National Army Museumの目録には、1944年の復員用レインコート、1945年の将校用防水トレンチコート、1955年のゴム引きモンスーンケープが、それぞれ別の型として登録されている。",
-          "用途に防水が含まれても、形や対象、素材の異なる服が並ぶ。目録の分類を一つの連続した型名にまとめない。"
+          "このコートは英国製と記され、現在はオーストラリアの戦争記念館に所蔵される。どちらの地名も目録にあるが、それぞれ製造と所蔵を指す。",
+          "記録の日付は1946年頃。1944年から1955年までの別型の一覧とは混ぜず、この一着の年代として記す。"
         ],
         "fact_ids": [
-          "F01"
+          "F02"
         ]
       },
       {
         "id": "details",
-        "title": "M259の仕様を読む。",
+        "title": "表地、裏地、留め具。",
         "paragraphs": [
-          "Pattern M259は英国軍の復員兵用とされ、綿ギャバジンの外地、タータンの裏地、樹脂ボタン、左右の腰ポケットが記録される。軍の型名と、所蔵資料にある服の細部の両方が残っている。",
-          "所蔵地はオーストラリア、製造地は英国。地名がそれぞれ何を指すかを分けて記す。"
+          "目録は綿ギャバジンの表地とタータンの裏地、茶色の樹脂ボタン、左右の腰ポケットを記載する。細部を分けると、単に「防水コート」とまとめた時には見えない構成が残る。",
+          "所有者として Trooper McCrea-Steele の名も記録される。これは所蔵品目録の記載範囲である。"
         ],
         "fact_ids": [
           "F02"
         ]
       }
     ],
-    "closing": "用途だけで服型を一つにくくらず、レインコート、トレンチ、ケープの目録を分けて見る。個体の裏地やポケットも、型名と並ぶ手がかりになる。",
-    "bridge_title": "英国軍とフランスのアトリエを重ねる。",
-    "bridge": "NICENESSのFINNは1950年代の英国軍レインコートとフランスのアトリエコートを掛け合わせたデザインとして紹介される。リネン・コットンの二重織りにシルケットと洗い加工を施し、手縫いで仕立てるという。",
+    "closing": "一着の目録は型名だけでなく、製作時期や素材、裏地、ポケット、所蔵者を記録する。FINNのデザイン参照とは、別の説明として読む。",
+    "bridge_title": "軍用コートとアトリエコートの参照。",
+    "bridge": "利用者がNICENESSの保存資料として提供したFINNの説明は、1950年代英国軍レインコートとフランスのアトリエコートを参照し、リネン・綿の二重織りに加工を施したとする。",
     "bridge_refs": [
       "F03"
     ],
-    "boundary": "FINNの直接の型紙やPattern M259との対応は確認されていない。歴史上のレインコート仕様と、現行品の素材・加工は異なる資料から記す。",
-    "product_title": "異なるコートの参照を、一着へ。",
+    "boundary": "M259は1946年頃の英国製一着で、FINNの公式参照と同じ型式とは確認されていない。歴史的な素材・仕様と現行品の説明は別々に示す。",
+    "product_title": "異なるコートの要素を組み合わせる。",
     "product_paragraphs": [
-      "公式説明は、軍用レインコートとアトリエコートを現代のデザイン参照として挙げる。二重織りの素材や加工、手縫いも現在の製品の仕様だ。",
-      "復員用コートのボタンや裏地を、そのままFINNへ移したと推定しない。"
+      "FINNの保存資料は軍用レインコートとフランスのアトリエコートを参照に挙げる。M259の樹脂ボタンや裏地をFINNに引き継いだという意味ではない。"
     ],
     "product_refs": [
       "F03"
@@ -28893,8 +28482,8 @@
         "season": "AW26",
         "number": null,
         "url": null,
-        "retained": "1950年代英国軍レインコートとフランスのアトリエコート。",
-        "changed": "リネン・綿二重織り、シルケット・洗い加工、手縫い仕立て。",
+        "retained": "保存ブランド資料が挙げる1950年代英国軍レインコートとフランスのアトリエコート。",
+        "changed": "リネン・綿二重織り、加工、手縫い仕立て。",
         "factRefs": [
           "F03"
         ]
@@ -28902,18 +28491,11 @@
     ],
     "sources": [
       {
-        "id": "H01",
-        "title": "National Army Museum pattern garment inventory",
-        "publisher": "National Army Museum",
-        "url": "https://collection.nam.ac.uk/inventory/objects/results.php?associatedName=&campaign=&event=&flag=1&keyword=&otArc=1&page=903&placeNotes=&productionNotes=&shortDescription=&unit=",
-        "kind": "history"
-      },
-      {
         "id": "H02",
         "title": "British Army Demobilized Serviceman’s Raincoat",
         "publisher": "Australian War Memorial",
         "url": "https://www.awm.gov.au/collection/C317465",
-        "kind": "history"
+        "kind": "collection"
       },
       {
         "id": "B01",
@@ -28927,8 +28509,8 @@
   {
     "id": "T285",
     "slug": "hoodie-hood-sweatshirt",
-    "title": "フード付きスウェットの名前と広がり",
-    "deck": "厚手の布から生まれた形が、別の文化に受け継がれる。",
+    "title": "フードを付けたスウェット\nフーディーの形と広がり",
+    "deck": "服型の変化と、一着ずつ異なる収蔵記録を分けて読む。",
     "regions": [
       {
         "id": "us",
@@ -28951,48 +28533,47 @@
     "model": "GRAAF",
     "season": "SS26",
     "item": "graaf",
-    "place": "米国・大学とNew York",
+    "place": "米国（MoMAの解説対象）",
     "period": "1950年代〜1970年代",
-    "context": "フード付きスウェットシャツ",
-    "opening": "厚手の綿ジャージーやポリエステルにフードを付けたスウェット。MoMAは、フーディーに前開きのジップがあるものとないものがあると説明する。",
+    "context": "フード付きスウェットの形と着用の広がり",
+    "opening": "MoMAの解説は、フードの付いた厚手のスウェットを、前開きジップの有無を含む服型として扱う。大学生の間での普及から、1970年代半ば以降のNew Yorkのヒップホップ文化などへ、着用場面が広がったと説明する。",
     "opening_refs": [
       "F01"
     ],
     "sections": [
       {
-        "id": "campus",
-        "title": "大学生の服から、街へ。",
+        "id": "shape",
+        "title": "フードとジップの組合せ。",
         "paragraphs": [
-          "MoMAの解説では、フーディーは1950〜60年代に大学生の間で広がり、1970年代半ば以降にはNew Yorkのヒップホップ文化などで着られるようになった。",
-          "同じ服型の使用範囲が広がったという美術館の説明を紹介し、ひとつの利用者集団だけの服として固定しない。"
+          "MoMAの説明では、厚手の綿ジャージーやポリエステルにフードを付け、中央のジップがある型とない型がある。素材と開閉部の組合せを含めた形として紹介される。",
+          "同館は1950〜60年代に大学生の間で着られ、1970年代半ば以降はNew Yorkのヒップホップ文化などにも広がったと記す。これはMoMAによる服型の解説である。"
         ],
         "fact_ids": [
           "F01"
         ]
       },
       {
-        "id": "archive",
-        "title": "素材記録は、一着ずつ異なる。",
+        "id": "met",
+        "title": "1979年の収蔵品は、フーディーと特定されない。",
         "paragraphs": [
-          "Metは1979年の米国製スウェットシャツを綿、樹脂、アクリルの混紡として登録している。これはフーディーの一般定義ではなく、個別収蔵品の素材表示だ。",
-          "一着の素材を服型全体に当てはめず、まず収蔵品の記録として読む。"
+          "The Metの個別記録は1979年の「Sweat shirt」を、Culture: American、綿・プラスチック・アクリルとして登録する。Culture欄は製造国を示すものではない。",
+          "記録はフードの有無を説明していないため、この品をフーディーとは呼ばない。素材表示もこの一着に限った情報だ。"
         ],
         "fact_ids": [
           "F02"
         ]
       }
     ],
-    "closing": "フードの有無や開閉だけでなく、誰がどんな場面で着たか。服型が広がる過程と、一着の素材記録を分けて見る。",
-    "bridge_title": "フーディーを、頭部を覆う服へ。",
-    "bridge": "NICENESSのGRAAFは1960〜70年代米国のフーディーを参照し、着脱のためのジップを加えてヘッドカバーに組み直したと説明される。デルタナイロンと綿の32ゲージ裏毛を用いるという。",
+    "closing": "フード付きスウェットの形と普及を扱う解説、フードに触れない一着の素材記録。両方を同じものの証拠にせず、別々の資料として読む。",
+    "bridge_title": "フーディーの参照を、頭部を覆う服へ。",
+    "bridge": "利用者がNICENESSの保存資料として提供したGRAAFの説明は、1960〜70年代米国のフーディーを参照し、ジップ付きのヘッドカバーへ組み替えたとしている。",
     "bridge_refs": [
       "F03"
     ],
-    "boundary": "GRAAFは博物館所蔵の1979年製品の再現ではない。Metの素材登録はその一着について、GRAAFの素材構成は現行商品の公式説明として記す。",
-    "product_title": "フードと開閉部を組み替える。",
+    "boundary": "Metの1979年のスウェットシャツはフーディーとは確認できない。GRAAFはその収蔵品の再現ではなく、現代商品の素材・構成はブランド保存資料の説明として扱う。",
+    "product_title": "頭部を覆う用途に組み替える。",
     "product_paragraphs": [
-      "公式資料は、GRAAFをフーディー参照のヘッドカバーとして説明する。脱着用のジップと、ナイロン・綿の編み地を採用したという。",
-      "歴史的なフーディーの広がりと、現在の別用途への再構成を区別する。"
+      "GRAAFの保存資料は、フーディーへの参照にジップを加えたヘッドカバーとして説明する。デルタナイロンと綿の32ゲージ裏毛を使うという記載も現代商品の説明だ。"
     ],
     "product_refs": [
       "F03"
@@ -29008,8 +28589,8 @@
         "season": "SS26",
         "number": null,
         "url": null,
-        "retained": "1960〜70年代米国フーディーへの参照。",
-        "changed": "ジップ付きのヘッドカバー、デルタナイロンと綿の32ゲージ裏毛。",
+        "retained": "保存ブランド資料が示す1960〜70年代米国フーディーへの参照。",
+        "changed": "ジップ付きヘッドカバーと、デルタナイロン・綿の32ゲージ裏毛。",
         "factRefs": [
           "F03"
         ]
@@ -29028,7 +28609,7 @@
         "title": "Sweat shirt",
         "publisher": "The Metropolitan Museum of Art",
         "url": "https://www.metmuseum.org/art/collection/search/99005",
-        "kind": "history"
+        "kind": "collection"
       },
       {
         "id": "B01",
@@ -29040,198 +28621,73 @@
     ]
   },
   {
-    "id": "T303",
-    "slug": "trouser-adjuster-1942",
-    "title": "前にプリーツを作らず、背で調節する\n1942年のトラウザー",
-    "deck": "仕立ての細部と、男性服から借りた女性用パンツ。",
-    "regions": [
-      {
-        "id": "au",
-        "name": "オーストラリア",
-        "role": "War Memorial所蔵の1942年スーツトラウザー"
-      },
-      {
-        "id": "uk",
-        "name": "英国",
-        "role": "Mary Quantの1960年代の女性用パンツを紹介するV&A資料"
-      }
-    ],
-    "eras": [
-      "1940s",
-      "1960s"
-    ],
-    "tags": [
-      "トラウザー",
-      "ウエスト調整",
-      "プリーツ",
-      "仕立て"
-    ],
-    "category": "DRESS / 着る",
-    "model": "HOWLETT",
-    "season": "SS26",
-    "item": "howlett",
-    "place": "オーストラリア（所蔵）・英国（V&Aの紹介）",
-    "period": "1942年・1960年代",
-    "context": "スーツトラウザーの構造",
-    "opening": "Australian War Memorial所蔵の1942年スーツトラウザーは、前にプリーツがなく、背面のストラップとバックルで腰まわりを調節する。左右のウエストバンドも個別に記録される。",
-    "opening_refs": [
-      "F01"
-    ],
-    "sections": [
-      {
-        "id": "adjust",
-        "title": "前ではなく、背面で調整する。",
-        "paragraphs": [
-          "目録は前面にプリーツがないことと、後ろのストラップ・バックルによるフィット調整を記載する。トラウザーの正面から見えにくい構造も、腰の仕立てを考える手がかりになる。",
-          "これは一着の所蔵品に付された説明で、当時のスーツ全体に共通する仕様とはしていない。"
-        ],
-        "fact_ids": [
-          "F01"
-        ]
-      },
-      {
-        "id": "borrowing",
-        "title": "1960年代の女性用パンツと、男性服の仕立て。",
-        "paragraphs": [
-          "V&Aは、Mary Quantが1960年代にメンズテーラリングを取り入れた女性用パンツを作り、服装規範を変えた例を紹介する。",
-          "1942年の男性用スーツトラウザーと同じデザインではない。別の時点・資料から、前面の仕立てと、女性用パンツへ移された男性服の要素を読む。"
-        ],
-        "fact_ids": [
-          "F02"
-        ]
-      }
-    ],
-    "closing": "前面のプリーツ、後ろの調整具、仕立ての参照先。年代と用途の異なる資料を並べると、パンツの構造が一つの定型ではないことが分かる。",
-    "bridge_title": "ミリタリーとドレスの構造を重ねる。",
-    "bridge": "NICENESSのHOWLETTは、軍服とドレスパンツの構造美を融合し、ベルトレス仕様や深いインタックを取り入れたと公式資料に記される。",
-    "bridge_refs": [
-      "F03"
-    ],
-    "boundary": "HOWLETTが1942年の所蔵トラウザーを直接の原型とする説明はない。V&Aの解説も、女性用パンツの具体的な型紙やHOWLETTへの伝播を示すものではない。",
-    "product_title": "腰まわりの仕様を、深いインタックへ。",
-    "product_paragraphs": [
-      "SS26のHOWLETTは、ベルトレス仕様と深いインタックを特徴とする。これは現在の商品についてのブランド説明だ。",
-      "所蔵品の背面バックル、V&Aが紹介する女性用パンツ、現行品の前面の構造は、それぞれ異なる資料に記されたものとして扱う。"
-    ],
-    "product_refs": [
-      "F03"
-    ],
-    "status": "review",
-    "editorialCredit": "NICENESSness 編集",
-    "publishedAt": null,
-    "modifiedAt": null,
-    "products": [
-      {
-        "id": "howlett",
-        "model": "HOWLETT",
-        "season": "SS26",
-        "number": null,
-        "url": "https://www.niceness.jp/products/howlett-26ss",
-        "retained": "軍服とドレスパンツの構造美。",
-        "changed": "ベルトレス仕様と深いインタック。",
-        "factRefs": [
-          "F03"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "H01",
-        "title": "Victory Suit trousers: Mr John J Dedman",
-        "publisher": "Australian War Memorial",
-        "url": "https://www.awm.gov.au/collection/C212577",
-        "kind": "history"
-      },
-      {
-        "id": "H02",
-        "title": "Six revolutionary designs by Mary Quant",
-        "publisher": "Victoria and Albert Museum",
-        "url": "https://www.vam.ac.uk/articles/six-revolutionary-designs-by-mary-quant",
-        "kind": "history"
-      },
-      {
-        "id": "B01",
-        "title": "NICENESS HOWLETT",
-        "publisher": "NICENESS",
-        "url": "https://www.niceness.jp/products/howlett-26ss",
-        "kind": "brand"
-      }
-    ]
-  },
-  {
     "id": "T330",
     "slug": "wool-and-cotton-herringbone-uniforms",
-    "title": "同じヘリンボーンでも、ウールと綿がある",
-    "deck": "戦地の制服を、織り柄と素材を分けて読む。",
+    "title": "ウールの軍服と綿HBTを分けて読む\n戦域・年代ごとの素材記録",
+    "deck": "織り柄の名だけで素材を決めず、軍史資料の記述を分ける。",
     "regions": [
       {
         "id": "us",
         "name": "米国",
-        "role": "国防総省・陸軍史料が記録する軍服"
-      },
-      {
-        "id": "jp",
-        "name": "日本",
-        "role": "現代商品の製織地域は未記載"
+        "role": "米国防総省・米陸軍の軍服資料"
       }
     ],
     "eras": [
       "1940s",
-      "1950s",
-      "2000s"
+      "1950s"
     ],
     "tags": [
-      "ヘリンボーン",
-      "ウール",
       "HBT",
+      "ウール",
+      "綿",
       "軍服"
     ],
     "category": "DRESS / 着る",
     "model": "H.TWEEDY",
-    "season": "AW26",
+    "season": "AW25",
     "item": "h-tweedy",
-    "place": "欧州・太平洋・朝鮮戦争期の米軍制服",
-    "period": "第二次大戦・朝鮮戦争",
-    "context": "ウールとHBTの軍服",
-    "opening": "第二次世界大戦中、欧州戦域の制服ではウールが標準とされ、太平洋方面の海兵隊制服ではヘリンボーンツイルが標準とされた。米国防総省の展示資料は、地域ごとの衣服の違いを説明する。",
+    "place": "米国（軍史資料の対象）",
+    "period": "第二次大戦・朝鮮戦争期",
+    "context": "ウール軍服と綿HBTの比較",
+    "opening": "第二次大戦期の米軍服について、国防総省の展示資料は欧州戦域のウール制服と、太平洋方面の海兵隊HBT制服を別々に説明する。ただし、その箇所はHBTの繊維を特定していない。",
     "opening_refs": [
       "F01"
     ],
     "sections": [
       {
-        "id": "fibres",
-        "title": "ヘリンボーンは、素材名ではない。",
+        "id": "theaters",
+        "title": "戦域の記述だけでは、HBTの繊維は分からない。",
         "paragraphs": [
-          "ヘリンボーンという呼び名は織り柄を指し、それだけでは繊維の種類を示さない。国防総省の説明でも、欧州のウール制服と、太平洋方面の海兵隊HBT制服は別々に記される。",
-          "戦域ごとの装備説明を紹介する資料の範囲で、両者を同じ制服とは扱わない。"
+          "米国防総省・国立海兵隊博物館の「Common Threads」は、欧州戦域の制服をウール、太平洋方面の海兵隊制服をヘリンボーンツイルと記述する。ここでのHBTは織り柄・織物名であり、この箇所だけから綿とは断定しない。",
+          "別の陸軍史資料が素材を明記する例と並べる時も、どの資料がどこまで述べるかを保つ。"
         ],
         "fact_ids": [
           "F01"
         ]
       },
       {
-        "id": "uniforms",
-        "title": "朝鮮戦争期の制服も、ウールと綿を分ける。",
+        "id": "korea",
+        "title": "朝鮮戦争期の記述は、ウールと綿HBTを分ける。",
         "paragraphs": [
           "米陸軍史料は、朝鮮戦争期のオリーブドラブのウール製シャツ・トラウザーと、元は作業服だった濃いオリーブ色の綿HBT戦闘服を区別する。",
-          "ここでも素材や色だけで、服の用途や支給時期を一つにまとめない。記録が示す軍服の種類と時期を分けて読む。"
+          "ここで素材まで確かめられるのは、この記録が明記するウール制服と綿HBTの組合せ。すべてのHBT制服が綿だった、あるいはウールHBTがあったという主張には広げない。"
         ],
         "fact_ids": [
           "F02"
         ]
       }
     ],
-    "closing": "織り柄の名前から素材や用途まで決めず、制服の資料を個別に読む。同じヘリンボーンでも、ウール製とは限らない。",
-    "bridge_title": "古い軍用ウールを、別注生地へ。",
-    "bridge": "NICENESSのH.TWEEDYは、20世紀初頭の英国・米国軍用ウールヘリンボーンを参照して別注生地を作ったと公式資料に記される。",
+    "closing": "「ウール制服」と「綿HBT」は、記録上の別の服種として読む。herringboneという柄名だけから繊維を推定せず、資料が明記した範囲を保つ。",
+    "bridge_title": "軍用ウールの参照を、別注生地へ。",
+    "bridge": "NICENESSのH.TWEEDYは、20世紀初頭の英国・米国軍用ウールヘリンボーンを参考に別注生地を作ったと商品説明に記される。公式ページのシーズン表記はAW25。",
     "bridge_refs": [
       "F03"
     ],
-    "boundary": "第二次大戦・朝鮮戦争の米軍資料は、H.TWEEDYの直接の原型を特定するものではない。ブランドが述べる20世紀初頭の英米軍用ウールと、後年の米軍ウール・綿HBT制服を同一品として扱わない。",
-    "product_title": "柄の参照と、現在の生地。",
+    "boundary": "第二次大戦・朝鮮戦争の資料はH.TWEEDYの直接の原型を示さない。H.TWEEDYの商品説明にある初期の英米軍用ウールと、後年の米軍ウール制服・綿HBT制服を同一の服として扱わない。",
+    "product_title": "ブランドが記す参照と、軍史資料を分ける。",
     "product_paragraphs": [
-      "公式説明が示すのは、H.TWEEDYが初期の英米軍用ウールヘリンボーンを参照するというブランドの説明。",
-      "歴史資料で確認した戦域・年代・素材を、商品の直接の由来や製造仕様へ読み替えない。"
+      "AW25のH.TWEEDYについて、NICENESSは20世紀初頭の英米軍用ウールヘリンボーンを生地の参照として挙げる。",
+      "第二次大戦期や朝鮮戦争期の比較例が、その商品仕様や直接の由来を特定するものではない。"
     ],
     "product_refs": [
       "F03"
@@ -29244,11 +28700,11 @@
       {
         "id": "h-tweedy",
         "model": "H.TWEEDY",
-        "season": "AW26",
+        "season": "AW25",
         "number": null,
         "url": "https://www.niceness.jp/products/h-tweedy",
-        "retained": "20世紀初頭の英国・米国軍用ウールヘリンボーン。",
-        "changed": "ブランドの参照をもとにした別注生地。",
+        "retained": "20世紀初頭の英国・米国軍用ウールヘリンボーンへの参照。",
+        "changed": "ブランドの説明をもとにした別注生地。",
         "factRefs": [
           "F03"
         ]
@@ -29274,6 +28730,337 @@
         "title": "NICENESS H.TWEEDY",
         "publisher": "NICENESS",
         "url": "https://www.niceness.jp/products/h-tweedy",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T290",
+    "slug": "stagewear-and-business-jackets",
+    "title": "舞台衣装とビジネスにも使うスーツ\nポケットと縁取りを比べる",
+    "deck": "胸や腰のポケット、色の縁。異なる場面を記した二つの収蔵品から、上着の設えを見る。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "Autry MuseumとPhiladelphia Museumの収蔵記録"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s"
+    ],
+    "tags": [
+      "ジャケット",
+      "舞台衣装",
+      "ポケット",
+      "パイピング"
+    ],
+    "category": "DRESS / 着る",
+    "model": "C.MAXIM",
+    "season": "SS26",
+    "item": "c-maxim",
+    "place": "North Hollywood／Philadelphia",
+    "period": "1940年代後半〜1950年代初頭",
+    "context": "舞台衣装とbusiness/casual suitのジャケット",
+    "opening": "Autry Museumの記録には、1950年代初頭のNorth Hollywoodで作られた舞台用スーツがある。毛ギャバジンのジャケットには胸と腰のポケット、青い縁取り、波状の矢印飾りが記録される。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "stage",
+        "title": "舞台衣装のポケットと装飾。",
+        "paragraphs": [
+          "Autry Museumが所蔵するNudie’s Rodeo Tailorsの男性用スーツは、1950年代初頭のNorth Hollywood製とされる。毛ギャバジンのジャケットに胸・腰のポケットがあり、青いパイピングと矢印形の装飾が記録されている。",
+          "これは舞台用のwestern suit。スポーツジャケット一般の標準仕様を示すものではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "business",
+        "title": "仕事にもカジュアルにも。",
+        "paragraphs": [
+          "Philadelphia Museum of ArtのClaire McCardellによる女性用スーツは、1940年代後半から1950年代初頭のもの。記録は短いジャケットをbusinessとcasualの双方に適するとし、縁飾りと箱ポケットを挙げる。",
+          "舞台衣装と女性用スーツは用途も着用者も異なる。二つの収蔵例を比べることで、ジャケットのポケットや縁取りを特定の一型にまとめずに見られる。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "場面が違えば、ポケットや縁の見せ方も異なる。二つの収蔵記録は、上着の構成を一つの標準型にまとめず読む手掛かりになる。",
+    "bridge_title": "アメリカンスポーツジャケットの参照を、現代の生地と構成へ。",
+    "bridge": "NICENESSはC.MAXIMで1940〜50年代の米国スポーツジャケットを参照し、直線的な構成や流鏑馬・カウボーイの図柄を組み合わせると説明する。北陸製レーヨン・綿ギャバジンに京都で手刷りしたという。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "Autryの舞台衣装やMcCardellの女性用スーツがC.MAXIMの直接の原型とは確認されていない。ブランドが挙げるスポーツジャケットの参照は別の説明として扱い、収蔵例を一般的なスポーツジャケットの標準とはしない。",
+    "product_title": "二つの収蔵例と、現代の商品参照。",
+    "product_paragraphs": [
+      "C.MAXIMの商品説明は1940〜50年代の米国スポーツジャケットを参照とする。舞台衣装と女性用スーツの収蔵記録は、ポケットや縁取りの異なる例として並べる。",
+      "公式ページは立体的な形、直線的な構成、手刷りの図柄、素材を現在の設計として説明する。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "c-maxim",
+        "model": "C.MAXIM",
+        "season": "SS26",
+        "number": null,
+        "url": "https://www.niceness.jp/products/c-maxim-26ss",
+        "retained": "1940〜50年代の米国スポーツジャケットへの参照。",
+        "changed": "北陸製レーヨン・綿ギャバジン、京都での手刷り。",
+        "factRefs": [
+          "F04"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H02",
+        "title": "Suit by Nudie’s Rodeo Tailors",
+        "publisher": "Autry Museum of the American West",
+        "url": "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM504559%3Btype%3D101",
+        "kind": "collection"
+      },
+      {
+        "id": "H03",
+        "title": "Woman’s Suit: Jacket and Skirt",
+        "publisher": "Philadelphia Museum of Art",
+        "url": "https://www.philamuseum.org/objects/92566",
+        "kind": "collection"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS C.MAXIM",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/c-maxim-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T297",
+    "slug": "printed-activewear-1930s",
+    "title": "泳ぐ人を描くスポーツウェア\n1930年代のプリント",
+    "deck": "水着やビーチローブの図柄と、現代のスウェットの胸グラフィック。資料が結びつける範囲を読む。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "The Museum at FITの1930年代展の記録"
+      },
+      {
+        "id": "de",
+        "name": "ドイツ",
+        "role": "FIT展に記載された1930年頃の水着の製作地"
+      }
+    ],
+    "eras": [
+      "1930s"
+    ],
+    "tags": [
+      "スポーツウェア",
+      "プリント",
+      "水着",
+      "スウェット"
+    ],
+    "category": "DRESS / 着る",
+    "model": "R.PARADA",
+    "season": "AW25",
+    "item": "r-parada",
+    "place": "1930年代の展示記録／Museum at FIT",
+    "period": "1930年代",
+    "context": "プリントを用いたactivewearの展示例",
+    "opening": "The Museum at FITの1930年代展は、スキー、ゴルフ、水着などのactivewearが広がり、プリント柄もスポーツウェアに使われたと紹介する。展示には水着やビーチローブの実物記録が含まれる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "exhibition",
+        "title": "水着とビーチローブに描かれた図柄。",
+        "paragraphs": [
+          "FITの展覧会カタログは、1930年代のactivewearとプリントの広がりを説明し、泳ぐ人やダイバーを描く水着・ビーチウェアの例を挙げる。",
+          "その一例は「Munchen swimsuit」と関連する男性用ビーチローブ。カタログはウール、1930年頃、ドイツ製、購入品と記録する。これは展示が挙げる具体的な所蔵例で、1930年代のすべてのスポーツウェアを代表するとは限らない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "graphic",
+        "title": "胸の絵柄に、競技や由来を足さない。",
+        "paragraphs": [
+          "NICENESSのR.PARADAは、1930年代後半のスウェットを参照するハーフジッププルオーバーで、胸のグラフィックは往年のスポーツウェアを思わせると商品説明にある。",
+          "FITの展示記録は1930年代のプリント例を示すが、R.PARADAの図柄の競技、チーム、原図を特定するものではない。二つは時代と視覚表現を考える別々の資料だ。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "展示にある水着のプリントと、R.PARADAの商品説明。図柄が見えることと、その競技や由来が分かることは同じではない。",
+    "bridge_title": "1930年代のスウェットを参照する、現代のプルオーバー。",
+    "bridge": "R.PARADAは1930年代後半のスウェットを参照し、胸に往年のスポーツウェアを思わせるグラフィックを配したとNICENESSが説明する。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "The Museum at FITの所蔵品・展覧会記録は、R.PARADAの直接の参照元や胸グラフィックの原図ではない。競技名、所属、グラフィックの制作年代は公式商品説明から特定できない。",
+    "product_title": "展示のプリント例と、商品のグラフィック。",
+    "product_paragraphs": [
+      "AW25のR.PARADAはハーフジップのプルオーバー。胸の図柄はNICENESSが「往年のスポーツウェア」を想起させるものとして説明する。",
+      "1930年代の展示に見られる水着やビーチローブのプリントとは、直接の原型関係を確認できない。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "r-parada",
+        "model": "R.PARADA",
+        "season": "AW25",
+        "number": null,
+        "url": "https://www.niceness.jp/products/r-parada",
+        "retained": "1930年代後半のスウェットと、往年のスポーツウェアを思わせる胸グラフィック。",
+        "changed": "ハーフジップのプルオーバーとして構成。",
+        "factRefs": [
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Elegance in an Age of Crisis: Fashions of the 1930s",
+        "publisher": "The Museum at FIT",
+        "url": "https://exhibitions.fitnyc.edu/fashions-of-the-1930s/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS R.PARADA",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/r-parada",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T077",
+    "slug": "buddy-holly-auction-shirt-attribution",
+    "title": "カタログが語る舞台シャツ\n布の記録と来歴の限界",
+    "deck": "素材やラベル、持ち主の帰属。競売目録にある主張を一つずつ分ける。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "Heritage Auctionsの競売目録と来歴表示"
+      }
+    ],
+    "eras": [
+      "1950s"
+    ],
+    "tags": [
+      "舞台衣装",
+      "シャツ",
+      "ナイロン",
+      "競売目録"
+    ],
+    "category": "DRESS / 着る",
+    "model": "G.SWISH",
+    "season": "SS25",
+    "item": "g-swish",
+    "place": "米国（競売目録の記載）",
+    "period": "1950年代頃",
+    "context": "競売目録がBuddy Hollyの舞台着と帰属するシャツ",
+    "opening": "Heritage Auctionsの出品番号38619は、茶色のナイロンシャツに金色の縁取りがある品を、1950年代頃のBuddy Holly所有・着用の舞台衣装として記録する。これは競売会社による帰属説明だ。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "object",
+        "title": "布地とラベルの記載。",
+        "paragraphs": [
+          "競売目録は茶色のナイロン、金色のトリム、襟ラベルの「Da Vinci / California」を記す。来歴はMaría Elena Hollyのコレクションに由来すると説明し、証明書の存在にも触れる。",
+          "証明書原本や舞台写真はここでは独立に確認していない。品の物理的特徴と、競売会社が掲載する来歴・所有者の帰属は、証拠の種類を分けて読む。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "現代商品の参照は、別の出典にある。",
+        "paragraphs": [
+          "NICENESSはG.SWISHを、ミッドセンチュリーの音楽家の舞台衣装に着想したホックシャツとして紹介する。商品説明は競売品のBuddy HollyシャツやDa Vinciというラベルには触れていない。",
+          "年代の近さだけで両者を同じ衣装や直接の原型と結びつけず、競売記録の帰属とブランドの商品説明を別々に保つ。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "競売目録は一着の特徴と来歴の主張を残すが、それらの確実性は同じではない。現代の商品説明との間に直接の関係も確認されていない。",
+    "bridge_title": "ミッドセンチュリーの舞台着を参照するシャツ。",
+    "bridge": "NICENESSの商品説明はG.SWISHを、ミッドセンチュリーの音楽家の舞台衣装に着想したホックシャツとして紹介する。公開ページは競売品を特定していない。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "Buddy Hollyの所有・着用という来歴はHeritage Auctionsによる出品目録の帰属説明で、証明書原本と舞台写真は未確認。G.SWISHがその競売品を再現した、または直接参照したという根拠はない。",
+    "product_title": "出品目録の帰属と、現代商品の参照。",
+    "product_paragraphs": [
+      "G.SWISHの商品説明が述べるのは、ミッドセンチュリー音楽家の舞台着をデザイン参照とすること。",
+      "Heritage Auctionsの競売品とは異なる資料であり、Buddy Hollyとの関係や同一性は確認できない。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "g-swish",
+        "model": "G.SWISH",
+        "season": "SS25",
+        "number": null,
+        "url": "https://www.niceness.jp/products/g-swish",
+        "retained": "ミッドセンチュリーの音楽家の舞台衣装への一般的な参照。",
+        "changed": "ホックシャツとしての現代的な構成。",
+        "factRefs": [
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "Buddy Holly Brown Da Vinci Shirt, lot 38619 / auction 7433",
+        "publisher": "Heritage Auctions",
+        "url": "https://entertainment.ha.com/itm/music-memorabilia/memorabilia/buddy-holly-owned-and-worn-brown-da-vinci-shirt-ca-1950s-/a/7433-38619.s",
+        "kind": "collection"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS G.SWISH",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/g-swish",
         "kind": "brand"
       }
     ]

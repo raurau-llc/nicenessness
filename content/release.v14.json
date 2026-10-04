@@ -1,7 +1,7 @@
 {
   "version": 14,
   "sourceRevision": "85fcb8e3fed1c71f840fcb7780cbf845baa90b41",
-  "scope": "227 articles: the 217-article main baseline plus ten proposed stories. All ten additions remain in review and unpublished.",
+  "scope": "226 articles: the 217-article main baseline plus nine proposed stories. All nine additions remain in review and unpublished.",
   "articles": [
     {
       "topicId": "T170",
@@ -7649,135 +7649,6 @@
       ]
     },
     {
-      "topicId": "T079",
-      "sha256": "0208fc81f9fe44d7f0b25324f64b06be926f69158a826604209bc12802c2de99",
-      "validationSha256": "0208fc81f9fe44d7f0b25324f64b06be926f69158a826604209bc12802c2de99",
-      "validationBasis": "history-validation fixed-input record; SHA-256 matches unchanged research JSON",
-      "facts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "E01"
-          ]
-        },
-        {
-          "id": "F02",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "E01"
-          ]
-        },
-        {
-          "id": "F03",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "E01"
-          ]
-        },
-        {
-          "id": "F05",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "E03"
-          ]
-        },
-        {
-          "id": "F06",
-          "kind": "brand_statement",
-          "sourceIds": [
-            "B01",
-            "B02",
-            "B03"
-          ]
-        },
-        {
-          "id": "F07",
-          "kind": "brand_statement",
-          "sourceIds": [
-            "B01",
-            "B02",
-            "B03"
-          ]
-        },
-        {
-          "id": "F08",
-          "kind": "brand_statement",
-          "sourceIds": [
-            "B01"
-          ]
-        },
-        {
-          "id": "F09",
-          "kind": "brand_statement",
-          "sourceIds": [
-            "B02"
-          ]
-        },
-        {
-          "id": "F10",
-          "kind": "brand_statement",
-          "sourceIds": [
-            "B03"
-          ]
-        }
-      ],
-      "storySha256": "0b114e0575adbaef1a3b395df5a1784a207f7200aab90395bcf8877d4e1b0bee"
-    },
-    {
-      "topicId": "T177",
-      "sha256": "069923db7b07a21c170cf058cdf0284033a20033e9add707eec30ea4751e173a",
-      "validationSha256": "069923db7b07a21c170cf058cdf0284033a20033e9add707eec30ea4751e173a",
-      "validationBasis": "history-validation fixed-input record; SHA-256 matches unchanged research JSON",
-      "facts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "H01"
-          ]
-        },
-        {
-          "id": "F02",
-          "kind": "brand_statement",
-          "sourceIds": [
-            "B01"
-          ]
-        },
-        {
-          "id": "F03",
-          "kind": "brand_statement",
-          "sourceIds": [
-            "B02"
-          ]
-        }
-      ],
-      "storySha256": "c352833d4888cb717e3de3470e65b7dab609a94bdda1d8bc973f2dafcd7fcc1f"
-    },
-    {
-      "topicId": "T223",
-      "sha256": "8aadfb34445fafae77965b92cdde6ac70a5768bed496e16f32462e659c65b906",
-      "validationSha256": "8aadfb34445fafae77965b92cdde6ac70a5768bed496e16f32462e659c65b906",
-      "validationBasis": "history-validation fixed-input record; SHA-256 matches unchanged research JSON",
-      "facts": [
-        {
-          "id": "F02",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "H02"
-          ]
-        },
-        {
-          "id": "F03",
-          "kind": "brand_statement",
-          "sourceIds": [
-            "B01"
-          ]
-        }
-      ],
-      "storySha256": "8e72bcb159d2db7ee6937c802e2404b711537ea4943ca92c76bba471a5c2d979"
-    },
-    {
       "topicId": "T267",
       "sha256": "36c4d2abd66d38b36e0d190acac70cb1cd62f57e3cf208daa76cbdf303f5d2ff",
       "validationSha256": "36c4d2abd66d38b36e0d190acac70cb1cd62f57e3cf208daa76cbdf303f5d2ff",
@@ -7786,6 +7657,7 @@
         {
           "id": "F01",
           "kind": "historical_fact",
+          "claim": "Georgia O’Keeffe MuseumはLiving Modern展で、本人が衣服と撮影時のポーズを通じて進歩的で独立した生活像を作ったと位置づける。",
           "sourceIds": [
             "H01"
           ]
@@ -7793,6 +7665,7 @@
         {
           "id": "F02",
           "kind": "historical_fact",
+          "claim": "Cleveland Museum of ArtはO’Keeffeが機能的で簡素な服、ローブやケープ、ラップ、ポケットを好んだという展覧会講演を紹介する。",
           "sourceIds": [
             "H02"
           ]
@@ -7800,12 +7673,21 @@
         {
           "id": "F03",
           "kind": "brand_statement",
+          "claim": "SS26 GEORGIAは米軍ボートシューズとO’Keeffeの汚れた「コモドール」をイメージした革製ヨットシューズと説明される。",
           "sourceIds": [
             "B01"
           ]
+        },
+        {
+          "id": "F04",
+          "kind": "historical_fact",
+          "claim": "Georgia O’Keeffe Museum Accessの個体2000.3.689はSperry Top-Siderの白いキャンバススニーカーと記録される。NICENESSが呼ぶ「Commodore」と同一品かは確認できない。",
+          "sourceIds": [
+            "H03"
+          ]
         }
       ],
-      "storySha256": "3babcae7e7a841139c515caf409f9aa26ef88e068388e6b3a83472af7afd42cf"
+      "storySha256": "248340fe9ed83ff005b8f8d48f7e4103ab1bb6cf836d80e34c64b6c447abac72"
     },
     {
       "topicId": "T276",
@@ -7814,15 +7696,9 @@
       "validationBasis": "history-validation fixed-input record; SHA-256 matches unchanged research JSON",
       "facts": [
         {
-          "id": "F01",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "H01"
-          ]
-        },
-        {
           "id": "F02",
           "kind": "historical_fact",
+          "claim": "Paris Muséesの個体2016.1.143.1はPeau d’Ane製、Saint-Tropez、製作circa 1970と登録される一方、写真説明はcirca 1961とする。短い袖なし綿ベストで前合わせとボタンがある。製作年と写真年の記載は整合しない。",
           "sourceIds": [
             "H02"
           ]
@@ -7830,12 +7706,13 @@
         {
           "id": "F03",
           "kind": "brand_statement",
+          "claim": "FLINTは1960年代フランス農夫ベストの要素を同年代米国エンジニアジャケットへ合わせたと公式資料に記載される。",
           "sourceIds": [
             "B01"
           ]
         }
       ],
-      "storySha256": "9a00445bc176e9d6e045b57e1c0ada8b2d4e942c4c71208c8727fefff00f5641"
+      "storySha256": "7e5debc0ed6a0e65800bffcf0e775b295cba8de2944413066bb5296db0707e57"
     },
     {
       "topicId": "T277",
@@ -7846,26 +7723,21 @@
         {
           "id": "F01",
           "kind": "historical_fact",
+          "claim": "Martha’s Vineyard Museumの写真目録には、1950年代または1960年代、長袖ジャケットと胸までのウェーダーを着用して波打ち際で釣りをする男性の写真が記録される。",
           "sourceIds": [
             "H01"
           ]
         },
         {
-          "id": "F02",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "H02"
-          ]
-        },
-        {
           "id": "F03",
           "kind": "brand_statement",
+          "claim": "LYLEは1960年代フィッシャーマンジャケットをデザインの参照にし、フランス農夫ベストの要素を加え、1950年代フランスのワークウェアの凹凸ストライプを参照した別注生地で仕立てたと公式資料に記載される。",
           "sourceIds": [
             "B01"
           ]
         }
       ],
-      "storySha256": "94208e6dbf551de03596670b639094cd08dfa9f777fd9b5be025ad84fa4223d6"
+      "storySha256": "96e5515b8d7696b3419395a796a37302d3b2118142474c26151b46c026bcc7f3"
     },
     {
       "topicId": "T279",
@@ -7874,15 +7746,9 @@
       "validationBasis": "history-validation fixed-input record; SHA-256 matches unchanged research JSON",
       "facts": [
         {
-          "id": "F01",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "H01"
-          ]
-        },
-        {
           "id": "F02",
           "kind": "historical_fact",
+          "claim": "Australian War Memorial所蔵の英国軍復員兵用Pattern M259レインコートは約1946年英国製で、綿ギャバジンの4分の3丈、タータン裏地、茶色の樹脂ボタン、左右腰ポケットを備える。",
           "sourceIds": [
             "H02"
           ]
@@ -7890,12 +7756,13 @@
         {
           "id": "F03",
           "kind": "brand_statement",
+          "claim": "FINNは1950年代の英国軍レインコートとフランスのアトリエコートを掛け合わせ、リネン・コットン二重織りにシルケット加工と洗い加工を施し、手縫いで仕立てたと公式資料に記載される。",
           "sourceIds": [
             "B01"
           ]
         }
       ],
-      "storySha256": "5100451e34c40f0dc526ea6c66edf4fdea2d01e175e8c39151d4c9ac23825265"
+      "storySha256": "784be22ce80e7abdd8e33da74a2861f31d804e4982a01fe0fc15cc5077baaee5"
     },
     {
       "topicId": "T285",
@@ -7906,6 +7773,7 @@
         {
           "id": "F01",
           "kind": "historical_fact",
+          "claim": "MoMAはフーディを中央ジップの有無がある厚手の綿ジャージーまたはポリエステル製フード付きスウェットと説明し、1950〜60年代に大学生へ、1970年代半ば以降にNew Yorkのhip-hop文化等へ広がったとする。",
           "sourceIds": [
             "H01"
           ]
@@ -7913,6 +7781,7 @@
         {
           "id": "F02",
           "kind": "historical_fact",
+          "claim": "The Metは個別の「Sweat shirt」を1979年、Culture: American、素材はcotton, plastic, acrylicと登録する。記録はフードや製造国を示していない。",
           "sourceIds": [
             "H02"
           ]
@@ -7920,42 +7789,13 @@
         {
           "id": "F03",
           "kind": "brand_statement",
+          "claim": "GRAAFは1960〜70年代米国フーディを参照し、着脱のためジップを追加し、デルタナイロンと綿の32ゲージ裏毛でヘッドカバーに再構成したと公式資料に記載される。",
           "sourceIds": [
             "B01"
           ]
         }
       ],
-      "storySha256": "5e6c2aff433094e9a983003372062bd6785af1ea1cfd1b1a1221f504d2d40fe3"
-    },
-    {
-      "topicId": "T303",
-      "sha256": "963ac4c4f8c8bbf5c0761c173153127e32f69d7355771d48b4a20e9b454b104b",
-      "validationSha256": "963ac4c4f8c8bbf5c0761c173153127e32f69d7355771d48b4a20e9b454b104b",
-      "validationBasis": "history-validation fixed-input record; SHA-256 matches unchanged research JSON",
-      "facts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "H01"
-          ]
-        },
-        {
-          "id": "F02",
-          "kind": "historical_fact",
-          "sourceIds": [
-            "H02"
-          ]
-        },
-        {
-          "id": "F03",
-          "kind": "brand_statement",
-          "sourceIds": [
-            "B01"
-          ]
-        }
-      ],
-      "storySha256": "6bf31204876840c5ce312ce2c5746b75c6dfa2b555700793548592fc7f538e1c"
+      "storySha256": "70794a6c653c04b29dd31fae20ab3f92237b6cd36fd1164c57a6f0a00973a62f"
     },
     {
       "topicId": "T330",
@@ -7966,6 +7806,7 @@
         {
           "id": "F01",
           "kind": "historical_fact",
+          "claim": "米国防総省・国立海兵隊博物館の展示は、欧州戦域のウール制服と太平洋方面の海兵隊herringbone twill制服を区別して説明するが、この箇所はHBTの繊維を明記しない。",
           "sourceIds": [
             "H01"
           ]
@@ -7973,6 +7814,7 @@
         {
           "id": "F02",
           "kind": "historical_fact",
+          "claim": "米陸軍史料は朝鮮戦争期のオリーブドラブのウール製シャツ・トラウザーと、元は作業服だった濃いオリーブ色の綿HBT戦闘服を区別する。",
           "sourceIds": [
             "H02"
           ]
@@ -7980,28 +7822,108 @@
         {
           "id": "F03",
           "kind": "brand_statement",
+          "claim": "H.TWEEDYは20世紀初頭英米軍採用のwool herringboneを参考にbespoke生地を作ったと公式資料に記載される。",
           "sourceIds": [
             "B01"
           ]
         }
       ],
-      "storySha256": "67890d7557733ffe9d29930eec55eb41b6cc5593b7227693193205f0a9e052ff"
+      "storySha256": "2b7da21ea073edc35ae63680085b7cde7ad798ba811e7c9329b869376f7294ea"
+    },
+    {
+      "topicId": "T290",
+      "sha256": "fc32f720331f7d402c84770d612c3d1622717f310b94e89aa86e9e7e5d1f9832",
+      "validationSha256": "fc32f720331f7d402c84770d612c3d1622717f310b94e89aa86e9e7e5d1f9832",
+      "facts": [
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "claim": "Autry Museum所蔵の1950年代初頭North Hollywood製男性用舞台衣装は、毛gabardineのjacket、pants、shirtで、jacketに胸・腰ポケットと配色パイピング、波状矢印装飾を備える。",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "claim": "Philadelphia Museum所蔵の1940年代後半〜50年代初頭Claire McCardell製女性用suitは、businessとcasual双方に適する短いjacketを備え、縁飾りとwelt pocketを用いる。",
+          "sourceIds": [
+            "H03"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "claim": "C.MAXIMは1940〜50年代US sports jacketを参照し、立体形と着物に通じる直線構成、流鏑馬とcowboyの図柄を北陸製rayon・cotton gabardineへ京都で手刷りしたと公式資料に記載される。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "storySha256": "9732f656d2442eda842430bb6c727a5a7a30dee9a1a71aeaf82103aaea888ee4"
+    },
+    {
+      "topicId": "T297",
+      "sha256": "3d93829ec9e9217d0abaf912a90d0ad4395c68a809a5dc00832fef38f787b2a8",
+      "validationSha256": "3d93829ec9e9217d0abaf912a90d0ad4395c68a809a5dc00832fef38f787b2a8",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "The Museum at FITは1930年代にski、golf、swimwearなどのactivewearが拡大し、装飾printもsportswearに取り入れられたと説明する。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "R.PARADAは1930年代後半sweatshirtを参照したhalf-zip pulloverに、往年sportswearを想起させる胸graphicを配したと公式資料に記載される。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "storySha256": "a91d615caa7359e1507dad0e0feba8ee476498a4c54ac0746b9674f222d16512"
+    },
+    {
+      "topicId": "T077",
+      "sha256": "08c3797c1f7144dfd127fffc43ba92ad407afbd0d02d49855ed51a879a205d8b",
+      "validationSha256": "08c3797c1f7144dfd127fffc43ba92ad407afbd0d02d49855ed51a879a205d8b",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "Heritage Auctionsは茶色ナイロン・金色トリムのDa Vinciシャツを、1950年代頃のBuddy Hollyの舞台着として記録する。",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "NICENESSはG.SWISHを、ミッドセンチュリーの音楽家の舞台衣装を参照したホックシャツとして説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "storySha256": "62eb0b6cb89cdac6c3847c4948f48f8df0d8487c23cef24dbff8b3ca258d355a"
     }
   ],
   "previousRelease": "release.v11.json",
   "adoptionBaseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
   "newArticleIds": [
-    "T079",
-    "T177",
-    "T223",
     "T267",
     "T276",
     "T277",
     "T279",
     "T285",
-    "T303",
+    "T290",
+    "T297",
+    "T077",
     "T330"
   ],
   "verificationRecord": "revalidation.v14.json",
-  "pendingReleaseNote": "This branch is based on main 704e0d3. PR14 and PR15 are separate pending review branches; reconcile the cumulative release before merging if either is merged first."
+  "pendingReleaseNote": "PR17 is review-only and unpublished. PR14 and PR15 remain separate pending review branches; reconcile cumulative release provenance before any later merge."
 }

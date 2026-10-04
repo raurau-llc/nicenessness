@@ -2,249 +2,16 @@
   "version": 14,
   "reviewedOn": "2026-10-04",
   "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
-  "publicationStatus": "Unpublished; all ten articles have status review. Independent editorial review pending.",
-  "method": "Mapped article claims to the existing fixed research and history-validation records. Did not run new web research or modify the read-only research archive.",
+  "publicationStatus": "Unpublished on PR17; all nine proposed additions have status review. No merge or deployment in this update.",
+  "method": "Reopened accessible public collection, museum, archive, auction, and official product records listed per story; read only the claim-bearing portions. Visually inspected the cited portions of user-supplied saved NICENESS scans, but did not independently authenticate issuer or contents. Removed claims tied to inaccessible Les Pêcheries and National Army Museum pages and an unconfirmed Library of Congress ad. For T330, DoD and Army history pages were not retrievable in this pass; their fixed research records are retained only with that limitation disclosed. SHA-256 fields identify local research records and do not establish source revalidation.",
   "records": [
-    {
-      "topicId": "T079",
-      "researchSha256": "0208fc81f9fe44d7f0b25324f64b06be926f69158a826604209bc12802c2de99",
-      "previousValidationSha256": "0208fc81f9fe44d7f0b25324f64b06be926f69158a826604209bc12802c2de99",
-      "previousValidationMatches": true,
-      "previousValidationStatus": "partial",
-      "usedFacts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "claim": "RISDは先端が曲がる滴形の柄をインド・ペルシアでbuta・botehと呼ぶとし、その初期形の由来には複数の説を挙げる。",
-          "sourceIds": [
-            "E01"
-          ]
-        },
-        {
-          "id": "F02",
-          "kind": "historical_fact",
-          "claim": "RISDは18世紀半ばからのカシミール製ショールの欧州輸入と、1790年代末の上層女性の流行を説明する。",
-          "sourceIds": [
-            "E01"
-          ]
-        },
-        {
-          "id": "F03",
-          "kind": "historical_fact",
-          "claim": "RISDは欧州の機械織模倣品の生産地Paisleyがショールの通称となり、20世紀初めまでに柄自体の呼称にもなったと説明する。",
-          "sourceIds": [
-            "E01"
-          ]
-        },
-        {
-          "id": "F05",
-          "kind": "historical_fact",
-          "claim": "TRCは17世紀末のムガル朝インドで鉤状のbutehが好まれ、カシミールの手織り毛ショールなどに用いられたと説明する。",
-          "sourceIds": [
-            "E03"
-          ]
-        },
-        {
-          "id": "F06",
-          "kind": "brand_statement",
-          "claim": "3商品はカシミール発祥と説明するペイズリーに日本の植物文様を混ぜ、シルクスクリーンでプリントすると述べる。",
-          "sourceIds": [
-            "B01",
-            "B02",
-            "B03"
-          ]
-        },
-        {
-          "id": "F07",
-          "kind": "brand_statement",
-          "claim": "3商品は経糸シルク・緯糸コットンのローンを用いると説明する。",
-          "sourceIds": [
-            "B01",
-            "B02",
-            "B03"
-          ]
-        },
-        {
-          "id": "F08",
-          "kind": "brand_statement",
-          "claim": "CHAOは文様を混ぜてプリントした交織ローンのスカーフ。",
-          "sourceIds": [
-            "B01"
-          ]
-        },
-        {
-          "id": "F09",
-          "kind": "brand_statement",
-          "claim": "JAMETはスカーフの柄と細部を活かす独自のパターンでオープンカラーシャツ化。",
-          "sourceIds": [
-            "B02"
-          ]
-        },
-        {
-          "id": "F10",
-          "kind": "brand_statement",
-          "claim": "PATは文様を混ぜてプリントした交織ローンのスカーフタイ。",
-          "sourceIds": [
-            "B03"
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "id": "E01",
-          "title": "What's in a Name? The Paisley Pattern in Kashmir Shawls",
-          "publisher": "RISD Museum／Madelyn Shaw",
-          "type": "museum_exhibition_essay",
-          "url": "https://risdmuseum.org/exhibitions-events/exhibitions/whats-name-paisley-pattern-kashmir-shawls"
-        },
-        {
-          "id": "E03",
-          "title": "3. History of the paisley motif",
-          "publisher": "Textile Research Centre, Leiden",
-          "type": "textile_research_exhibition",
-          "url": "https://trc-leiden.nl/trc-digital-exhibition/index.php/from-buteh-to-paisley/item/265-3-history-of-the-paisley-motif"
-        },
-        {
-          "id": "B01",
-          "title": "NICENESS CHAO",
-          "publisher": "NICENESS",
-          "type": "official_product_fixed_snapshot",
-          "url": "https://www.niceness.jp/products/chao"
-        },
-        {
-          "id": "B02",
-          "title": "NICENESS JAMET",
-          "publisher": "NICENESS",
-          "type": "official_product_fixed_snapshot",
-          "url": "https://www.niceness.jp/products/jamet"
-        },
-        {
-          "id": "B03",
-          "title": "NICENESS PAT",
-          "publisher": "NICENESS",
-          "type": "official_product_fixed_snapshot",
-          "url": "https://www.niceness.jp/products/pat"
-        }
-      ],
-      "claimsStatus": "Mapped to fixed research records; historical source checks were not repeated in this drafting pass.",
-      "brandEvidence": "Official product statements use the fixed research snapshot. A source without a public URL is labeled as saved brand material on the story page.",
-      "editorialReview": "Pending independent review.",
-      "boundary": "歴史上のカシミール製ショールを、現行商品の直接の原型とはしていない。各文様の具体的な原図や起源も特定していない。現代商品の組成・加工はブランドの公式説明として記す。",
-      "overlapReview": "Distinct central objects and source records from the 217-article main baseline and the nine proposals in PR14/15; editorial review remains pending."
-    },
-    {
-      "topicId": "T177",
-      "researchSha256": "069923db7b07a21c170cf058cdf0284033a20033e9add707eec30ea4751e173a",
-      "previousValidationSha256": "069923db7b07a21c170cf058cdf0284033a20033e9add707eec30ea4751e173a",
-      "previousValidationMatches": true,
-      "previousValidationStatus": "partial",
-      "usedFacts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "claim": "NPS報告は米軍のカーキ綿トラウザーが1954年に別付け腰帯と太いベルトループ、1958年までにジップ前開きへ変わったと記す。",
-          "sourceIds": [
-            "H01"
-          ]
-        },
-        {
-          "id": "F02",
-          "kind": "brand_statement",
-          "claim": "ALBARNは1950〜60年代軍用チノをイメージした特注チノクロス。特殊なエイジング加工で柔らかさと膨らみを付ける。",
-          "sourceIds": [
-            "B01"
-          ]
-        },
-        {
-          "id": "F03",
-          "kind": "brand_statement",
-          "claim": "C.COXONは1950〜60年代軍用チノをイメージした特注チノクロス。エイジング加工を施し、別年代の米陸軍デニム型を再構築したジャケットに使う。",
-          "sourceIds": [
-            "B02"
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "id": "H01",
-          "title": "Fort Cronkhite Historic Furnishings Report",
-          "publisher": "National Park Service",
-          "type": "government_historical_research",
-          "url": "https://www.nps.gov/goga/learn/historyculture/upload/Cronkhite-Historic-Furnishings-Report.pdf"
-        },
-        {
-          "id": "B01",
-          "title": "NICENESS ALBARN",
-          "publisher": "NICENESS",
-          "type": "official_product_fixed_snapshot",
-          "url": "https://www.niceness.jp/products/albarn"
-        },
-        {
-          "id": "B02",
-          "title": "NICENESS C.COXON",
-          "publisher": "NICENESS",
-          "type": "official_product_fixed_snapshot",
-          "url": "https://www.niceness.jp/products/c-coxon"
-        }
-      ],
-      "claimsStatus": "Mapped to fixed research records; historical source checks were not repeated in this drafting pass.",
-      "brandEvidence": "Official product statements use the fixed research snapshot. A source without a public URL is labeled as saved brand material on the story page.",
-      "editorialReview": "Pending independent review.",
-      "boundary": "NPSのカーキ綿トラウザーとALBARNを同一の型や規格とはしていない。ブランドが述べる参照は1950〜60年代の軍用チノで、製造規格や対象部隊は公式説明から特定できない。NPS報告の1954年・1958年の記録範囲を、軍服全体の一律な変化とも扱わない。",
-      "overlapReview": "Distinct central objects and source records from the 217-article main baseline and the nine proposals in PR14/15; editorial review remains pending."
-    },
-    {
-      "topicId": "T223",
-      "researchSha256": "8aadfb34445fafae77965b92cdde6ac70a5768bed496e16f32462e659c65b906",
-      "previousValidationSha256": "8aadfb34445fafae77965b92cdde6ac70a5768bed496e16f32462e659c65b906",
-      "previousValidationMatches": true,
-      "previousValidationStatus": "partial",
-      "usedFacts": [
-        {
-          "id": "F02",
-          "kind": "historical_fact",
-          "claim": "米陸軍の公式史は、1956年12月17日に士官が男性士官用の綿カーキ夏シャツとショーツをモデル着用した写真を掲載する。",
-          "sourceIds": [
-            "H02"
-          ]
-        },
-        {
-          "id": "F03",
-          "kind": "brand_statement",
-          "claim": "SS25 MAHERはUSミリタリーのサマーショーツを参照し、独自のムラ糸チノ、レザーとメッシュを用いて通気性を高めると説明する。",
-          "sourceIds": [
-            "B01"
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "id": "H02",
-          "title": "From New Look to Flexible Response: The U.S. Army in National Security, 1953–1963",
-          "publisher": "Donald A. Carter / U.S. Army Center of Military History",
-          "type": "institutional_history",
-          "url": "https://history.army.mil/portals/143/Images/Publications/catalog/45-6.pdf"
-        },
-        {
-          "id": "B01",
-          "title": "NICENESS MAHER",
-          "publisher": "NICENESS",
-          "type": "official_product_fixed_snapshot",
-          "url": "https://www.niceness.jp/products/maher"
-        }
-      ],
-      "claimsStatus": "Mapped to fixed research records; historical source checks were not repeated in this drafting pass.",
-      "brandEvidence": "Official product statements use the fixed research snapshot. A source without a public URL is labeled as saved brand material on the story page.",
-      "editorialReview": "Pending independent review.",
-      "boundary": "MAHERを1956年の写真に写る服の再現や直接の後継品とはしていない。写真はモデル着用の例であり、他の兵士の制服仕様や着用状況を代表するとは限らない。",
-      "overlapReview": "Distinct central objects and source records from the 217-article main baseline and the nine proposals in PR14/15; editorial review remains pending."
-    },
     {
       "topicId": "T267",
       "researchSha256": "36c4d2abd66d38b36e0d190acac70cb1cd62f57e3cf208daa76cbdf303f5d2ff",
       "previousValidationSha256": "36c4d2abd66d38b36e0d190acac70cb1cd62f57e3cf208daa76cbdf303f5d2ff",
       "previousValidationMatches": true,
       "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
       "usedFacts": [
         {
           "id": "F01",
@@ -269,6 +36,14 @@
           "sourceIds": [
             "B01"
           ]
+        },
+        {
+          "id": "F04",
+          "kind": "historical_fact",
+          "claim": "Georgia O’Keeffe Museum Accessの個体2000.3.689はSperry Top-Siderの白いキャンバススニーカーと記録される。NICENESSが呼ぶ「Commodore」と同一品かは確認できない。",
+          "sourceIds": [
+            "H03"
+          ]
         }
       ],
       "sources": [
@@ -292,13 +67,20 @@
           "publisher": "NICENESS",
           "type": "official_product_fixed_snapshot",
           "url": "https://www.niceness.jp/products/georgia-1"
+        },
+        {
+          "id": "H03",
+          "title": "Sperry Top-Sider white canvas sneakers, well-worn and soiled with clay",
+          "publisher": "Georgia O’Keeffe Museum Access",
+          "type": "museum_collection",
+          "url": "https://access-ok.okeeffemuseum.org/object/10108/"
         }
       ],
-      "claimsStatus": "Mapped to fixed research records; historical source checks were not repeated in this drafting pass.",
-      "brandEvidence": "Official product statements use the fixed research snapshot. A source without a public URL is labeled as saved brand material on the story page.",
-      "editorialReview": "Pending independent review.",
-      "boundary": "美術館資料は、展示の解釈と好まれた衣服の種類を示すが、「コモドール」と呼ばれる靴の来歴を立証するものではない。GEORGIAがオキーフ本人の所有品を再現したとも扱わない。",
-      "overlapReview": "Distinct central objects and source records from the 217-article main baseline and the nine proposals in PR14/15; editorial review remains pending."
+      "claimsStatus": "Existing exhibition and clothing claims were mapped to fixed records; the Access object record for Sperry Top-Sider was reopened. The museum record does not identify a Commodore shoe or establish a link to GEORGIA.",
+      "brandEvidence": "Public official product page used for the GEORGIA wording. The Sperry record is a separate museum object record.",
+      "editorialReview": "Pending independent editorial review.",
+      "boundary": "「Commodore」はブランド説明にある呼称として扱う。美術館のSperry Top-Sider記録との同一性やGEORGIAの直接の原型関係は確認されていない。",
+      "overlapReview": "T267 remains a clothing-and-portrait story. The Sperry record is used only to distinguish an O’Keeffe Museum catalog entry from the brand’s “Commodore” phrasing; no identity with the shoe in the brand text is asserted. T266 is unchanged."
     },
     {
       "topicId": "T276",
@@ -306,19 +88,12 @@
       "previousValidationSha256": "eb74a5b1fd88e319edea54d0f7eb47b82f331dc55bb58958990a5166ee50cfb7",
       "previousValidationMatches": true,
       "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
       "usedFacts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "claim": "INAは1959〜60年代フランス農村の写真・映像資料を、農業機械化や農村生活の変化を含むアルバムとして公開する。",
-          "sourceIds": [
-            "H01"
-          ]
-        },
         {
           "id": "F02",
           "kind": "historical_fact",
-          "claim": "Palais Galliera所蔵の1961年頃に撮影されたフランス製短い綿ベストは、袖なし、前合わせ、単一ボタン留めである。",
+          "claim": "Paris Muséesの個体2016.1.143.1はPeau d’Ane製、Saint-Tropez、製作circa 1970と登録される一方、写真説明はcirca 1961とする。短い袖なし綿ベストで前合わせとボタンがある。製作年と写真年の記載は整合しない。",
           "sourceIds": [
             "H02"
           ]
@@ -334,13 +109,6 @@
       ],
       "sources": [
         {
-          "id": "H01",
-          "title": "À quoi ressemblaient les campagnes françaises dans les années 60",
-          "publisher": "Institut national de l’audiovisuel",
-          "type": "public_archive_article",
-          "url": "https://www.ina.fr/actualites-ina/l-album-photo/album-photo-la-campagne-francaise-des-annees-60"
-        },
-        {
           "id": "H02",
           "title": "Gilet",
           "publisher": "Paris Musées",
@@ -355,11 +123,11 @@
           "url": null
         }
       ],
-      "claimsStatus": "Mapped to fixed research records; historical source checks were not repeated in this drafting pass.",
-      "brandEvidence": "Official product statements use the fixed research snapshot. A source without a public URL is labeled as saved brand material on the story page.",
-      "editorialReview": "Pending independent review.",
-      "boundary": "Galliera所蔵の短い綿ベストがFLINTの直接の原型とは確認されていない。INAの農村資料が示す生活変化も、所蔵ベストの着用者や具体的用途を特定するものではない。",
-      "overlapReview": "Distinct central objects and source records from the 217-article main baseline and the nine proposals in PR14/15; editorial review remains pending."
+      "claimsStatus": "Paris Musées record reopened. It separately lists circa-1970 production and circa-1961 photography; this contradiction is preserved rather than resolved.",
+      "brandEvidence": "The saved FLINT material was visually inspected at the claim-bearing portion. It was supplied as NICENESS material by the user; issuer and contents have not been independently authenticated, and it has no public URL.",
+      "editorialReview": "Pending independent editorial review.",
+      "boundary": "Paris Muséesの一着は製作 circa 1970・写真 circa 1961と記録され、その不一致は未解決。製作者、用途、着用者を「農夫」とは特定しない。FLINTと同じ型や原型とも確認されていない。",
+      "overlapReview": "The new focus is one Paris Musées record and its conflicting production/photo dates. It does not identify the wearer as a farmer; the INA context was removed."
     },
     {
       "topicId": "T277",
@@ -367,6 +135,7 @@
       "previousValidationSha256": "c28187d1d91e733434835280b84767ceacade7870121b1f11c9cb3de22709112",
       "previousValidationMatches": true,
       "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
       "usedFacts": [
         {
           "id": "F01",
@@ -374,14 +143,6 @@
           "claim": "Martha’s Vineyard Museumの写真目録には、1950年代または1960年代、長袖ジャケットと胸までのウェーダーを着用して波打ち際で釣りをする男性の写真が記録される。",
           "sourceIds": [
             "H01"
-          ]
-        },
-        {
-          "id": "F02",
-          "kind": "historical_fact",
-          "claim": "Les Pêcheriesの資料は、フェカンで製造された雨具が1960〜1965年頃にトロール船Shamrock IIIでMaurice Villardに使用され、製造元Brumentが加硫ゴム製品と雨具を扱ったと記す。",
-          "sourceIds": [
-            "H02"
           ]
         },
         {
@@ -402,13 +163,6 @@
           "url": "https://www.mvmuseum.org/EAD_FindingAids/findingaid_get.php?record-unit=RU515"
         },
         {
-          "id": "H02",
-          "title": "Musée Les Pêcheries programme",
-          "publisher": "Réseau des musées de Normandie / Les Pêcheries",
-          "type": "museum_publication",
-          "url": "https://www.musees-normandie.fr/IMG/pdf/lespecheries_prog26-148x210-v9.pdf"
-        },
-        {
           "id": "B01",
           "title": "NICENESS LYLE",
           "publisher": "NICENESS",
@@ -416,11 +170,11 @@
           "url": null
         }
       ],
-      "claimsStatus": "Mapped to fixed research records; historical source checks were not repeated in this drafting pass.",
-      "brandEvidence": "Official product statements use the fixed research snapshot. A source without a public URL is labeled as saved brand material on the story page.",
-      "editorialReview": "Pending independent review.",
-      "boundary": "Martha’s Vineyardの写真に写るジャケットやFécamp製雨具を、LYLEの直接の原型とはしていない。公式資料はデザインの参照年代や生地のイメージを示すが、特定の博物館資料との同定はしていない。",
-      "overlapReview": "Distinct central objects and source records from the 217-article main baseline and the nine proposals in PR14/15; editorial review remains pending."
+      "claimsStatus": "MVM finding-aid record reopened. The Les Pêcheries PDF was not retrievable and its claims/source were removed.",
+      "brandEvidence": "The saved LYLE material was visually inspected at the claim-bearing portion. It was supplied as NICENESS material by the user; issuer and contents have not been independently authenticated, and it has no public URL.",
+      "editorialReview": "Pending independent editorial review.",
+      "boundary": "Martha’s Vineyard Museumの目録は写真の人物を職業的な漁師とは特定せず、ジャケットを防水着とも記していない。LYLEとの直接の原型関係も確認されていない。",
+      "overlapReview": "The central item is MVM photo catalog record 2001.32.916, a surf-fishing scene. It says neither occupation nor waterproofing; the inaccessible Les Pêcheries comparison was removed."
     },
     {
       "topicId": "T279",
@@ -428,15 +182,8 @@
       "previousValidationSha256": "72e1746502307e65fa45317dfdc3fd9849a7510ccefdb04bf5f1242aa71cb0e4",
       "previousValidationMatches": true,
       "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
       "usedFacts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "claim": "National Army Museumの目録には、1944年の復員用レインコート、1945年の将校用防水トレンチコート、1955年のゴム引きmonsoon capeが別々の型として登録される。",
-          "sourceIds": [
-            "H01"
-          ]
-        },
         {
           "id": "F02",
           "kind": "historical_fact",
@@ -456,13 +203,6 @@
       ],
       "sources": [
         {
-          "id": "H01",
-          "title": "National Army Museum pattern garment inventory",
-          "publisher": "National Army Museum",
-          "type": "museum_collection_catalog",
-          "url": "https://collection.nam.ac.uk/inventory/objects/results.php?associatedName=&campaign=&event=&flag=1&keyword=&otArc=1&page=903&placeNotes=&productionNotes=&shortDescription=&unit="
-        },
-        {
           "id": "H02",
           "title": "British Army Demobilized Serviceman’s Raincoat",
           "publisher": "Australian War Memorial",
@@ -477,11 +217,11 @@
           "url": null
         }
       ],
-      "claimsStatus": "Mapped to fixed research records; historical source checks were not repeated in this drafting pass.",
-      "brandEvidence": "Official product statements use the fixed research snapshot. A source without a public URL is labeled as saved brand material on the story page.",
-      "editorialReview": "Pending independent review.",
-      "boundary": "FINNの直接の型紙やPattern M259との対応は確認されていない。歴史上のレインコート仕様と、現行品の素材・加工は異なる資料から記す。",
-      "overlapReview": "Distinct central objects and source records from the 217-article main baseline and the nine proposals in PR14/15; editorial review remains pending."
+      "claimsStatus": "AWM record reopened. NAM inventory could not be retrieved and was removed along with its comparative claims.",
+      "brandEvidence": "The saved FINN material was visually inspected at the claim-bearing portion. It was supplied as NICENESS material by the user; issuer and contents have not been independently authenticated, and it has no public URL.",
+      "editorialReview": "Pending independent editorial review.",
+      "boundary": "M259は1946年頃の英国製一着で、FINNの公式参照と同じ型式とは確認されていない。歴史的な素材・仕様と現行品の説明は別々に示す。",
+      "overlapReview": "The article now treats only AWM object M259, recorded circa 1946. The 1944–55 comparison range and inaccessible NAM records were removed; “表地” is used."
     },
     {
       "topicId": "T285",
@@ -489,6 +229,7 @@
       "previousValidationSha256": "1554536e75eab9461c34b6c9f856cf38471a11fbb6ec117bd95432532b334141",
       "previousValidationMatches": true,
       "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
       "usedFacts": [
         {
           "id": "F01",
@@ -501,7 +242,7 @@
         {
           "id": "F02",
           "kind": "historical_fact",
-          "claim": "The Met所蔵の1979年米国製sweat shirtは、綿・樹脂・アクリルを素材として登録される。",
+          "claim": "The Metは個別の「Sweat shirt」を1979年、Culture: American、素材はcotton, plastic, acrylicと登録する。記録はフードや製造国を示していない。",
           "sourceIds": [
             "H02"
           ]
@@ -538,72 +279,11 @@
           "url": null
         }
       ],
-      "claimsStatus": "Mapped to fixed research records; historical source checks were not repeated in this drafting pass.",
-      "brandEvidence": "Official product statements use the fixed research snapshot. A source without a public URL is labeled as saved brand material on the story page.",
-      "editorialReview": "Pending independent review.",
-      "boundary": "GRAAFは博物館所蔵の1979年製品の再現ではない。Metの素材登録はその一着について、GRAAFの素材構成は現行商品の公式説明として記す。",
-      "overlapReview": "Distinct central objects and source records from the 217-article main baseline and the nine proposals in PR14/15; editorial review remains pending."
-    },
-    {
-      "topicId": "T303",
-      "researchSha256": "963ac4c4f8c8bbf5c0761c173153127e32f69d7355771d48b4a20e9b454b104b",
-      "previousValidationSha256": "963ac4c4f8c8bbf5c0761c173153127e32f69d7355771d48b4a20e9b454b104b",
-      "previousValidationMatches": true,
-      "previousValidationStatus": "partial",
-      "usedFacts": [
-        {
-          "id": "F01",
-          "kind": "historical_fact",
-          "claim": "Australian War Memorial所蔵の1942年suit trousersはfront pleatを持たず、左右waist bandと背面strap・buckleでfitを調整する。",
-          "sourceIds": [
-            "H01"
-          ]
-        },
-        {
-          "id": "F02",
-          "kind": "historical_fact",
-          "claim": "V&Aは1960年代のMary Quantがmens tailoringを借りた女性用trousersを作り、服装規範を変えた例を紹介する。",
-          "sourceIds": [
-            "H02"
-          ]
-        },
-        {
-          "id": "F03",
-          "kind": "brand_statement",
-          "claim": "HOWLETTはmilitaryとdressの構造美を融合し、dress detail、beltless仕様、深いintuckを継承したと公式資料に記載される。",
-          "sourceIds": [
-            "B01"
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "id": "H01",
-          "title": "Victory Suit trousers: Mr John J Dedman",
-          "publisher": "Australian War Memorial",
-          "type": "museum_collection",
-          "url": "https://www.awm.gov.au/collection/C212577"
-        },
-        {
-          "id": "H02",
-          "title": "Six revolutionary designs by Mary Quant",
-          "publisher": "Victoria and Albert Museum",
-          "type": "museum_editorial",
-          "url": "https://www.vam.ac.uk/articles/six-revolutionary-designs-by-mary-quant"
-        },
-        {
-          "id": "B01",
-          "title": "NICENESS HOWLETT",
-          "publisher": "NICENESS",
-          "type": "official_product_fixed_snapshot",
-          "url": "https://www.niceness.jp/products/howlett-26ss"
-        }
-      ],
-      "claimsStatus": "Mapped to fixed research records; historical source checks were not repeated in this drafting pass.",
-      "brandEvidence": "Official product statements use the fixed research snapshot. A source without a public URL is labeled as saved brand material on the story page.",
-      "editorialReview": "Pending independent review.",
-      "boundary": "HOWLETTが1942年の所蔵トラウザーを直接の原型とする説明はない。V&Aの解説も、女性用パンツの具体的な型紙やHOWLETTへの伝播を示すものではない。",
-      "overlapReview": "Distinct central objects and source records from the 217-article main baseline and the nine proposals in PR14/15; editorial review remains pending."
+      "claimsStatus": "MoMA and Met collection records reopened. Met is represented as the individual 1979 sweat shirt record; no hoodie or manufacturing-country claim is made.",
+      "brandEvidence": "The saved GRAAF material was visually inspected at the claim-bearing portion. It was supplied as NICENESS material by the user; issuer and contents have not been independently authenticated, and it has no public URL.",
+      "editorialReview": "Pending independent editorial review.",
+      "boundary": "Metの1979年のスウェットシャツはフーディーとは確認できない。GRAAFはその収蔵品の再現ではなく、現代商品の素材・構成はブランド保存資料の説明として扱う。",
+      "overlapReview": "The article focuses on hooded-sweatshirt shape and adoption. The Met 1979 “Sweat shirt” is not called a hoodie and “Culture: American” is not treated as manufacturing country."
     },
     {
       "topicId": "T330",
@@ -611,11 +291,12 @@
       "previousValidationSha256": "6700a52c7b7a0652f57f92bfefac38c471fee209bd4c040b7bf9897c8c6de06b",
       "previousValidationMatches": true,
       "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
       "usedFacts": [
         {
           "id": "F01",
           "kind": "historical_fact",
-          "claim": "米国防総省資料は第二次大戦Europeでwoolが標準、Pacificでherringbone twillがMarine uniform標準になったと説明する。",
+          "claim": "米国防総省・国立海兵隊博物館の展示は、欧州戦域のウール制服と太平洋方面の海兵隊herringbone twill制服を区別して説明するが、この箇所はHBTの繊維を明記しない。",
           "sourceIds": [
             "H01"
           ]
@@ -623,7 +304,7 @@
         {
           "id": "F02",
           "kind": "historical_fact",
-          "claim": "米陸軍史料はKorean War期にolive drab wool shirt・trousersと、元はwork uniformのdark olive cotton HBT battle dressを区別する。",
+          "claim": "米陸軍史料は朝鮮戦争期のオリーブドラブのウール製シャツ・トラウザーと、元は作業服だった濃いオリーブ色の綿HBT戦闘服を区別する。",
           "sourceIds": [
             "H02"
           ]
@@ -660,11 +341,167 @@
           "url": "https://www.niceness.jp/products/h-tweedy"
         }
       ],
-      "claimsStatus": "Mapped to fixed research records; historical source checks were not repeated in this drafting pass.",
-      "brandEvidence": "Official product statements use the fixed research snapshot. A source without a public URL is labeled as saved brand material on the story page.",
-      "editorialReview": "Pending independent review.",
-      "boundary": "第二次大戦・朝鮮戦争の米軍資料は、H.TWEEDYの直接の原型を特定するものではない。ブランドが述べる20世紀初頭の英米軍用ウールと、後年の米軍ウール・綿HBT制服を同一品として扱わない。",
-      "overlapReview": "Distinct central objects and source records from the 217-article main baseline and the nine proposals in PR14/15; editorial review remains pending."
+      "claimsStatus": "Existing fixed source summaries retained as a narrow comparison; the DoD and Army pages could not be retrieved in this pass. HBT fiber is not attributed to the DoD page; the wool/cotton distinction is only stated as the Army-history record’s description.",
+      "brandEvidence": "Current public H.TWEEDY product page reopened; its product season is AW25.",
+      "editorialReview": "Pending independent editorial review.",
+      "boundary": "第二次大戦・朝鮮戦争の資料はH.TWEEDYの直接の原型を示さない。H.TWEEDYの商品説明にある初期の英米軍用ウールと、後年の米軍ウール制服・綿HBT制服を同一の服として扱わない。",
+      "overlapReview": "The story compares documented wool uniforms with cotton HBT as separately described sources; it does not say HBT is wool. Distinct from T096 (pocket-oriented HBT workwear), T036 (two-piece utility uniform), and T020 (specific herringbone garment)."
+    },
+    {
+      "topicId": "T290",
+      "researchSha256": "fc32f720331f7d402c84770d612c3d1622717f310b94e89aa86e9e7e5d1f9832",
+      "previousValidationSha256": "fc32f720331f7d402c84770d612c3d1622717f310b94e89aa86e9e7e5d1f9832",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+      "usedFacts": [
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "claim": "Autry Museum所蔵の1950年代初頭North Hollywood製男性用舞台衣装は、毛gabardineのjacket、pants、shirtで、jacketに胸・腰ポケットと配色パイピング、波状矢印装飾を備える。",
+          "sourceIds": [
+            "H02"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "claim": "Philadelphia Museum所蔵の1940年代後半〜50年代初頭Claire McCardell製女性用suitは、businessとcasual双方に適する短いjacketを備え、縁飾りとwelt pocketを用いる。",
+          "sourceIds": [
+            "H03"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "claim": "C.MAXIMは1940〜50年代US sports jacketを参照し、立体形と着物に通じる直線構成、流鏑馬とcowboyの図柄を北陸製rayon・cotton gabardineへ京都で手刷りしたと公式資料に記載される。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "H02",
+          "title": "Suit by Nudie’s Rodeo Tailors",
+          "publisher": "Autry Museum of the American West",
+          "type": "museum_collection",
+          "url": "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM504559%3Btype%3D101"
+        },
+        {
+          "id": "H03",
+          "title": "Woman’s Suit: Jacket and Skirt",
+          "publisher": "Philadelphia Museum of Art",
+          "type": "museum_collection",
+          "url": "https://www.philamuseum.org/objects/92566"
+        },
+        {
+          "id": "B01",
+          "title": "NICENESS C.MAXIM",
+          "publisher": "NICENESS",
+          "type": "official_product_fixed_snapshot",
+          "url": "https://www.niceness.jp/products/c-maxim-26ss"
+        }
+      ],
+      "claimsStatus": "Autry and Philadelphia Museum of Art collection records and the C.MAXIM page reopened. The unconfirmed Library of Congress advertisement claim is excluded.",
+      "brandEvidence": "Current public C.MAXIM product page reopened; its product season is SS26.",
+      "editorialReview": "Pending independent editorial review.",
+      "boundary": "Autryの舞台衣装やMcCardellの女性用スーツがC.MAXIMの直接の原型とは確認されていない。ブランドが挙げるスポーツジャケットの参照は別の説明として扱い、収蔵例を一般的なスポーツジャケットの標準とはしない。",
+      "overlapReview": "The story compares two specific, unlike jackets: an Autry western stage suit and a Philadelphia Museum of Art women’s business/casual suit. Neither is presented as the general sports-jacket standard or as C.MAXIM’s direct source; topic and evidence differ from PR14/15."
+    },
+    {
+      "topicId": "T297",
+      "researchSha256": "3d93829ec9e9217d0abaf912a90d0ad4395c68a809a5dc00832fef38f787b2a8",
+      "previousValidationSha256": "3d93829ec9e9217d0abaf912a90d0ad4395c68a809a5dc00832fef38f787b2a8",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "The Museum at FITは1930年代にski、golf、swimwearなどのactivewearが拡大し、装飾printもsportswearに取り入れられたと説明する。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "R.PARADAは1930年代後半sweatshirtを参照したhalf-zip pulloverに、往年sportswearを想起させる胸graphicを配したと公式資料に記載される。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "H01",
+          "title": "Elegance in an Age of Crisis: Fashions of the 1930s",
+          "publisher": "The Museum at FIT",
+          "type": "museum_exhibition",
+          "url": "https://exhibitions.fitnyc.edu/fashions-of-the-1930s/"
+        },
+        {
+          "id": "B01",
+          "title": "NICENESS R.PARADA",
+          "publisher": "NICENESS",
+          "type": "official_product_fixed_snapshot",
+          "url": "https://www.niceness.jp/products/r-parada"
+        }
+      ],
+      "claimsStatus": "FIT exhibition record and R.PARADA page reopened. The exhibition is described as a museum catalog context, not as the product’s direct source.",
+      "brandEvidence": "Current public R.PARADA product page reopened; its product season is AW25.",
+      "editorialReview": "Pending independent editorial review.",
+      "boundary": "The Museum at FITの所蔵品・展覧会記録は、R.PARADAの直接の参照元や胸グラフィックの原図ではない。競技名、所属、グラフィックの制作年代は公式商品説明から特定できない。",
+      "overlapReview": "FIT exhibition objects illustrate 1930s activewear prints; they do not identify R.PARADA’s graphic source, sport, or original. Distinct from T187’s photo-color process, T258’s numerals/badges, and T093–T095 motif stories."
+    },
+    {
+      "topicId": "T077",
+      "researchSha256": "08c3797c1f7144dfd127fffc43ba92ad407afbd0d02d49855ed51a879a205d8b",
+      "previousValidationSha256": "08c3797c1f7144dfd127fffc43ba92ad407afbd0d02d49855ed51a879a205d8b",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "Heritage Auctionsは茶色ナイロン・金色トリムのDa Vinciシャツを、1950年代頃のBuddy Hollyの舞台着として記録する。",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "NICENESSはG.SWISHを、ミッドセンチュリーの音楽家の舞台衣装を参照したホックシャツとして説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "E01",
+          "title": "Buddy Holly Brown Da Vinci Shirt, lot 38619 / auction 7433",
+          "publisher": "Heritage Auctions",
+          "type": "auction_object_record",
+          "url": "https://entertainment.ha.com/itm/music-memorabilia/memorabilia/buddy-holly-owned-and-worn-brown-da-vinci-shirt-ca-1950s-/a/7433-38619.s"
+        },
+        {
+          "id": "B01",
+          "title": "NICENESS G.SWISH",
+          "publisher": "NICENESS",
+          "type": "official_product_fixed_snapshot",
+          "url": "https://www.niceness.jp/products/g-swish"
+        }
+      ],
+      "claimsStatus": "Heritage Auctions listing and the G.SWISH page reopened. Buddy Holly provenance is explicitly treated as the auction listing’s attribution; certificate and performance photos were not inspected.",
+      "brandEvidence": "Current public G.SWISH product page reopened; its product season is SS25.",
+      "editorialReview": "Pending independent editorial review.",
+      "boundary": "Buddy Hollyの所有・着用という来歴はHeritage Auctionsによる出品目録の帰属説明で、証明書原本と舞台写真は未確認。G.SWISHがその競売品を再現した、または直接参照したという根拠はない。",
+      "overlapReview": "The story reports Heritage Auctions’ attribution as an auction-house claim, without validating the COA. G.SWISH’s general stagewear reference is a separate product statement; no Buddy Holly connection is claimed. Distinct from PR15 T099 sailor trousers."
     }
   ]
 }
