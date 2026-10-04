@@ -28052,5 +28052,124 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T131",
+    "slug": "the-mountain-printed-animal-tees",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "メーカー自社史の舞台"
+      }
+    ],
+    "eras": [
+      "1970s",
+      "1990s",
+      "2000s"
+    ],
+    "tags": [
+      "プリントTシャツ",
+      "アニマル柄",
+      "小売店",
+      "版"
+    ],
+    "category": "DRESS / 着る",
+    "model": "G.BERNARD",
+    "season": "AW25",
+    "item": "g-bernard-aw25",
+    "title": "店を手放し、プリントに専念する\nThe MountainのTシャツ",
+    "deck": "ベルトの売り場から始まった会社の自社史をたどると、Tシャツを刷る工房と、動物の顔を大きく配したプリントへつながっていく。",
+    "place": "米国・ニューハンプシャー州",
+    "period": "1972年以降・2008年以降",
+    "context": "プリントTシャツと売り場",
+    "opening": "胸いっぱいに動物の顔をのせたTシャツ。The Mountainの会社史は、その動物柄へ至る歩みを、ニューハンプシャーで作ったベルトや、フェアの売り場から語り始める。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "belt",
+        "title": "山の景色を、ベルトに。",
+        "paragraphs": [
+          "The Mountainの自社史によれば、創業者たちはニューハンプシャーへ移った後、フェアや祭りでベルトやバックルを販売した。山の景色を飾ったベルトが人気を集め、ブランド名の着想になったという。",
+          "最初の実店舗を開いたのは1972年。会社の物語は、Tシャツのプリントではなく、身につける小物と対面の売り場から始まっている。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "printshop",
+        "title": "売る店から、刷る工房へ。",
+        "paragraphs": [
+          "会社の説明では、Tシャツを売っていた別のアーティスト二人と出会い、一緒にプリントショップをつくった。年表はこの章を1976年に置いている。やがてミッドアトランティック各地に店を広げ、自社の手染め・プリントTシャツをほかの品々と並べたと振り返る。",
+          "自社史の本文は、小売店を売却してプリント衣料へ専念した年を1996年と記す一方、隣接する年表の見出しは1991年になっている。年には表示の食い違いがあるため、ここでは店舗運営からプリントへ軸足を移したという記述として読む。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "big-face",
+        "title": "動物の顔を、正面へ。",
+        "paragraphs": [
+          "会社の年表は2008年、同社のThree Wolf MoonのTシャツが広く話題になった出来事を記録している。その後、写実的な動物の顔を大きく描くBig Faceシリーズを始めたとも説明する。",
+          "これはThe Mountainが自ら記す一社の歩みだ。動物柄Tシャツがいつ、どこで、どんな人に着られたかを示す資料ではない。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "一社の回顧からは、店頭で売るTシャツからプリントを担う側へ移り、後年に動物の顔を前面に出した流れが見える。特定のヴィンテージTシャツの産地や着用者まで、会社史が明らかにするわけではない。",
+    "bridge_title": "動物の図案を、色ごとの版で重ねる。",
+    "bridge": "NICENESSのG.BERNARDは、1980〜90年代のアメリカ製アニマルプリントTシャツをイメージソースにしたと公式に説明される。UMAの図案を色ごとに版分けして重ね刷りする現行品で、NICENESSの商品ページにはニカラグア製と記載されている。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "The Mountainの自社史は同社による回顧で、G.BERNARDが同社の特定商品を参照したとは確認できない。NICENESSが示す着想年代・参照地域と、現行品の製造地も別の情報として扱う。",
+    "product_title": "参照した年代と、いまの生産地。",
+    "product_paragraphs": [
+      "公式説明によれば、G.BERNARD（AW25）は6.0ozのTシャツに、ネッシー、ビッグフット、ツチノコの図案を色ごとに版分けして重ね刷りする。イメージソースは1980〜90年代のアメリカ製アニマルプリントTシャツとされる。",
+      "現行品の生産地はニカラグア。参照対象の説明から、個別のヴィンテージの製造地やThe Mountainとの直接のつながりを補うことはできない。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": null,
+    "modifiedAt": null,
+    "products": [
+      {
+        "id": "g-bernard-aw25",
+        "model": "G.BERNARD",
+        "season": "AW25",
+        "number": "NN-4102J16",
+        "url": "https://www.niceness.jp/products/g-bernard",
+        "retained": "NICENESS公式説明上のイメージソースである、1980〜90年代のアメリカ製アニマルプリントTシャツ。",
+        "changed": "6.0ozの生地にUMAの図案を色別の版で重ね刷り。現行品の生産地はニカラグア。",
+        "factRefs": [
+          "F04"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Our Story",
+        "publisher": "The Mountain",
+        "url": "https://themountain.com/our-storys/",
+        "kind": "maker"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS G.BERNARD",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/g-bernard",
+        "kind": "brand"
+      }
+    ]
   }
 ]

@@ -1,0 +1,69 @@
+{
+  "version": 15,
+  "reviewedOn": "2026-10-04",
+  "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+  "publicationStatus": "Unpublished; one proposed article remains status review. Independent AI editorial review and maintainer adoption are pending; no merge or deployment has occurred.",
+  "method": "Reopened the public The Mountain Our Story and NICENESS G.BERNARD product page, and checked only claim-bearing passages. Used The Mountain chronology as the company’s own retrospective, not independent verification. The Mountain page prose dates the store sale to 1996 while an adjacent timeline heading says 1991; the article flags this discrepancy and avoids treating either date as settled. NICENESS’s reference description is separated from the current G.BERNARD product and its made-in-Nicaragua statement. No images or third-party text were reproduced. SHA-256 identifies the local research snapshot only and does not establish source authenticity or independent review.",
+  "records": [
+    {
+      "topicId": "T131",
+      "researchSha256": "cc3bbd33268490e2988b5b0bc97261ab98743ebf379fd64a2537652504aad575",
+      "previousValidationSha256": "cc3bbd33268490e2988b5b0bc97261ab98743ebf379fd64a2537652504aad575",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "The Mountainの自社史は、ベルト販売と1972年の初店舗を記す。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "claim": "The Mountainの自社史は、Tシャツ工房の設立、店舗網、自社プリントTシャツ、および店舗売却後に印刷へ専念したと記す。年表の1991年表示と本文の1996年記載が一致しない。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "claim": "The Mountainの自社史は、Three Wolf Moon後にBig Face動物Tシャツを始めたと記す。",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "claim": "NICENESSの公式商品ページはG.BERNARDのイメージソース、色別の重ね刷り、6.0oz、現行品のニカラグア製を説明している。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "H01",
+          "title": "Our Story",
+          "publisher": "The Mountain",
+          "type": "manufacturer_retrospective",
+          "url": "https://themountain.com/our-storys/"
+        },
+        {
+          "id": "B01",
+          "title": "NICENESS G.BERNARD",
+          "publisher": "NICENESS",
+          "type": "official_product_page",
+          "url": "https://www.niceness.jp/products/g-bernard"
+        }
+      ],
+      "claimsStatus": "Primary pages were reopened. The Mountain claims are attributed to the maker’s own history. Its event date is internally inconsistent. No independent record establishes an exact The Mountain shirt as NICENESS’s reference.",
+      "independentReview": "Pending. The author’s source recheck is not represented as independent editorial review."
+    }
+  ]
+}
