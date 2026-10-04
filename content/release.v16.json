@@ -1,7 +1,7 @@
 {
   "version": 16,
-  "sourceRevision": "85fcb8e3fed1c71f840fcb7780cbf845baa90b41",
-  "scope": "222 articles: the 217-article main baseline plus five proposed review stories (T323, T041, T341, T039 and T331). All proposed articles remain unpublished.",
+  "sourceRevision": "88cae45c4811296673e230763e79e481bfc6ab81",
+  "scope": "226 articles: the 217-article main baseline plus nine proposed stories (T323, T041, T341, T039, T331, T001, T015, T191 and T219). All nine proposed articles remain unpublished and status review.",
   "articles": [
     {
       "topicId": "T170",
@@ -7776,6 +7776,126 @@
         }
       ],
       "storySha256": "1b05f4d540a053071c5102831c6cca93d47f382142207b8bd05be179989c53cd"
+    },
+    {
+      "topicId": "T001",
+      "sha256": "7c143f0dc25cfdea37f62d0afad8cef32eb329fe6732531d9f130fd66afd6e58",
+      "validationSha256": "7c143f0dc25cfdea37f62d0afad8cef32eb329fe6732531d9f130fd66afd6e58",
+      "validationBasis": "Unchanged fixed research record; live primary/official product descriptions checked on 2026-10-04 and detailed in revalidation.v16.json. Article-only supplemental product specification facts are recorded in that PR source-check record; the read-only research manifest was not changed.",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B12"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B12"
+          ]
+        },
+        {
+          "id": "F07",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B12"
+          ]
+        }
+      ],
+      "storySha256": "85d3c9d459a893e6a3268e64c9257982bbd7dab41220495074e481b4523311ee"
+    },
+    {
+      "topicId": "T015",
+      "sha256": "7ad8489ce6da7be3986e6127c33e11df4b655afc59cc36d29964df88e473dfa6",
+      "validationSha256": "7ad8489ce6da7be3986e6127c33e11df4b655afc59cc36d29964df88e473dfa6",
+      "validationBasis": "Unchanged fixed research record; live primary/official product descriptions checked on 2026-10-04 and detailed in revalidation.v16.json. Article-only supplemental product specification facts are recorded in that PR source-check record; the read-only research manifest was not changed.",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "E02"
+          ]
+        },
+        {
+          "id": "F06",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B02"
+          ]
+        },
+        {
+          "id": "F08",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B02"
+          ]
+        }
+      ],
+      "storySha256": "6ef63f644ba862b311477b32d92cb00bcb336656e6418deb8b8c3fd0bee78b8c"
+    },
+    {
+      "topicId": "T191",
+      "sha256": "a819ca9deece2f644190667149106c9570a0907221ebc794453376c5661dd58b",
+      "validationSha256": "a819ca9deece2f644190667149106c9570a0907221ebc794453376c5661dd58b",
+      "validationBasis": "Unchanged fixed research record; live primary/official product descriptions checked on 2026-10-04 and detailed in revalidation.v16.json. Article-only supplemental product specification facts are recorded in that PR source-check record; the read-only research manifest was not changed.",
+      "facts": [
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "storySha256": "2a0a2673103b88df1b63ee7ceb24bf542ebab7601029cd7358612ac6b25ed7f8"
+    },
+    {
+      "topicId": "T219",
+      "sha256": "a7a55ccd3a89a7de31415d37fdfcc4c6f2bedce387f1af9ae6d9855ed0697da2",
+      "validationSha256": "a7a55ccd3a89a7de31415d37fdfcc4c6f2bedce387f1af9ae6d9855ed0697da2",
+      "validationBasis": "Unchanged fixed research record; live primary/official product descriptions checked on 2026-10-04 and detailed in revalidation.v16.json. Article-only supplemental product specification facts are recorded in that PR source-check record; the read-only research manifest was not changed.",
+      "facts": [
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "storySha256": "ab5127bde2602fc46361cc14e26c7be86d33520eacfae947b061a5c392d9652d"
     }
   ],
   "previousRelease": "release.v11.json",

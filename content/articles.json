@@ -28624,5 +28624,481 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T001",
+    "slug": "riveted-gusset-h-ledz",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "NICENESSがデザインの着想源として挙げる地域"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造国表示"
+      }
+    ],
+    "eras": [
+      "1920s",
+      "1930s",
+      "1940s",
+      "1950s",
+      "2020s"
+    ],
+    "tags": [
+      "ツールバッグ",
+      "トートバッグ",
+      "マチ",
+      "リベット",
+      "馬革"
+    ],
+    "category": "CARRY / 運ぶ",
+    "model": "H.LEDZ",
+    "season": "AW25",
+    "item": "h-ledz-aw25",
+    "title": "折り込んだマチをリベットで留める\nH.LEDZのレザートート",
+    "deck": "工具袋への参照はブランドの説明として扱い、H.LEDZに残された構造と現在の素材を見る。",
+    "place": "米国（ブランドが挙げる参照）・日本（商品ページの表示）",
+    "period": "AW25／1920〜50年代の参照説明",
+    "context": "マチの折り込みとリベット留め",
+    "opening": "ショルダーストラップの付いたトートバッグに、マチの折り込みをリベットで留める。NICENESSの商品ページはH.LEDZを1920〜50年代の米国ツールバッグに着想した鞄として紹介し、現代向けに細部を更新したと説明する。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "reference",
+        "title": "1920〜50年代のツールバッグという参照",
+        "paragraphs": [
+          "NICENESSは、H.LEDZのデザインが1920〜50年代の米国ツールバッグに着想したものと説明する。商品ページは特定の製造者や収蔵品、当時の使用者までは挙げていないため、この年代はブランドのデザイン参照として読む。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "gusset",
+        "title": "折り込んだマチを、リベットで留める",
+        "paragraphs": [
+          "公式説明が挙げるのは、ヴィンテージの特徴を残したリベット留めのマチ。折り込まれた側面を金具で留める構造が、H.LEDZの目に見える細部になる。ページは当時の個体と同じ寸法・工程だとは述べていない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "materials",
+        "title": "馬革のトートへ更新する",
+        "paragraphs": [
+          "現行品はショルダーストラップ付きのトートとして作られ、公式ページは本体を馬革、裏地を綿100％と記す。商品ページに「MADE IN JAPAN」の表示がある。これらは現在の商品仕様であり、歴史上のツールバッグの材料が同じだったという意味ではない。"
+        ],
+        "fact_ids": [
+          "F07"
+        ]
+      }
+    ],
+    "closing": "工具袋というブランドの参照、折り込まれたマチ、リベット。H.LEDZでは、歴史上の一着を特定しなくても、どの構造を現在の鞄に持ち込んだかを商品説明から読める。",
+    "bridge_title": "折り込みのマチと馬革を、肩掛けトートへ。",
+    "bridge": "AW25のH.LEDZは馬革のショルダートート。NICENESSは1920〜50年代の米国ツールバッグを参照源として挙げ、リベット留めのマチを残しながら現代向けに更新したと説明する。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F07"
+    ],
+    "boundary": "1920〜50年代の特定のツールバッグ、作り手、使い手は独立に確認していない。リベットの歴史的用途や耐荷重、現行品の耐久性も商品説明から推測しない。",
+    "product_title": "リベット留めのマチを持つ馬革トート。",
+    "product_paragraphs": [
+      "NICENESSのH.LEDZは、1920〜50年代の米国ツールバッグを参照したショルダーストラップ付きトートとして説明される。公式ページはリベット留めのマチと、馬革の本体・綿の裏地を記載している。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F07"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "h-ledz-aw25",
+        "model": "H.LEDZ",
+        "season": "AW25",
+        "number": "NN-4501A16",
+        "url": "https://www.niceness.jp/products/h-ledz-2",
+        "retained": "米国ツールバッグへのブランド参照と、マチの折り込みをリベットで留めた細部。",
+        "changed": "馬革のショルダートートとして現代向けに更新。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F07"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B12",
+        "title": "NICENESS H.LEDZ AW25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/h-ledz-2",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T015",
+    "slug": "long-bill-use-loess-cap",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "LOESSの商品ページの製造国表示"
+      }
+    ],
+    "eras": [
+      "1970s",
+      "2020s"
+    ],
+    "tags": [
+      "帽子",
+      "ロングビル",
+      "つば",
+      "釣り",
+      "チノ",
+      "スエード"
+    ],
+    "category": "DRESS / 着る",
+    "model": "LOESS",
+    "season": "SS26",
+    "item": "loess-ss26",
+    "title": "日差しを遮るつば、参照を語るつば\nLOESSのロングビルキャップ",
+    "deck": "現行メーカーの用途説明と、NICENESSが掲げる1970年代アウトドアのデザイン参照を分けて読む。",
+    "place": "日本（LOESSの商品ページの表示）",
+    "period": "SS26／1970年代アウトドアへの参照説明",
+    "context": "ロングビルキャップの用途と素材",
+    "opening": "長いつばは、日差しを遮る用途として説明されることがある。一方で、NICENESSがLOESSについて記すのは、1970年代のアウトドアの場面を参照したロングビルのシルエットだ。現代の機能説明と、過去へのデザイン参照は同じ証拠ではない。",
+    "opening_refs": [
+      "F01",
+      "F03",
+      "F06"
+    ],
+    "sections": [
+      {
+        "id": "shade",
+        "title": "現在の製品説明にある、日差しと反射",
+        "paragraphs": [
+          "米国のVillage Hat Shopは、自社の綿製ロングビル帽について、長いつばが顔への日差しを防ぎ、つば裏の緑色の布が眩しさを軽減すると説明する。釣り用品メーカーDuck Campも、現在のロングビル釣り帽について顔に日陰をつくるつばと、水面からの反射を抑える暗いつば裏を製品特徴に挙げる。いずれも各社が自社製品に付した用途説明で、過去の帽子の用途を立証するものではない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "LOESSが挙げるのは、1970年代のアウトドア",
+        "paragraphs": [
+          "NICENESSのLOESSは、1970年代のアウトドア風景を参照した長いつばのキャップとして紹介される。公式ページには具体的な国、活動、原型となった一個体の記載はない。現在の釣り帽メーカーが挙げる機能を、LOESSの歴史的参照へそのまま当てはめない。"
+        ],
+        "fact_ids": [
+          "F06"
+        ]
+      },
+      {
+        "id": "material",
+        "title": "綿のチノと、裏返せるスエードのベルト",
+        "paragraphs": [
+          "LOESSの公式ページは、糸から不純物を取り除いたオリジナルチノを使い、ベルト部分にはイタリアのタンナーによるリバーシブルスエードを用いると記す。素材構成は本体とつばが綿、ベルトが牛革。長いつばの輪郭だけでなく、素材と後ろの留め方も現在の商品を形づくっている。"
+        ],
+        "fact_ids": [
+          "F08"
+        ]
+      }
+    ],
+    "closing": "現代の製品説明は長いつばに日差しや反射への役割を与え、LOESSの商品説明は1970年代アウトドアをデザイン参照として挙げる。言葉の違いを残すことで、長い形だけから過去の機能を決めずに済む。",
+    "bridge_title": "長いつばのシルエットを、綿チノとスエードで。",
+    "bridge": "SS26のLOESSは綿チノのロングビルキャップ。NICENESSは1970年代アウトドアへの参照を記し、長いつばとイタリアのリバーシブルスエードベルトを組み合わせている。",
+    "bridge_refs": [
+      "F06",
+      "F08"
+    ],
+    "boundary": "Village Hat ShopとDuck Campの説明は現在販売する別製品のメーカー主張であり、効果を独立測定した結果ではない。NICENESSの商品ページも1970年代の具体的な着用者、地域、用途や原型を示していない。",
+    "product_title": "長いつばの輪郭に、チノとスエードを合わせる。",
+    "product_paragraphs": [
+      "LOESSの公式商品ページは、1970年代アウトドアを参照するロングビルのシルエット、糸から不純物を取り除いたチノ、イタリアのリバーシブルスエードベルト、素材構成と日本製表示を記載する。"
+    ],
+    "product_refs": [
+      "F06",
+      "F08"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "loess-ss26",
+        "model": "LOESS",
+        "season": "SS26",
+        "number": "NN-3504H17",
+        "url": "https://www.niceness.jp/products/loess-26ss",
+        "retained": "1970年代アウトドアを参照したロングビルのシルエット。",
+        "changed": "綿チノの帽体とつば、リバーシブルスエードのベルト。",
+        "factRefs": [
+          "F06",
+          "F08"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "VHS Long Bill Adjustable Baseball Cap, Style 222440",
+        "publisher": "Village Hat Shop",
+        "url": "https://www.villagehatshop.com/products/vhs-long-bill-adjustable-baseball-cap",
+        "kind": "maker"
+      },
+      {
+        "id": "E02",
+        "title": "Brrr Performance Flats Cap Long Bill — Sagebrush",
+        "publisher": "Duck Camp",
+        "url": "https://duckcamp.com/products/brrr-performance-flats-cap-long-bill-sagebrush",
+        "kind": "maker"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS LOESS SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/loess-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T191",
+    "slug": "sewn-in-suede-belt-method-shorts",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "NICENESSがチノトラウザーとミリタリーパンツの参照として挙げる地域"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造国表示"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s",
+      "2020s"
+    ],
+    "tags": [
+      "ショートパンツ",
+      "チノ",
+      "タック",
+      "スエードベルト"
+    ],
+    "category": "DRESS / 着る",
+    "model": "METHOD",
+    "season": "SS26",
+    "item": "method-ss26",
+    "title": "深いタックへ縫い込むスエードベルト\nMETHODのショートパンツ",
+    "deck": "ベルトを付属品として足すのでなく、パンツの前身頃に組み込む設計を読む。",
+    "place": "米国（商品ページのデザイン参照）・日本（商品ページの表示）",
+    "period": "SS26／1940〜50年代へのブランド参照",
+    "context": "タックに縫い込まれたベルト",
+    "opening": "前身頃の深いタックに、スエードのベルトを縫い込む。NICENESSの商品ページはMETHODを、1940〜50年代の米国チノトラウザーやミリタリーパンツに参照したショートパンツと説明し、ベルトをタックへ組み込む構造を記している。",
+    "opening_refs": [
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "integration",
+        "title": "タックとベルトを一つの構造に",
+        "paragraphs": [
+          "公式説明によると、深いタックにイタリア製リバーシブルスエードのベルトを縫い込んでいる。ページはこの仕様を「beltless」と説明する一方、製品名はIntegrated Leather Belt Short Pants。ベルトを別の付属品として添えるのでなく、タックとともにパンツの設計へ組み込む構成として紹介される。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      },
+      {
+        "id": "chino",
+        "title": "糸と生地の仕上げも記す",
+        "paragraphs": [
+          "生地は、糸から不純物を取り除いた別注チノで、タンブラー加工を施したものと説明される。構成表示は身頃が綿100％、ベルトが牛革。商品ページには日本製の表示もある。加工の効果や条件は細かく示されていないため、そこから着心地や耐久性を補わない。"
+        ],
+        "fact_ids": [
+          "F03",
+          "F04"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "1940〜50年代はブランドが示す参照",
+        "paragraphs": [
+          "NICENESSは1940〜50年代の米国チノトラウザーとミリタリーパンツを参照し、独自のパターンで再構成したと記す。軍種や規格、具体的な古着は特定されていない。ここでは特定制服の再現ではなく、商品ページが説明する現在のタックとベルトのつくりを中心に見る。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "深いタック、縫い込まれたリバーシブルスエードベルト、タンブラー加工のチノ。METHODの商品説明は、腰まわりの構造と生地の仕様を一続きの設計として示している。",
+    "bridge_title": "ベルトをタックへ組み込む、チノのショートパンツ。",
+    "bridge": "SS26のMETHODは、1940〜50年代の米国チノトラウザーやミリタリーパンツを参照したショートパンツ。深いタックにイタリア製リバーシブルスエードベルトを縫い込み、別注チノをタンブラー加工するとNICENESSは説明する。商品ページには日本製の表示がある。",
+    "bridge_refs": [
+      "F02",
+      "F03",
+      "F04"
+    ],
+    "boundary": "1940〜50年代の特定のパンツや軍規格、縫い込みベルトとの歴史的連続性は確認していない。革や加工の一般的性能、着用感、耐久性も推測しない。",
+    "product_title": "深いタックと縫い込みベルト。",
+    "product_paragraphs": [
+      "公式説明ではMETHODのタックにリバーシブルスエードベルトを縫い込み、別注チノをタンブラー加工している。素材表示は綿と牛革、製造国表示は日本。 商品ページには日本製の表示がある。"
+    ],
+    "product_refs": [
+      "F02",
+      "F03",
+      "F04"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "method-ss26",
+        "model": "METHOD",
+        "season": "SS26",
+        "number": "NN-2303T17",
+        "url": "https://www.niceness.jp/products/method-26ss",
+        "retained": "1940〜50年代の米国チノトラウザーとミリタリーパンツへのブランド参照。",
+        "changed": "深いタックにイタリア製リバーシブルスエードベルトを縫い込んだショートパンツ。",
+        "factRefs": [
+          "F02",
+          "F03",
+          "F04"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS METHOD SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/method-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T219",
+    "slug": "articulated-knee-joan-rover-pants",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造国表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "パンツ",
+      "膝",
+      "立体裁断",
+      "高密度コットン",
+      "ローバー"
+    ],
+    "category": "DRESS / 着る",
+    "model": "JOAN",
+    "season": "SS26",
+    "item": "joan-ss26",
+    "title": "膝の屈伸を考えた立体裁断\nJOANのローバーパンツ",
+    "deck": "街とアウトドアを横断するというブランドの説明を、膝まわりの設計と素材から読む。",
+    "place": "日本（商品ページの表示）",
+    "period": "SS26",
+    "context": "膝の動きを考慮した立体裁断",
+    "opening": "膝の屈伸を想定して立体裁断を取り入れる。NICENESSはSS26のJOANをローバーパンツと呼び、ルースシルエット、高密度に織った綿素材とともに、街からアウトドアまでを横断する服として説明する。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "knee",
+        "title": "膝を曲げ伸ばす動きから考える",
+        "paragraphs": [
+          "商品ページが明記するのは、パターン設計に立体裁断を取り入れ、膝の屈伸を想定した構造にしたこと。膝の動きに配慮したというブランドの説明を、具体的な服の部分に結びつけて読む。実際の着用時の効果や動作の計測値は掲載されていない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "cloth",
+        "title": "高密度に織った綿のパンツ",
+        "paragraphs": [
+          "素材について、NICENESSは細番手の超長綿を高密度に打ち込んだ先染め綿100％の生地と説明する。素材表示では表地が綿100％、裏地が綿95％・絹5％で、日本製の表示がある。商品ページに併記される耐水圧・防水・防風・撥水の説明はブランドの性能表示で、独立した試験結果としては扱わない。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "「ローバー」と、街からアウトドアまで",
+        "paragraphs": [
+          "公式ページはROVERを「放浪者」と添え、街からアウトドアまで自在に横断するという商品イメージを記している。服型としての「rover pants」がいつ成立したかや、JOANという商品名の由来は説明されていない。ここでは歴史上の職業や集団ではなく、現在の商品ページが示す用途の幅として読む。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "膝まわりの立体裁断、高密度の綿、撥水加工。JOANの商品ページは、ローバーという語を現代の都市とアウトドアに向けた設計説明へ結びつけている。",
+    "bridge_title": "膝の動きを想定した、綿のローバーパンツ。",
+    "bridge": "SS26のJOANはルースシルエットのローバーパンツ。NICENESSは綿100％の高密度先染め生地と膝の屈伸を想定した立体裁断を説明し、街からアウトドアまでの用途を掲げている。素材表示は表地が綿100％、裏地が綿95％・絹5％で、日本製の表示がある。",
+    "bridge_refs": [
+      "F02",
+      "F03"
+    ],
+    "boundary": "服型としてのローバーパンツの歴史、特定の着用者・職業、JOANという名称の由来は確認していない。耐水圧や防水・防風・撥水の表示はNICENESSの商品説明に帰属させ、独立測定や着用評価として述べない。",
+    "product_title": "膝の立体裁断と、超長綿の高密度生地。",
+    "product_paragraphs": [
+      "JOANの公式商品ページは、膝の屈伸を想定した立体裁断、細番手超長綿の高密度先染め生地、街からアウトドアまでの用途を記す。素材表示は表地が綿100％、裏地が綿95％・絹5％で、日本製の表示がある。"
+    ],
+    "product_refs": [
+      "F02",
+      "F03"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "joan-ss26",
+        "model": "JOAN",
+        "season": "SS26",
+        "number": "NN-0903T17",
+        "url": "https://www.niceness.jp/products/joan-26ss",
+        "retained": "ROVER（放浪者）という商品説明と、街からアウトドアまでを横断する用途。",
+        "changed": "膝の屈伸を想定した立体裁断と、高密度綿の先染め生地。",
+        "factRefs": [
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS JOAN SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/joan-26ss",
+        "kind": "brand"
+      }
+    ]
   }
 ]

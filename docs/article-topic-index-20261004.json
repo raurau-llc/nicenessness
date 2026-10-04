@@ -36,6 +36,13 @@
       "baseHead": "b1226ea4ee218bf121e2849db9509cbfa7f5bd4d",
       "articlesSha256": "b94053342bf84eee9d0dc9f7d8b1ce42e937452ec08589f8b876fcd5d08a93fc",
       "includedArticleCount": 2
+    },
+    {
+      "name": "PR19",
+      "ref": "origin/codex/articles-five-next-20261004",
+      "head": "81b0058a4d8b0f0bdf25ca8fdcaeb821b3afe515",
+      "articlesSha256": "8ec947dddf1414ca81f6c80f6204a6c1f63589a40f277fcf4a7a70b3df25f36e",
+      "includedArticleCount": 9
     }
   ],
   "articles": [
@@ -3798,12 +3805,67 @@
       "sourceUrls": [
         "https://www.niceness.jp/products/hayes"
       ]
+    },
+    {
+      "id": "T001",
+      "source": "PR19",
+      "status": "review",
+      "title": "折り込んだマチをリベットで留める / H.LEDZのレザートート",
+      "context": "マチの折り込みとリベット留め",
+      "openingFirstSentence": "ショルダーストラップの付いたトートバッグに、マチの折り込みをリベットで留める。",
+      "model": "H.LEDZ",
+      "item": "h-ledz-aw25",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/h-ledz-2"
+      ]
+    },
+    {
+      "id": "T015",
+      "source": "PR19",
+      "status": "review",
+      "title": "日差しを遮るつば、参照を語るつば / LOESSのロングビルキャップ",
+      "context": "ロングビルキャップの用途と素材",
+      "openingFirstSentence": "長いつばは、日差しを遮る用途として説明されることがある。",
+      "model": "LOESS",
+      "item": "loess-ss26",
+      "sourceUrls": [
+        "https://www.villagehatshop.com/products/vhs-long-bill-adjustable-baseball-cap",
+        "https://duckcamp.com/products/brrr-performance-flats-cap-long-bill-sagebrush",
+        "https://www.niceness.jp/products/loess-26ss"
+      ]
+    },
+    {
+      "id": "T191",
+      "source": "PR19",
+      "status": "review",
+      "title": "深いタックへ縫い込むスエードベルト / METHODのショートパンツ",
+      "context": "タックに縫い込まれたベルト",
+      "openingFirstSentence": "前身頃の深いタックに、スエードのベルトを縫い込む。",
+      "model": "METHOD",
+      "item": "method-ss26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/method-26ss"
+      ]
+    },
+    {
+      "id": "T219",
+      "source": "PR19",
+      "status": "review",
+      "title": "膝の屈伸を考えた立体裁断 / JOANのローバーパンツ",
+      "context": "膝の動きを考慮した立体裁断",
+      "openingFirstSentence": "膝の屈伸を想定して立体裁断を取り入れる。",
+      "model": "JOAN",
+      "item": "joan-ss26",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/joan-26ss"
+      ]
     }
   ],
   "notes": [
     "PR17 T330 is held but included in overlap screening.",
     "Same source URL is a review flag, not automatic semantic duplication; compare the exact object, question, claim and product relationship.",
     "PR19 T323 attributes the H.KENT description to a user-provided saved document; issuer/official status are unverified and no public URL is available.",
-    "PR19 contains five review-only proposals. T323 attributes H.KENT statements to user-provided saved material; issuer/official status are unverified and there is no public URL."
+    "PR19 contains five review-only proposals. T323 attributes H.KENT statements to user-provided saved material; issuer/official status are unverified and there is no public URL.",
+    "PR19 now includes four additional review-only stories (T001, T015, T191, T219); their independent editorial review is pending."
   ]
 }
