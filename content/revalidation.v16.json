@@ -2,8 +2,8 @@
   "version": 16,
   "reviewedOn": "2026-10-04",
   "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
-  "publicationStatus": "Unpublished; all five proposed articles remain status review. User-reported content approval exists for T041 and T341 on the prior PR head with reviewer/model identity unspecified. T323 revision feedback was received; final approval is not reported. T039 and T331 have not received independent editorial review. Maintainer adoption remains pending; no merge or deployment has occurred.",
-  "method": "Reopened claim-bearing public primary/official sources for the public-source claims in T323, T041 and T341. The NPS object statements, NICENESS design descriptions, and T323 user-provided saved-document statements are kept distinct. No original research photos, scan identifiers, full official product copy, or third-party images were added. T041 does not identify a specific Leonardo drawing. T341 leaves the relationship between the product-page country label and sewing attribution unresolved and does not claim finished-garment origin. All five drafts remain review-only. NICENESS product-page claims in T039 and T331 are attributed to the brand; they are not presented as independently established historical facts. Hash equality identifies research snapshots; it does not replace independent editorial review or maintainer adoption. User-reported independent editorial feedback on prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332 was recorded with reviewer and model identities marked unspecified; T041 and T341 were reported approved, while T323 received factual confirmation and requested revisions. This metadata limitation is explicit and does not substitute for maintainer adoption.",
+  "publicationStatus": "Unpublished; all five proposed articles remain status review. The independent AI editorial review reported in this handoff passed all five on head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582; the reviewer was a separate worker (/root/review_new_article_batch) and the specified model was gpt-6-luna. This is not a human user review or maintainer adoption. T331 received a title-only wording change after that review; its factual claims and source mapping did not change, and the changed title was not part of the reviewed head. Maintainer adoption remains pending; no merge or deployment has occurred.",
+  "method": "Reopened claim-bearing public primary/official sources for the public-source claims in T323, T041 and T341. The NPS object statements, NICENESS design descriptions, and T323 user-provided saved-document statements are kept distinct. No original research photos, scan identifiers, full official product copy, or third-party images were added. T041 does not identify a specific Leonardo drawing. T341 leaves the relationship between the product-page country label and sewing attribution unresolved and does not claim finished-garment origin. All five drafts remain review-only. NICENESS product-page claims in T039 and T331 are attributed to the brand; they are not presented as independently established historical facts. Hash equality identifies research snapshots; it does not replace independent editorial review or maintainer adoption. Independent AI editorial review (not human review) was reported for T323, T041, T341, T039 and T331 on exact head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582; the reviewer was identified as separate worker /root/review_new_article_batch, with model gpt-6-luna specified. All five content drafts were approved. Afterward, T331 received only the title wording change requested in the handoff; no factual text or source mapping changed. The current T331 title itself was not present at the reviewed head. Review and approval do not replace maintainer adoption.",
   "records": [
     {
       "topicId": "T323",
@@ -62,7 +62,7 @@
       ],
       "claimsStatus": "The NPS entry confirms the circa-1950 specimen material, structure, label and maker/location. It does not identify wearer or specific use. The H.KENT statements are attributed only to a user-provided saved document whose issuer and official status are unverified.",
       "boundary": "The NPS specimen and user-provided document are kept separate. No direct prototype claim or claim of official NICENESS authorship is made.",
-      "independentReview": "User-reported independent editorial feedback reviewed prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332. The NPS factual description was confirmed; requested revisions were to center leather + tan herringbone and single-breasted structure, shorten the generic use/wearer caution, and label H.KENT source as user-provided, independently unverified, no public URL. Reviewer identity/model were not specified. Revisions are not represented as independently approved.",
+      "independentReview": "Independent AI editorial review (not human review) passed T323 content and source-to-claim mapping on exact PR head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582. Reviewer: separate worker /root/review_new_article_batch; specified model: gpt-6-luna. No factual/source correction was reported. Maintainer adoption remains pending.",
       "editorialOverlap": "Compared against the 237-entry main/open-PR topic index before the first three-article correction; T323 is distinct from T289 because it focuses one documented garment’s leather + tan herringbone and single-breasted structure. The generic wearer/use caution is limited to one sentence."
     },
     {
@@ -130,7 +130,7 @@
       ],
       "claimsStatus": "The current official episode and product page support a design-process reading about one pattern across exterior garment surfaces, scarf, and lining. They do not identify a drawing sheet, exact original, or meaning for individual symbols.",
       "boundary": "The article reports NICENESS’s own design explanation and does not assert reproduction of a named Leonardo work or decode a hidden message.",
-      "independentReview": "User-reported independent editorial feedback approved T041 content on prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332. Scope: article content and source-to-claim mapping for T041; no change was requested. Reviewer identity and model were not specified in the report. This is a user-reported approval record, not GitHub review or maintainer adoption.",
+      "independentReview": "Independent AI editorial review (not human review) passed T041 content and source-to-claim mapping on exact PR head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582. Reviewer: separate worker /root/review_new_article_batch; specified model: gpt-6-luna. No factual/source correction was reported. Maintainer adoption remains pending.",
       "editorialOverlap": "Compared against the 240-entry index after adding these three PR19 articles. T041 concerns one drawing-inspired graphic’s placement across exterior surfaces, scarf and linings; distinct from T035’s portrait and T209’s scientific imagery."
     },
     {
@@ -169,7 +169,7 @@
       ],
       "claimsStatus": "The product page supports a design statement and hand-finish claim. It does not name the specific hand-sewn seams. Its country label and sewing attribution are not reconciled, so final-garment origin is left unasserted.",
       "boundary": "The article separates inspiration/material geography from finished-garment origin. It makes no country-of-manufacture claim and does not infer which stitches were hand-sewn.",
-      "independentReview": "User-reported independent editorial feedback approved T341 content on prior PR head b7dbc2560efd3b4259220fc9048c8556c834a332. Scope: article content and source-to-claim mapping for T341; no change was requested. Reviewer identity and model were not specified in the report. This is a user-reported approval record, not GitHub review or maintainer adoption.",
+      "independentReview": "Independent AI editorial review (not human review) passed T341 content and source-to-claim mapping on exact PR head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582. Reviewer: separate worker /root/review_new_article_batch; specified model: gpt-6-luna. No factual/source correction was reported. Maintainer adoption remains pending.",
       "editorialOverlap": "Compared against the 240-entry index after adding these three PR19 articles. T341 uses GUARINO and focuses a split of body/collar/fabric references and the hand-finish statement; distinct from T007’s TOTTI."
     },
     {
@@ -224,7 +224,7 @@
       ],
       "claimsStatus": "The live official product page supports the garment, fabric, collar options, construction/design statement and made-in-Japan label. It does not name a specific historical specimen or document the historical use of these collar options.",
       "boundary": "The article reports only NICENESS’s public product-page statements about its product and stated references. Historical prototypes and technical effects beyond that wording are not asserted.",
-      "independentReview": "Pending. No independent editorial review of this draft has been reported.",
+      "independentReview": "Independent AI editorial review (not human review) passed T039 content and source-to-claim mapping on exact PR head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582. Reviewer: separate worker /root/review_new_article_batch; specified model: gpt-6-luna. No factual/source correction was reported. Maintainer adoption remains pending.",
       "editorialOverlap": "Compared against 240 main/open-PR index entries. No existing indexed article covers C.IOMMI AW25 or its interchangeable two-color collar plus band-collar wearing options. A separate existing T041 mention of V.IOMMI concerns a graphic print and a different item."
     },
     {
@@ -279,8 +279,32 @@
       ],
       "claimsStatus": "The live official product page supports the material, named processing, brand-described appearance, reference statement, and made-in-Japan label. It does not explain processing sequence, individual process effects, durability, care, or a specific historical canvas specimen.",
       "boundary": "The article reports only NICENESS’s public product-page statements about its product and stated references. Historical prototypes and technical effects beyond that wording are not asserted.",
-      "independentReview": "Pending. No independent editorial review of this draft has been reported.",
-      "editorialOverlap": "Compared against 240 main/open-PR index entries. Existing T189 covers HAYES removable hood and T264 its placket/field-jacket structure; T331 has a distinct, narrow focus on the official fabric-treatment statement and material appearance."
+      "independentReview": "Independent AI editorial review (not human review) passed T331 content and source-to-claim mapping on exact PR head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582. Reviewer: separate worker /root/review_new_article_batch; specified model: gpt-6-luna. No factual/source correction was reported. Maintainer adoption remains pending.",
+      "editorialOverlap": "Compared against 240 main/open-PR index entries. Existing T189 covers HAYES removable hood and T264 its placket/field-jacket structure; T331 has a distinct, narrow focus on the official fabric-treatment statement and material appearance.",
+      "postReviewChange": "After the reviewed head, the user requested a title-only wording change to avoid implying processing order: “硫化染めとバイオ加工のHAYES / 強撚コットンダックの色と凹凸”. No article claim, fact mapping or cited source changed. The title itself was not part of the reviewed head."
     }
-  ]
+  ],
+  "independentReview": {
+    "reviewedHead": "2d6afb2dc949493d48bbac7d58b34e0e8fe4c582",
+    "reviewer": "/root/review_new_article_batch",
+    "reviewerType": "independent AI worker; not the human user",
+    "model": "gpt-6-luna",
+    "scope": [
+      "T323",
+      "T041",
+      "T341",
+      "T039",
+      "T331 article content and source-to-claim mapping"
+    ],
+    "conclusion": "All five content drafts approved by the independent AI reviewer.",
+    "findings": "No requested factual/source corrections reported. The handoff separately requests a wording-only title clarification for T331; no claim or source changed.",
+    "postReviewChange": {
+      "topicId": "T331",
+      "field": "title",
+      "change": "硫化染めとバイオ加工のHAYES / 強撚コットンダックの色と凹凸",
+      "reason": "Avoid wording that could imply an order of textile processes.",
+      "reviewStatus": "The title-only edit is after reviewedHead; factual text and source mapping are unchanged."
+    },
+    "maintainerAdoption": "pending"
+  }
 }
