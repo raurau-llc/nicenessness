@@ -1,0 +1,242 @@
+{
+  "version": 17,
+  "reviewedOn": "2026-10-04",
+  "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+  "publicationStatus": "Unpublished proposal. T342–T345 each have status review and no publication date. This draft PR does not alter PR19, main, or Sites.",
+  "method": "Reopened one official NICENESS product page per proposed item on 2026-10-04 and checked the description, product number, material panel and manufacturing mark. Each product fact is attributed to the brand. No prices, stock availability, external product-copy reproductions, photos, or unverified material-performance claims were added. The four source-check hashes cover only the new PR-local public claim/source maps; the historical research manifest was not changed.",
+  "issueReservationCheck": {
+    "checkedOn": "2026-10-04",
+    "method": "Read-only GitHub Issues searches in raurau-llc/nicenessness for IDs T342, T343, T344, T345 and names LENNOX, ADAMSON, H.WISHBONE, S.MORLEY.",
+    "results": "Zero matching issues for each query; no reservation or duplicate-topic issue found."
+  },
+  "topicIndexCheck": {
+    "checkedOn": "2026-10-04",
+    "includedArticleCount": 246,
+    "indexFile": "docs/article-topic-index-20261004.json from the PR19 working snapshot",
+    "indexSha256": "68ded5c9a978db9575732860f6ac4c48d6a7d0fe989a1b667f0e98406116e532",
+    "indexSources": "main plus the open PR article snapshots listed in the index, including PR19’s nine proposed articles."
+  },
+  "records": [
+    {
+      "topicId": "T342",
+      "recordType": "PR-local supplemental official product source-check; no fixed historical research manifest ID exists for these current-product claims.",
+      "sourceCheckSha256": "3448e8261c6c62bac3072dbb0222517bdcdc57a8b38d49a39b3856ab46684fe1",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "claim": "NICENESSの公式商品ページは、LENNOXを1960〜70年代の米国カバーオールと英国のパターンメイキングに着想を得たデザインとして説明する。特定の歴史的個体は示していない。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "NICENESSは完成後に一着ずつ漂白スプレーを施し、わずかな個体差を持つ仕上がりになると説明する。薬剤・噴霧箇所・個体差の機序は記していない。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "公式ページはラグラン袖のカバーオールを軽量のフェイクスエードで仕立て、表地をポリエステル65％・ポリウレタン35％、裏地を綿100％、日本製と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "B01",
+          "title": "NICENESS LENNOX",
+          "publisher": "NICENESS",
+          "url": "https://www.niceness.jp/en/products/lennox",
+          "kind": "brand"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "id": "B01",
+          "checkedOn": "2026-10-04",
+          "locator": "official product description and material / manufacturing panel",
+          "verifiedClaim": "商品名・説明・素材／製造表示を照合。NN-0101B18、ラグラン袖のカバーオール、軽量のフェイクスエード、縫製後の個別漂白スプレーと個体差の説明、表地・裏地の組成、日本製表示を確認。耐久性・柔軟性・退色耐性のブランド記述は本文で性能証明として使用していない。"
+        }
+      ],
+      "claimsStatus": "縫製後の個別スプレーと見え方の差はブランドの現行商品説明に帰属させた。素材欄は組成・製造表示のみを用いた。",
+      "boundary": "縫製後に個別の漂白スプレーを行い、個体差を意図するというNICENESSの説明に限る。薬剤の種類、噴霧箇所、色差の原因や耐久性は確認していない。1960〜70年代の特定の原型も同定していない。",
+      "editorialOverlap": "246件のmain／open-PR索引でLENNOXと縫製後の漂白スプレーに該当する記事なし。T331のHAYESは強撚ダックの硫化染め・バイオ加工のブランド説明が主題で、素材と工程の記載が異なる。",
+      "independentReview": "Pending independent gpt-6-luna editorial review on the final proposed PR head."
+    },
+    {
+      "topicId": "T343",
+      "recordType": "PR-local supplemental official product source-check; no fixed historical research manifest ID exists for these current-product claims.",
+      "sourceCheckSha256": "5df99f08367f1715c907d8ad3552bdcaa149e074add402844e1fa6f844753721",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "claim": "NICENESSはADAMSONの着想源を1960年代の英国ハンティングトラウザーと米国のミリタリーオーバーパンツの組み合わせとして説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "公式説明は超高密度モールスキンに中白の糸を用い、エイジング加工によるフェード感を際立たせると述べる。糸の構造・染色や加工条件は説明していない。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "公式ページは別注マドラスチェックの裏地、表地・裏地の綿100％、日本製表示を記載する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "B01",
+          "title": "NICENESS ADAMSON",
+          "publisher": "NICENESS",
+          "url": "https://www.niceness.jp/products/adamson",
+          "kind": "brand"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "id": "B01",
+          "checkedOn": "2026-10-04",
+          "locator": "official product description and material / manufacturing panel",
+          "verifiedClaim": "商品名・説明・素材／製造表示を照合。NN-1503T18、高密度モールスキン、「中白の糸」、エイジング加工でフェード感を際立たせるという説明、英国ハンティングトラウザー／米国ミリタリーオーバーパンツの着想説明、マドラスチェック裏地、表裏地の組成と日本製表示を確認。糸構造や実着用による色落ちは本文に補っていない。"
+        }
+      ],
+      "claimsStatus": "糸の仕様とフェード感の関係は公式商品説明に帰属させる。「中白」の技術的定義や加工結果を独立試験の事実として扱っていない。",
+      "boundary": "「中白の糸」という公式表記と、ブランドが述べるフェード感の狙いに限る。糸の断面構造・染色法・加工薬剤、実際の着用による色落ちや耐久性は確認していない。歴史的なパンツの個体や軍規格も特定していない。",
+      "editorialOverlap": "246件のmain／open-PR索引でADAMSON、モールスキン、中白糸を扱う記事なし。T331はHAYESのコットンダックと硫化染め／バイオ加工の説明が主題で、織物と仕上げの組み合わせが異なる。",
+      "independentReview": "Pending independent gpt-6-luna editorial review on the final proposed PR head."
+    },
+    {
+      "topicId": "T344",
+      "recordType": "PR-local supplemental official product source-check; no fixed historical research manifest ID exists for these current-product claims.",
+      "sourceCheckSha256": "c369dad2ef743f6b6602cebf268acaef55041470661197616670b59ce2d2d34a",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "claim": "NICENESSはH.WISHBONEを、経糸にオーガニックウール梳毛糸、緯糸にヘンプ糸を使ったストライプ生地のトラウザーと説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "公式説明は杢糸とトップカラーを組み合わせたドビー縞、ヘンプのスラブ感とドライな質感を記述する。織機・織組織や染色工程は説明していない。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "商品ページは2タック仕様、表地ウール72％・ヘンプ28％、リヨセル裏地、綿・ポリエステル混の腰裏地、日本製表示を記載する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "B01",
+          "title": "NICENESS H.WISHBONE",
+          "publisher": "NICENESS",
+          "url": "https://www.niceness.jp/products/h-wishbone",
+          "kind": "brand"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "id": "B01",
+          "checkedOn": "2026-10-04",
+          "locator": "official product description and material / manufacturing panel",
+          "verifiedClaim": "商品名・説明・素材／製造表示を照合。NN-2002T18、ウール梳毛糸の経糸・ヘンプ緯糸、杢糸とトップカラーによるドビー縞、ヘンプのスラブ感とドライさの公式説明、2タック、表地・裏地・腰裏地の素材比率、日本製表示を確認。踵のFlying V説明はこの記事の事実主張に使っていない。"
+        }
+      ],
+      "claimsStatus": "混率と素材配置は公式ページの仕様。ドビーの技術的な構造、表面効果の機序、繊維性能は独立に検証していない。",
+      "boundary": "経糸と緯糸の素材配置、ドビー縞、ヘンプに関する風合いは商品ページの説明に帰属させた。織機・組織・染色の具体的工程や、素材の性能・手触りを独立に検証していない。既存のFlying Vモチーフ記事と同じ踵ディテールの話は扱わない。",
+      "editorialOverlap": "246件索引にH.WISHBONEの商品記事なし。T341はGUARINOの身頃・襟・生地の参照と手縫いの説明、T011はN.JETTのFlying Vモチーフが主題。本文はウール／ヘンプの糸方向とドビー縞に限定し、踵ディテールを展開しない。",
+      "independentReview": "Pending independent gpt-6-luna editorial review on the final proposed PR head."
+    },
+    {
+      "topicId": "T345",
+      "recordType": "PR-local supplemental official product source-check; no fixed historical research manifest ID exists for these current-product claims.",
+      "sourceCheckSha256": "c15e7a31df30104c2d294946356b2836f1907e0350cf54a63990120030db2c5a",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "claim": "NICENESSはS.MORLEYを8ウェールの絹綿コーデュロイで仕立て、布の裏面のシルクを肌に触れる側に配置し、快適性につなげたと説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "公式ページの素材欄はシルク53％・綿47％と日本製を表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "NICENESSはS.MORLEYを立体的なストレートシルエットとして説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "B01",
+          "title": "NICENESS S.MORLEY",
+          "publisher": "NICENESS",
+          "url": "https://www.niceness.jp/products/s-morley",
+          "kind": "brand"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "id": "B01",
+          "checkedOn": "2026-10-04",
+          "locator": "official product description and material / manufacturing panel",
+          "verifiedClaim": "商品名・説明・素材／製造表示を照合。NN-0304T18、8ウェールの絹綿コーデュロイ、裏面シルクを肌側へ配する説明と快適性の表現、シルク53％・綿47％、立体的なストレートシルエット、日本製表示を確認。価格・在庫・Friscoの歴史説明は本文の事実主張に使っていない。"
+        }
+      ],
+      "claimsStatus": "布の混率・構成とシルエットは公式の商品説明。着用快適性を独立した試験・体験として扱っていない。",
+      "boundary": "8ウェール、混率、裏面のシルク配置、シルエットは公式ページに記載された仕様・説明に限る。快適性はメーカー主張として扱い、個人の着用評価、手入れ、耐久性を推測しない。Friscoの歴史・着用者・用途はこの記事の対象にしない。",
+      "editorialOverlap": "246件索引でS.MORLEYの商品記事なし。T099はFrisco trousersと船員史を扱う。T345はその歴史を再話せず、シルク53％・綿47％の8ウェールコーデュロイと裏面のシルク配置に限定する。",
+      "independentReview": "Pending independent gpt-6-luna editorial review on the final proposed PR head."
+    }
+  ],
+  "independentReview": {
+    "reviewedHead": null,
+    "reviewer": "Independent AI editorial reviewer; not the human user",
+    "model": "gpt-6-luna",
+    "scope": [
+      "T342",
+      "T343",
+      "T344",
+      "T345 article content and source-to-claim mapping"
+    ],
+    "conclusion": "Pending after final commit.",
+    "maintainerAdoption": "pending"
+  }
+}
