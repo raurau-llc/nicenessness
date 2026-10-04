@@ -2,8 +2,8 @@
   "version": 16,
   "reviewedOn": "2026-10-04",
   "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
-  "publicationStatus": "Unpublished; all nine proposed articles remain status review. Independent AI editorial review passed T323, T041, T341, T039 and T331 on the earlier reviewed head recorded above; T331 received a title-only clarification afterward. New proposals T001, T015, T191 and T219 are not yet independently reviewed. Maintainer adoption remains pending; no merge or deployment has occurred.",
-  "method": "Reopened claim-bearing public primary/official sources for the public-source claims in T323, T041 and T341. The NPS object statements, NICENESS design descriptions, and T323 user-provided saved-document statements are kept distinct. No original research photos, scan identifiers, full official product copy, or third-party images were added. T041 does not identify a specific Leonardo drawing. T341 leaves the relationship between the product-page country label and sewing attribution unresolved and does not claim finished-garment origin. All five drafts remain review-only. NICENESS product-page claims in T039 and T331 are attributed to the brand; they are not presented as independently established historical facts. Hash equality identifies research snapshots; it does not replace independent editorial review or maintainer adoption. Independent AI editorial review (not human review) was reported for T323, T041, T341, T039 and T331 on exact head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582; the reviewer was identified as separate worker /root/review_new_article_batch, with model gpt-6-luna specified. All five content drafts were approved. Afterward, T331 received only the title wording change requested in the handoff; no factual text or source mapping changed. The current T331 title itself was not present at the reviewed head. Review and approval do not replace maintainer adoption. Reopened the official/product pages and current maker descriptions supporting the four new proposals; article claims remain narrow and attributed. Topic-index overlap was rechecked against 246 main/open-PR entries before addition. No product or archive images were copied. Supplemental current-product specification IDs are recorded only in this PR’s claim/source-check records; the read-only historical research manifest was not changed.",
+  "publicationStatus": "Unpublished; all nine proposed articles remain status review. The follow-up independent Luna review reported approval for T219 and the earlier five drafts, and requested factual-scope corrections to T001, T015 and T191. Those corrections are applied in this revision; the corrected wording has not yet received a separate recheck. Maintainer adoption remains pending; no merge or deployment has occurred.",
+  "method": "Reopened claim-bearing public primary/official sources for the public-source claims in T323, T041 and T341. The NPS object statements, NICENESS design descriptions, and T323 user-provided saved-document statements are kept distinct. No original research photos, scan identifiers, full official product copy, or third-party images were added. T041 does not identify a specific Leonardo drawing. T341 leaves the relationship between the product-page country label and sewing attribution unresolved and does not claim finished-garment origin. All five drafts remain review-only. NICENESS product-page claims in T039 and T331 are attributed to the brand; they are not presented as independently established historical facts. Hash equality identifies research snapshots; it does not replace independent editorial review or maintainer adoption. Independent AI editorial review (not human review) was reported for T323, T041, T341, T039 and T331 on exact head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582; the reviewer was identified as separate worker /root/review_new_article_batch, with model gpt-6-luna specified. All five content drafts were approved. Afterward, T331 received only the title wording change requested in the handoff; no factual text or source mapping changed. The current T331 title itself was not present at the reviewed head. Review and approval do not replace maintainer adoption. Reopened the official/product pages and current maker descriptions supporting the four proposals. A follow-up independent Luna review was reported on PR head 035cd2f5b467e36fc1063601c1a6d680b6cf988d; requested corrections to T001, T015 and T191 are recorded below and applied in this revision. The corrected wording has not yet been independently rechecked. T219 was approved unchanged, and the earlier five approvals were maintained. Article claims remain narrow and attributed. Topic-index overlap was rechecked against 246 main/open-PR entries before addition. No product or archive images were copied. Supplemental current-product specification IDs are recorded only in this PR’s claim/source-check records; the read-only historical research manifest was not changed.",
   "records": [
     {
       "topicId": "T323",
@@ -336,7 +336,7 @@
       "claimsStatus": "The selected official/manufacturer pages were reopened on 2026-10-04. Product statements remain attributed to their publishers; historical references are not promoted to independently verified facts.",
       "boundary": "1920〜50年代の特定のツールバッグ、作り手、使い手は独立に確認していない。リベットの歴史的用途や耐荷重、現行品の耐久性も商品説明から推測しない。",
       "editorialOverlap": "Compared with the 246 current index entries: T013 covers a helmet bag, T033 a hunting bag, T062 a messenger-bag wearing/fit question, and T186 a quilted outer pocket on a tote. T001 focuses H.LEDZ AW25 and the official riveted-gusset detail; no bag image was copied.",
-      "independentReview": "Pending independent AI editorial review on the pushed PR head; not yet reviewed or adopted by a maintainer.",
+      "independentReview": "The follow-up independent Luna review reported on PR head 035cd2f5b467e36fc1063601c1a6d680b6cf988d found that the source supports riveted gussets but not folded construction. The title and copy now state only riveted gussets; the revised wording has not yet been independently rechecked. Keep status review.",
       "supplementalFactNote": "This article-side fact ID records a directly checked current product specification. It is not written to or represented as an edit of the fixed historical research manifest."
     },
     {
@@ -349,7 +349,7 @@
       "usedFacts": [
         {
           "id": "F01",
-          "kind": "brand_statement",
+          "kind": "retailer_statement",
           "claim": "Village Hat Shop describes its current long-bill cap as providing sun protection and reducing glare with its green underbrim.",
           "sourceIds": [
             "E01"
@@ -385,7 +385,7 @@
           "id": "E01",
           "title": "VHS Long Bill Adjustable Baseball Cap, 222440",
           "publisher": "Village Hat Shop",
-          "type": "manufacturer_product_description",
+          "type": "retail_product_description",
           "url": "https://www.villagehatshop.com/products/vhs-long-bill-adjustable-baseball-cap"
         },
         {
@@ -408,7 +408,7 @@
           "id": "E01",
           "checkedOn": "2026-10-04",
           "locator": "product description and details",
-          "verifiedClaim": "The live Village Hat Shop product description attributes sun protection to the long bill and glare reduction to the green underside; the listed item is a current product, not a historical record."
+          "verifiedClaim": "The live Village Hat Shop retail product page attributes sun protection to the long bill and glare reduction to the green underside. This is a retailer’s current product listing, not proof that the retailer manufactured the hat or a historical record."
         },
         {
           "id": "E02",
@@ -424,9 +424,9 @@
         }
       ],
       "claimsStatus": "The selected official/manufacturer pages were reopened on 2026-10-04. Product statements remain attributed to their publishers; historical references are not promoted to independently verified facts.",
-      "boundary": "Village Hat ShopとDuck Campの説明は現在販売する別製品のメーカー主張であり、効果を独立測定した結果ではない。NICENESSの商品ページも1970年代の具体的な着用者、地域、用途や原型を示していない。",
+      "boundary": "Village Hat Shopの販売ページとDuck Campの商品説明は現在流通する別製品の用途説明であり、効果を独立測定した結果ではない。NICENESSの商品ページも1970年代の具体的な着用者、地域、用途や原型を示していない。",
       "editorialOverlap": "Compared with the 246 current index entries: existing hat stories address a sailor hat, safari hat, bucket hat, watch cap and college cap; none centers long-bill function statements against NICENESS’s 1970s-outdoor design reference. The independent maker pages are treated only as present-day product claims.",
-      "independentReview": "Pending independent AI editorial review on the pushed PR head; not yet reviewed or adopted by a maintainer.",
+      "independentReview": "The follow-up independent Luna review reported on PR head 035cd2f5b467e36fc1063601c1a6d680b6cf988d identified Village Hat Shop as a retailer page. The article now attributes that statement to the sales page, not to a hat manufacturer; the revised wording has not yet been independently rechecked. Keep status review.",
       "supplementalFactNote": "This article-side fact ID records a directly checked current product specification. It is not written to or represented as an edit of the fixed historical research manifest."
     },
     {
@@ -440,7 +440,7 @@
         {
           "id": "F02",
           "kind": "brand_statement",
-          "claim": "NICENESS describes METHOD as referencing 1940s–50s US chino trousers and military pants; the article keeps this attributed to the brand and identifies no historical specimen.",
+          "claim": "NICENESS describes METHOD as referencing 1940s–50s US chino shorts and military shorts; the article keeps this attributed to the brand and identifies no historical specimen.",
           "sourceIds": [
             "B01"
           ]
@@ -448,7 +448,7 @@
         {
           "id": "F03",
           "kind": "brand_statement",
-          "claim": "NICENESS describes the deep-tuck sewn-in reversible Italian suede belt and tumbler-treated bespoke chino.",
+          "claim": "NICENESS describes a suede belt from an Italian tannery sewn into deep-set tucks and tumbler-treated bespoke chino. The METHOD product page does not describe the belt as reversible.",
           "sourceIds": [
             "B01"
           ]
@@ -476,13 +476,13 @@
           "id": "B01",
           "checkedOn": "2026-10-04",
           "locator": "product description and material/origin panel",
-          "verifiedClaim": "The live official METHOD page identifies SS26 NN-2303T17; it states that deep-set tucks incorporate sewn-in Italian reversible suede belts, describes the specification as beltless, names bespoke chino fabric with impurities removed from yarn and tumbler treatment, lists cotton shell and cow-leather belt, and marks made in Japan."
+          "verifiedClaim": "The live official METHOD page identifies SS26 NN-2303T17; it states that deep-set tucks incorporate a sewn-in suede belt from an Italian tannery, describes the specification as beltless, names bespoke chino fabric with impurities removed from yarn and tumbler treatment, lists cotton shell and cow-leather belt, and marks made in Japan. The page does not say the belt is reversible."
         }
       ],
       "claimsStatus": "The selected official/manufacturer pages were reopened on 2026-10-04. Product statements remain attributed to their publishers; historical references are not promoted to independently verified facts.",
       "boundary": "1940〜50年代の特定のパンツや軍規格、縫い込みベルトとの歴史的連続性は確認していない。革や加工の一般的性能、着用感、耐久性も推測しない。",
-      "editorialOverlap": "Compared with the 246 current index entries: T123 concerns climbing shorts; T302 records a 1942 trouser back strap on a different model; T303 research is not an article, and published trouser items do not cover METHOD SS26’s sewn-in reversible suede belt in a deep tuck. This article does not claim military uniform identity.",
-      "independentReview": "Pending independent AI editorial review on the pushed PR head; not yet reviewed or adopted by a maintainer.",
+      "editorialOverlap": "Compared with the 246 current index entries: T123 concerns climbing shorts; T302 records a 1942 trouser back strap on a different model; T303 research is not an article, and published trouser items do not cover METHOD SS26’s sewn-in suede belt in a deep tuck. This article does not claim military uniform identity.",
+      "independentReview": "The follow-up independent Luna review reported on PR head 035cd2f5b467e36fc1063601c1a6d680b6cf988d corrected the period reference to 1940s–50s US chino shorts/military shorts, rejected the unsupported reversible-belt wording, and noted duplicate Japan-origin wording. Those corrections are applied; the revised wording has not yet been independently rechecked. Keep status review.",
       "supplementalFactNote": "This article-side fact ID records a directly checked current product specification. It is not written to or represented as an edit of the fixed historical research manifest."
     },
     {
@@ -530,7 +530,7 @@
       "claimsStatus": "The selected official/manufacturer pages were reopened on 2026-10-04. Product statements remain attributed to their publishers; historical references are not promoted to independently verified facts.",
       "boundary": "服型としてのローバーパンツの歴史、特定の着用者・職業、JOANという名称の由来は確認していない。耐水圧や防水・防風・撥水の表示はNICENESSの製品説明に帰属させ、独立測定や着用評価として述べない。",
       "editorialOverlap": "Compared with the 246 current index entries: related pant stories concern bootcut shape, hem/cuff structure, drawcords, back straps, and uniform history; none concerns JOAN SS26’s articulated knee pattern and its official city/outdoor framing.",
-      "independentReview": "Pending independent AI editorial review on the pushed PR head; not yet reviewed or adopted by a maintainer.",
+      "independentReview": "The follow-up independent Luna review reported on exact PR head 035cd2f5b467e36fc1063601c1a6d680b6cf988d approved T219 unchanged. It remains status review pending maintainer adoption.",
       "supplementalFactNote": "This article-side fact ID records a directly checked current product specification. It is not written to or represented as an edit of the fixed historical research manifest."
     }
   ],
@@ -558,16 +558,41 @@
     "maintainerAdoption": "pending"
   },
   "nextBatchIndependentReview": {
-    "reviewedHead": null,
+    "reviewedHead": "035cd2f5b467e36fc1063601c1a6d680b6cf988d",
+    "reviewer": "Independent Luna editorial reviewer (identity relayed in the user handoff)",
+    "reviewerType": "independent AI editorial review; reviewer identity reported by user",
+    "model": "Luna; exact model variant not supplied in the handoff",
     "scope": [
       "T001",
       "T015",
       "T191",
       "T219"
     ],
-    "reviewer": null,
-    "model": null,
-    "conclusion": "pending",
-    "note": "No independent review has yet been performed for these four additions; do not infer approval from CI or the earlier five-story review."
+    "conclusion": "T219 content approved unchanged. T001, T015 and T191 required the factual-scope corrections recorded below. The reviewer also confirmed the earlier five drafts with body unchanged or only minor title clarification; their approvals remain maintained.",
+    "findings": [
+      {
+        "topicId": "T001",
+        "finding": "The NICENESS page says riveted gussets, but does not establish that the gusset is folded. The title and copy must state only the riveted-gusset detail; no image was inspected."
+      },
+      {
+        "topicId": "T015",
+        "finding": "Village Hat Shop is a retailer page, not proof that it made the hat. Attribute the statements to the sales page rather than calling them a hat maker’s own product."
+      },
+      {
+        "topicId": "T191",
+        "finding": "The NICENESS reference is 1940s–50s US chino shorts and military shorts; METHOD page does not describe the suede belt as reversible; remove duplicated made-in-Japan wording in the product paragraph."
+      },
+      {
+        "topicId": "T219",
+        "finding": "Content approved unchanged."
+      }
+    ],
+    "correctionsApplied": [
+      "T001 title and wording now state only riveted gussets.",
+      "T015 attributes Village Hat Shop claims to its retail product page.",
+      "T191 uses shorts for the historical references, describes the belt as suede from an Italian tannery without claiming reversibility, and states the Japan origin label once in the product paragraph."
+    ],
+    "reviewAfterCorrections": "Pending; the revised wording is on a child revision of reviewedHead and has not yet received a separate independent recheck. Keep all proposed articles status review.",
+    "maintainerAdoption": "pending"
   }
 }

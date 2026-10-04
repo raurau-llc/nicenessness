@@ -7805,7 +7805,8 @@
           ]
         }
       ],
-      "storySha256": "85d3c9d459a893e6a3268e64c9257982bbd7dab41220495074e481b4523311ee"
+      "storySha256": "7c5930b30057732176bd796500777bd1552a96415531745e277a7411ac68219d",
+      "storyHashBasis": "SHA-256 of the complete current article object serialized as UTF-8 JSON with sorted keys and compact separators."
     },
     {
       "topicId": "T015",
@@ -7815,10 +7816,11 @@
       "facts": [
         {
           "id": "F01",
-          "kind": "brand_statement",
+          "kind": "retailer_statement",
           "sourceIds": [
             "E01"
-          ]
+          ],
+          "claim": "Village Hat Shop’s retail product page describes its current long-bill cap as providing sun protection and reducing glare with its green underbrim."
         },
         {
           "id": "F03",
@@ -7842,7 +7844,8 @@
           ]
         }
       ],
-      "storySha256": "6ef63f644ba862b311477b32d92cb00bcb336656e6418deb8b8c3fd0bee78b8c"
+      "storySha256": "f9e6a86a6d7e294623125b55d7f6eedd7db1963b0f42777bd857aa450e797e9c",
+      "storyHashBasis": "SHA-256 of the complete current article object serialized as UTF-8 JSON with sorted keys and compact separators."
     },
     {
       "topicId": "T191",
@@ -7855,14 +7858,16 @@
           "kind": "brand_statement",
           "sourceIds": [
             "B01"
-          ]
+          ],
+          "claim": "NICENESS describes METHOD as referencing 1940s–50s US chino shorts and military shorts; the article keeps this attributed to the brand and identifies no historical specimen."
         },
         {
           "id": "F03",
           "kind": "brand_statement",
           "sourceIds": [
             "B01"
-          ]
+          ],
+          "claim": "NICENESS describes a suede belt from an Italian tannery sewn into deep-set tucks and tumbler-treated bespoke chino. The METHOD product page does not describe the belt as reversible."
         },
         {
           "id": "F04",
@@ -7872,7 +7877,8 @@
           ]
         }
       ],
-      "storySha256": "2a0a2673103b88df1b63ee7ceb24bf542ebab7601029cd7358612ac6b25ed7f8"
+      "storySha256": "1be5a3502aec992f3f88e30f0af075b2d1a6e1c53ab869504ce6375e325f1072",
+      "storyHashBasis": "SHA-256 of the complete current article object serialized as UTF-8 JSON with sorted keys and compact separators."
     },
     {
       "topicId": "T219",
@@ -7904,8 +7910,12 @@
     "T041",
     "T341",
     "T039",
-    "T331"
+    "T331",
+    "T001",
+    "T015",
+    "T191",
+    "T219"
   ],
   "verificationRecord": "revalidation.v16.json",
-  "pendingReleaseNote": "This branch is a draft proposal. The three articles remain review-only; reconcile the cumulative release against main if another proposal is adopted first."
+  "pendingReleaseNote": "All nine proposed articles remain review-only. Reconcile this cumulative release against main if another proposal is adopted first; publish only after the independent editorial review and maintainer adoption required by GOVERNANCE.md."
 }
