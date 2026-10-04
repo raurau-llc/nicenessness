@@ -1,7 +1,7 @@
 {
   "version": 15,
   "sourceRevision": "85fcb8e3fed1c71f840fcb7780cbf845baa90b41",
-  "scope": "218 articles: the 217-article main baseline plus one proposed review article (T131). The proposed article remains unpublished.",
+  "scope": "222 articles: the 217-article main baseline plus five proposed review stories (T131, T091, T097, T099, T253). All five proposed articles remain unpublished.",
   "articles": [
     {
       "topicId": "T170",
@@ -7682,8 +7682,140 @@
           ]
         }
       ],
-      "storySha256": "003bf893710c55d884f7b1dd9fbe7e128e5395915ed6cef911f264d145751853"
+      "storySha256": "161078e141011d7e233bbdc8713c39a1bf302f0c9045b82152d7b03b7ec64cba"
+    },
+    {
+      "topicId": "T097",
+      "inputResearchSha256": "9ce1ec434b2f74194761e5a2f250cea1d670e355c529eb2c69aba39d54c5496d",
+      "sha256": "32f77a68e4dcee17319fecaaaa6df57e8a5105aea2c6b9f907f13d0bfb24dbf9",
+      "validationSha256": "32f77a68e4dcee17319fecaaaa6df57e8a5105aea2c6b9f907f13d0bfb24dbf9",
+      "validationBasis": "Selected claims rechecked in linked source bodies and official product pages; unused research claims are not certified.",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "M01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "M01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "storySha256": "8f93fa0c602abbd9091975a468be7ac1db3c24b04b1dff2be4046aed1f903607"
+    },
+    {
+      "topicId": "T091",
+      "inputResearchSha256": "8b506ff6376297ae4be91b280ecc955653d3cc384e487837006ce454f814adf7",
+      "sha256": "ec1c5e059b4fa46d479d9edc7413b810be489dce243199104ab1437520446ffa",
+      "validationSha256": "ec1c5e059b4fa46d479d9edc7413b810be489dce243199104ab1437520446ffa",
+      "validationBasis": "Selected claims rechecked in linked source bodies and official product pages; unused research claims are not certified.",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "M01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "M03"
+          ]
+        },
+        {
+          "id": "F07",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B02"
+          ]
+        }
+      ],
+      "storySha256": "9ee0e9c29bbf6f3e9bbdf8eea814881d8d5949e8841733bbbc33e95c88cf5a6d"
+    },
+    {
+      "topicId": "T099",
+      "inputResearchSha256": "4f4bf484d255c5e3b8352f804945447730de8caf6fae9c49c7785bed35ae82bc",
+      "sha256": "8f5287aa03cbd9b909c08552432044791a685f186a7ca832859e103a7f775e9b",
+      "validationSha256": "8f5287aa03cbd9b909c08552432044791a685f186a7ca832859e103a7f775e9b",
+      "validationBasis": "Selected claims rechecked in linked source bodies and official product pages; unused research claims are not certified.",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "E01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "storySha256": "d017faca884afda52f2f69fb59235e664f19dfe194a01f72cb74d9475f4b6b6b"
+    },
+    {
+      "topicId": "T253",
+      "sha256": "a86b22f1f85af24902100ca7a874b2c22b08144292e1276738d6b8242dcec211",
+      "validationSha256": "a86b22f1f85af24902100ca7a874b2c22b08144292e1276738d6b8242dcec211",
+      "validationBasis": "Existing history-validation record hash matches the unchanged research snapshot; the selected public sources were reopened for this draft.",
+      "facts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "storySha256": "947f86a9445a8a86be1cb2c1d34a30c47ced9da3cc2fc5e6fc611c2d3f52d87b"
     }
   ],
-  "previousRelease": "release.v11.json"
+  "previousRelease": "release.v11.json",
+  "newArticleIds": [
+    "T131",
+    "T091",
+    "T097",
+    "T099",
+    "T253"
+  ],
+  "verificationRecord": "revalidation.v15.json",
+  "pendingReleaseNote": "This branch remains a draft PR. Reconcile the cumulative release against main if another proposal is adopted first; all five proposed stories remain review-only."
 }
