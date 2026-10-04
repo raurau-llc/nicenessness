@@ -28052,5 +28052,345 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T323",
+    "slug": "leather-herringbone-sports-jacket",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "製造地としての記録"
+      }
+    ],
+    "eras": [
+      "1950s"
+    ],
+    "tags": [
+      "スポーツジャケット",
+      "革",
+      "ヘリンボーン",
+      "西部風"
+    ],
+    "category": "DRESS / 着る",
+    "model": "H.KENT",
+    "season": "AW23",
+    "item": "h-kent-aw23",
+    "title": "革とヘリンボーンを重ねた\n1950年頃のスポーツジャケット",
+    "deck": "収蔵記録が示すのは、着用者の名より先に、一着の素材と輪郭だ。",
+    "place": "ロサンゼルス",
+    "period": "1950年頃",
+    "context": "スポーツジャケット",
+    "opening": "米国国立公園局のHarry S Truman National Historic Siteは、1950年頃の一着をCalifornia Sportswear Co.製、ロサンゼルスと記録する。革とタン色のヘリンボーンを組み合わせた、シングルブレストの西部風スポーツジャケットだ。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "specimen",
+        "title": "革とタン色のヘリンボーン",
+        "paragraphs": [
+          "記録にあるのは、単一の素材ではなく、革とタン色のヘリンボーンを合わせた一着。NPSはこれを西部風のスポーツジャケットとして記す。名称や素材の組み合わせは確認できるが、ページは製作工程や着用場面までは説明していない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "category",
+        "title": "分類名は、着用記録ではない",
+        "paragraphs": [
+          "このページの題名は「Sports Jacket」。ただし、誰が着たのか、スポーツで使われたのかは記されない。Harry S Truman National Historic Siteに掲載されていることだけから、トルーマン本人の着用品と決めることもできない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "design",
+        "title": "別々の参照を、リバーシブルの上着へ",
+        "paragraphs": [
+          "NICENESSの公式アーカイブは、H.KENTの着想を1950〜60年代の米国スポーツジャケットと英国のハンティングジャケットに結びつける。素材や形はNPSの一着と同じだとは述べていない。H.KENTについては梳毛二重織のリバーシブルなショートブルゾンとし、接ぎを減らしたと説明する。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "同じ「スポーツジャケット」という名前から一つの原型を思い浮かべるより、記録された一着の仕様と、現代の服が掲げる参照を分けて読む。そこから見えるのは、ひとつの正解ではなく、異なる素材や用途を持つ上着の幅だ。",
+    "bridge_title": "米国のスポーツジャケットと英国の狩猟服を、短いリバーシブルブルゾンへ。",
+    "bridge": "H.KENTは、二つの衣服を着想源として挙げるNICENESSのAW23モデル。梳毛二重織を使い、リバーシブルの短いブルゾンとして、接ぎを減らす構成にしたと公式アーカイブが説明する。NPSの収蔵品を直接の原型と確認できる資料はない。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "NPSの記録は着用者やスポーツ用途を示さず、H.KENTの参照先も個別の実物までは特定していない。この収蔵品をH.KENTの直接の原型とは扱わない。",
+    "product_title": "二つの上着の参照を、リバーシブルに。",
+    "product_paragraphs": [
+      "H.KENTは、1950〜60年代の米国スポーツジャケットと英国ハンティングジャケットを着想源に挙げるNICENESS AW23のブルゾン。梳毛二重織を使い、接ぎを減らしたリバーシブルの短い形にしたと公式アーカイブが説明する。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "H.KENT",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "id": "h-kent-aw23",
+        "retained": "1950〜60年代米国のスポーツジャケットと英国のハンティングジャケット。",
+        "changed": "梳毛二重織のリバーシブル・ショートブルゾン。接ぎを減らす。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Sports Jacket - Circa 1950",
+        "publisher": "Harry S Truman National Historic Site",
+        "url": "https://www.nps.gov/hstr/learn/historyculture/sports-jacket-circa-1950.htm",
+        "kind": "collection"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS H.KENT AW23",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T041",
+    "slug": "da-vinci-silk-scarf-graphic",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "LEOの商品ページにある製造国表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "図案",
+      "スカーフ",
+      "シルク",
+      "裏地"
+    ],
+    "category": "MAKE / つくる",
+    "model": "LEO",
+    "season": "AW25",
+    "item": "leo-aw25",
+    "title": "裏地にも表にも移る図案\nダ・ヴィンチ柄のシルクスカーフ",
+    "deck": "同じ絵柄をシャツ、スカーフ、ジャケットの裏地へ。置き場所の違いから読む。",
+    "place": "日本（LEOの商品ページの表示）",
+    "period": "AW25",
+    "context": "図案とプリント",
+    "opening": "ひとつの図案が、シャツの表地にも、ジャケットの裏地にも、スカーフにも置かれる。NICENESSの公開記事は、その柄をレオナルド・ダ・ヴィンチのデッサンをモチーフにしたものと説明し、LEOを含む複数の商品を挙げる。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "motif",
+        "title": "特定の一枚ではなく、デッサンのモチーフ",
+        "paragraphs": [
+          "NICENESSの制作記事は、レオナルド・ダ・ヴィンチのデッサンをモチーフにした絵柄と説明する。個別の素描名や所蔵番号は挙げていないため、特定作品の複製とは言い切れない。ここでは作品の同定ではなく、ブランドが説明する柄の作り方を読む。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "placement",
+        "title": "シャツの表地から、ジャケットの裏地へ",
+        "paragraphs": [
+          "同じ公開記事は、絵柄をLEOのシルクスカーフだけでなく、V.CHADやV.IOMMIのシャツにも使い、SLASH系ジャケットやSCHENKER系パンツの裏地にも採用したと記す。図案は外から見える面にも、着る人の内側にある面にも配置された。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "silk",
+        "title": "絹のスカーフにすると",
+        "paragraphs": [
+          "LEOの商品ページは、100%シルクのスカーフとして紹介し、ダ・ヴィンチの作風をもとにしたグラフィックと、象徴的なモチーフや隠されたメッセージを含む構成を説明する。何を意味するかはページに示されていない。"
+        ],
+        "fact_ids": [
+          "F04"
+        ]
+      }
+    ],
+    "closing": "作家名だけを追うのではなく、図案がシャツの外側、スカーフ、ジャケットの内側へ移る経路をたどる。ひとつの柄を、身につける場所に応じて見せ方を変える制作が見えてくる。",
+    "bridge_title": "図案を、毎日使う絹のスカーフへ。",
+    "bridge": "LEO（AW25）は100%シルクのスカーフ。公式ページはダ・ヴィンチの作風から着想したグラフィックを、象徴的なモチーフや隠されたメッセージを含みながら日常に取り入れやすい構成にしたと説明する。商品ページには日本製の表示がある。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "公式記事と商品ページは、参照した素描の題名・図版・紙葉や個々の象徴の意味を特定していない。記事はブランドの制作説明を紹介し、特定作品からの直接引用とは断定しない。",
+    "product_title": "図案を、絹のスカーフへ。",
+    "product_paragraphs": [
+      "LEO（AW25）は100%シルクのスカーフ。NICENESSはダ・ヴィンチの作風をもとにしたグラフィックと説明し、同じ柄をシャツやジャケットの裏地にも用いたと公開記事に記す。"
+    ],
+    "product_refs": [
+      "F04",
+      "F02"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "LEO",
+        "season": "AW25",
+        "number": "NN-5302A16",
+        "url": "https://www.niceness.jp/products/leo",
+        "id": "leo-aw25",
+        "retained": "ダ・ヴィンチの作風に着想したグラフィック。",
+        "changed": "100%シルクのスカーフ。",
+        "factRefs": [
+          "F04"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "A01",
+        "title": "Drawings and Discoveries — Episode #11",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/episode/drawings-and-discoveries/",
+        "kind": "brand"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS LEO AW25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/leo",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T341",
+    "slug": "guarino-dobby-hand-finished-shirt",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "身頃の参照としての公式説明"
+      },
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "襟・袖の参照としての公式説明"
+      },
+      {
+        "id": "it",
+        "name": "イタリア",
+        "role": "ドビー生地の製造地としての公式説明"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1970s",
+      "2020s"
+    ],
+    "tags": [
+      "シャツ",
+      "バンドカラー",
+      "ドビー",
+      "手縫い"
+    ],
+    "category": "MAKE / つくる",
+    "model": "GUARINO",
+    "season": "AW24",
+    "item": "guarino-aw24",
+    "title": "身頃と襟で参照を分ける\nドビーのバンドカラーシャツ",
+    "deck": "身頃、襟と袖、生地。それぞれ別の参照を持つ一枚を読む。",
+    "place": "英国・フランス・イタリア（要素別の公式説明）",
+    "period": "1970年代の参照・AW24",
+    "context": "シャツの設計と仕上げ",
+    "opening": "NICENESSのGUARINOは、公式説明の中で身頃、襟と袖、生地にそれぞれ異なる参照背景を与えている。さらに、細部を手縫いで仕上げたとも記す。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "body",
+        "title": "身頃の参照は、1970年代の英国シャツ",
+        "paragraphs": [
+          "商品説明によると、身頃のベースは1970年代の英国カジュアルシャツ。個別の現物や型紙までは挙げられていないので、ここではNICENESSが公表する設計上の参照として扱う。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "collar",
+        "title": "襟と袖は、別の型紙の系統から",
+        "paragraphs": [
+          "同じ説明は、袖や襟など細部の作りにフランスのドレスシャツのパターンを取り入れたとする。身頃と襟・袖を分けることで、ひとつのシャツに異なる参照を重ねた構成が見えてくる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "fabric",
+        "title": "綿ドビーと、手縫い仕上げ",
+        "paragraphs": [
+          "生地は1950年代から続くイタリアの機屋が作るドビーと公式ページは説明する。GUARINOは綿100%で、細部は手縫いで仕上げたという。ただし、手縫いの箇所や工程名までは示されていない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "生地、身頃、襟と袖、仕上げをそれぞれの説明に戻すと、GUARINOの一枚はひとつの原産地や一着の原型に還元できない。手仕事についても、確認できるのは細部を手縫いで仕上げたという公式の記述までだ。",
+    "bridge_title": "異なるシャツの参照を、バンドカラーの一枚へ。",
+    "bridge": "GUARINO（AW24）はN.N.P.ドビー織のバンドカラーシャツ。NICENESSは英国のカジュアルシャツ、フランスのドレスシャツのパターン、生地を作るイタリアの機屋という要素を分けて説明し、細部を手縫いで仕上げたと記す。",
+    "bridge_refs": [
+      "F01"
+    ],
+    "boundary": "同じ公式ページには「MADE IN JAPAN」の表示がある一方、説明は縫製をSalvatore Piccoloによるものとするが、その関係は説明されていない。ここでは完成品の製造国や縫製地を断定せず、手縫いの箇所も特定しない。",
+    "product_title": "ドビーの表面と、手縫いの細部。",
+    "product_paragraphs": [
+      "GUARINOは綿100%のN.N.P.ドビー織シャツ。NICENESSの公式説明は、身頃を1970年代英国のカジュアルシャツ、襟や袖の細部をフランスのドレスシャツのパターンに結び、細部を手縫いで仕上げたとする。"
+    ],
+    "product_refs": [
+      "F01"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "GUARINO",
+        "season": "AW24",
+        "number": "NN-7202Y14",
+        "url": "https://www.niceness.jp/products/guarino",
+        "id": "guarino-aw24",
+        "retained": "1970年代英国カジュアルシャツの身頃、仏ドレスシャツの襟・袖のパターン、イタリアのドビー生地と説明。",
+        "changed": "N.N.P.ドビー織のバンドカラーシャツ。細部を手縫いで仕上げると説明。",
+        "factRefs": [
+          "F01"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS GUARINO AW24",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/guarino",
+        "kind": "brand"
+      }
+    ]
   }
 ]

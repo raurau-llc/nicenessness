@@ -1,0 +1,176 @@
+{
+  "version": 16,
+  "reviewedOn": "2026-10-04",
+  "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+  "publicationStatus": "Unpublished; three proposed articles remain status review. Independent editorial review and maintainer adoption are pending; no merge or deployment has occurred.",
+  "method": "Reopened claim-bearing public primary/official sources for T323, T041 and T341. Historical object statements are separated from NICENESS design descriptions. No original research photos, scan identifiers, full official product copy, or third-party images were added. T041 does not identify a specific Leonardo drawing. T341 leaves the relationship between the product-page country label and sewing attribution unresolved and does not claim finished-garment origin. All three drafts remain review-only. Hash equality identifies research snapshots; it does not replace independent editorial review or maintainer adoption.",
+  "records": [
+    {
+      "topicId": "T323",
+      "researchSha256": "53f54c99f42155e6e24efc9e93052dc8a3403aa55439436c230d334dba198218",
+      "previousValidationSha256": "53f54c99f42155e6e24efc9e93052dc8a3403aa55439436c230d334dba198218",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not by itself verify the linked source or establish independent review.",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "historical_fact",
+          "claim": "NPS records a circa-1950 single-breasted western-style sports jacket combining leather and tan herringbone, made by California Sportswear Co. in Los Angeles.",
+          "sourceIds": [
+            "H01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "claim": "NICENESS’s user-attested official archive describes H.KENT as drawing on 1950s–60s US sports jackets and UK hunting jackets, then using reversible double-woven worsted construction with fewer seams.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "H01",
+          "title": "Sports Jacket - Circa 1950",
+          "publisher": "Harry S Truman National Historic Site",
+          "type": "museum_collection",
+          "url": "https://www.nps.gov/hstr/learn/historyculture/sports-jacket-circa-1950.htm"
+        },
+        {
+          "id": "B01",
+          "title": "NICENESS H.KENT AW23",
+          "publisher": "NICENESS",
+          "type": "official_user_attested_document",
+          "url": null
+        }
+      ],
+      "sourceChecks": [
+        {
+          "id": "H01",
+          "checkedOn": "2026-10-04",
+          "locator": "object description",
+          "verifiedClaim": "The live NPS entry identifies the garment as single-breasted, leather and tan herringbone, western style, circa 1950, made by California Sportswear Co., Los Angeles."
+        },
+        {
+          "id": "B01",
+          "checkedOn": "2026-10-04",
+          "locator": "user-attested official archive statement",
+          "verifiedClaim": "Used only as a separately attributed NICENESS design statement; the archive source does not identify the NPS jacket as H.KENT’s direct reference."
+        }
+      ],
+      "claimsStatus": "The NPS entry confirms one garment’s label and construction. It does not identify a wearer or sporting use. H.KENT’s official archive refers to broader categories and does not name this NPS item.",
+      "boundary": "The historical object and NICENESS statement are separate. No claim is made that the NPS jacket was worn by Truman or directly inspired H.KENT.",
+      "independentReview": "Pending. The author’s source recheck is not independent editorial review.",
+      "editorialOverlap": "Compared against the 237-entry main/open-PR topic index. T323 uses a distinct circa-1950 jacket object and does not identify it as H.KENT’s direct prototype. T041 concerns the placement of a drawing-inspired print across LEO and related garments, distinct from T035’s Newton portrait and T209’s scientific wall/fabric designs. T341 is restricted to the previously unused GUARINO item and focuses on construction composition/hand finishing, not the TOTTI product used in T007."
+    },
+    {
+      "topicId": "T041",
+      "researchSha256": "826a03760b4840d5d36b3eb3b8a596cdfad123e7761b4a675a40b815a5c9d9b7",
+      "previousValidationSha256": "826a03760b4840d5d36b3eb3b8a596cdfad123e7761b4a675a40b815a5c9d9b7",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not by itself verify the linked source or establish independent review.",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "claim": "NICENESS’s public episode describes the graphic as based on Leonardo da Vinci drawings, without naming a specific drawing.",
+          "sourceIds": [
+            "A01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "claim": "The episode describes using the pattern on LEO, V.CHAD and V.IOMMI, and as lining in SLASH and SCHENKER items.",
+          "sourceIds": [
+            "A01"
+          ]
+        },
+        {
+          "id": "F04",
+          "kind": "brand_statement",
+          "claim": "LEO’s official product page describes a 100% silk scarf with a graphic inspired by da Vinci’s style and symbolic motifs/hidden messages; it does not identify their meaning.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "A01",
+          "title": "Drawings and Discoveries — Episode #11",
+          "publisher": "NICENESS",
+          "type": "official_editorial_article",
+          "url": "https://www.niceness.jp/episode/drawings-and-discoveries/"
+        },
+        {
+          "id": "B01",
+          "title": "NICENESS LEO AW25",
+          "publisher": "NICENESS",
+          "type": "official_product_page",
+          "url": "https://www.niceness.jp/products/leo"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "id": "A01",
+          "checkedOn": "2026-10-04",
+          "locator": "paragraph on the pattern / product list",
+          "verifiedClaim": "The live official episode names the drawing motif, the three products, and the use of the pattern on SLASH/SCHENKER linings."
+        },
+        {
+          "id": "B01",
+          "checkedOn": "2026-10-04",
+          "locator": "product description and materials",
+          "verifiedClaim": "The live product page names LEO, silk composition, Japan-made marking, and describes the graphic; no specific drawing or symbol interpretation is provided."
+        }
+      ],
+      "claimsStatus": "The current official episode and product page support a design-process reading about one pattern across exterior garment surfaces, scarf, and lining. They do not identify a drawing sheet, exact original, or meaning for individual symbols.",
+      "boundary": "The article reports NICENESS’s own design explanation and does not assert reproduction of a named Leonardo work or decode a hidden message.",
+      "independentReview": "Pending. The author’s source recheck is not independent editorial review.",
+      "editorialOverlap": "Compared against the 237-entry main/open-PR topic index. T323 uses a distinct circa-1950 jacket object and does not identify it as H.KENT’s direct prototype. T041 concerns the placement of a drawing-inspired print across LEO and related garments, distinct from T035’s Newton portrait and T209’s scientific wall/fabric designs. T341 is restricted to the previously unused GUARINO item and focuses on construction composition/hand finishing, not the TOTTI product used in T007."
+    },
+    {
+      "topicId": "T341",
+      "researchSha256": "54405d4acb959c38e13e6755ba7ff8c9564957ad6558c847d5f2af2522f2133e",
+      "previousValidationSha256": "54405d4acb959c38e13e6755ba7ff8c9564957ad6558c847d5f2af2522f2133e",
+      "previousValidationMatches": true,
+      "previousValidationStatus": "partial",
+      "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not by itself verify the linked source or establish independent review.",
+      "usedFacts": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "claim": "NICENESS’s GUARINO page attributes the body to a 1970s British casual shirt, sleeve/collar details to French dress-shirt patterns, the dobby fabric to an Italian mill operating since the 1950s, and detail finishing to hand sewing.",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "B01",
+          "title": "NICENESS GUARINO AW24",
+          "publisher": "NICENESS",
+          "type": "official_product_page",
+          "url": "https://www.niceness.jp/products/guarino"
+        }
+      ],
+      "sourceChecks": [
+        {
+          "id": "B01",
+          "checkedOn": "2026-10-04",
+          "locator": "product description / material panel",
+          "verifiedClaim": "The live page states the design references and hand-sewn detail finish; it displays MADE IN JAPAN while the description also attributes sewing to Salvatore Piccolo in Italy, without explaining their relationship."
+        }
+      ],
+      "claimsStatus": "The product page supports a design statement and hand-finish claim. It does not name the specific hand-sewn seams. Its country label and sewing attribution are not reconciled, so final-garment origin is left unasserted.",
+      "boundary": "The article separates inspiration/material geography from finished-garment origin. It makes no country-of-manufacture claim and does not infer which stitches were hand-sewn.",
+      "independentReview": "Pending. The author’s source recheck is not independent editorial review.",
+      "editorialOverlap": "Compared against the 237-entry main/open-PR topic index. T323 uses a distinct circa-1950 jacket object and does not identify it as H.KENT’s direct prototype. T041 concerns the placement of a drawing-inspired print across LEO and related garments, distinct from T035’s Newton portrait and T209’s scientific wall/fabric designs. T341 is restricted to the previously unused GUARINO item and focuses on construction composition/hand finishing, not the TOTTI product used in T007."
+    }
+  ]
+}
