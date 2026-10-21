@@ -1,0 +1,252 @@
+{
+  "version": 19,
+  "reviewedOn": "2026-10-21",
+  "baseCommit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+  "publicationStatus": "review proposals; not adopted and not publicly generated",
+  "scope": "Five new proposals T351–T355 plus the 217 main article provenance entries carried forward from release.v11.json.",
+  "sourceMethod": "Read the NICENESS official product pages and directly linked official episodes for the stated source-backed claims. Brand references, process descriptions and finish claims remain attributed to NICENESS. No price, inventory, unverified performance, user experience, third-party image or unsubstantiated history is added. For sourceCheckSha256, hash the canonical JSON of exactly {topicId, articleStatus, publicPageGenerated, sourceUrl, sourceUrls, sourcePublisher, claims, boundary, overlapScreen, seasonDisclosure} using UTF-8, sorted keys and compact separators, before adding the two hash fields. Article storySha256 hashes the complete content/articles.json object with UTF-8, sorted keys and compact separators.",
+  "duplicateReservationCheck": {
+    "ids": [
+      "T351",
+      "T352",
+      "T353",
+      "T354",
+      "T355"
+    ],
+    "models": [
+      "H.ROLLO",
+      "N.HOPKINS",
+      "COBAIN",
+      "SIMONON",
+      "P.JAMET"
+    ],
+    "result": "GitHub issue searches for each of the five IDs and each selected model returned zero matches on 2026-10-21. A branch-name search for codex/articles-351-355-20261021 returned zero results."
+  },
+  "topicIndexCheck": {
+    "path": "docs/article-topic-index-20261021.json",
+    "baselineTopics": 255,
+    "includes": "main and open PR14–PR21 proposal topics; proposed T351–T355 are excluded from the baseline snapshot.",
+    "sha256": "fd0accc3238712cecea5aa5addc3e488aa310610c9840e98468de4142254b126",
+    "pr21Head": "9cf4bbda13509ec904389fb6b61ee34c5c0b6b19",
+    "pr21ArticlesBlobSha": "ad05b9f21fff137bca85ffe5c55f74cf81d65a9c"
+  },
+  "independentReview": {
+    "model": "gpt-6-luna",
+    "status": "complete",
+    "reviewedOn": "2026-10-21",
+    "reviewedHead": "4fe1ae274d21f6434af2f739f1b501fc264435d0",
+    "scope": [
+      "T351",
+      "T352",
+      "T353",
+      "T354",
+      "T355"
+    ],
+    "reviewedArticlesSha256": "d5d2fa682e083a7474705ed70ceb3be70cc779af6ccaf31353ad27e78a763eed",
+    "reviewedArticlesHashBasis": "SHA-256 of canonical JSON array of T351-T355 article objects at reviewedHead; UTF-8, sorted keys and compact separators.",
+    "conclusion": "One independent gpt-6-luna editorial pass found two minor copy issues, both corrected in the follow-up commit. No blocking source-fidelity or overlap issue was reported. The follow-up changes were not re-reviewed.",
+    "findings": [
+      {
+        "topicId": "T351",
+        "severity": "minor",
+        "finding": "The deck phrase “文字と模様を重ねる” added motifs/layering not established by the official source text.",
+        "response": "Replaced with “麻綿のヘリンボーンに、手切りのステンシルで文字を染める。”"
+      },
+      {
+        "topicId": "T353",
+        "severity": "minor",
+        "finding": "The heading “1950年代のカデットカーディガンを参照に。” was awkward Japanese.",
+        "response": "Reworded as “1950年代のカデットカーディガンから着想を得て。”"
+      },
+      {
+        "topicId": "T352",
+        "severity": "note",
+        "finding": "Distinctive and accurate, though reader value rests mainly on the northern India stole-factory detail.",
+        "response": "No added claims; retained the explicit boundary on the undocumented factory/process relationship."
+      },
+      {
+        "topicId": "T354",
+        "severity": "pass",
+        "finding": "Leather braiding, buttons, materials, and the creak/creek discrepancy are handled accurately and without invented experience.",
+        "response": "No change."
+      },
+      {
+        "topicId": "T355",
+        "severity": "pass",
+        "finding": "Scarf-to-shirt construction, fabric facts, and the HATANAKA attribution are consistent with the official pages; narrative scope is appropriately limited.",
+        "response": "No change."
+      }
+    ],
+    "maintainerAdoption": "pending"
+  },
+  "articles": [
+    {
+      "topicId": "T351",
+      "articleStatus": "review",
+      "publicPageGenerated": false,
+      "sourceUrl": "https://www.niceness.jp/en/products/h-rollo-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/h-rollo-26ss",
+        "https://www.niceness.jp/en/episode/message-in-public"
+      ],
+      "sourcePublisher": "NICENESS official product page and directly linked official episode",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "H.ROLLOは麻綿混のヘリンボーン生地に全面の手刷りステンシルを施す。商品ページはウエスタンヨーク風ステッチ、1920〜40年代ワークウェアへの参照、身頃60％麻・40％綿、背ヨーク綿100％、日本製表示を記載する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS Episode 18は、京都の職人が手で切ったステンシルを通してエアブラシで染料を施し、型の配置や空気圧で濃淡・にじみが変わると説明する。仕上がり差はブランドの説明である。",
+          "sourceIds": [
+            "B02"
+          ]
+        }
+      ],
+      "boundary": "ステンシルの工程と仕上がりの差はブランドの説明として扱う。型紙、プリント文言の形状、個々の商品の仕上がりは独立確認していない。ウエスタンヨークとワークウェアの記述も、公式ページに示されたデザイン参照を超えて歴史的な原型へ結び付けない。",
+      "overlapScreen": "T036とT045はH.ROLLOを関連商品資料として参照し、ユーティリティウェアやヨークの線を扱う。T187は横浜写真の手彩色とEDを扱う。新稿はH.ROLLO固有の手切りステンシル・エアブラシ染色に限定し、写真の彩色史やヨーク史を繰り返さない。",
+      "seasonDisclosure": "SS26",
+      "sourceCheckSha256": "b4c5cfe115f7b5f9bb4ed76e7676941c3dea975c61b3cc5e6c357f36291994a2",
+      "storySha256": "bbabba0733c27a5c94c4c11ccdb09af3cceda3400e8b7121e7177f2671b40661"
+    },
+    {
+      "topicId": "T352",
+      "articleStatus": "review",
+      "publicPageGenerated": false,
+      "sourceUrl": "https://www.niceness.jp/en/products/n-hopkins-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/n-hopkins-26ss"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESSはN.HOPKINSのデニムを北インドのストール工場で織ったものと説明し、1970年代デニムジャケットを参照して型紙・構造を更新したと記す。ウエスタンヨークと控えめなドロップショルダーを含む。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "素材欄は表地を綿100％、裏地・背フラップを綿95％・シルク5％、製造表示をインドとする。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "工場名、デニムの織り方、ストール生産との工程上の関係は未確認。初期NICENESSの特定商品や、実在する1970年代の一着との直接の系譜も確認していない。商品ページが示す参照と仕様の範囲に限定する。",
+      "overlapScreen": "T005、T100、T205などのデニムジャケット記事と題材が近い。新稿は加工、カスタマイズ、色落ち、耐久性を扱わず、公式商品説明にある織り場所・シルエット参照・組成に限定する。工場名やストールとデニムの工程関係は未確認。",
+      "seasonDisclosure": "SS26",
+      "sourceCheckSha256": "b9a5dd01f3f2e6f297151c7454c95fbb832891bec9fb851bc5c47cc8e0d66f96",
+      "storySha256": "6195f2f18fbf54443b47ef821c3697a748331e12f2668057590e20df6fa699dd"
+    },
+    {
+      "topicId": "T353",
+      "articleStatus": "review",
+      "publicPageGenerated": false,
+      "sourceUrl": "https://www.niceness.jp/en/products/cobain",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/cobain"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESSは糸染めモヘアシルクを用いた雷柄のジャカードカーディガンと説明し、1950年代のカデットカーディガンと米国アウトドアブランドの図案をデザイン参照に挙げる。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "素材欄はモヘア60％・シルク40％、日本製とする。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "参照先となる具体的なカデットカーディガンやアウトドアブランドは特定されていない。柄の来歴、編み組織の詳細、実物の着用感について、公式説明を超える独立の主張は加えない。",
+      "overlapScreen": "T220はサンダーバード図像、PR21 T347はリンゴ柄のジャカードスカーフ。新稿はCOBAINの雷柄とモヘアシルクカーディガンに限定し、図柄の一般史・特定原型は主張しない。",
+      "seasonDisclosure": "AW25",
+      "sourceCheckSha256": "58c5b75a7ed6eae083514850ad80fd13d19da0d9a37eddfaca71d8a48cfc0f7f",
+      "storySha256": "c8e4efc2f54d5f44369d3fe0fbe9e445b80dd795e1c75279b130ced2b6d5f56e"
+    },
+    {
+      "topicId": "T354",
+      "articleStatus": "review",
+      "publicPageGenerated": false,
+      "sourceUrl": "https://www.niceness.jp/en/products/simonon",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/simonon",
+        "https://www.niceness.jp/en/episode/in-praise-of-hands"
+      ],
+      "sourcePublisher": "NICENESS official product page and directly linked official episode",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは、鹿革を“creak leather”と表記し擦ったときの音に由来すると説明する。襟・ポケット縁の細い革の編み込み、バッファローホーンと樹脂製ボタン、仏米の美学への参照、鹿革表地・アセテート100％裏地、日本製を記す。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "直接リンクされたEpisode 06は素材を“creek deerskin”と表記し、チョアジャケットの縁に細い革を編み込んだと記す。商品ページとの綴りの差は未解決。",
+          "sourceIds": [
+            "B02"
+          ]
+        }
+      ],
+      "boundary": "商品ページの“creak leather”とEpisode 06の“creek deerskin”の表記差は未解決。擦ったときの音や革の性質はブランドの説明として扱い、独立に確認した体験・評価としては書かない。編み込みの具体的な手順も推定しない。",
+      "overlapScreen": "T292は羊皮・鹿革を組み合わせたジャケット、T334は靴職人やベルト作りの工程史を扱う。新稿はSIMONONの編み込み縁とボタンに限定し、一般的な革仕事の工程を商品へ当てはめない。公式資料間の英語表記差は未解決として残す。",
+      "seasonDisclosure": "SS25",
+      "sourceCheckSha256": "0cc590399285f97e86794d5babebb9ec55644b4a06272adfa6196662d36db526",
+      "storySha256": "0501a4943aa77b392bc2986b012c876236d94efb747ccc040e07909b8a8ae11c"
+    },
+    {
+      "topicId": "T355",
+      "articleStatus": "review",
+      "publicPageGenerated": false,
+      "sourceUrl": "https://www.niceness.jp/en/products/p-jamet",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/p-jamet",
+        "https://www.niceness.jp/en/episode/everything-a-fiver"
+      ],
+      "sourcePublisher": "NICENESS official product page and directly linked official episode",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは季節テーマの図柄を印刷した複数のスカーフを独自パターンメイキングで一着へ再構成すると記す。生地は極細シルク経糸・綿の空紡緯糸による軽量ローン、素材欄は綿70％・シルク30％、日本製。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS Episode 22はColumbia Road Flower Marketで花を持ち帰る人々を写した写真への一人称の回想と、花・幾何学を組み合わせる意図、花を個別に描いた説明を掲載する。本文中でKIYOTAKA HATANAKAを写真家として紹介し、末尾に同氏の名を記す。",
+          "sourceIds": [
+            "B02"
+          ]
+        }
+      ],
+      "boundary": "Episode 22は本文中でKIYOTAKA HATANAKAを写真家として紹介し、末尾に同氏の名を記している。ここでは掲載された一人称の回想と記名の範囲で扱う。ロンドンや市場の歴史、プリント技法の詳細、実際のスカーフを裁断・縫製する具体的工程について、Episodeや商品ページを超える事実を加えない。",
+      "overlapScreen": "T041は別図案のシルクスカーフ、T187は横浜写真の手彩色とED、T243/T297は別のプリント史を扱う。新稿はP.JAMETの花と幾何学の図案、写真への回想、複数スカーフからの服への再構成に限定する。EpisodeはHATANAKA名義の一人称回想として扱い、独自のロンドン史を加えない。",
+      "seasonDisclosure": "AW26 (Episode 22; product page links to the episode)",
+      "sourceCheckSha256": "88f37ebbd92d3c0900c7941eed2db440f98fe816f32c2ecc6e58edd253bb83f5",
+      "storySha256": "0f8b381ae04a4c854af3d975bd0d8399f451f50e542db9b78b4a9e27b9adc2db"
+    }
+  ]
+}
