@@ -32,8 +32,9 @@
   },
   "independentReview": {
     "model": "gpt-6-luna",
-    "status": "pending",
-    "reviewedOn": null,
+    "status": "complete",
+    "reviewedOn": "2026-10-21",
+    "reviewedHead": "4fe1ae274d21f6434af2f739f1b501fc264435d0",
     "scope": [
       "T351",
       "T352",
@@ -41,9 +42,41 @@
       "T354",
       "T355"
     ],
-    "reviewedArticlesSha256": null,
-    "conclusion": "Independent AI editorial review has not yet been performed.",
-    "findings": [],
+    "reviewedArticlesSha256": "d5d2fa682e083a7474705ed70ceb3be70cc779af6ccaf31353ad27e78a763eed",
+    "reviewedArticlesHashBasis": "SHA-256 of canonical JSON array of T351-T355 article objects at reviewedHead; UTF-8, sorted keys and compact separators.",
+    "conclusion": "One independent gpt-6-luna editorial pass found two minor copy issues, both corrected in the follow-up commit. No blocking source-fidelity or overlap issue was reported. The follow-up changes were not re-reviewed.",
+    "findings": [
+      {
+        "topicId": "T351",
+        "severity": "minor",
+        "finding": "The deck phrase “文字と模様を重ねる” added motifs/layering not established by the official source text.",
+        "response": "Replaced with “麻綿のヘリンボーンに、手切りのステンシルで文字を染める。”"
+      },
+      {
+        "topicId": "T353",
+        "severity": "minor",
+        "finding": "The heading “1950年代のカデットカーディガンを参照に。” was awkward Japanese.",
+        "response": "Reworded as “1950年代のカデットカーディガンから着想を得て。”"
+      },
+      {
+        "topicId": "T352",
+        "severity": "note",
+        "finding": "Distinctive and accurate, though reader value rests mainly on the northern India stole-factory detail.",
+        "response": "No added claims; retained the explicit boundary on the undocumented factory/process relationship."
+      },
+      {
+        "topicId": "T354",
+        "severity": "pass",
+        "finding": "Leather braiding, buttons, materials, and the creak/creek discrepancy are handled accurately and without invented experience.",
+        "response": "No change."
+      },
+      {
+        "topicId": "T355",
+        "severity": "pass",
+        "finding": "Scarf-to-shirt construction, fabric facts, and the HATANAKA attribution are consistent with the official pages; narrative scope is appropriately limited.",
+        "response": "No change."
+      }
+    ],
     "maintainerAdoption": "pending"
   },
   "articles": [
@@ -79,7 +112,7 @@
       "overlapScreen": "T036とT045はH.ROLLOを関連商品資料として参照し、ユーティリティウェアやヨークの線を扱う。T187は横浜写真の手彩色とEDを扱う。新稿はH.ROLLO固有の手切りステンシル・エアブラシ染色に限定し、写真の彩色史やヨーク史を繰り返さない。",
       "seasonDisclosure": "SS26",
       "sourceCheckSha256": "b4c5cfe115f7b5f9bb4ed76e7676941c3dea975c61b3cc5e6c357f36291994a2",
-      "storySha256": "dcc6ce3751f697b91a7573ae6054fb2302d0b006285ec553dea5b14a14cd9178"
+      "storySha256": "bbabba0733c27a5c94c4c11ccdb09af3cceda3400e8b7121e7177f2671b40661"
     },
     {
       "topicId": "T352",
@@ -145,7 +178,7 @@
       "overlapScreen": "T220はサンダーバード図像、PR21 T347はリンゴ柄のジャカードスカーフ。新稿はCOBAINの雷柄とモヘアシルクカーディガンに限定し、図柄の一般史・特定原型は主張しない。",
       "seasonDisclosure": "AW25",
       "sourceCheckSha256": "58c5b75a7ed6eae083514850ad80fd13d19da0d9a37eddfaca71d8a48cfc0f7f",
-      "storySha256": "049ef2506f47e0559037f6c288f7a146465ce371a588774ef115b45edcf6e8e4"
+      "storySha256": "c8e4efc2f54d5f44369d3fe0fbe9e445b80dd795e1c75279b130ced2b6d5f56e"
     },
     {
       "topicId": "T354",
