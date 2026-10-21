@@ -28052,5 +28052,588 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T351",
+    "slug": "h-rollo-hand-stencil",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "京都の加工工程と商品の製造表示"
+      }
+    ],
+    "eras": [
+      "1920s",
+      "1930s",
+      "1940s",
+      "2020s"
+    ],
+    "tags": [
+      "ユーティリティジャケット",
+      "ステンシル",
+      "染色",
+      "ヘリンボーン"
+    ],
+    "category": "MAKE / つくる",
+    "model": "H.ROLLO",
+    "season": "SS26",
+    "item": "h-rollo-26ss",
+    "title": "手で切った型から、染料を吹く\nH.ROLLOのユーティリティジャケット",
+    "deck": "麻綿のヘリンボーンに、ステンシルで文字と模様を重ねる。",
+    "place": "日本（京都の加工工程・製造表示）",
+    "period": "1920〜40年代への商品参照・SS26",
+    "context": "ステンシルと手仕事の差",
+    "opening": "NICENESSは、H.ROLLOを麻と綿のヘリンボーン生地に全面の手刷りステンシルを施したジャケットと説明する。公式Episode 18は、その染色工程を京都の職人によるエアブラシ作業として紹介している。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "fabric",
+        "title": "麻綿ヘリンボーンを土台に。",
+        "paragraphs": [
+          "商品ページによると、H.ROLLOの身頃は麻60％・綿40％、背ヨークは綿100％。生地は麻綿混のヘリンボーンで、日本製と表示されている。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "stencil",
+        "title": "手で切った型から、染料を吹く。",
+        "paragraphs": [
+          "Episode 18は、京都の職人が手で切ったステンシルを通して、エアブラシで染料を施すと説明する。型の置き方や空気圧によって濃淡やにじみが変わり、ブランドは手作業が一着ごとの差につながるとしている。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "references",
+        "title": "作業着への参照を、縫い目に。",
+        "paragraphs": [
+          "NICENESSはウエスタンヨーク風のステッチと、1920〜40年代のワークウェアに見られるディテールを取り入れたと説明する。ここでは商品ページに記された意匠上の参照として紹介し、特定の歴史的な一着を指すとは扱わない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "生地、型、空気圧。NICENESSの説明は、模様を作る工程と、その結果の差を結び付けている。",
+    "bridge_title": "手作業のステンシルを、ヘリンボーンに。",
+    "bridge": "H.ROLLOは麻綿混のヘリンボーンに全面の手刷りステンシルを施したユーティリティジャケット。商品ページはウエスタンヨーク風のステッチ、日本製、身頃と背ヨークの素材を記載している。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "ステンシルの工程と仕上がりの差はブランドの説明として扱う。型紙、プリント文言の形状、個々の商品の仕上がりは独立確認していない。ウエスタンヨークとワークウェアの記述も、公式ページに示されたデザイン参照を超えて歴史的な原型へ結び付けない。",
+    "product_title": "手作業のステンシルを、麻綿ヘリンボーンに。",
+    "product_paragraphs": [
+      "H.ROLLOは、麻60％・綿40％の身頃に全面の手刷りステンシルを施したユーティリティジャケット。Episode 18は京都での手切りステンシルとエアブラシによる染色を紹介し、商品ページは背ヨークを綿100％、製造表示を日本としている。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "h-rollo-26ss",
+        "model": "H.ROLLO",
+        "season": "SS26",
+        "number": "NN-2407B17",
+        "url": "https://www.niceness.jp/en/products/h-rollo-26ss",
+        "retained": "ヘリンボーン生地、ウエスタンヨーク風ステッチ、1920〜40年代ワークウェアへのデザイン参照。",
+        "changed": "京都での手切りステンシルとエアブラシ染色を公式Episodeが紹介。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS H.ROLLO SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/h-rollo-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS Episode 18: Message in Public",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/episode/message-in-public",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T352",
+    "slug": "n-hopkins-stole-factory-denim",
+    "regions": [
+      {
+        "id": "in",
+        "name": "インド",
+        "role": "商品説明にある生地の織り場所と製造表示"
+      }
+    ],
+    "eras": [
+      "1970s",
+      "2020s"
+    ],
+    "tags": [
+      "デニム",
+      "ジャケット",
+      "織物",
+      "ヨーク"
+    ],
+    "category": "MAKE / つくる",
+    "model": "N.HOPKINS",
+    "season": "SS26",
+    "item": "n-hopkins-26ss",
+    "title": "ストール工場で織られたデニム\nN.HOPKINSのジャケット",
+    "deck": "生地の織り場所と、ジャケットの参照が商品説明に並ぶ。",
+    "place": "インド（北部の織り場所・製造表示）",
+    "period": "1970年代のデニムジャケットへの商品参照・SS26",
+    "context": "デニムの織り場所",
+    "opening": "NICENESSは、N.HOPKINSを「北インドのストール工場で織られた」デニムを使うウエスタンヨークのジャケットと紹介する。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "weaving-place",
+        "title": "北インドの工場で織られた生地。",
+        "paragraphs": [
+          "商品説明は、デニムを北インドのストール工場で織ったものと記す。工場名や、ストール製造とデニム製造の関係については説明していない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "1970年代のジャケットを、現代的に更新する。",
+        "paragraphs": [
+          "NICENESSは、初期の自社製品を思わせる1970年代のデニムジャケットを参照し、型紙と構造を現代的に更新したと説明する。控えめなドロップショルダーも、ブランドが挙げる設計上の特徴である。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "composition",
+        "title": "表地と裏地で異なる混率。",
+        "paragraphs": [
+          "素材欄では表地は綿100％、裏地と背フラップは綿95％・シルク5％。生産国はインドと表示されている。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "公開されている説明から読めるのは、織りの場所、ブランドが示す参照、素材表示までだ。",
+    "bridge_title": "北インドのデニムを、ウエスタンヨークに。",
+    "bridge": "N.HOPKINSは、北インドのストール工場で織られたデニムを使うとNICENESSが説明するジャケット。商品ページは1970年代のデニムジャケットへの参照、表地と裏地の混率、インド製の表示を記載している。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "工場名、デニムの織り方、ストール生産との工程上の関係は未確認。初期NICENESSの特定商品や、実在する1970年代の一着との直接の系譜も確認していない。商品ページが示す参照と仕様の範囲に限定する。",
+    "product_title": "ストール工場で織られたデニムを、ウエスタンヨークのジャケットに。",
+    "product_paragraphs": [
+      "NICENESSはN.HOPKINSの生地を北インドのストール工場で織ったデニムと説明する。1970年代のデニムジャケットを参照し、型紙と構造を現代的に更新。表地は綿100％、裏地と背フラップは綿95％・シルク5％、インド製と表示されている。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "n-hopkins-26ss",
+        "model": "N.HOPKINS",
+        "season": "SS26",
+        "number": "NN-1601B17",
+        "url": "https://www.niceness.jp/en/products/n-hopkins-26ss",
+        "retained": "初期NICENESSを思わせる1970年代のデニムジャケット、ウエスタンヨークの参照。",
+        "changed": "北インドのストール工場で織ったデニム、更新した型紙・構造、綿・シルクの裏地。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS N.HOPKINS SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/n-hopkins-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T353",
+    "slug": "cobain-thunder-jacquard-cardigan",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "公式商品説明にあるデザイン参照"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "2020s"
+    ],
+    "tags": [
+      "カーディガン",
+      "モヘア",
+      "シルク",
+      "ジャカード"
+    ],
+    "category": "MAKE / つくる",
+    "model": "COBAIN",
+    "season": "AW25",
+    "item": "cobain-aw25",
+    "title": "雷の柄をジャカードに編む\nCOBAINのカーディガン",
+    "deck": "糸染めモヘアシルクに、ブランドが語る1950年代の参照を重ねる。",
+    "place": "米国（デザイン参照）・日本（製造表示）",
+    "period": "1950年代への商品参照・AW25",
+    "context": "雷の柄とニット",
+    "opening": "NICENESSは、糸染めのモヘアシルクで編んだジャカードカーディガンに、再解釈した雷の柄を配したと説明する。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "pattern",
+        "title": "ジャカードで表す雷の柄。",
+        "paragraphs": [
+          "商品説明は、COBAINを雷のパターンを再解釈したジャカード編みのカーディガンと記す。柄の具体的な原資料や編成条件は記載されていない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "references",
+        "title": "1950年代のカデットカーディガンを参照に。",
+        "paragraphs": [
+          "NICENESSは1950年代のカデットカーディガンと、米国アウトドアブランドが好んだグラフィックをデザインの着想源として挙げる。これはブランドの参照説明であり、特定の製品やブランドは示されていない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "fibers",
+        "title": "モヘア60％、シルク40％。",
+        "paragraphs": [
+          "素材欄はモヘア60％・シルク40％、日本製と表示する。シルクの光沢やモヘアの長い毛足がもたらす印象も、NICENESSの商品説明にある表現として読む。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "ここで確認できる歴史的なつながりは、NICENESSが商品ページに記したデザイン参照の範囲にとどまる。",
+    "bridge_title": "雷の柄を、モヘアシルクに。",
+    "bridge": "COBAINは糸染めのモヘアシルクを使ったジャカードカーディガン。NICENESSは1950年代のカデットカーディガンと米国アウトドアブランドの図案を参照に挙げ、素材はモヘア60％・シルク40％、日本製と記している。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "参照先となる具体的なカデットカーディガンやアウトドアブランドは特定されていない。柄の来歴、編み組織の詳細、実物の着用感について、公式説明を超える独立の主張は加えない。",
+    "product_title": "雷の柄を、糸染めのモヘアシルクに。",
+    "product_paragraphs": [
+      "COBAINは糸染めのモヘアシルクを使ったジャカードカーディガン。NICENESSは1950年代のカデットカーディガンや米国アウトドアブランドのグラフィックを参照に挙げている。素材表示はモヘア60％・シルク40％、日本製。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "cobain-aw25",
+        "model": "COBAIN",
+        "season": "AW25",
+        "number": "NN-3501K16",
+        "url": "https://www.niceness.jp/en/products/cobain",
+        "retained": "1950年代のカデットカーディガンと米国アウトドアブランドのグラフィックへの参照。",
+        "changed": "糸染めのモヘアシルクによる雷柄のジャカードカーディガン。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS COBAIN AW25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/cobain",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T354",
+    "slug": "simonon-braided-leather-edges",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "商品説明にあるデザイン上の参照"
+      },
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "商品説明にあるデザイン上の参照"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "チョアジャケット",
+      "鹿革",
+      "編み込み",
+      "ボタン"
+    ],
+    "category": "MAKE / つくる",
+    "model": "SIMONON",
+    "season": "SS25",
+    "item": "simonon-ss25",
+    "title": "襟とポケットの縁を革で編む\nSIMONONのチョアジャケット",
+    "deck": "細い革の編み込みと、角・樹脂製のボタン。",
+    "place": "フランス・米国（デザイン参照）・日本（製造表示）",
+    "period": "SS25",
+    "context": "革の縁飾り",
+    "opening": "SIMONONの商品ページは、鹿革のチョアジャケットの襟とポケットの縁に、細く切った革を編み込んだと説明する。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "name",
+        "title": "“creak”と“creek”、二つの綴り。",
+        "paragraphs": [
+          "商品ページは鹿革を“creak leather”と表記し、擦ったときの音に由来すると説明する。一方、直接リンクされたEpisode 06は同素材を“creek deerskin”と記す。綴りは一致していないため、ここでは両方をブランド資料の表記として残す。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      },
+      {
+        "id": "braiding",
+        "title": "襟とポケットの縁に、細い革。",
+        "paragraphs": [
+          "商品ページは、細く切った革を襟とポケットの縁に編み込んだと記す。Episode 06もチョアジャケットの縁に細い革を編み込んだと紹介している。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      },
+      {
+        "id": "buttons",
+        "title": "角と樹脂のカスタムボタン。",
+        "paragraphs": [
+          "NICENESSは、バッファローホーンと樹脂で作ったカスタムボタンを用い、デザインはフランスと米国の美学を組み合わせたと説明する。素材欄は表地を鹿革、裏地をアセテート100％、日本製と表示している。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "目に留まる縁の編み込みとボタン。革の呼び名には、商品ページとEpisodeで表記の差が残る。",
+    "bridge_title": "鹿革の縁に、編み込みを置く。",
+    "bridge": "SIMONONは鹿革のチョアジャケット。NICENESSは襟とポケットの縁の編み込み、バッファローホーンと樹脂製ボタンを説明し、商品ページに日本製と記載している。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "商品ページの“creak leather”とEpisode 06の“creek deerskin”の表記差は未解決。擦ったときの音や革の性質はブランドの説明として扱い、独立に確認した体験・評価としては書かない。編み込みの具体的な手順も推定しない。",
+    "product_title": "細い革を編んだ縁と、角・樹脂のボタン。",
+    "product_paragraphs": [
+      "SIMONONは、襟とポケットの縁に細い革を編み込んだ鹿革のチョアジャケット。商品ページはバッファローホーンと樹脂製のカスタムボタン、フランスと米国の美学への参照も挙げる。表地は鹿革、裏地はアセテート100％、日本製と表示されている。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "simonon-ss25",
+        "model": "SIMONON",
+        "season": "SS25",
+        "number": "NN-0101V15",
+        "url": "https://www.niceness.jp/en/products/simonon",
+        "retained": "フランスと米国の美学への商品説明上の参照。",
+        "changed": "鹿革のチョアジャケットに細い革の縁編み、バッファローホーンと樹脂製のボタン。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS SIMONON SS25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/simonon",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS Episode 06: In Praise of Hands",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/episode/in-praise-of-hands",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T355",
+    "slug": "p-jamet-floral-scarves-shirt",
+    "regions": [
+      {
+        "id": "gb",
+        "name": "英国",
+        "role": "Episode 22が回想するロンドンの市場と街"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "オープンカラーシャツ",
+      "スカーフ",
+      "花柄",
+      "パターンメイキング"
+    ],
+    "category": "MAKE / つくる",
+    "model": "P.JAMET",
+    "season": "AW26",
+    "item": "p-jamet-aw26",
+    "title": "花を一つずつ描き、シャツへ組み直す\nP.JAMETのオープンカラーシャツ",
+    "deck": "花と幾何学の図案を、複数のスカーフプリントから一着へ。",
+    "place": "英国（Episode 22の回想）・日本（製造表示）",
+    "period": "Episode 22・AW26",
+    "context": "花柄スカーフをシャツへ再構成",
+    "opening": "NICENESSの公式Episode 22は、花を持ち帰る人々や街の空気を写した写真への一人称の回想から、花と幾何学を組み合わせた図案へと話を進める。本文末尾にはKIYOTAKA HATANAKAの名が記されている。P.JAMETの商品ページは、複数のプリントスカーフを一着のシャツに再構成したと説明する。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "photographs",
+        "title": "写真に残る、花を運ぶ人々。",
+        "paragraphs": [
+          "Episode 22はColumbia Road Flower Marketで撮られた写真への一人称の回想で始まり、花そのものではなく、花を持ち帰る人々や通りの空気を語る。本文中ではKIYOTAKA HATANAKAを写真家として紹介し、末尾に同氏の名を記している。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "motif",
+        "title": "同じ花を、複製しない。",
+        "paragraphs": [
+          "Episode 22は、花のモチーフと幾何学模様を組み合わせるというデザインの出発点を記す。花は一つを複製して並べるのではなく、形、花弁の数、色、茎の曲線をそれぞれ少しずつ変えて描いたと説明される。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "reconstruction",
+        "title": "複数のスカーフから、一着のシャツへ。",
+        "paragraphs": [
+          "商品ページによると、季節のテーマに沿った図柄をプリントした複数のスカーフを、独自のパターンメイキングで一着のシャツに再構成する。生地は極細シルク経糸と綿の空紡緯糸による軽量ローン。素材欄は綿70％・シルク30％、日本製と記している。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "写真の回想、花を一つずつ描く図案、複数のスカーフから作るシャツ。つながりは公式資料が示す範囲で読む。",
+    "bridge_title": "スカーフの図案を、オープンカラーシャツに。",
+    "bridge": "P.JAMETは、複数のプリントスカーフを独自のパターンメイキングで再構成したシャツ。生地はシルク経糸と綿の空紡緯糸によるローンで、綿70％・シルク30％、日本製と表示されている。",
+    "bridge_refs": [
+      "F01"
+    ],
+    "boundary": "Episode 22は本文中でKIYOTAKA HATANAKAを写真家として紹介し、末尾に同氏の名を記している。ここでは掲載された一人称の回想と記名の範囲で扱う。ロンドンや市場の歴史、プリント技法の詳細、実際のスカーフを裁断・縫製する具体的工程について、Episodeや商品ページを超える事実を加えない。",
+    "product_title": "スカーフの図案を、ローンのシャツへ。",
+    "product_paragraphs": [
+      "P.JAMETは、季節のテーマを描いた複数のプリントスカーフを一着に再構成したオープンカラーシャツ。商品ページは、極細シルク経糸と綿の空紡緯糸によるローン、綿70％・シルク30％、日本製と記載する。"
+    ],
+    "product_refs": [
+      "F01"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "p-jamet-aw26",
+        "model": "P.JAMET",
+        "season": "AW26",
+        "number": "NN-0201Y18",
+        "url": "https://www.niceness.jp/en/products/p-jamet",
+        "retained": "花と幾何学を組み合わせた季節テーマの図案。",
+        "changed": "複数のプリントスカーフを独自のパターンメイキングで一着のシャツへ再構成。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS P.JAMET AW26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/p-jamet",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS Episode 22: Everything a Fiver!",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/episode/everything-a-fiver",
+        "kind": "brand"
+      }
+    ]
   }
 ]
