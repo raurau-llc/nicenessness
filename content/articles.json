@@ -25761,8 +25761,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "h-iggy-ss25",
@@ -25844,7 +25844,7 @@
     "place": "米国・オレゴン州",
     "period": "1963年",
     "context": "冬の売り場",
-    "opening": "二重のフード、手を入れるマフポケット、柔らかな裏起毛。1963年11月7日のThe Sandy Postに載ったW.R. Hicks社の広告は、厚手のスウェットを冬の風への備えとして売り出している。",
+    "opening": "二重のフード、手を入れるマフポケット、柔らかなフリース裏地。1963年11月7日のThe Sandy Postに載ったW.R. Hicks社の広告は、厚手のスウェットを冬の風への備えとして売り出している。",
     "opening_refs": [
       "F01"
     ],
@@ -25853,7 +25853,7 @@
         "id": "warmth",
         "title": "暖かさを、言葉で並べる。",
         "paragraphs": [
-          "広告に並ぶのは、二重のフード、マフポケット、柔らかな裏起毛という三つの説明だった。冬の風を防ぐ衣服として紹介されている。",
+          "広告に並ぶのは、二重のフード、マフポケット、柔らかなフリース裏地という三つの説明だった。冬の風を防ぐ衣服として紹介されている。",
           "ただしこれは売り場の説明であり、性能の試験結果ではない。どれだけ暖かかったかは、この紙面からは分からない。"
         ],
         "fact_ids": [
@@ -25889,8 +25889,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "novoselic-aw25",
@@ -25998,8 +25998,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "navarro-aw25",
@@ -26111,8 +26111,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "c-size-ss26",
@@ -26179,9 +26179,9 @@
     "title": "ボタンで頭を足す\n着脱式のフード",
     "deck": "上着に後から付ける覆い。軍用衣料の表示と規格から見る。",
     "place": "米国",
-    "period": "M-1951型・1995年版規格",
+    "period": "1952年の収蔵品・1995年版規格",
     "context": "フードの着脱",
-    "opening": "デンマーク国立博物館が収蔵するM-1951パーカの外殻には、衣服の表示が残っている。そこには、フードをボタンで留めて頭部の保護を追加するという指示が書かれている。",
+    "opening": "デンマーク国立博物館が収蔵する英国製1952年のパーカには、衣服内に「Parka Shell, M 1951」と記された表示がある。そこには、フードをボタンで留めて頭部の保護を追加する指示も残る。",
     "opening_refs": [
       "F01"
     ],
@@ -26190,8 +26190,8 @@
         "id": "label",
         "title": "表示に書かれた、足し方。",
         "paragraphs": [
-          "上着そのものに、フードの付け方が印刷されている。ボタンで留めることで、頭部の保護を追加する、という指示である。",
-          "これはM-1951パーカの一例にすぎない。それでも、フードを別の部品として扱う考え方が、衣服の表示の段階から示されている。"
+          "この個体は英国製1952年のパーカとして収蔵記録に記され、内側の表示には「Parka Shell, M 1951」とある。続く取扱説明は、フードをボタンで留めて頭部の保護を加えるよう記している。",
+          "「M 1951」という表示だけでは、この個体自体の型式は断定できない。ここでは表示に書かれた、フードの着脱に関する指示を見る。"
         ],
         "fact_ids": [
           "F01"
@@ -26226,8 +26226,6 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
     "products": [
       {
         "id": "cocker-aw24",
@@ -26265,7 +26263,9 @@
         "url": "https://www.niceness.jp/products/cocker",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
   },
   {
     "id": "T264",
@@ -26340,8 +26340,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "hayes-aw25",
@@ -26454,8 +26454,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "rowan-aw26",
@@ -26568,8 +26568,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "rother-aw26",
@@ -26688,8 +26688,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "roker-ss26",
@@ -26807,8 +26807,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "samo-aw24",
@@ -26926,8 +26926,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "kravitz-ss26",
@@ -27050,10 +27050,8 @@
     "product_refs": [
       "F04"
     ],
-    "status": "ready",
+    "status": "review",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
     "products": [
       {
         "id": "b-maxim-ss26",
@@ -27186,8 +27184,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "lally-ss25",
@@ -27312,8 +27310,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "mao-aw24",
@@ -27438,8 +27436,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "t-athena-ss25",
@@ -27560,8 +27558,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "howlett-ss26",
@@ -27675,8 +27673,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "kirkland-ss26",
@@ -27783,8 +27781,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "lynell-ss26",
@@ -27897,8 +27895,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "maldoon-aw24",
@@ -28012,8 +28010,8 @@
     ],
     "status": "ready",
     "editorialCredit": "NICENESSness 編集",
-    "publishedAt": "2026-09-21",
-    "modifiedAt": "2026-09-21",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
     "products": [
       {
         "id": "bowie-aw24",
@@ -28052,5 +28050,4730 @@
         "kind": "brand"
       }
     ]
+  },
+  {
+    "id": "T102",
+    "slug": "red-rugby-jersey-1950",
+    "title": "白い襟と背番号24を載せる\n赤いラガーシャツ",
+    "deck": "遠征で着た一枚が、対戦相手の手へ渡る。",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "代表選抜の構成地域"
+      },
+      {
+        "id": "ie",
+        "name": "アイルランド",
+        "role": "代表選抜の構成地域"
+      },
+      {
+        "id": "au",
+        "name": "オーストラリア",
+        "role": "1950年の遠征・着用地"
+      }
+    ],
+    "eras": [
+      "1950s"
+    ],
+    "tags": [
+      "ラグビー",
+      "襟",
+      "背番号",
+      "交換"
+    ],
+    "category": "DRESS / 着る",
+    "model": "SHACKLOCK",
+    "season": "AW23",
+    "item": "shacklock-aw23",
+    "place": "英国・アイルランド・オーストラリア",
+    "period": "1950年",
+    "context": "ラガーシャツ",
+    "opening": "赤い身頃に、白い襟。前に三つの白いボタン、背中には白い「24」が縫い付けられている。Rugby Australiaの所蔵記録に残るのは、E.R. Johnが1950年の豪州遠征で着た綿のシャツだ。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "red",
+        "title": "チームが初めて、赤を着る。",
+        "paragraphs": [
+          "World Rugby Museumによれば、British & Irish Lionsが初めて赤いシャツを着たのは1950年。イングランド、アイルランド、スコットランド、ウェールズの代表から選ばれる遠征チームの記録である。",
+          "一つの国の日常着として見るより、複数の代表が同じ色を着て遠征した一着として見る。赤い身頃と白い襟にも、着る人たちのまとまりが見えてくる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "exchange",
+        "title": "番号と一緒に、来歴が残る。",
+        "paragraphs": [
+          "所蔵記録は素材を綿100％とし、Johnが対戦相手の豪州選手Nicholas Shehadieとシャツを交換したと説明する。番号が付いた試合着は、その一人だけの手元に残ったわけではなかった。",
+          "色や襟の形に加えて、誰が着て、誰へ渡したかを読む。服の伝来が、試合をした人同士の関係を伝えている。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "襟、ボタン、背番号。細部を見てから来歴を読むと、競技の一着が人の手を渡ったことまでたどれる。",
+    "bridge_title": "襟を取り替える、いまのシャツ。",
+    "bridge": "NICENESSはSHACKLOCKとGLASCOCKを、英国ラガーシャツと1950年代のフランスのドレスシャツを組み合わせた服として説明する。どちらも2色の着脱襟を備え、SHACKLOCKは絹・カディ綿の手織り生地、GLASCOCKは加工した高密度綿ブロードを使う。",
+    "bridge_refs": [
+      "F05",
+      "F06"
+    ],
+    "boundary": "1950年の所蔵シャツが直接の原型かは未確認で、襟が取り外せるとも記録されていない。公式説明の「1950年代」が英国ラガーシャツにもかかるか、素材の原料・製織・縫製地も、ここでは補わない。",
+    "product_title": "競技着とドレスシャツを重ねて読む。",
+    "product_paragraphs": [
+      "AW23のSHACKLOCKは、英国ラガーシャツと1950年代のフランスのドレスシャツを参照したプルオーバー。公式資料は、絹・カディ綿の手織り生地と2色の着脱襟を挙げる。",
+      "同じ複合参照を持つGLASCOCKは、高密度綿ブロードを加工して用いる。素材を変え、襟も取り替えられる服にするという、現在の編集を見る。"
+    ],
+    "product_refs": [
+      "F05",
+      "F06"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "shacklock-aw23",
+        "model": "SHACKLOCK",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "retained": "英国ラガーシャツと1950年代フランスのドレスシャツ。",
+        "changed": "絹・カディ綿の手織り生地と2色の着脱襟。",
+        "factRefs": [
+          "F05"
+        ]
+      },
+      {
+        "id": "glascock-aw23",
+        "model": "GLASCOCK",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "retained": "英国ラガーシャツと1950年代フランスのドレスシャツ。",
+        "changed": "加工した高密度綿ブロードと2色の着脱襟。",
+        "factRefs": [
+          "F06"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "M01",
+        "title": "New Special Exhibitions launched at the World Rugby Museum",
+        "publisher": "World Rugby Museum",
+        "url": "https://worldrugbymuseum.com/news/exhibitions/new-special-exhibitions-launched-at-the-world-rugby-museum",
+        "kind": "history"
+      },
+      {
+        "id": "M02",
+        "title": "British Isles Jersey, worn by E.R. John",
+        "publisher": "Rugby Australia Archives／Google Arts & Culture",
+        "url": "https://artsandculture.google.com/asset/swEMqzlsxcfRKQ?childAssetId=TwFqReIP7ETS0Q",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS SHACKLOCK",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS GLASCOCK",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T222",
+    "slug": "cloverleaf-collar-suit",
+    "title": "丸い襟先を重ねる\nクローバー襟のスーツ",
+    "deck": "葉のような輪郭を、一着の記録から見る。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "比較する婦人スーツの所蔵地"
+      },
+      {
+        "id": "it",
+        "name": "イタリア",
+        "role": "現代商品が挙げる上着の参照地域"
+      }
+    ],
+    "eras": [
+      "1910s",
+      "1950s",
+      "1960s"
+    ],
+    "tags": [
+      "襟",
+      "ラペル",
+      "スーツ",
+      "丸み"
+    ],
+    "category": "DRESS / 着る",
+    "model": "K.ROLAND",
+    "season": "AW23",
+    "item": "k-roland-aw23",
+    "place": "米国（所蔵）・イタリア（商品参照）",
+    "period": "1915〜17年の所蔵品・1950〜60年代への参照",
+    "context": "クローバー襟",
+    "opening": "襟先が尖らず、丸く終わる。University of New Hampshireの衣服目録には、1915〜17年の黒い絹の婦人スーツがあり、前のラペルをクローバーの葉にたとえて記している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "overlap",
+        "title": "右の襟が、左に重なる。",
+        "paragraphs": [
+          "目録が説明するのは、横畝のあるオットマン絹のスーツ。前の丸い襟先は、左右対称に離れているだけではなく、右側が左側へ重なる。",
+          "丸い先端と、重なる位置。襟という小さな部分にも、輪郭と組み合わせを別々に見る余地がある。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "name",
+        "title": "形の名前と、当時の呼び名。",
+        "paragraphs": [
+          "目録のcloverleafは、丸い襟先を説明する記述語だ。製作者は不明で、1915〜17年の着用者が同じ言葉で呼んだかも、この記録は示していない。",
+          "形を見つけられたことと、名称の由来が分かったことを分けておく。葉のたとえを手がかりに、まず一着のつくりを読む。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "尖った襟、丸い襟、重なる襟。大きな服型の名前よりも小さな輪郭から、仕立てを見る入口がある。",
+    "bridge_title": "丸い襟を、チェックの上着へ。",
+    "bridge": "NICENESSのK.ROLANDは、クローバーの葉のように丸く切った襟と、1950〜60年代イタリアのテーラードジャケットへの参照を組み合わせる。公式資料は、太番手梳毛を使うチェックの接結生地を挙げている。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "1915〜17年のスーツの製造地・着用地、当時の襟型の呼び名、K.ROLANDの具体的な原型は未確認。米国は所蔵地であり、イタリアまでの伝播経路を示すものではない。判読できなかった公式資料の部分も補っていない。",
+    "product_title": "襟先の曲線と、生地の面。",
+    "product_paragraphs": [
+      "AW23のK.ROLANDは、クローバーの葉のような丸い襟を特徴とする。1950〜60年代イタリアの上着を参照し、太番手梳毛のチェック接結生地を使うと公式資料に記される。",
+      "イタリアンジャケットの背景を読む既存記事と合わせ、ここでは襟先の輪郭に目を向ける。比較した婦人スーツを直接の原型とする説明は確認していない。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "k-roland-aw23",
+        "model": "K.ROLAND",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "retained": "丸いクローバー形の襟と1950〜60年代イタリアの上着への参照。",
+        "changed": "太番手梳毛のチェック接結生地。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Suit, black ottoman silk ... 1915–1917, detail of bodice front and collar",
+        "publisher": "University of New Hampshire Library",
+        "url": "https://scholars.unh.edu/bowen_collection/220/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS K.ROLAND",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T243",
+    "slug": "millennium-1973-printed-tshirt",
+    "title": "赤い顔と文字を載せた\n1973年のTシャツ",
+    "deck": "読める文字と、まだ名の分からない人物。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "収蔵目録の地域欄・製造と着用の役割は未記載"
+      }
+    ],
+    "eras": [
+      "1970s"
+    ],
+    "tags": [
+      "Tシャツ",
+      "プリント",
+      "文字",
+      "綿"
+    ],
+    "category": "DRESS / 着る",
+    "model": "KARL",
+    "season": "SS26",
+    "item": "karl-ss26",
+    "place": "米国（目録の地域欄）",
+    "period": "1973年",
+    "context": "プリントTシャツ",
+    "opening": "白い綿の面に、赤い人物の顔。その上には「Millennium ’73」の文字がある。University of North TexasのTexas Fashion Collectionは、このTシャツを1973年の品として記録している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "record",
+        "title": "布の上の図と、文字を読む。",
+        "paragraphs": [
+          "収蔵番号は2006.007.023。目録には白い綿、赤いプリント、人物の顔、そして文字が記され、デザイナー欄には「Ann, Kerry」と登録されている。",
+          "文字が読めても、図に描かれた人物や着た人まで分かるとは限らない。一枚の表面に残るものと、その向こうの出来事を分けて見ておきたい。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "detail",
+        "title": "図柄と、シャツのつくり。",
+        "paragraphs": [
+          "この記録で確かめられるのは、素材や図柄、作品年代。襟幅や袖口の縫い方は、本文に仕様として記されていない。",
+          "プリントを見る入口と、衣服の構造を見る入口は少し違う。1970年代のTシャツという同じ範囲でも、一着ごとに確認できる細部は変わる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "一枚の布には、文字も、顔も、縫い目もある。それぞれを同じ確かさで読めるわけではないところに、古着をたどる面白さがある。",
+    "bridge_title": "襟と袖口を、強撚綿で読み替える。",
+    "bridge": "NICENESSのKARLは、1970年代の米国古着Tシャツの細幅の付け襟と袖口仕様を参照する。公式資料は、超長綿の強撚糸を使う生地、ステンシル抜染、製品洗いとタンブラー加工を挙げる。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "所蔵品の人物、催事内容、着用者、製造地は未確認。KARLの直接の原型や、同じプリント・襟・袖口を持つ一着とは扱わない。目録のUnited Statesという地域欄から、製造地や着用地を決めていない。",
+    "product_title": "古着の仕様と、現在の加工。",
+    "product_paragraphs": [
+      "SS26のKARLは、1970年代米国古着Tシャツの細幅付け襟と袖口を参照したと公式資料に記される。超長綿の強撚糸による生地に、ステンシル抜染を施し、製品洗いとタンブラー加工を組み合わせる。",
+      "図柄の似た古着を原型として当てはめる前に、ブランドが挙げた構造と加工を読む。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "karl-ss26",
+        "model": "KARL",
+        "season": "SS26",
+        "number": null,
+        "url": "https://www.niceness.jp/products/karl-26ss",
+        "retained": "1970年代米国古着Tシャツの細幅付け襟・袖口仕様。",
+        "changed": "超長綿強撚生地、ステンシル抜染、製品洗い・タンブラー加工。",
+        "factRefs": [
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Millennium ’73 T-Shirt, 2006.007.023",
+        "publisher": "UNT Texas Fashion Collection",
+        "url": "https://digital.library.unt.edu/ark:/67531/metadc2416402/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS KARL",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/karl-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T300",
+    "slug": "turquoise-horse-head-bangle",
+    "title": "馬の目に青い石を入れる\nターコイズのバングル",
+    "deck": "小さな石に託す願いと、その土地の意味。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "南西部の装身具を扱った展覧会・現代の石の産地は不明"
+      }
+    ],
+    "eras": [
+      "2010s"
+    ],
+    "tags": [
+      "ターコイズ",
+      "バングル",
+      "装身具",
+      "馬"
+    ],
+    "category": "DRESS / 着る",
+    "model": "DWIGHT",
+    "season": "AW23",
+    "item": "dwight-aw23",
+    "place": "米国南西部（展覧会の対象）",
+    "period": "2014年の展覧会解説",
+    "context": "ターコイズと装身具",
+    "opening": "馬の形をしたバングルの両端に、小さな青い目を入れる。NICENESSのDWIGHTは、馬頭の目にターコイズを使ったと公式資料に記される。石を留める場所から、その色に託す意味へ目を移してみたい。",
+    "opening_refs": [
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "meaning",
+        "title": "水や空を表す、青緑。",
+        "paragraphs": [
+          "Museum of Indian Arts and Cultureが2014年に紹介した展覧会「Turquoise, Water, Sky」は、米国南西部のターコイズ装身具を扱った。学芸員Maxine McBrinnは、その石を水や空、豊作、健康、保護と結び付けて説明している。",
+          "ここで読めるのは、この地域の装身具を扱う展覧会の説明。あらゆる先住民文化に共通する一つの意味へ広げず、誰がどの範囲について語ったのかを残しておく。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "material",
+        "title": "意味と一緒に、石の来歴も見る。",
+        "paragraphs": [
+          "同展覧会は、地質、採掘、歴史、真正性、価値も扱っている。願いを読むことと、石がどこから来たかを確かめることは、別々の問いとして並んでいる。",
+          "色が似ているから同じ産地、願いが似ているから同じ文化、とは決められない。小さな装身具にも、材料と意味をそれぞれたどる道筋がある。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "どこに石を置き、どんな願いを込めるか。装身具を読む楽しみは、その小さな選択と、残された説明を行き来するところにある。",
+    "bridge_title": "馬頭の目に、願いを留める。",
+    "bridge": "NICENESSはDWIGHTをシルバー925の馬頭バングルとし、両目のターコイズに繁栄、成功、健やかな身体への願いを込めたと説明する。これは、このバングルに対するブランド自身の意味づけだ。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "DWIGHTの石の産地・採掘地・加工者、願いの文化的な出典は未確認。展覧会が紹介する意味との類似から、特定の共同体の伝統を直接継ぐ装身具とはしていない。願いを、石による実際の効能とも扱わない。",
+    "product_title": "銀の馬と、ターコイズの目。",
+    "product_paragraphs": [
+      "AW23のDWIGHTは、シルバー925の両端を馬頭に造形したバングル。公式資料は、両目へターコイズを入れ、繁栄、成功、健やかな身体への願いを込めたと記す。",
+      "形と願いはブランドの説明として読む。石の採掘地や作り手の文化的背景は、その説明から推定しない。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "dwight-aw23",
+        "model": "DWIGHT",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "retained": "馬頭の目にターコイズを置き、繁栄・成功・健康への願いを込めるというブランドの説明。",
+        "changed": "シルバー925の両端を馬頭に造形したバングル。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Turquoise, Water, Sky: The Stone and Its Meaning",
+        "publisher": "New Mexico Department of Cultural Affairs / Museum of Indian Arts and Culture",
+        "url": "https://media.newmexicoculture.org/press_releases.php/292/?action=detail&releaseID=292",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS DWIGHT",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T304",
+    "slug": "balloon-silhouette-denim-blouson",
+    "title": "丸い量感をデニムに移す\nバルーンブルゾン",
+    "deck": "パリの立体的な輪郭と、日常の上着。",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "パリのクチュールと現代商品が挙げる参照地域"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1960s"
+    ],
+    "tags": [
+      "バルーン",
+      "シルエット",
+      "クチュール",
+      "デニム"
+    ],
+    "category": "DRESS / 着る",
+    "model": "CALM",
+    "season": "AW23",
+    "item": "calm-aw23",
+    "place": "フランス・パリ",
+    "period": "1950年代・1960年代",
+    "context": "バルーンシルエット",
+    "opening": "風船を思わせる輪郭を、服に持たせる。Pierre Cardinのバルーンドレスは、1950年代の例として公式沿革と博物館の解説に登場する。身体に沿う線だけではない、服の量感を見る入口になる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "dates",
+        "title": "風船形と、幾何学の形。",
+        "paragraphs": [
+          "シンガポール国立博物館の解説は、Cardinのバルーンドレスと、1960年代の幾何学的なシフトドレスを紹介している。丸いふくらみと、幾何学的な線。ひとりの作り手の記録にも、異なる輪郭が並ぶ。",
+          "布を身体に沿わせるだけでなく、身体のまわりに空間をつくる。その形の違いから、服の量感に目を向けてみたい。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "paris",
+        "title": "複数の作り手が、輪郭を考える。",
+        "paragraphs": [
+          "The Museum at FITの「Paris Refashioned」は、1957〜68年のパリで、オートクチュール、既製服、ポピュラー文化が交わる状況を扱った。1960年代の展示では、彫刻的な輪郭の上着や幾何学的なドレスが紹介される。",
+          "バルーンという一つの言葉だけでは、この時代の服は収まらない。複数の作り手が形を試みた文脈の中で、丸い量感も見てみたい。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "身体のまわりに、布でどんな空間をつくるか。ドレスと上着を行き来すると、素材や用途が変わっても輪郭を考える楽しみが続いている。",
+    "bridge_title": "クチュールの量感を、ブルゾンへ。",
+    "bridge": "NICENESSのCALMは、1960年代パリのクチュリエが好んだというバルーンシルエットを、カジュアルなブルゾンに取り入れたと公式資料に記される。11オンスの別注デニムを使い、ポケットを省いた形にまとめる。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "CALMが直接参照したクチュリエ、作品、製作年は未特定。CardinのドレスをCALMの原型とはしていない。Cardin公式沿革はbubble dressを1954年、博物館解説はバルーンドレスの導入を1950年代末と記すため、本記事では1950年代の造形例として扱い、導入年を一つに断定しない。",
+    "product_title": "ポケットを省いて、輪郭を見る。",
+    "product_paragraphs": [
+      "AW23のCALMは、1960年代パリのバルーンシルエットをカジュアルな服へ移したと説明される。スモーキーブルーの11オンス別注デニムを用い、ポケットを省いたブルゾンにしている。",
+      "立体的な輪郭を、日常に着る布と上着の型へ移す。その変更は公式の説明として読み、特定のドレスとの直接の系譜は補わない。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "calm-aw23",
+        "model": "CALM",
+        "season": "AW23",
+        "number": null,
+        "url": null,
+        "retained": "1960年代パリのクチュリエが好んだというバルーンシルエット。",
+        "changed": "11オンスの別注デニム、スモーキーブルー、ポケットを省いたブルゾン。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "A navy blue Pierre Cardin jacket",
+        "publisher": "National Heritage Board, Singapore",
+        "url": "https://www.roots.gov.sg/Collection-Landing/listing/1020294",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Paris Refashioned, 1957–1968",
+        "publisher": "The Museum at FIT",
+        "url": "https://www.fitnyc.edu/museum/exhibitions/paris-refashioned.php",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS CALM",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      },
+      {
+        "id": "H03",
+        "title": "The House — Pierre Cardin",
+        "publisher": "Pierre Cardin",
+        "url": "https://pierrecardin.com/en/pages/la-maison",
+        "kind": "history"
+      }
+    ]
+  },
+  {
+    "id": "T091",
+    "slug": "tokaido-print-makers",
+    "title": "絵師だけでなく、彫師と摺師も記す\n東海道の風景版画",
+    "deck": "港の景色から、紙に残る制作分担へ。",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "版画に描かれた宿場・港と現代商品の製織・加工地域"
+      }
+    ],
+    "eras": [
+      "1830s"
+    ],
+    "tags": [
+      "東海道",
+      "木版",
+      "風景",
+      "制作分担"
+    ],
+    "category": "DRESS / 着る",
+    "model": "B.MAXIM",
+    "season": "SS26",
+    "item": "b-maxim-ss26",
+    "place": "日本・桑名と御油",
+    "period": "1833〜34年頃",
+    "context": "東海道の風景版画",
+    "opening": "二艘の船が、桑名の港へ近づいてくる。Metropolitan Museum of Artが所蔵する広重の「桑名 七里渡口」は、1833〜34年頃の多色木版画。水辺の風景は、旅の途中の一場面として紙に残されている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "makers",
+        "title": "宿の中に、作り手の名がある。",
+        "paragraphs": [
+          "同じく1833〜34年頃とされる「御油 旅人留女」では、宿へ客を引き入れようとする女性たちが描かれる。Metの解説は、宿の中の表示に絵師Ichiryūsai、彫師Jirobei、摺師Heibeiの名があると記す。Ichiryūsaiは広重の画号の一つだ。",
+          "絵を描く人、版を彫る人、摺る人。作者名だけを見る時には隠れやすい仕事の分担が、風景の内側に書き込まれている。"
+        ],
+        "fact_ids": [
+          "F04"
+        ]
+      },
+      {
+        "id": "publisher",
+        "title": "版元の名も、絵に入る。",
+        "paragraphs": [
+          "御油の画中には、柱に半分隠れた大きな円がある。Metはここに東海道シリーズの版元Takenouchiの名が記されると説明する。",
+          "完成した景色の中に、制作と出版の手がかりが残る。一枚の版画を、描かれた場所と、作られた仕組みの両方から見られる。"
+        ],
+        "fact_ids": [
+          "F04"
+        ]
+      }
+    ],
+    "closing": "船や宿の景色に目を留め、次に小さな文字を読む。風景を届けるまでの複数の仕事も、一枚の中から見えてくる。",
+    "bridge_title": "紙の風景を、生地の図柄へ。",
+    "bridge": "NICENESSのB.MAXIMとB.PALMERは、東海道五十三次から着想を得た帆船、富士山、桜、松などを描くと公式資料に記される。北陸で織ったレーヨンと綿の交織ギャバジンを京都で抜染・着色し、フェード加工を加えたという。",
+    "bridge_refs": [
+      "F06",
+      "F07"
+    ],
+    "boundary": "NICENESSが参照した絵師、シリーズの版、宿場、具体的な原図は未特定。所蔵版画を商品の直接の原型とはしていない。版画の制作分担を、現在の服の製作工程と同一視もしない。",
+    "product_title": "港町を、上着とシャツへ移す。",
+    "product_paragraphs": [
+      "SS26のB.MAXIMはスポーツジャケット、B.PALMERはボードシャツ。同じ風景の着想を、異なる服型へ置いている。",
+      "公式資料が示す北陸の製織と京都の加工は、現在の生地の工程。版画の作者や制作年とは分けて読む。"
+    ],
+    "product_refs": [
+      "F06",
+      "F07"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "b-maxim-ss26",
+        "model": "B.MAXIM",
+        "season": "SS26",
+        "number": "NN-1301B17",
+        "url": "https://www.niceness.jp/products/b-maxim-26ss",
+        "retained": "東海道五十三次から着想した帆船・富士山・桜・松。",
+        "changed": "北陸製織・京都抜染のギャバジンとフェード加工、スポーツジャケット。",
+        "factRefs": [
+          "F06"
+        ]
+      },
+      {
+        "id": "b-palmer-ss26",
+        "model": "B.PALMER",
+        "season": "SS26",
+        "number": "NN-1302Y17",
+        "url": "https://www.niceness.jp/products/b-palmer-26ss",
+        "retained": "東海道五十三次から着想した港町の風景。",
+        "changed": "北陸製織・京都着色抜染のギャバジンとフェード加工、ボードシャツ。",
+        "factRefs": [
+          "F07"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "M01",
+        "title": "桑名 七里渡口",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/55587",
+        "kind": "history"
+      },
+      {
+        "id": "M03",
+        "title": "御油 旅人留女",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/36957",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS B.MAXIM",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/b-maxim-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS B.PALMER",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/b-palmer-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T097",
+    "slug": "london-denim-personal-wardrobe",
+    "title": "英国のデザイナー服と501を選ぶ\nロンドンのジーンズ",
+    "deck": "1980年代の一着を、持ち主の服選びから読む。",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "所蔵品の持ち主の生活地・現代商品が挙げる参照地域"
+      }
+    ],
+    "eras": [
+      "1980s"
+    ],
+    "tags": [
+      "ジーンズ",
+      "ワードローブ",
+      "デザイナー",
+      "型紙"
+    ],
+    "category": "DRESS / 着る",
+    "model": "CHARLES",
+    "season": "AW26",
+    "item": "charles-aw26",
+    "place": "英国・ロンドン",
+    "period": "1980年代",
+    "context": "個人のジーンズ選び",
+    "opening": "London Museumには、Kim Philpottsが1980年代に買ったKatharine Hamnettのジーンズがある。綿製で、製作年代は1980〜89年。一本のパンツと一緒に、持ち主がどんな服を選んだかも記録されている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "choices",
+        "title": "好きな作り手の服を選ぶ。",
+        "paragraphs": [
+          "同館によれば、ロンドンへ移ったPhilpottsは英国の服を好み、女性デザイナーの服にも関心を持っていた。Hamnettのデザインは、とりわけ好きだったという。",
+          "ここで見えるのは、一人の買い手の選択。仕事着、国民の定番、時代全体の制服といった大きな区分より、具体的な持ち主の好みからデニムを読める。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "wardrobe",
+        "title": "同じ人の中に、別のジーンズもある。",
+        "paragraphs": [
+          "Philpottsは1980年代にLevi’s 501も着ていたと、所蔵解説は記す。彼女から寄贈された多くの品は、1980〜90年代のロンドンに暮らす一人の女性のワードローブを伝える。",
+          "デザイナーのジーンズと501が、ひとりの服選びの中に並ぶ。一着の来歴から、複数の選択肢を持つ日常まで目を広げられる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "どこの服かだけでなく、誰が何と一緒に選んだか。ジーンズの記録にも、個人のワードローブを見る入口がある。",
+    "bridge_title": "年代への参照を、後ろ高の型で示す。",
+    "bridge": "NICENESSのCHARLESとP.CHARLESは、1980年代の英国のデニムトラウザーを参照し、後ろ高の立体的なパターンを採用したと説明する。CHARLESはムラ感のあるデニム、P.CHARLESは花柄を施した14ウェールのコーデュロイを用いる。",
+    "bridge_refs": [
+      "F04",
+      "F05"
+    ],
+    "boundary": "Hamnettの所蔵品の型紙や背面の高さは、目録本文では確認できない。CHARLESの直接の原型ともしていない。持ち主の生活地を縫製地へ読み替えず、ひとりの服選びを英国全体の着用規範へ広げない。",
+    "product_title": "同じ型の参照に、異なる表面を載せる。",
+    "product_paragraphs": [
+      "AW26のCHARLESは、グラフィックをプリントした裏地も採用する。P.CHARLESは京都の工場で、地色を抜きながら色を差す花柄の加工を施したという。",
+      "過去の一着に似ていると決めるより、ブランドが示した型と生地の選択から、今のトラウザーを見る。"
+    ],
+    "product_refs": [
+      "F04",
+      "F05"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "charles-aw26",
+        "model": "CHARLES",
+        "season": "AW26",
+        "number": "NN-1002T18",
+        "url": "https://www.niceness.jp/products/charles",
+        "retained": "1980年代英国デニムトラウザーへの参照と後ろ高の型。",
+        "changed": "ムラ感のあるデニム、グラフィック入り裏地。",
+        "factRefs": [
+          "F04"
+        ]
+      },
+      {
+        "id": "p-charles-aw26",
+        "model": "P.CHARLES",
+        "season": "AW26",
+        "number": "NN-1004T18",
+        "url": "https://www.niceness.jp/products/p-charles",
+        "retained": "同じ年代・地域への参照と後ろ高の型。",
+        "changed": "14ウェールコーデュロイに京都で加工した花柄。",
+        "factRefs": [
+          "F05"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "M01",
+        "title": "Trousers, jeans — 2010.53/23",
+        "publisher": "London Museum",
+        "url": "https://www.londonmuseum.org.uk/collections/v/object-782287/trousers-jeans/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS CHARLES",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/charles",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS P.CHARLES",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/p-charles",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T099",
+    "slug": "frisco-trousers-sailors-parade",
+    "title": "白いシャツと黒いパンツで歩く\n船員のフリスコジーンズ",
+    "deck": "行進の服装と、仲間になったという回想。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "行進・船員の回想の地域と現代商品の型の参照地域"
+      },
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "現代商品が挙げるスラックス構造の参照地域"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s"
+    ],
+    "tags": [
+      "フリスコ",
+      "船員",
+      "行進",
+      "帰属"
+    ],
+    "category": "DRESS / 着る",
+    "model": "N.MORLEY",
+    "season": "AW26",
+    "item": "n-morley-aw26",
+    "place": "米国・サンフランシスコ",
+    "period": "1948年の行進・後年の回想",
+    "context": "船員の非公式な服装",
+    "opening": "白いシャツと、黒いパンツ。Sailors’ Union of the Pacificの機関紙に載る1948年のレイバーデー行進写真は、Market Streetを歩く組合員たちの服装を、白シャツ、フリスコジーンズ、Lundebergの名を冠した帽子と説明する。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "cloth",
+        "title": "黒い綿の綾織を、まっすぐに。",
+        "paragraphs": [
+          "2001年の同紙でArchie Greenは、フリスコジーンズを厚い黒綿の綾織で作るストレートパンツと説明する。ジーンズという名前でも、この記述で挙げられるのは青いデニムではなく、黒い綿の綾織だ。",
+          "名前と色と布の構造を、一つずつ読む。行進の装いの中で、パンツがどのように説明されているかが見えてくる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "belonging",
+        "title": "服を揃え、仲間になったと感じる。",
+        "paragraphs": [
+          "Greenは、1940〜52年に船に乗ったJoe Gladstoneの後年の回想を引用している。黒いフリスコジーンズなどを揃え、初めて一式を買って店を出た時、西海岸の船員の仲間になったと感じたという。",
+          "これは非公式な装いの回想であり、軍の規定服ではない。揃った服が、人と仕事への帰属感を伝える場面として読める。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "布の仕様と、着る人の記憶。黒いストレートパンツの名前を、その二つからたどると、仲間と並んで歩く服装が見えてくる。",
+    "bridge_title": "フリスコ型に、スラックスの構造を重ねる。",
+    "bridge": "NICENESSのN.MORLEYとS.MORLEYは、1950年代米国のフリスコトラウザーを基礎に、英国のスラックスに見られる立体的な構造を取り入れたと説明する。過去の型を一つだけ再現するのではなく、複数の参照をストレートシルエットへ組み合わせている。",
+    "bridge_refs": [
+      "F04",
+      "F05"
+    ],
+    "boundary": "1948年の写真は、ブランドが挙げる1950年代より前の比較例。Greenの記事は2001年の回顧資料で、Gladstoneの体験も後年の回想を通して伝わる。写真のパンツの製造者や、NICENESSの具体的な原型は特定していない。",
+    "product_title": "布そのものと、見える表情を変える。",
+    "product_paragraphs": [
+      "AW26のN.MORLEYは、太番手リネンのキャンバスに1950年代のデニムをスキャンした表情を転写プリントする。見た目のデニムと、布のリネンを分けて考える作りだ。",
+      "S.MORLEYは8ウェールの絹綿コーデュロイを用い、肌に当たる裏側にシルクを配する。型の複合参照に、別々の素材の選択を重ねている。"
+    ],
+    "product_refs": [
+      "F04",
+      "F05"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "n-morley-aw26",
+        "model": "N.MORLEY",
+        "season": "AW26",
+        "number": "NN-0302T18",
+        "url": "https://www.niceness.jp/products/n-morley",
+        "retained": "1950年代米国フリスコ型と英国スラックスの立体構造。",
+        "changed": "リネンキャンバスに1950年代デニムの表情を転写。",
+        "factRefs": [
+          "F04"
+        ]
+      },
+      {
+        "id": "s-morley-aw26",
+        "model": "S.MORLEY",
+        "season": "AW26",
+        "number": "NN-0304T18",
+        "url": "https://www.niceness.jp/products/s-morley",
+        "retained": "1950年代米国フリスコ型と英国スラックスの立体構造。",
+        "changed": "8ウェール絹綿コーデュロイ、裏面にシルク。",
+        "factRefs": [
+          "F05"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "Harry Lundeberg Stetson — West Coast Sailors, p.3",
+        "publisher": "Sailors’ Union of the Pacific／Archie Green",
+        "url": "https://www.sailors.org/sites/default/files/newsletter/pdf/harrylundebergcentennial.pdf",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS N.MORLEY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/n-morley",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS S.MORLEY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-morley",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T317",
+    "slug": "british-combat-smock-m1953",
+    "title": "胸と脇のポケットを記録する\n英国のコンバットスモック",
+    "deck": "型式を確かめ、三国を混ぜる上着への参照と分ける。",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "所蔵品の型の対象地域・推定使用地"
+      },
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "現代商品が挙げる参照地域"
+      },
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "現代商品が挙げる参照地域"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1970s"
+    ],
+    "tags": [
+      "スモック",
+      "フィールドジャケット",
+      "ポケット",
+      "型式"
+    ],
+    "category": "DRESS / 着る",
+    "model": "LYNELL",
+    "season": "SS26",
+    "item": "lynell-ss26",
+    "place": "英国（所蔵品の型）",
+    "period": "M/1953・1970年代への商品参照",
+    "context": "コンバットスモック",
+    "opening": "オリーブグリーンのキャンバスに、ファスナー、肩章、胸と脇のポケット。デンマーク国立博物館は、英国の歩兵の兵士用コンバットスモックをM/1953の型として記録している。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "details",
+        "title": "型の名前と、細部を組み合わせる。",
+        "paragraphs": [
+          "所蔵番号e 3486.a.2の説明には、服型、対象となる兵士、色と素材、開閉部とポケットの位置が並ぶ。スモックという名前だけでは見えない、一着の構成だ。",
+          "ファスナーがあることと、胸・脇にポケットがあることを別々に確かめる。大きな軍用服の括りから、記録された細部へ目を近づけられる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "record",
+        "title": "型式と、使われた時期を分ける。",
+        "paragraphs": [
+          "同館の使用欄は「推定使用」とし、英国での時期を1945〜91年という広い幅で示している。この幅から、1970年代の具体的な着用を証明することはできない。",
+          "M/1953という型式の表記と、個体がいつ着られたかという履歴は別の手がかり。どちらの欄を読んでいるかを残しておく。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "同じフィールドジャケットの仲間でも、型式と細部は一着ずつ確かめる。上着の名前を、記録された構成まで近づけて読む。",
+    "bridge_title": "三国の要素を、一つの型へ組み合わせる。",
+    "bridge": "NICENESSのLYNELLは、1970年代の米国・英国・フランスのフィールドジャケットの要素を織り交ぜたオリジナルの型と説明する。どの英国型のどの部分を採用したかは、公式本文では特定されていない。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "所蔵スモックをLYNELLの直接の原型とは扱わない。M/1953を1970年代の服と断定せず、所蔵地のデンマークを製造地にも読み替えない。既存記事が扱う米国での型式選択とは別に、ここでは英国の個体の構成を読む。",
+    "product_title": "古びた見た目と、三層の構造。",
+    "product_paragraphs": [
+      "SS26のLYNELLは、綿ダック、中間層の熱可塑性ポリウレタン、裏面のナイロンからなる三層構造の生地を使うと公式に記される。",
+      "表にフェードと揉みほぐしの加工を加え、防水加工と裏面の止水テープも採用する。外観の古びた表情と、現在の生地構造を組み合わせる説明として読む。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "lynell-ss26",
+        "model": "LYNELL",
+        "season": "SS26",
+        "number": "NN-0501B17",
+        "url": "https://www.niceness.jp/products/lynell-26ss",
+        "retained": "1970年代米国・英国・フランスのフィールドジャケットの要素。",
+        "changed": "綿ダック・ポリウレタン・ナイロンの三層生地、表面加工、防水加工と裏面止水テープ。",
+        "factRefs": [
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Combat smock M/1953",
+        "publisher": "National Museum of Denmark",
+        "url": "https://samlinger.natmus.dk/khs/object/48332",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS LYNELL",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lynell-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T267",
+    "slug": "okeeffe-clothes-portraits",
+    "title": "衣服とポーズで、自分の像をつくる\nジョージア・オキーフ",
+    "deck": "美術館の記録から、画家が写真に残した装いを見る。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "Georgia O’Keeffeの活動と現代商品の参照人物"
+      }
+    ],
+    "eras": [
+      "1900s",
+      "1910s",
+      "1920s",
+      "1930s",
+      "1940s",
+      "1950s",
+      "1960s"
+    ],
+    "tags": [
+      "ジョージア・オキーフ",
+      "ポートレート",
+      "ローブ",
+      "ポケット",
+      "靴"
+    ],
+    "category": "DRESS / 着る",
+    "model": "GEORGIA",
+    "season": "SS26",
+    "item": "georgia",
+    "place": "米国",
+    "period": "20世紀",
+    "context": "Georgia O’Keeffeの衣服とポートレート",
+    "opening": "衣服の輪郭と、写真に写るポーズ。Georgia O’Keeffe Museumは、オキーフが両方を通して進歩的で独立した生活像を形づくったと位置づける。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "image",
+        "title": "写る時の服も、自分を表す。",
+        "paragraphs": [
+          "同館のLiving Modern展は、衣服と撮影時のポーズを合わせて、オキーフがどのような人物として見られたいかを組み立てたと説明する。衣服を絵の背景や個人的な好みだけに閉じず、自己表現の一部として扱う見方だ。",
+          "これは美術館による展示の解釈であり、個々の写真で本人が何を意図したかを一律に決めるものではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "practical",
+        "title": "簡素さと、動きやすい重ね着。",
+        "paragraphs": [
+          "Cleveland Museum of Artの講演紹介では、オキーフは機能的で簡素な服を好み、ローブ、ケープ、ラップやポケットを用いたとされる。",
+          "ポケットや重ね着の形は、服を使う上での具体的な要素でもある。展示解説の人物像と、個々の衣服の記録を混ぜずに読む。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "装いの意味は、布の形だけで決まらない。美術館の解釈と衣服の具体的な構成を分けると、写真の中で服が担った役割を丁寧に追える。",
+    "bridge_title": "ブランドの呼称と、収蔵記録を分ける。",
+    "bridge": "NICENESSの商品説明は「dirty Commodore」という参照語を使う。Georgia O’Keeffe Museum Accessの個体2000.3.689はSperry Top-Siderの白いキャンバススニーカーと記録されるが、二つが同じ靴かは確認できない。",
+    "bridge_refs": [
+      "F03",
+      "F04"
+    ],
+    "boundary": "「Commodore」はブランド説明の呼称として扱う。美術館記録との同一性やGEORGIAの直接の原型関係は特定できない。",
+    "product_title": "異なる出典の靴を、別々に記録する。",
+    "product_paragraphs": [
+      "ブランドの商品説明にある「dirty Commodore」と、Museum Accessが記録するSperry Top-Siderは別々の記述として扱う。同じ靴を指すかは確認できない。"
+    ],
+    "product_refs": [
+      "F03",
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "georgia",
+        "model": "GEORGIA",
+        "season": "SS26",
+        "number": null,
+        "url": "https://www.niceness.jp/products/georgia-1",
+        "retained": "ブランドの商品説明が挙げる米軍ボートシューズと「dirty Commodore」への参照。",
+        "changed": "SS26の革製ヨットシューズ。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Georgia O’Keeffe: Living Modern",
+        "publisher": "Georgia O’Keeffe Museum",
+        "url": "https://collections.okeeffemuseum.org/exhibition/34/",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Dressing for the Photographer: Georgia O’Keeffe and Her Clothes",
+        "publisher": "Cleveland Museum of Art",
+        "url": "https://www.clevelandart.org/articles/dressing-photographer-georgia-okeeffe-and-her-clothes",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS GEORGIA",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/georgia-1",
+        "kind": "brand"
+      },
+      {
+        "id": "H03",
+        "title": "Sperry Top-Sider white canvas sneakers, well-worn and soiled with clay",
+        "publisher": "Georgia O’Keeffe Museum Access",
+        "url": "https://access-ok.okeeffemuseum.org/object/10108/",
+        "kind": "collection"
+      }
+    ],
+    "relatedArticleIds": [
+      "T266"
+    ]
+  },
+  {
+    "id": "T276",
+    "slug": "french-farm-vest-1961",
+    "title": "前合わせとひとつのボタン\n短い綿ベスト",
+    "deck": "一着の収蔵記録に併記された二つの年代を、混ぜずに読む。",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "Paris Muséesに登録されたベストの製作地・所蔵記録"
+      }
+    ],
+    "eras": [
+      "1960s",
+      "1970s"
+    ],
+    "tags": [
+      "ベスト",
+      "綿",
+      "収蔵記録",
+      "年代"
+    ],
+    "category": "DRESS / 着る",
+    "model": "FLINT",
+    "season": "SS26",
+    "item": "flint",
+    "place": "フランス・Saint-Tropez（収蔵記録）",
+    "period": "製作 circa 1970／撮影 circa 1961",
+    "context": "Paris Muséesのベスト収蔵記録",
+    "opening": "Paris Muséesの記録は、この短い綿ベストの製作を「circa 1970」、写真撮影を「circa 1961」とする。記録内で年代が前後しており、どちらが正しいかは同資料からは解決できない。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "dates",
+        "title": "製作は1970年頃、写真は1961年頃。",
+        "paragraphs": [
+          "コレクション記録の制作欄はPeau d’Ane、Saint-Tropez、circa 1970を挙げる。一方、説明文はLucien Morisseと写る写真をcirca 1961と記す。",
+          "これは服の製作年と写真の撮影年を分けて読む必要がある記載上の不一致だ。本文は不一致を解消せず、どちらかを確定年として採らない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "form",
+        "title": "短い身頃と、ひとつの留め具。",
+        "paragraphs": [
+          "同じ記録には、短い袖なしの綿ベスト、交差する前合わせ、半球状のボタンが記される。製作地や形の情報は残るが、着用者の職業は特定されていない。",
+          "ブランド資料はFLINTのデザイン参照に「フランス農夫ベスト」という語を使う。これはブランド側の説明であり、この収蔵品を農作業着とする根拠ではない。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "収蔵記録の二つの年代は一致しない。形の観察と、記録が示す製作・撮影情報を分けることで、一着について分かることの範囲を保てる。",
+    "bridge_title": "ベストの要素を、別の上着へ。",
+    "bridge": "利用者がNICENESSの保存資料として提供したFLINTの記述は、1960年代フランスの農夫ベストと米国エンジニアジャケットの要素を組み合わせたと説明する。これはブランド資料のデザイン参照として扱う。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "Paris Muséesの一着は製作 circa 1970・写真 circa 1961と記録され、その不一致は未解決。製作者、用途、着用者を「農夫」とは特定しない。FLINTと同じ型や原型とも確認されていない。",
+    "product_title": "二つの服型を合わせる。",
+    "product_paragraphs": [
+      "保存ブランド資料は、FLINTをフランスのベストと米国のエンジニアジャケットへの参照を組み合わせた上着として紹介する。",
+      "収蔵品の形とブランドのデザイン説明は別の記録に基づく。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "flint",
+        "model": "FLINT",
+        "season": "SS26",
+        "number": null,
+        "url": null,
+        "retained": "保存ブランド資料が挙げる1960年代フランス農夫ベストと米国エンジニアジャケットの要素。",
+        "changed": "二つの服型を合わせた現代の上着。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H02",
+        "title": "Gilet",
+        "publisher": "Paris Musées",
+        "url": "https://www.parismuseescollections.paris.fr/en/node/1016466",
+        "kind": "collection"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS FLINT",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T277",
+    "slug": "fisherman-jacket-and-rainwear",
+    "title": "波打ち際で釣る人のジャケット\nMartha’s Vineyard Museumの写真目録",
+    "deck": "写真目録が記すのは、釣りの場面と衣服の一部まで。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "Martha’s Vineyard Museumの写真目録"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1960s"
+    ],
+    "tags": [
+      "釣り",
+      "ジャケット",
+      "ウェーダー",
+      "写真目録"
+    ],
+    "category": "DRESS / 着る",
+    "model": "LYLE",
+    "season": "SS26",
+    "item": "lyle",
+    "place": "米国・Martha’s Vineyard",
+    "period": "1950年代または1960年代",
+    "context": "波打ち際で釣りをする人物の写真記録",
+    "opening": "Martha’s Vineyard Museumの写真目録は、波打ち際で釣りをする男性の写真を1950年代または1960年代のものとして記録する。長袖ジャケットと胸までのウェーダーが記される。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "record",
+        "title": "目録に残るのは、釣りの場面。",
+        "paragraphs": [
+          "写真の項目番号2001.32.916は、男性が長袖ジャケットと胸までのウェーダーを着て、波打ち際で釣りをする場面を説明する。撮影年は1950年代または1960年代と幅を持たせている。",
+          "目録はジャケットの防水性、素材、職業や製作者を示していない。確認できるのは衣服の見え方と撮影場面までだ。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "design",
+        "title": "記録された服と、デザイン参照。",
+        "paragraphs": [
+          "利用者がNICENESSの保存資料として提供したLYLEの説明は、1960年代のフィッシャーマンジャケットにフランス農夫ベストの要素を加え、1950年代フランスのワークウェアを思わせる凹凸ストライプを生地に採用したとする。",
+          "これはブランドの参照説明であり、目録写真のジャケットがLYLEの直接の原型だとは示していない。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "水辺の写真は着用場面を、ブランドの保存資料は現代のデザイン参照を記す。二つを結びつけず、それぞれの記録の範囲から衣服を見る。",
+    "bridge_title": "異なる参照を、一着の上着に。",
+    "bridge": "保存ブランド資料でLYLEは、フィッシャーマンジャケット、フランス農夫ベスト、凹凸のあるワークウェア生地を組み合わせるデザインとして説明される。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "Martha’s Vineyard Museumの目録は写真の人物を職業的な漁師とは特定せず、ジャケットを防水着とも記していない。LYLEとの直接の原型関係も確認されていない。",
+    "product_title": "場面の記録と、ブランドの説明を分ける。",
+    "product_paragraphs": [
+      "LYLEの保存資料が挙げる参照は、フィッシャーマンジャケット、農夫ベスト、フランスのワークウェア生地。",
+      "写真目録にある波打ち際の服装とは、別の資料として読む。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "lyle",
+        "model": "LYLE",
+        "season": "SS26",
+        "number": null,
+        "url": null,
+        "retained": "保存ブランド資料が挙げるフィッシャーマンジャケットと農夫ベストへの参照。",
+        "changed": "凹凸ストライプを参照した別注生地。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Martha's Vineyard Museum Photograph Collection RU 515",
+        "publisher": "Martha's Vineyard Museum",
+        "url": "https://www.mvmuseum.org/EAD_FindingAids/findingaid_get.php?record-unit=RU515",
+        "kind": "collection"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS LYLE",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T279",
+    "slug": "british-demobilized-raincoat",
+    "title": "Pattern M259の裏地とポケット\n英国軍の復員用レインコート",
+    "deck": "一着の記録にある年代、製造地、素材と構造を分けて読む。",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "Pattern M259の製造地として記録"
+      },
+      {
+        "id": "au",
+        "name": "オーストラリア",
+        "role": "Australian War Memorialの所蔵記録"
+      }
+    ],
+    "eras": [
+      "1940s"
+    ],
+    "tags": [
+      "レインコート",
+      "M259",
+      "ギャバジン",
+      "裏地",
+      "アトリエ"
+    ],
+    "category": "DRESS / 着る",
+    "model": "FINN",
+    "season": "AW26",
+    "item": "finn",
+    "place": "英国製（Australian War Memorial所蔵）",
+    "period": "1946年頃",
+    "context": "英国軍復員兵用Pattern M259",
+    "opening": "Australian War Memorialは、英国軍復員兵用Pattern M259を1946年頃の英国製レインコートとして記録する。綿ギャバジンの表地、タータンの裏地、茶色のプラスチックボタン、左右の腰ポケットが挙げられている。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "coat",
+        "title": "製造地と所蔵地は、別の情報。",
+        "paragraphs": [
+          "このコートは英国製と記され、現在はオーストラリアの戦争記念館に所蔵される。どちらの地名も目録にあるが、それぞれ製造と所蔵を指す。",
+          "記録の日付は1946年頃。1944年から1955年までの別型の一覧とは混ぜず、この一着の年代として記す。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "details",
+        "title": "表地、裏地、留め具。",
+        "paragraphs": [
+          "目録は綿ギャバジンの表地とタータンの裏地、茶色のプラスチックボタン、左右の腰ポケットを記載する。細部を分けると、単に「防水コート」とまとめた時には見えない構成が残る。",
+          "所有者として Trooper McCrea-Steele の名も記録される。これは所蔵品目録の記載範囲である。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "一着の目録は型名だけでなく、製作時期や素材、裏地、ポケット、所蔵者を記録する。FINNのデザイン参照とは、別の説明として読む。",
+    "bridge_title": "保存資料が挙げる二つの参照。",
+    "bridge": "FINNの保存ブランド資料は、1950年代英国軍レインコートとフランスのアトリエコートをデザイン参照に挙げる。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "M259は1946年頃の英国製一着で、FINNの公式参照と同じ型式とは確認されていない。歴史的な素材・仕様と現行品の説明は別々に示す。",
+    "product_title": "現在の素材と仕立て。",
+    "product_paragraphs": [
+      "保存ブランド資料は、リネン・綿の二重織りに加工を施し、手縫いで仕立てると記す。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "finn",
+        "model": "FINN",
+        "season": "AW26",
+        "number": null,
+        "url": null,
+        "retained": "保存ブランド資料が挙げる1950年代英国軍レインコートとフランスのアトリエコート。",
+        "changed": "リネン・綿二重織り、加工、手縫い仕立て。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H02",
+        "title": "British Army Demobilized Serviceman’s Raincoat",
+        "publisher": "Australian War Memorial",
+        "url": "https://www.awm.gov.au/collection/C317465",
+        "kind": "collection"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS FINN",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ],
+    "relatedArticleIds": [
+      "T280"
+    ]
+  },
+  {
+    "id": "T285",
+    "slug": "hoodie-hood-sweatshirt",
+    "title": "フードを付けたスウェット\nフーディーの形と広がり",
+    "deck": "服型の変化と、一着ずつ異なる収蔵記録を分けて読む。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "MoMAが説明するフーディの着用と文化的広がり"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1960s",
+      "1970s"
+    ],
+    "tags": [
+      "フーディー",
+      "スウェット",
+      "フード",
+      "ジップ"
+    ],
+    "category": "DRESS / 着る",
+    "model": "GRAAF",
+    "season": "SS26",
+    "item": "graaf",
+    "place": "米国（MoMAの解説対象）",
+    "period": "1950年代〜1970年代",
+    "context": "フード付きスウェットの形と着用の広がり",
+    "opening": "MoMAの解説は、フードの付いた厚手のスウェットを、前開きジップの有無を含む服型として扱う。大学生の間での普及から、1970年代半ば以降のNew Yorkのヒップホップ文化などへ、着用場面が広がったと説明する。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "shape",
+        "title": "フードとジップの組合せ。",
+        "paragraphs": [
+          "MoMAの説明では、厚手の綿ジャージーやポリエステルにフードを付け、中央のジップがある型とない型がある。素材と開閉部の組合せを含めた形として紹介される。",
+          "同館は1950〜60年代に大学生の間で着られ、1970年代半ば以降はNew Yorkのヒップホップ文化などにも広がったと記す。これはMoMAによる服型の解説である。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "met",
+        "title": "1979年の収蔵品は、フーディーと特定されない。",
+        "paragraphs": [
+          "The Metの個別記録は1979年の「Sweat shirt」を、Culture: American、綿・プラスチック・アクリルとして登録する。Culture欄は製造国を示すものではない。",
+          "記録はフードの有無を説明していないため、この品をフーディーとは呼ばない。素材表示もこの一着に限った情報だ。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "フード付きスウェットの形と普及を扱う解説、フードに触れない一着の素材記録。両方を同じものの証拠にせず、別々の資料として読む。",
+    "bridge_title": "フーディーの参照を、頭部を覆う服へ。",
+    "bridge": "利用者がNICENESSの保存資料として提供したGRAAFの説明は、1960〜70年代米国のフーディーを参照し、ジップ付きのヘッドカバーへ組み替えたとしている。",
+    "bridge_refs": [
+      "F03"
+    ],
+    "boundary": "Metの1979年のスウェットシャツはフーディーとは確認できない。GRAAFはその収蔵品の再現ではなく、現代商品の素材・構成はブランド保存資料の説明として扱う。",
+    "product_title": "頭部を覆う用途に組み替える。",
+    "product_paragraphs": [
+      "GRAAFの保存資料は、フーディーへの参照にジップを加えたヘッドカバーとして説明する。デルタナイロンと綿の32ゲージ裏毛を使うという記載も現代商品の説明だ。"
+    ],
+    "product_refs": [
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "graaf",
+        "model": "GRAAF",
+        "season": "SS26",
+        "number": null,
+        "url": null,
+        "retained": "保存ブランド資料が示す1960〜70年代米国フーディーへの参照。",
+        "changed": "ジップ付きヘッドカバーと、デルタナイロン・綿の32ゲージ裏毛。",
+        "factRefs": [
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Champion Hooded Sweatshirt model VC178012",
+        "publisher": "Museum of Modern Art",
+        "url": "https://www.moma.org/collection/works/274908",
+        "kind": "history"
+      },
+      {
+        "id": "H02",
+        "title": "Sweat shirt",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/99005",
+        "kind": "collection"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS GRAAF",
+        "publisher": "NICENESS",
+        "url": null,
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T290",
+    "slug": "stagewear-and-business-jackets",
+    "title": "舞台衣装とビジネスにも使うスーツ\nポケットと縁取りを比べる",
+    "deck": "胸や腰のポケット、色の縁。異なる場面を記した二つの収蔵品から、上着の設えを見る。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "Autry MuseumとPhiladelphia Museumの収蔵記録"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s"
+    ],
+    "tags": [
+      "ジャケット",
+      "舞台衣装",
+      "ポケット",
+      "パイピング",
+      "流鏑馬",
+      "ウエスタン"
+    ],
+    "category": "DRESS / 着る",
+    "model": "C.MAXIM",
+    "season": "SS26",
+    "item": "c-maxim",
+    "place": "North Hollywood／Philadelphia",
+    "period": "1940年代後半〜1950年代初頭",
+    "context": "舞台衣装とbusiness/casual suitのジャケット",
+    "opening": "Autry MuseumはEddie Deanの舞台スーツを、Date欄では「1950–1975」、Remarksでは「circa early 1950s」と記録する。ジャケットの胸・腰ポケットと、背腰に沿う青いパイピングも記載されている。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "stage",
+        "title": "舞台衣装のポケットと装飾。",
+        "paragraphs": [
+          "Autry Museumの目録は、Eddie Dean着用の舞台スーツについて、Date欄を「1950–1975」、Remarksを「circa early 1950s」とする。本文の「1950年代初頭」はRemarksに記された年代として扱い、Date欄の範囲とは分ける。",
+          "毛ギャバジンのジャケットには胸と腰のポケットがあり、青いパイピングは背腰に沿って配される。これは舞台用のwestern suitの記録で、スポーツジャケット一般の標準を示すものではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "business",
+        "title": "仕事にもカジュアルにも。",
+        "paragraphs": [
+          "Philadelphia Museum of ArtのClaire McCardellによる女性用スーツは、1940年代後半から1950年代初頭のもの。記録は短いジャケットをbusinessとcasualの双方に適するとし、縁飾りと箱ポケットを挙げる。",
+          "舞台衣装と女性用スーツは用途も着用者も異なる。二つの収蔵例を比べることで、ジャケットのポケットや縁取りを特定の一型にまとめずに見られる。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "場面が違えば、ポケットや縁の見せ方も異なる。二つの収蔵記録は、上着の構成を一つの標準型にまとめず読む手掛かりになる。",
+    "bridge_title": "アメリカンスポーツジャケットの参照を、現代の生地と構成へ。",
+    "bridge": "C.MAXIMの商品説明は1940〜50年代の米国スポーツジャケットを参照に挙げ、流鏑馬とカウボーイの図柄を組み合わせる。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "Autryの舞台衣装やMcCardellの女性用スーツがC.MAXIMの直接の原型とは確認されていない。ブランドが挙げるスポーツジャケットの参照は別の説明として扱い、収蔵例を一般的なスポーツジャケットの標準とはしない。",
+    "product_title": "二つの収蔵例と、現代の商品参照。",
+    "product_paragraphs": [
+      "NICENESSは北陸製レーヨン・綿ギャバジンへの京都での手刷りを含め、現代商品の構成として説明する。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "c-maxim",
+        "model": "C.MAXIM",
+        "season": "SS26",
+        "number": null,
+        "url": "https://www.niceness.jp/products/c-maxim-26ss",
+        "retained": "1940〜50年代の米国スポーツジャケットへの参照。",
+        "changed": "北陸製レーヨン・綿ギャバジン、京都での手刷り。",
+        "factRefs": [
+          "F04"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H02",
+        "title": "Suit by Nudie’s Rodeo Tailors",
+        "publisher": "Autry Museum of the American West",
+        "url": "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM504559%3Btype%3D101",
+        "kind": "collection"
+      },
+      {
+        "id": "H03",
+        "title": "Woman’s Suit: Jacket and Skirt",
+        "publisher": "Philadelphia Museum of Art",
+        "url": "https://www.philamuseum.org/objects/92566",
+        "kind": "collection"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS C.MAXIM",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/c-maxim-26ss",
+        "kind": "brand"
+      }
+    ],
+    "relatedArticleIds": [
+      "T157",
+      "T158"
+    ]
+  },
+  {
+    "id": "T297",
+    "slug": "printed-activewear-1930s",
+    "title": "泳ぐ人を描くスポーツウェア\n1930年代のプリント",
+    "deck": "水着やビーチローブの図柄と、現代のスウェットの胸グラフィック。資料が結びつける範囲を読む。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "The Museum at FITの1930年代展の記録"
+      },
+      {
+        "id": "de",
+        "name": "ドイツ",
+        "role": "FIT展に記載された1930年頃の水着の製作地"
+      }
+    ],
+    "eras": [
+      "1930s"
+    ],
+    "tags": [
+      "スポーツウェア",
+      "プリント",
+      "水着",
+      "スウェット"
+    ],
+    "category": "DRESS / 着る",
+    "model": "R.PARADA",
+    "season": "AW25",
+    "item": "r-parada",
+    "place": "1930年代の展示記録／Museum at FIT",
+    "period": "1930年代",
+    "context": "プリントを用いたactivewearの展示例",
+    "opening": "The Museum at FITの1930年代展は、スキー、ゴルフ、水着などのactivewearが広がり、プリント柄もスポーツウェアに使われたと紹介する。展示には水着やビーチローブの実物記録が含まれる。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "exhibition",
+        "title": "水着とビーチローブに描かれた図柄。",
+        "paragraphs": [
+          "FITの展覧会カタログは、1930年代のactivewearとプリントの広がりを説明し、泳ぐ人やダイバーを描く水着・ビーチウェアの例を挙げる。",
+          "その一例は「Munchen swimsuit」と関連する男性用ビーチローブ。カタログはウール、1930年頃、ドイツ製、購入品と記録する。これは展示が挙げる具体的な所蔵例で、1930年代のすべてのスポーツウェアを代表するとは限らない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "graphic",
+        "title": "胸の絵柄に、競技や由来を足さない。",
+        "paragraphs": [
+          "NICENESSのR.PARADAは、1930年代後半のスウェットを参照するハーフジッププルオーバーで、胸のグラフィックは往年のスポーツウェアを思わせると商品説明にある。",
+          "FITの展示記録は1930年代のプリント例を示すが、R.PARADAの図柄の競技、チーム、原図を特定するものではない。二つは時代と視覚表現を考える別々の資料だ。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "展示にある水着のプリントと、R.PARADAの商品説明。図柄が見えることと、その競技や由来が分かることは同じではない。",
+    "bridge_title": "1930年代のスウェットを参照する、現代のプルオーバー。",
+    "bridge": "R.PARADAは1930年代後半のスウェットを参照し、胸に往年のスポーツウェアを思わせるグラフィックを配したとNICENESSが説明する。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "The Museum at FITの所蔵品・展覧会記録は、R.PARADAの直接の参照元や胸グラフィックの原図ではない。競技名、所属、グラフィックの制作年代は公式商品説明から特定できない。",
+    "product_title": "展示のプリント例と、商品のグラフィック。",
+    "product_paragraphs": [
+      "AW25のR.PARADAはハーフジップのプルオーバー。胸の図柄はNICENESSが「往年のスポーツウェア」を想起させるものとして説明する。",
+      "1930年代の展示に見られる水着やビーチローブのプリントとは、直接の原型関係を確認できない。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "r-parada",
+        "model": "R.PARADA",
+        "season": "AW25",
+        "number": null,
+        "url": "https://www.niceness.jp/products/r-parada",
+        "retained": "1930年代後半のスウェットと、往年のスポーツウェアを思わせる胸グラフィック。",
+        "changed": "ハーフジップのプルオーバーとして構成。",
+        "factRefs": [
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Elegance in an Age of Crisis: Fashions of the 1930s",
+        "publisher": "The Museum at FIT",
+        "url": "https://exhibitions.fitnyc.edu/fashions-of-the-1930s/",
+        "kind": "history"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS R.PARADA",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/r-parada",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T077",
+    "slug": "buddy-holly-auction-shirt-attribution",
+    "title": "Buddy Holly着用とされる\n茶色のDa Vinciシャツ",
+    "deck": "素材やラベル、持ち主の帰属。競売目録にある主張を一つずつ分ける。",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "Heritage Auctionsの競売目録と来歴表示"
+      }
+    ],
+    "eras": [
+      "1950s"
+    ],
+    "tags": [
+      "舞台衣装",
+      "シャツ",
+      "ナイロン",
+      "競売目録"
+    ],
+    "category": "DRESS / 着る",
+    "model": "G.SWISH",
+    "season": "SS25",
+    "item": "g-swish",
+    "place": "米国（競売目録の記載）",
+    "period": "1950年代頃",
+    "context": "競売目録がBuddy Hollyの舞台着と帰属するシャツ",
+    "opening": "Heritage Auctionsの出品番号38619は、茶色のナイロンシャツに金色の縁取りがある品を、1950年代頃のBuddy Holly所有・着用の舞台衣装として記録する。これは競売会社による帰属説明だ。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "object",
+        "title": "布地とラベルの記載。",
+        "paragraphs": [
+          "競売目録は茶色のナイロン、金色のトリム、襟ラベルの「Da Vinci / California」を記す。来歴はMaría Elena Hollyのコレクションに由来すると説明し、証明書の存在にも触れる。",
+          "証明書原本や舞台写真はここでは独立に確認していない。品の物理的特徴と、競売会社が掲載する来歴・所有者の帰属は、証拠の種類を分けて読む。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "現代商品の参照は、別の出典にある。",
+        "paragraphs": [
+          "NICENESSはG.SWISHを、ミッドセンチュリーの音楽家の舞台衣装に着想したホックシャツとして紹介する。商品説明は競売品のBuddy HollyシャツやDa Vinciというラベルには触れていない。",
+          "年代の近さだけで両者を同じ衣装や直接の原型と結びつけず、競売記録の帰属とブランドの商品説明を別々に保つ。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "競売目録は一着の特徴と来歴の主張を残すが、それらの確実性は同じではない。現代の商品説明との間に直接の関係も確認されていない。",
+    "bridge_title": "ミッドセンチュリーの舞台着を参照するシャツ。",
+    "bridge": "NICENESSの商品説明はG.SWISHを、ミッドセンチュリーの音楽家の舞台衣装に着想したホックシャツとして紹介する。公開ページは競売品を特定していない。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "Buddy Hollyの所有・着用という来歴はHeritage Auctionsによる出品目録の帰属説明で、証明書原本と舞台写真は未確認。G.SWISHがその競売品を再現した、または直接参照したという根拠はない。",
+    "product_title": "出品目録の帰属と、現代商品の参照。",
+    "product_paragraphs": [
+      "G.SWISHの商品説明が述べるのは、ミッドセンチュリー音楽家の舞台着をデザイン参照とすること。",
+      "Heritage Auctionsの競売品とは異なる資料であり、Buddy Hollyとの関係や同一性は確認できない。"
+    ],
+    "product_refs": [
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "g-swish",
+        "model": "G.SWISH",
+        "season": "SS25",
+        "number": null,
+        "url": "https://www.niceness.jp/products/g-swish",
+        "retained": "ミッドセンチュリーの音楽家の舞台衣装への一般的な参照。",
+        "changed": "ホックシャツとしての現代的な構成。",
+        "factRefs": [
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "Buddy Holly Brown Da Vinci Shirt, lot 38619 / auction 7433",
+        "publisher": "Heritage Auctions",
+        "url": "https://entertainment.ha.com/itm/music-memorabilia/memorabilia/buddy-holly-owned-and-worn-brown-da-vinci-shirt-ca-1950s-/a/7433-38619.s",
+        "kind": "collection"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS G.SWISH",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/g-swish",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T131",
+    "slug": "the-mountain-printed-animal-tees",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "メーカー自社史の舞台"
+      }
+    ],
+    "eras": [
+      "1970s",
+      "1990s",
+      "2000s"
+    ],
+    "tags": [
+      "プリントTシャツ",
+      "アニマル柄",
+      "小売店",
+      "版"
+    ],
+    "category": "DRESS / 着る",
+    "model": "G.BERNARD",
+    "season": "AW25",
+    "item": "g-bernard-aw25",
+    "title": "小売店を売却し、プリントに専念する\nThe MountainのTシャツ",
+    "deck": "ベルトの売り場から始まった会社の自社史をたどると、Tシャツを刷る工房と、動物の顔を大きく配したプリントへつながっていく。",
+    "place": "米国・ニューハンプシャー州",
+    "period": "1972年以降・2008年以降",
+    "context": "プリントTシャツと売り場",
+    "opening": "胸いっぱいに動物の顔をのせたTシャツ。The Mountainの会社史は、その動物柄へ至る歩みを、ニューハンプシャーで作ったベルトや、フェアの売り場から語り始める。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "belt",
+        "title": "山の景色を、ベルトに。",
+        "paragraphs": [
+          "The Mountainの自社史によれば、創業者たちはニューハンプシャーへ移った後、フェアや祭りでベルトやバックルを販売した。山の景色を飾ったベルトが人気を集め、ブランド名の着想になったという。",
+          "最初の実店舗を開いたのは1972年。会社の物語は、Tシャツのプリントではなく、身につける小物と対面の売り場から始まっている。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "printshop",
+        "title": "売る店から、刷る工房へ。",
+        "paragraphs": [
+          "同社史の1976年の項目は、Tシャツを売っていたアーティスト二人と出会い、共同でプリントショップをつくったと記す。別の項目では、同社がミッドアトランティック各地に30の小売店を運営し、自社の手染め・プリントTシャツを他の商品と並べていたと振り返る。ページはこの店舗網ができた時期を特定していないため、1976年の後に30店へ拡大したとは断定しない。",
+          "自社史の本文は、小売店を売却してプリント衣料へ専念した年を1996年と記す一方、隣接する年表の見出しは1991年になっている。年には表示の食い違いがあるため、ここでは店舗運営からプリントへ軸足を移したという記述として読む。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "big-face",
+        "title": "動物の顔を、正面へ。",
+        "paragraphs": [
+          "会社の年表は2008年、同社のThree Wolf MoonのTシャツが広く話題になった出来事を記録している。その後、写実的な動物の顔を大きく描くBig Faceシリーズを始めたとも説明する。",
+          "これはThe Mountainが自ら記す一社の歩みだ。動物柄Tシャツがいつ、どこで、どんな人に着られたかを示す資料ではない。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "一社の回顧からは、店頭で売るTシャツからプリントを担う側へ移り、後年に動物の顔を前面に出した流れが見える。特定のヴィンテージTシャツの産地や着用者まで、会社史が明らかにするわけではない。",
+    "bridge_title": "動物の図案を、色ごとの版で重ねる。",
+    "bridge": "NICENESSのG.BERNARDは、1980〜90年代のアメリカ製アニマルプリントTシャツをイメージソースにしたと公式に説明される。UMAの図案を色ごとに版分けして重ね刷りする現行品で、NICENESSの商品ページにはニカラグア製と記載されている。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "The Mountainの自社史は同社による回顧で、G.BERNARDが同社の特定商品を参照したとは確認できない。NICENESSが示す着想年代・参照地域と、現行品の製造地も別の情報として扱う。",
+    "product_title": "参照した年代と、いまの生産地。",
+    "product_paragraphs": [
+      "公式説明によれば、G.BERNARD（AW25）は6.0ozのTシャツに、ネッシー、ビッグフット、ツチノコの図案を色ごとに版分けして重ね刷りする。イメージソースは1980〜90年代のアメリカ製アニマルプリントTシャツとされる。",
+      "現行品の生産地はニカラグア。参照対象の説明から、個別のヴィンテージの製造地やThe Mountainとの直接のつながりを補うことはできない。"
+    ],
+    "product_refs": [
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22",
+    "products": [
+      {
+        "id": "g-bernard-aw25",
+        "model": "G.BERNARD",
+        "season": "AW25",
+        "number": "NN-4102J16",
+        "url": "https://www.niceness.jp/products/g-bernard",
+        "retained": "NICENESS公式説明上のイメージソースである、1980〜90年代のアメリカ製アニマルプリントTシャツ。",
+        "changed": "6.0ozの生地にUMAの図案を色別の版で重ね刷り。現行品の生産地はニカラグア。",
+        "factRefs": [
+          "F04"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "H01",
+        "title": "Our Story",
+        "publisher": "The Mountain",
+        "url": "https://themountain.com/our-storys/",
+        "kind": "maker"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS G.BERNARD",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/g-bernard",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T041",
+    "slug": "da-vinci-silk-scarf-graphic",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "LEOの商品ページにある製造国表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "図案",
+      "スカーフ",
+      "シルク",
+      "裏地"
+    ],
+    "category": "MAKE / つくる",
+    "model": "LEO",
+    "season": "AW25",
+    "item": "leo-aw25",
+    "title": "裏地にも表にも移る図案\nダ・ヴィンチ柄のシルクスカーフ",
+    "deck": "同じ絵柄をシャツ、スカーフ、ジャケットの裏地へ。置き場所の違いから読む。",
+    "place": "日本（LEOの商品ページの表示）",
+    "period": "AW25",
+    "context": "図案とプリント",
+    "opening": "ひとつの図案が、シャツの表地にも、ジャケットの裏地にも、スカーフにも置かれる。NICENESSの公開記事は、その柄をレオナルド・ダ・ヴィンチのデッサンをモチーフにしたものと説明し、LEOを含む複数の商品を挙げる。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "motif",
+        "title": "特定の一枚ではなく、デッサンのモチーフ",
+        "paragraphs": [
+          "NICENESSの制作記事は、レオナルド・ダ・ヴィンチのデッサンをモチーフにした絵柄と説明する。個別の素描名や所蔵番号は挙げていないため、特定作品の複製とは言い切れない。ここでは作品の同定ではなく、ブランドが説明する柄の作り方を読む。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "placement",
+        "title": "シャツの表地から、ジャケットの裏地へ",
+        "paragraphs": [
+          "同じ公開記事は、絵柄をLEOのシルクスカーフだけでなく、V.CHADやV.IOMMIのシャツにも使い、SLASH系ジャケットやSCHENKER系パンツの裏地にも採用したと記す。図案は外から見える面にも、着る人の内側にある面にも配置された。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "silk",
+        "title": "絹のスカーフにすると",
+        "paragraphs": [
+          "LEOの商品ページは、100%シルクのスカーフとして紹介し、ダ・ヴィンチの作風をもとにしたグラフィックと、象徴的なモチーフや隠されたメッセージを含む構成を説明する。何を意味するかはページに示されていない。"
+        ],
+        "fact_ids": [
+          "F04"
+        ]
+      }
+    ],
+    "closing": "作家名だけを追うのではなく、図案がシャツの外側、スカーフ、ジャケットの内側へ移る経路をたどる。ひとつの柄を、身につける場所に応じて見せ方を変える制作が見えてくる。",
+    "bridge_title": "図案を、毎日使う絹のスカーフへ。",
+    "bridge": "LEO（AW25）は100%シルクのスカーフ。公式ページはダ・ヴィンチの作風から着想したグラフィックを、象徴的なモチーフや隠されたメッセージを含みながら日常に取り入れやすい構成にしたと説明する。商品ページには日本製の表示がある。",
+    "bridge_refs": [
+      "F04"
+    ],
+    "boundary": "公式記事と商品ページは、参照した素描の題名・図版・紙葉や個々の象徴の意味を特定していない。記事はブランドの制作説明を紹介し、特定作品からの直接引用とは断定しない。",
+    "product_title": "図案を、絹のスカーフへ。",
+    "product_paragraphs": [
+      "LEO（AW25）は100%シルクのスカーフ。NICENESSはダ・ヴィンチの作風をもとにしたグラフィックと説明し、同じ柄をシャツやジャケットの裏地にも用いたと公開記事に記す。"
+    ],
+    "product_refs": [
+      "F04",
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "LEO",
+        "season": "AW25",
+        "number": "NN-5302A16",
+        "url": "https://www.niceness.jp/products/leo",
+        "id": "leo-aw25",
+        "retained": "ダ・ヴィンチの作風に着想したグラフィック。",
+        "changed": "100%シルクのスカーフ。",
+        "factRefs": [
+          "F04"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "A01",
+        "title": "Drawings and Discoveries — Episode #11",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/episode/drawings-and-discoveries/",
+        "kind": "brand"
+      },
+      {
+        "id": "B01",
+        "title": "NICENESS LEO AW25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/leo",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T341",
+    "slug": "guarino-dobby-hand-finished-shirt",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "身頃の参照としての公式説明"
+      },
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "襟・袖の参照としての公式説明"
+      },
+      {
+        "id": "it",
+        "name": "イタリア",
+        "role": "ドビー生地の製造地としての公式説明"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "1970s",
+      "2020s"
+    ],
+    "tags": [
+      "シャツ",
+      "バンドカラー",
+      "ドビー",
+      "手縫い"
+    ],
+    "category": "MAKE / つくる",
+    "model": "GUARINO",
+    "season": "AW24",
+    "item": "guarino-aw24",
+    "title": "身頃と襟で参照を分ける\nドビーのバンドカラーシャツ",
+    "deck": "身頃、襟と袖、生地。それぞれ別の参照を持つ一枚を読む。",
+    "place": "英国・フランス・イタリア（要素別の公式説明）",
+    "period": "1970年代の参照・AW24",
+    "context": "シャツの設計と仕上げ",
+    "opening": "NICENESSのGUARINOは、公式説明の中で身頃、襟と袖、生地にそれぞれ異なる参照背景を与えている。さらに、細部を手縫いで仕上げたとも記す。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "body",
+        "title": "身頃の参照は、1970年代の英国シャツ",
+        "paragraphs": [
+          "商品説明によると、身頃のベースは1970年代の英国カジュアルシャツ。個別の現物や型紙までは挙げられていないので、ここではNICENESSが公表する設計上の参照として扱う。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "collar",
+        "title": "襟と袖は、別の型紙の系統から",
+        "paragraphs": [
+          "同じ説明は、袖や襟など細部の作りにフランスのドレスシャツのパターンを取り入れたとする。身頃と襟・袖を分けることで、ひとつのシャツに異なる参照を重ねた構成が見えてくる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "fabric",
+        "title": "綿ドビーと、手縫い仕上げ",
+        "paragraphs": [
+          "生地は1950年代から続くイタリアの機屋が作るドビーと公式ページは説明する。GUARINOは綿100%で、細部は手縫いで仕上げたという。ただし、手縫いの箇所や工程名までは示されていない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "生地、身頃、襟と袖、仕上げをそれぞれの説明に戻すと、GUARINOの一枚はひとつの原産地や一着の原型に還元できない。手仕事についても、確認できるのは細部を手縫いで仕上げたという公式の記述までだ。",
+    "bridge_title": "異なるシャツの参照を、バンドカラーの一枚へ。",
+    "bridge": "GUARINO（AW24）はN.N.P.ドビー織のバンドカラーシャツ。NICENESSは英国のカジュアルシャツ、フランスのドレスシャツのパターン、生地を作るイタリアの機屋という要素を分けて説明し、細部を手縫いで仕上げたと記す。",
+    "bridge_refs": [
+      "F01"
+    ],
+    "boundary": "同じ公式ページには「MADE IN JAPAN」の表示がある一方、説明は縫製をSalvatore Piccoloによるものとするが、その関係は説明されていない。ここでは完成品の製造国や縫製地を断定せず、手縫いの箇所も特定しない。",
+    "product_title": "ドビーの表面と、手縫いの細部。",
+    "product_paragraphs": [
+      "GUARINOは綿100%のN.N.P.ドビー織シャツ。NICENESSの公式説明は、身頃を1970年代英国のカジュアルシャツ、襟や袖の細部をフランスのドレスシャツのパターンに結び、細部を手縫いで仕上げたとする。"
+    ],
+    "product_refs": [
+      "F01"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "GUARINO",
+        "season": "AW24",
+        "number": "NN-7202Y14",
+        "url": "https://www.niceness.jp/products/guarino",
+        "id": "guarino-aw24",
+        "retained": "1970年代英国カジュアルシャツの身頃、仏ドレスシャツの襟・袖のパターン、イタリアのドビー生地と説明。",
+        "changed": "N.N.P.ドビー織のバンドカラーシャツ。細部を手縫いで仕上げると説明。",
+        "factRefs": [
+          "F01"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS GUARINO AW24",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/guarino",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T039",
+    "slug": "two-changeable-collars-long-shirt",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造国表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "シャツ",
+      "替え襟",
+      "バンドカラー",
+      "シャンブレー"
+    ],
+    "category": "MAKE / つくる",
+    "model": "C.IOMMI",
+    "season": "AW25",
+    "item": "c-iommi-aw25",
+    "title": "替え襟を付け替え、外して着る\n二色の襟を添えたロングシャツ",
+    "deck": "襟を替えるか、バンドカラーで着るか。商品説明に書かれた着方をたどる。",
+    "place": "日本（商品ページの表示）",
+    "period": "AW25",
+    "context": "替え襟とシャツの着方",
+    "opening": "NICENESSのC.IOMMI AW25は、二色の替え襟が付属するロングシャツ。襟を付け替えるほか、バンドカラーシャツとしても着られると公式ページが説明する。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "collars",
+        "title": "二色の襟を付け替える",
+        "paragraphs": [
+          "商品ページによると、C.IOMMIには色の異なる襟が二つ付属し、その日の気分やスタイルに合わせて付け替えられる。襟を飾りとして固定せず、同じロングシャツの見え方を替えるパーツとして扱う設計だ。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "band",
+        "title": "襟を外して、バンドカラーに",
+        "paragraphs": [
+          "襟を取り付けず、バンドカラーシャツとして着る方法も公式に案内されている。襟の色を替える着方と、襟なしで着る方法が、一つのシャツに用意された選択肢になる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "cloth",
+        "title": "高密度の刷毛目シャンブレー",
+        "paragraphs": [
+          "生地はスーピマコンパクト糸を高密度に織った刷毛目シャンブレーで、バイオ加工を施し、落ち感と滑らかな肌触りを目指したと説明される。ページは加工の工程詳細を示していないため、ここでは公表された素材説明の範囲に留める。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "references",
+        "title": "参照は、具体的な一着ではなく服の系統",
+        "paragraphs": [
+          "NICENESSは1920年代の米国ドレスシャツと英国軍のミリタリーシャツのカッティングやディテールを参照したと説明する。参照元となった実物や型紙は特定されていないので、歴史上の一着を再現した服とは扱わない。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "襟を替える、あるいは外してバンドカラーにする。C.IOMMIでは、付属パーツと着方の選択を、同じロングシャツの構造に組み込んでいる。",
+    "bridge_title": "襟の選択肢を、刷毛目シャンブレーの一枚に。",
+    "bridge": "AW25のC.IOMMIは、スーピマコンパクト糸を高密度に織った刷毛目シャンブレーのロングシャツ。商品ページは二色の替え襟と、バンドカラーとしての着用方法を案内している。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "歴史的参照はNICENESSの商品説明として紹介する。具体的な原型、襟の歴史的な使用場面、加工工程の詳細は特定しない。",
+    "product_title": "二色の替え襟と、バンドカラーの着方。",
+    "product_paragraphs": [
+      "C.IOMMI（AW25）は刷毛目シャンブレーのロングシャツ。NICENESS公式ページによると、二色の襟が付属し、付け替えるほかバンドカラーとしても着用できる。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "C.IOMMI",
+        "season": "AW25",
+        "number": "NN-3102Y16",
+        "url": "https://www.niceness.jp/products/c-iommi",
+        "id": "c-iommi-aw25",
+        "retained": "NICENESSは1920年代米国のドレスシャツと英国軍シャツのカッティングやディテールを参照したと説明。",
+        "changed": "二色の替え襟付きロングシャツ。付け替え、またはバンドカラーとして着用。刷毛目シャンブレー。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS C.IOMMI AW25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/c-iommi",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T331",
+    "slug": "strong-twist-duck-hayes-finishing",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造国表示"
+      }
+    ],
+    "eras": [
+      "2020s",
+      "1930s"
+    ],
+    "tags": [
+      "ダック",
+      "強撚コットン",
+      "硫化染め",
+      "バイオ加工"
+    ],
+    "category": "MAKE / つくる",
+    "model": "HAYES",
+    "season": "AW25",
+    "item": "hayes-aw25",
+    "title": "硫化染めとバイオ加工のHAYES\n強撚コットンダックの色と凹凸",
+    "deck": "硫化染めとバイオ加工。公式説明が伝えるのは工程名と、仕上がりの表情だ。",
+    "place": "日本（商品ページの表示）",
+    "period": "AW25・1930年代の生地参照",
+    "context": "ダック生地の加工",
+    "opening": "NICENESSのHAYES AW25は、強撚コットンで織ったダック生地に硫化染めとバイオ加工を施したハンティングジャケット。商品ページは、加工を経た生地の色合いと凹凸も説明している。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "base",
+        "title": "強撚コットンで織るダック",
+        "paragraphs": [
+          "HAYESの身頃に使われるのは、強撚コットンで織ったダック生地。商品ページでは、1930年代の米国製ファイヤーマンキャンバスを参考に生地を製作したと説明する。参照元となった具体的なキャンバス個体や規格は挙げられていない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "硫化染めとバイオ加工",
+        "paragraphs": [
+          "公式説明が挙げる加工は硫化染めとバイオ加工。さらに、特殊な加工によってヴィンテージ感のある色合いと、凹凸のある立体的な表情に仕上げたという。どちらの工程が個々の効果を生むか、加工の順序や条件までは説明されていない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      },
+      {
+        "id": "scope",
+        "title": "確認できるのは、商品ページの説明まで",
+        "paragraphs": [
+          "この記述からわかるのは、生地の組成、工程名、ブランドが説明する仕上がりの方向だ。色落ちのしかた、耐久性、手入れの方法などは商品ページの説明にないため、加工名だけから補わない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "closing": "強撚コットンのダックに、硫化染めとバイオ加工を重ねる。工程の細部は明かされていないが、公式説明はその生地をヴィンテージ感のある色と凹凸のある表情へ結びつけている。",
+    "bridge_title": "ダック生地の色と立体感を、ジャケットの表情へ。",
+    "bridge": "HAYES AW25は強撚コットンダックを使ったジャケット。NICENESSの商品ページが記す硫化染め・バイオ加工と、その仕上がりの表情に焦点を絞る。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "硫化染め・バイオ加工の一般的な作用や耐久性は推測しない。1930年代の米国製ファイヤーマンキャンバスはブランドが挙げる参照であり、同一物・規格とは特定しない。",
+    "product_title": "硫化染めとバイオ加工を施した強撚コットンダック。",
+    "product_paragraphs": [
+      "NICENESSはHAYESの生地について、強撚コットンのダックに硫化染めとバイオ加工を施し、特殊な加工でヴィンテージ感のある色合いと凹凸のある表情に仕上げたと説明する。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "HAYES",
+        "season": "AW25",
+        "number": "NN-1801B16",
+        "url": "https://www.niceness.jp/products/hayes",
+        "id": "hayes-aw25",
+        "retained": "1930年代の米国製ファイヤーマンキャンバスを生地の参照として挙げる。",
+        "changed": "強撚コットンダックに硫化染め・バイオ加工を施したと説明。色と凹凸のある表情に焦点。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS HAYES AW25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/hayes",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T001",
+    "slug": "riveted-gusset-h-ledz",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "NICENESSがデザインの着想源として挙げる地域"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造国表示"
+      }
+    ],
+    "eras": [
+      "1920s",
+      "1930s",
+      "1940s",
+      "1950s",
+      "2020s"
+    ],
+    "tags": [
+      "ツールバッグ",
+      "トートバッグ",
+      "マチ",
+      "リベット",
+      "馬革"
+    ],
+    "category": "CARRY / 運ぶ",
+    "model": "H.LEDZ",
+    "season": "AW25",
+    "item": "h-ledz-aw25",
+    "title": "リベット留めのマチ\nH.LEDZのレザートート",
+    "deck": "工具袋への参照はブランドの説明として扱い、H.LEDZに残された構造と現在の素材を見る。",
+    "place": "米国（ブランドが挙げる参照）・日本（商品ページの表示）",
+    "period": "AW25／1920〜50年代の参照説明",
+    "context": "リベット留めのマチ",
+    "opening": "ショルダーストラップの付いたトートバッグに、リベット留めのマチがある。NICENESSの商品ページはH.LEDZを1920〜50年代の米国ツールバッグに着想した鞄として紹介し、現代向けに細部を更新したと説明する。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "reference",
+        "title": "1920〜50年代のツールバッグという参照",
+        "paragraphs": [
+          "NICENESSは、H.LEDZのデザインが1920〜50年代の米国ツールバッグに着想したものと説明する。商品ページは特定の製造者や収蔵品、当時の使用者までは挙げていないため、この年代はブランドのデザイン参照として読む。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "gusset",
+        "title": "マチに残るリベット留め",
+        "paragraphs": [
+          "公式説明が挙げるのは、ヴィンテージの特徴を残したリベット留めのマチ。H.LEDZでは、その構造が現在の鞄にも残されている。商品ページはマチの形状や組み立て工程までは説明していない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "materials",
+        "title": "馬革のトートへ更新する",
+        "paragraphs": [
+          "現行品はショルダーストラップ付きのトートとして作られ、公式ページは本体を馬革、裏地を綿100％と記す。商品ページに「MADE IN JAPAN」の表示がある。これらは現在の商品仕様であり、歴史上のツールバッグの材料が同じだったという意味ではない。"
+        ],
+        "fact_ids": [
+          "F07"
+        ]
+      }
+    ],
+    "closing": "工具袋というブランドの参照、マチのリベット留め。H.LEDZでは、歴史上の一品を特定しなくても、商品ページが現在の鞄に残る細部を説明している。",
+    "bridge_title": "リベット留めのマチを、馬革の肩掛けトートへ。",
+    "bridge": "AW25のH.LEDZは馬革のショルダートート。NICENESSは1920〜50年代の米国ツールバッグを参照源として挙げ、リベット留めのマチを残しながら現代向けに更新したと説明する。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F07"
+    ],
+    "boundary": "1920〜50年代の特定のツールバッグ、作り手、使い手は独立に確認していない。リベットの歴史的用途や耐荷重、現行品の耐久性も商品説明から推測しない。",
+    "product_title": "リベット留めのマチを持つ馬革トート。",
+    "product_paragraphs": [
+      "NICENESSのH.LEDZは、1920〜50年代の米国ツールバッグを参照したショルダーストラップ付きトートとして説明される。公式ページはリベット留めのマチと、馬革の本体・綿の裏地を記載している。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F07"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "h-ledz-aw25",
+        "model": "H.LEDZ",
+        "season": "AW25",
+        "number": "NN-4501A16",
+        "url": "https://www.niceness.jp/products/h-ledz-2",
+        "retained": "米国ツールバッグへのブランド参照と、リベット留めのマチ。",
+        "changed": "馬革のショルダートートとして現代向けに更新。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F07"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B12",
+        "title": "NICENESS H.LEDZ AW25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/h-ledz-2",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T015",
+    "slug": "long-bill-use-loess-cap",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "LOESSの商品ページの製造国表示"
+      }
+    ],
+    "eras": [
+      "1970s",
+      "2020s"
+    ],
+    "tags": [
+      "帽子",
+      "ロングビル",
+      "つば",
+      "釣り",
+      "チノ",
+      "スエード"
+    ],
+    "category": "DRESS / 着る",
+    "model": "LOESS",
+    "season": "SS26",
+    "item": "loess-ss26",
+    "title": "日差しを遮るつば、参照を語るつば\nLOESSのロングビルキャップ",
+    "deck": "現在販売される帽子の用途説明と、NICENESSが掲げる1970年代アウトドアのデザイン参照を分けて読む。",
+    "place": "日本（LOESSの商品ページの表示）",
+    "period": "SS26／1970年代アウトドアへの参照説明",
+    "context": "ロングビルキャップの用途と素材",
+    "opening": "長いつばは、日差しを遮る用途として説明されることがある。一方で、NICENESSがLOESSについて記すのは、1970年代のアウトドアの場面を参照したロングビルのシルエットだ。現代の機能説明と、過去へのデザイン参照は同じ証拠ではない。",
+    "opening_refs": [
+      "F01",
+      "F03",
+      "F06"
+    ],
+    "sections": [
+      {
+        "id": "shade",
+        "title": "現在の製品説明にある、日差しと反射",
+        "paragraphs": [
+          "米国の帽子販売店Village Hat Shopの販売ページは、綿製ロングビル帽を紹介し、長いつばが顔への日差しを防ぎ、緑色のつば裏が眩しさを軽減すると記す。釣り用品ブランドDuck Campの商品説明も、現在のロングビル釣り帽について顔に日陰をつくるつばと、水面からの反射を抑える暗いつば裏を特徴に挙げる。いずれも各販売ページ・商品ページにある現在の製品説明で、過去の帽子の用途を立証するものではない。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "LOESSが挙げるのは、1970年代のアウトドア",
+        "paragraphs": [
+          "NICENESSのLOESSは、1970年代のアウトドア風景を参照した長いつばのキャップとして紹介される。公式ページには具体的な国、活動、原型となった一個体の記載はない。現在の釣り帽メーカーが挙げる機能を、LOESSの歴史的参照へそのまま当てはめない。"
+        ],
+        "fact_ids": [
+          "F06"
+        ]
+      },
+      {
+        "id": "material",
+        "title": "綿のチノと、裏返せるスエードのベルト",
+        "paragraphs": [
+          "LOESSの公式ページは、糸から不純物を取り除いたオリジナルチノを使い、ベルト部分にはイタリアのタンナーによるリバーシブルスエードを用いると記す。素材構成は本体とつばが綿、ベルトが牛革。長いつばの輪郭だけでなく、素材と後ろの留め方も現在の商品を形づくっている。"
+        ],
+        "fact_ids": [
+          "F08"
+        ]
+      }
+    ],
+    "closing": "現代の製品説明は長いつばに日差しや反射への役割を与え、LOESSの商品説明は1970年代アウトドアをデザイン参照として挙げる。言葉の違いを残すことで、長い形だけから過去の機能を決めずに済む。",
+    "bridge_title": "長いつばのシルエットを、綿チノとスエードで。",
+    "bridge": "SS26のLOESSは綿チノのロングビルキャップ。NICENESSは1970年代アウトドアへの参照を記し、長いつばとイタリアのリバーシブルスエードベルトを組み合わせている。",
+    "bridge_refs": [
+      "F06",
+      "F08"
+    ],
+    "boundary": "Village Hat Shopの販売ページとDuck Campの商品説明は、現在流通する別製品の用途説明であり、効果を独立測定した結果ではない。NICENESSの商品ページも1970年代の具体的な着用者、地域、用途や原型を示していない。",
+    "product_title": "長いつばの輪郭に、チノとスエードを合わせる。",
+    "product_paragraphs": [
+      "LOESSの公式商品ページは、1970年代アウトドアを参照するロングビルのシルエット、糸から不純物を取り除いたチノ、イタリアのリバーシブルスエードベルト、素材構成と日本製表示を記載する。"
+    ],
+    "product_refs": [
+      "F06",
+      "F08"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "loess-ss26",
+        "model": "LOESS",
+        "season": "SS26",
+        "number": "NN-3504H17",
+        "url": "https://www.niceness.jp/products/loess-26ss",
+        "retained": "1970年代アウトドアを参照したロングビルのシルエット。",
+        "changed": "綿チノの帽体とつば、リバーシブルスエードのベルト。",
+        "factRefs": [
+          "F06",
+          "F08"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "E01",
+        "title": "VHS Long Bill Adjustable Baseball Cap, Style 222440",
+        "publisher": "Village Hat Shop",
+        "url": "https://www.villagehatshop.com/products/vhs-long-bill-adjustable-baseball-cap",
+        "kind": "retailer"
+      },
+      {
+        "id": "E02",
+        "title": "Brrr Performance Flats Cap Long Bill — Sagebrush",
+        "publisher": "Duck Camp",
+        "url": "https://duckcamp.com/products/brrr-performance-flats-cap-long-bill-sagebrush",
+        "kind": "maker"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS LOESS SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/loess-26ss",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T191",
+    "slug": "sewn-in-suede-belt-method-shorts",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "NICENESSがショーツの参照として挙げる地域"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造国表示"
+      }
+    ],
+    "eras": [
+      "1940s",
+      "1950s",
+      "2020s"
+    ],
+    "tags": [
+      "ショートパンツ",
+      "チノ",
+      "タック",
+      "スエードベルト"
+    ],
+    "category": "DRESS / 着る",
+    "model": "METHOD",
+    "season": "SS26",
+    "item": "method-ss26",
+    "title": "深いタックへ縫い込むスエードベルト\nMETHODのショートパンツ",
+    "deck": "ベルトを付属品として足すのでなく、ショーツの前身頃に組み込む設計を読む。",
+    "place": "米国（商品ページのデザイン参照）・日本（商品ページの表示）",
+    "period": "SS26／1940〜50年代へのブランド参照",
+    "context": "タックに縫い込まれたベルト",
+    "opening": "前身頃の深いタックに、スエードのベルトを縫い込む。NICENESSの商品ページはMETHODを、1940〜50年代の米国チノショーツやミリタリーショーツに参照したショートパンツと説明し、ベルトをタックへ組み込む構造を記している。",
+    "opening_refs": [
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "integration",
+        "title": "タックとベルトを一つの構造に",
+        "paragraphs": [
+          "公式説明によると、深いタックにイタリアのタンナーによるスエードのベルトを縫い込んでいる。ページはこの仕様を「beltless」と説明する一方、製品名はIntegrated Leather Belt Short Pants。ベルトを別の付属品として添えるのでなく、タックとともにショーツの設計へ組み込む構成として紹介される。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      },
+      {
+        "id": "chino",
+        "title": "糸と生地の仕上げも記す",
+        "paragraphs": [
+          "生地は、糸から不純物を取り除いた別注チノで、タンブラー加工を施したものと説明される。構成表示は身頃が綿100％、ベルトが牛革。商品ページには日本製の表示もある。加工の効果や条件は細かく示されていないため、そこから着心地や耐久性を補わない。"
+        ],
+        "fact_ids": [
+          "F03",
+          "F04"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "1940〜50年代のショーツはブランドが示す参照",
+        "paragraphs": [
+          "NICENESSは1940〜50年代の米国チノショーツとミリタリーショーツを参照し、独自のパターンで再構成したと記す。軍種や規格、具体的な古着は特定されていない。ここでは特定制服の再現ではなく、商品ページが説明する現在のタックとベルトのつくりを中心に見る。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "深いタック、縫い込まれたスエードベルト、タンブラー加工のチノ。METHODの商品説明は、腰まわりの構造と生地の仕様を一続きの設計として示している。",
+    "bridge_title": "ベルトをタックへ組み込む、チノのショートパンツ。",
+    "bridge": "SS26のMETHODは、1940〜50年代の米国チノショーツやミリタリーショーツを参照したショートパンツ。深いタックにイタリアのタンナーによるスエードベルトを縫い込み、別注チノをタンブラー加工するとNICENESSは説明する。商品ページには日本製の表示がある。",
+    "bridge_refs": [
+      "F02",
+      "F03",
+      "F04"
+    ],
+    "boundary": "1940〜50年代の特定のパンツや軍規格、縫い込みベルトとの歴史的連続性は確認していない。革や加工の一般的性能、着用感、耐久性も推測しない。",
+    "product_title": "深いタックと縫い込みベルト。",
+    "product_paragraphs": [
+      "公式説明では、METHODの深いタックにイタリアのタンナーによるスエードベルトが縫い込まれ、別注チノにはタンブラー加工が施される。素材表示は身頃が綿、ベルトが牛革。商品ページには日本製の表示がある。"
+    ],
+    "product_refs": [
+      "F02",
+      "F03",
+      "F04"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "method-ss26",
+        "model": "METHOD",
+        "season": "SS26",
+        "number": "NN-2303T17",
+        "url": "https://www.niceness.jp/products/method-26ss",
+        "retained": "1940〜50年代の米国チノショーツとミリタリーショーツへのブランド参照。",
+        "changed": "深いタックにイタリアのタンナーによるスエードベルトを縫い込んだショートパンツ。",
+        "factRefs": [
+          "F02",
+          "F03",
+          "F04"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS METHOD SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/method-26ss",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T219",
+    "slug": "articulated-knee-joan-rover-pants",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造国表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "パンツ",
+      "膝",
+      "立体裁断",
+      "高密度コットン",
+      "ローバー"
+    ],
+    "category": "DRESS / 着る",
+    "model": "JOAN",
+    "season": "SS26",
+    "item": "joan-ss26",
+    "title": "膝の屈伸を考えた立体裁断\nJOANのローバーパンツ",
+    "deck": "街とアウトドアを横断するというブランドの説明を、膝まわりの設計と素材から読む。",
+    "place": "日本（商品ページの表示）",
+    "period": "SS26",
+    "context": "膝の動きを考慮した立体裁断",
+    "opening": "膝の屈伸を想定して立体裁断を取り入れる。NICENESSはSS26のJOANをローバーパンツと呼び、ルースシルエット、高密度に織った綿素材とともに、街からアウトドアまでを横断する服として説明する。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "knee",
+        "title": "膝を曲げ伸ばす動きから考える",
+        "paragraphs": [
+          "商品ページが明記するのは、パターン設計に立体裁断を取り入れ、膝の屈伸を想定した構造にしたこと。膝の動きに配慮したというブランドの説明を、具体的な服の部分に結びつけて読む。実際の着用時の効果や動作の計測値は掲載されていない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "cloth",
+        "title": "高密度に織った綿のパンツ",
+        "paragraphs": [
+          "素材について、NICENESSは細番手の超長綿を高密度に打ち込んだ先染め綿100％の生地と説明する。素材表示では表地が綿100％、裏地が綿95％・絹5％で、日本製の表示がある。商品ページに併記される耐水圧・防水・防風・撥水の説明はブランドの性能表示で、独立した試験結果としては扱わない。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
+      },
+      {
+        "id": "use",
+        "title": "「ローバー」と、街からアウトドアまで",
+        "paragraphs": [
+          "公式ページはROVERを「放浪者」と添え、街からアウトドアまで自在に横断するという商品イメージを記している。服型としての「rover pants」がいつ成立したかや、JOANという商品名の由来は説明されていない。ここでは歴史上の職業や集団ではなく、現在の商品ページが示す用途の幅として読む。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "膝まわりの立体裁断、高密度の綿、撥水加工。JOANの商品ページは、ローバーという語を現代の都市とアウトドアに向けた設計説明へ結びつけている。",
+    "bridge_title": "膝の動きを想定した、綿のローバーパンツ。",
+    "bridge": "SS26のJOANはルースシルエットのローバーパンツ。NICENESSは綿100％の高密度先染め生地と膝の屈伸を想定した立体裁断を説明し、街からアウトドアまでの用途を掲げている。素材表示は表地が綿100％、裏地が綿95％・絹5％で、日本製の表示がある。",
+    "bridge_refs": [
+      "F02",
+      "F03"
+    ],
+    "boundary": "服型としてのローバーパンツの歴史、特定の着用者・職業、JOANという名称の由来は確認していない。耐水圧や防水・防風・撥水の表示はNICENESSの商品説明に帰属させ、独立測定や着用評価として述べない。",
+    "product_title": "膝の立体裁断と、超長綿の高密度生地。",
+    "product_paragraphs": [
+      "JOANの公式商品ページは、膝の屈伸を想定した立体裁断、細番手超長綿の高密度先染め生地、街からアウトドアまでの用途を記す。素材表示は表地が綿100％、裏地が綿95％・絹5％で、日本製の表示がある。"
+    ],
+    "product_refs": [
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "joan-ss26",
+        "model": "JOAN",
+        "season": "SS26",
+        "number": "NN-0903T17",
+        "url": "https://www.niceness.jp/products/joan-26ss",
+        "retained": "ROVER（放浪者）という商品説明と、街からアウトドアまでを横断する用途。",
+        "changed": "膝の屈伸を想定した立体裁断と、高密度綿の先染め生地。",
+        "factRefs": [
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS JOAN SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/joan-26ss",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T342",
+    "slug": "lennox-post-construction-bleach",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造表示"
+      }
+    ],
+    "eras": [
+      "2020s",
+      "present"
+    ],
+    "tags": [
+      "カバーオール",
+      "フェイクスエード",
+      "漂白加工",
+      "製作工程"
+    ],
+    "category": "DRESS / 着る",
+    "model": "LENNOX",
+    "season": "AW26",
+    "item": "lennox-aw26",
+    "title": "仕立てたあとに、一着ずつ噴霧する\nLENNOXのフェイクスエードカバーオール",
+    "deck": "漂白加工が行われる順序と、公式説明が明かす範囲をたどる。",
+    "place": "日本（商品ページの表示）",
+    "period": "AW26",
+    "context": "完成後の個別スプレー加工",
+    "opening": "仕立てが終わったあとにも、工程は続く。NICENESSの商品説明によれば、LENNOXは完成後の一着ずつに漂白スプレーを施す。服の形ができた後に加工する、という順序そのものが、この品の説明に記されている。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "sequence",
+        "title": "服になってから、スプレーをかける。",
+        "paragraphs": [
+          "公式ページは、縫製後に各個体へ漂白スプレーを施すと説明する。記事で確かめられるのは、加工が裁断や縫製より後に置かれていることまで。どの部分へどう噴霧するか、縫い目や部材ごとに色がどう変わるかは書かれていない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "小さな違いを、仕上がりに残す。",
+        "paragraphs": [
+          "NICENESSは、この個別加工によって一着ごとにわずかな見え方の違いが生まれると説明する。違いを生む具体的な条件や、その範囲を測った記録は掲載されていないため、原因を素材や作業環境に求めず、ブランドの仕上がり説明として読む。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "着想の説明と、いまの素材を分ける。",
+        "paragraphs": [
+          "商品ページは1960〜70年代の米国カバーオールと英国のパターンメイキングを着想源として挙げるが、特定の歴史的な一着は示していない。素材欄では表地をポリエステル65％・ポリウレタン35％、裏地を綿100％とし、日本製と表示する。フェイクスエードという現行素材の仕様は、歴史上の作業服そのものとは区別できる。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "仕上がりの個体差を含む説明はあるが、何が色差を生むかは示されていない。工程の順序を読み取り、結果の仕組みは保留する。",
+    "bridge_title": "合成スエードのカバーオールを、縫い上げてから仕上げる。",
+    "bridge": "LENNOXはラグラン袖のカバーオール。NICENESSは軽量のフェイクスエードを使い、縫製後に一着ずつ漂白スプレーを施すと説明する。素材の性能や加工後の耐久性を独立に試した結果ではなく、商品ページに記された仕様と意図として紹介する。",
+    "bridge_refs": [
+      "F02"
+    ],
+    "boundary": "縫製後に個別の漂白スプレーを行い、個体差を意図するというNICENESSの説明に限る。薬剤の種類、噴霧箇所、色差の原因や耐久性は確認していない。1960〜70年代の特定の原型も同定していない。",
+    "product_title": "合成スエードのカバーオールを、縫い上げてから仕上げる。",
+    "product_paragraphs": [
+      "LENNOXはラグラン袖のカバーオール。NICENESSは軽量のフェイクスエードを使い、縫製後に一着ずつ漂白スプレーを施すと説明する。素材の性能や加工後の耐久性を独立に試した結果ではなく、商品ページに記された仕様と意図として紹介する。"
+    ],
+    "product_refs": [
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "lennox-aw26",
+        "model": "LENNOX",
+        "season": "AW26",
+        "number": "NN-0101B18",
+        "url": "https://www.niceness.jp/en/products/lennox",
+        "retained": "カバーオールの形と、米国の作業着・英国の型紙へのブランド参照。",
+        "changed": "軽量のフェイクスエードを使い、縫製後に一着ずつ漂白スプレーを施す。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ],
+        "sourceKey": "4cbffbcf60a37e82"
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS LENNOX",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/lennox",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T343",
+    "slug": "adamson-moleskin-core-white-yarn",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造表示"
+      }
+    ],
+    "eras": [
+      "2020s",
+      "present"
+    ],
+    "tags": [
+      "モールスキン",
+      "トラウザー",
+      "糸",
+      "エイジング加工"
+    ],
+    "category": "DRESS / 着る",
+    "model": "ADAMSON",
+    "season": "AW26",
+    "item": "adamson-aw26",
+    "title": "中白の糸と、エイジング加工のフェード\nADAMSONのモールスキントラウザー",
+    "deck": "糸の呼び名とブランドが意図する見え方を、推測を加えずに読む。",
+    "place": "日本（商品ページの表示）",
+    "period": "AW26",
+    "context": "中白糸とフェードの公式説明",
+    "opening": "生地の色の見え方を、加工だけでなく糸の選択から説明する商品ページがある。ADAMSONについてNICENESSは、高密度モールスキンに「中白の糸」を使い、エイジング加工によるフェード感を際立たせると記している。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "yarn",
+        "title": "商品ページが使う「中白」という言葉。",
+        "paragraphs": [
+          "公式説明は糸を「中白」と呼ぶが、糸の断面や染色工程までは図示・説明していない。ここではその語をブランドが示す仕様として残し、糸の芯の構造や染料の入り方を断定しない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "fade",
+        "title": "見せたいフェードは、加工の説明にある。",
+        "paragraphs": [
+          "NICENESSは、エイジング加工によるフェード感を中白糸によって際立たせると説明する。これはブランドが述べる製品設計の狙いであり、着用を重ねた後の色変化を保証する試験結果や、加工条件の説明ではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "lining",
+        "title": "表地と裏地、二つの綿。",
+        "paragraphs": [
+          "ページは超高密度のモールスキンを使い、裏側には別注のマドラスチェック生地を配したと説明する。素材欄では表地と裏地をともに綿100％、製造表示を日本としている。1960年代の英国ハンティングトラウザーと米国のミリタリーオーバーパンツは、NICENESSが挙げる着想源として区別しておく。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "ページが説明するのは、糸の仕様と加工後に意図する見え方のつながりまで。実際の着用で同じ変化が起きるとは断定しない。",
+    "bridge_title": "糸の選択と加工を、色の見え方につなぐ。",
+    "bridge": "ADAMSONの商品ページが結びつけるのは、中白糸とエイジング加工によるフェード感。高密度モールスキン、別注のマドラスチェック裏地、綿100％の表裏地という現在の仕様を、ブランドの説明の範囲で紹介する。",
+    "bridge_refs": [
+      "F02",
+      "F03"
+    ],
+    "boundary": "「中白の糸」という公式表記と、ブランドが述べるフェード感の狙いに限る。糸の断面構造・染色法・加工薬剤、実際の着用による色落ちや耐久性は確認していない。歴史的なパンツの個体や軍規格も特定していない。",
+    "product_title": "糸の選択と加工を、色の見え方につなぐ。",
+    "product_paragraphs": [
+      "ADAMSONの商品ページが結びつけるのは、中白糸とエイジング加工によるフェード感。高密度モールスキン、別注のマドラスチェック裏地、綿100％の表裏地という現在の仕様を、ブランドの説明の範囲で紹介する。"
+    ],
+    "product_refs": [
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "adamson-aw26",
+        "model": "ADAMSON",
+        "season": "AW26",
+        "number": "NN-1503T18",
+        "url": "https://www.niceness.jp/products/adamson",
+        "retained": "英国のハンティングトラウザーと米国のミリタリーオーバーパンツへのブランド参照。",
+        "changed": "高密度モールスキンに中白の糸を使い、エイジング加工によるフェード感を際立たせる。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ],
+        "sourceKey": "5fce5c92984b9a6f"
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS ADAMSON",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/adamson",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T344",
+    "slug": "h-wishbone-wool-hemp-dobby-stripe",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造表示"
+      }
+    ],
+    "eras": [
+      "2020s",
+      "present"
+    ],
+    "tags": [
+      "ウール",
+      "ヘンプ",
+      "ストライプ",
+      "ドビー織"
+    ],
+    "category": "DRESS / 着る",
+    "model": "H.WISHBONE",
+    "season": "AW26",
+    "item": "h-wishbone-aw26",
+    "title": "縦糸にウール、横糸にヘンプ\nH.WISHBONEのドビー縞パンツ",
+    "deck": "混率だけでは見えにくい、経糸と緯糸の素材配置をたどる。",
+    "place": "日本（商品ページの表示）",
+    "period": "AW26",
+    "context": "ウールとヘンプの縞織物",
+    "opening": "布の素材構成は、混率だけでなく、どの糸を縦と横に通すかにも表れる。H.WISHBONEの商品ページは、縦糸にオーガニックウールの梳毛糸、横糸にヘンプ糸を使ったストライプ生地と説明する。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "directions",
+        "title": "素材を、織りの向きで分ける。",
+        "paragraphs": [
+          "経糸と緯糸に別の素材を置く。この商品では、NICENESSの説明上、縦方向がウール、横方向がヘンプだ。素材欄の表地混率はウール72％・ヘンプ28％。混ぜた繊維を一本の糸にする説明ではなく、二方向の糸を組み合わせる布として紹介されている。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      },
+      {
+        "id": "stripe",
+        "title": "縞の奥行きも、ブランドの説明に沿って。",
+        "paragraphs": [
+          "ブランドは、杢糸とトップカラーを組み合わせたドビー織りが縞に奥行きを与え、ヘンプのスラブ感とドライな質感が重なると説明する。どの組織図や染色工程を使うかは公開ページから分からないため、ドビー織機の動作や色の作り方を推定しない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "garment",
+        "title": "腰まわりの二つのタック。",
+        "paragraphs": [
+          "公式ページは腰と腿にゆとりを持たせる2タック仕様を挙げる。裏地はリヨセル100％、腰裏地は綿80％・ポリエステル20％で、日本製と表示される。縦横に配した素材の構成に、腰まわりのかたちが重なる。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "縦糸と横糸の素材、ブランドが記す縞の構成を見れば、この布の説明は読める。具体的な織り方や性能は、公開ページの外にある。",
+    "bridge_title": "異なる糸を、縦横の縞に組み合わせる。",
+    "bridge": "H.WISHBONEは、ウール梳毛の経糸とヘンプの緯糸を用いたストライプのトラウザー。NICENESSが説明するドビー織り、杢糸とトップカラーの組み合わせ、表地の混率と裏地を、素材配置の話として読む。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "経糸と緯糸の素材配置、ドビー縞、ヘンプに関する風合いは商品ページの説明に帰属させた。織機・組織・染色の具体的工程や、素材の性能・手触りを独立に検証していない。既存のFlying Vモチーフ記事と同じ踵ディテールの話は扱わない。",
+    "product_title": "異なる糸を、縦横の縞に組み合わせる。",
+    "product_paragraphs": [
+      "H.WISHBONEは、ウール梳毛の経糸とヘンプの緯糸を用いたストライプのトラウザー。NICENESSが説明するドビー織り、杢糸とトップカラーの組み合わせ、表地の混率と裏地を、素材配置の話として読む。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "h-wishbone-aw26",
+        "model": "H.WISHBONE",
+        "season": "AW26",
+        "number": "NN-2002T18",
+        "url": "https://www.niceness.jp/products/h-wishbone",
+        "retained": "ウール梳毛糸の経糸とヘンプの緯糸によるストライプ生地。",
+        "changed": "ドビー縞と杢糸・トップカラーの組み合わせを用いた2タックのトラウザー。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ],
+        "sourceKey": "0cf2d715be8660c0"
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS H.WISHBONE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/h-wishbone",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T345",
+    "slug": "s-morley-silk-reverse-corduroy",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造表示"
+      }
+    ],
+    "eras": [
+      "2020s",
+      "present"
+    ],
+    "tags": [
+      "コーデュロイ",
+      "シルク",
+      "綿",
+      "トラウザー"
+    ],
+    "category": "DRESS / 着る",
+    "model": "S.MORLEY",
+    "season": "AW26",
+    "item": "s-morley-aw26",
+    "title": "肌側にシルクの面を置く\nS.MORLEYの絹綿コーデュロイ",
+    "deck": "畝のある表地の裏側へ、素材の配置を読む。",
+    "place": "日本（商品ページの表示）",
+    "period": "AW26",
+    "context": "絹綿コーデュロイの裏面構成",
+    "opening": "表地の畝だけでなく、肌に触れる側にも素材の選択がある。NICENESSはS.MORLEYを8ウェールの絹綿コーデュロイで仕立て、布の裏面ではシルクを肌側に配したと説明する。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "blend",
+        "title": "絹と綿を混ぜた、8ウェールの布。",
+        "paragraphs": [
+          "商品ページが示す組成はシルク53％、綿47％。素材欄には「8ウェールのシルク綿コーデュロイ」と記されている。この記事ではウェール数の一般定義や畝の実測を付け加えず、公式ページが示す呼び名と混率をそのまま扱う。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      },
+      {
+        "id": "reverse",
+        "title": "裏面の絹を、肌に向ける。",
+        "paragraphs": [
+          "NICENESSは生地の裏面にシルクを配し、肌に当たる側にすることで快適な着用環境につなげたと説明する。これはメーカーの設計意図と着用感の説明であり、独立した着用試験や個人の体験談ではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "shape",
+        "title": "素材の話から、パンツの輪郭へ。",
+        "paragraphs": [
+          "公式ページはS.MORLEYを立体的なストレートシルエットとして説明する。素材欄には日本製表示もある。商品名に記されたモデルの来歴とは分け、ここでは布の組成と肌側に向けた裏面のシルクを中心に見る。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "生地の表裏で変わる素材の配置が、この商品の説明の中心にある。快適性の感じ方は着用記録ではなく、ブランドの言葉として残しておく。",
+    "bridge_title": "表面の畝と、肌側のシルク。",
+    "bridge": "S.MORLEYはシルク53％・綿47％の8ウェールコーデュロイを使うトラウザー。NICENESSの説明では、布の裏側のシルクが肌に触れる向きに置かれ、立体的なストレートシルエットに仕立てられている。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "8ウェール、混率、裏面のシルク配置、シルエットは公式ページに記載された仕様・説明に限る。快適性はメーカー主張として扱い、個人の着用評価、手入れ、耐久性を推測しない。Friscoの歴史・着用者・用途はこの記事の対象にしない。",
+    "product_title": "表面の畝と、肌側のシルク。",
+    "product_paragraphs": [
+      "S.MORLEYはシルク53％・綿47％の8ウェールコーデュロイを使うトラウザー。NICENESSの説明では、布の裏側のシルクが肌に触れる向きに置かれ、立体的なストレートシルエットに仕立てられている。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "s-morley-aw26",
+        "model": "S.MORLEY",
+        "season": "AW26",
+        "number": "NN-0304T18",
+        "url": "https://www.niceness.jp/products/s-morley",
+        "retained": "8ウェールの絹綿コーデュロイと、裏面のシルクを肌側に向ける構成。",
+        "changed": "シルク53％・綿47％の生地を、立体的なストレートシルエットに仕立てる。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ],
+        "sourceKey": "db7fd61892d35b54"
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS S.MORLEY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-morley",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T346",
+    "slug": "c-joshua-hand-pulled-lattice",
+    "regions": [
+      {
+        "id": "in",
+        "name": "インド",
+        "role": "商品ページの製造表示とカディ生地の説明"
+      },
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "1950年代のヴィンテージシャツへのデザイン参照"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "2020s"
+    ],
+    "tags": [
+      "シャツ",
+      "カディ",
+      "格子",
+      "手仕事"
+    ],
+    "category": "MAKE / つくる",
+    "model": "C.JOSHUA",
+    "season": "SS26",
+    "item": "c-joshua-26ss",
+    "title": "手で糸を抜き、格子を表す\nC.JOSHUAのカディシャツ",
+    "deck": "5×7センチの間隔と4ミリの線。格子の表現に使う手仕事から、生地とシャツの形へ。",
+    "place": "米国（デザイン参照）・インド（製造表示）",
+    "period": "1950年代への公式参照／SS26",
+    "context": "手仕事で表した格子",
+    "opening": "5×7センチの間隔に、幅4ミリの線が入る。NICENESSはC.JOSHUAの生地について、その線を手で一本ずつ糸を抜き、格子を表すと説明する。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "interval",
+        "title": "格子の間隔は、5×7センチ。",
+        "paragraphs": [
+          "商品ページが示すチェックの間隔は5×7センチ、線の幅は4ミリ。柄の大きさと細い線を数値で説明している。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "threads",
+        "title": "線は、糸を一本ずつ抜いて表す。",
+        "paragraphs": [
+          "NICENESSは、4ミリのラインを表現するために手で糸を一本ずつ抜くと記す。抜く方向や本数、ほかの仕上げ工程との順番はページにないため、手作業の範囲をその記述にとどめる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "khadi",
+        "title": "手紡ぎ・手織りのカディを、シャツに。",
+        "paragraphs": [
+          "生地は150番手の極細手紡ぎ・手織りカディと説明される。箱型のシルエットは1950年代の米国ヴィンテージシャツを参照したもの。特定の歴史的な一着ではなく、NICENESSが示すデザイン参照として扱う。素材表示は綿100％、製造表示はインド。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "この格子について確認できるのは、間隔と線幅、糸を一本ずつ手で抜くという説明まで。手紡ぎ・手織りのカディと、1950年代のシャツを参照した箱型シルエットを組み合わせた現在の商品として読む。",
+    "bridge_title": "糸を抜いて格子を表す、手織りカディのシャツ。",
+    "bridge": "C.JOSHUAは150番手の手紡ぎ・手織りカディを使ったオープンカラーシャツ。NICENESSは5×7センチのチェックと4ミリの線を、手で糸を一本ずつ抜いて表現すると説明する。商品ページには綿100％、インド製とある。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "格子の寸法、糸を抜く方法、生地とシルエットはNICENESSの商品説明に記された仕様・参照として紹介する。どの方向の糸を何本抜くか、工程順や処理方法、参照元となった特定の古着は確認していない。",
+    "product_title": "手で糸を抜き、格子を表す。",
+    "product_paragraphs": [
+      "5×7センチのチェック間隔と4ミリの線を、一本ずつ手で糸を抜いて表現するとNICENESSは説明する。150番手の手紡ぎ・手織りカディを使い、1950年代の米国ヴィンテージシャツを参照した箱型シルエットに仕立てた一枚。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "C.JOSHUA",
+        "season": "SS26",
+        "number": "NN-3003Y17",
+        "url": "https://www.niceness.jp/products/c-joshua-26ss",
+        "retained": "1950年代の米国ヴィンテージシャツを参照する箱型シルエット。",
+        "changed": "手紡ぎ・手織りカディに、手で糸を抜いて格子を表したオープンカラーシャツ。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ],
+        "id": "c-joshua-26ss"
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS C.JOSHUA SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/c-joshua-26ss",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T347",
+    "slug": "lockie-apple-jacquard-triangle-scarf",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "スカーフ",
+      "ジャカード",
+      "ウール",
+      "図案"
+    ],
+    "category": "MAKE / つくる",
+    "model": "LOCKIE",
+    "season": "AW26",
+    "item": "lockie-aw26",
+    "title": "三角形に、リンゴをジャカードで描く\nLOCKIEのウールスカーフ",
+    "deck": "三角の輪郭、28ゲージの機械、細かなリンゴ柄。形と柄をつくる条件を読む。",
+    "place": "日本（製造表示）",
+    "period": "AW26",
+    "context": "三角形スカーフの形と柄",
+    "opening": "首元に巻く三角形の布に、リンゴのモチーフが並ぶ。NICENESSはLOCKIEの柄を、28ゲージのハイゲージ・コンピュータージャカード機で表現すると説明する。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "triangle",
+        "title": "三角形の形は、巻き方にも関わる。",
+        "paragraphs": [
+          "商品説明は、ボリュームを抑えた三角形のフォルムが、巻き方の自由度と装飾性を両立すると記す。どの巻き方ができるかを指定する説明ではなく、ブランドが示す形の意図として読む。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "apple",
+        "title": "リンゴの柄を、28ゲージのジャカードで。",
+        "paragraphs": [
+          "密度の高いリンゴのモチーフは、28ゲージのコンピュータージャカード機で表現するとNICENESSは説明する。図案の元になった資料や柄の編成データは示されていない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "wool",
+        "title": "15.5ミクロンのウールと、防縮仕上げ。",
+        "paragraphs": [
+          "素材はSüdwolle社による15.5ミクロンのSuper160sウールと記される。防縮加工による扱いやすさや手触りもブランドの商品説明にある評価で、独立した性能試験とは区別する。素材表示はウール100％、製造表示は日本。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "小さな図柄を載せる面には、ボリュームを抑えた三角形の形が選ばれている。確認できるのは、素材の表示、ジャカードのゲージ、形と巻き方についてのNICENESSの説明までだ。",
+    "bridge_title": "リンゴ柄を28ゲージのジャカードで表す。",
+    "bridge": "LOCKIEは、Südwolle社の15.5ミクロンSuper160sウールを使った三角スカーフ。28ゲージのコンピュータージャカード機によるリンゴ柄、防縮加工、ウール100％と日本製の表示をNICENESSが記載する。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "三角形のフォルム、リンゴ柄の製法、糸の規格、防縮仕上げは公式の商品説明に帰属させる。図案の由来、具体的な編み目構造や加工条件、独立した着用評価は確認していない。",
+    "product_title": "三角形に、リンゴをジャカードで描く。",
+    "product_paragraphs": [
+      "ボリュームを抑えた三角形と、28ゲージのコンピュータージャカード機で表すリンゴ柄。NICENESSはSüdwolle社の15.5ミクロンSuper160sウールと防縮加工を記し、素材表示はウール100％、製造表示は日本としている。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "LOCKIE",
+        "season": "AW26",
+        "number": "NN-1203A18",
+        "url": "https://www.niceness.jp/products/lockie",
+        "id": "lockie-aw26",
+        "retained": "ボリュームを抑えた三角形のスカーフ。",
+        "changed": "28ゲージのコンピュータージャカードによるリンゴ柄と、防縮加工を加えたウール素材。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS LOCKIE",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lockie",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T348",
+    "slug": "lanegan-air-spun-cashmere-tweed",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造表示"
+      }
+    ],
+    "eras": [
+      "present"
+    ],
+    "tags": [
+      "パーカー",
+      "カシミヤ",
+      "ツイード",
+      "綾織"
+    ],
+    "category": "MAKE / つくる",
+    "model": "LANEGAN",
+    "season": "季節表記なし",
+    "item": "lanegan-official-listing",
+    "title": "空気を含ませて紡いだ糸を、綾織りに\nLANEGANのカシミヤパーカー",
+    "deck": "雪山用ミリタリーウェアへの参照と、カシミヤ糸・ツイード・裏地の組合せを分けて読む。",
+    "place": "日本（製造表示）",
+    "period": "公式商品ページ掲載・季節表記なし",
+    "context": "カシミヤツイードとパーカーの構成",
+    "opening": "スノーパーカーの形に、カシミヤツイードと綿・シルクの裏地を合わせる。NICENESSは雪山でのカモフラージュを目的に生まれたミリタリーウェアを参照に挙げ、空気を含ませながら紡いだカシミヤ糸を使うと説明する。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "reference",
+        "title": "雪山のカモフラージュは、ブランドの参照。",
+        "paragraphs": [
+          "商品ページは、雪山でのカモフラージュを目的に生まれたミリタリーウェアをデザイン参照として挙げる。特定の軍服や年代は示されていないため、ここではNICENESSが記す着想の範囲に留める。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "yarn",
+        "title": "空気を含ませながら紡いだカシミヤ糸。",
+        "paragraphs": [
+          "LANEGANには、空気を含ませながら紡績したカシミヤ糸を使う軽量なカシミヤツイードが用いられると公式説明は記す。商品ページは糸を作る具体的な設備や工程条件までは説明していない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "twill",
+        "title": "綾織りの外側に、綿とシルクの裏地。",
+        "paragraphs": [
+          "外側の生地は綾織りで、表地はカシミヤ100％、裏地は綿70％・シルク30％。柔らかな手触りや保温性、季節をまたぐ使い方はNICENESSの商品説明にある評価・提案で、着用試験としては扱わない。製造表示は日本。"
+        ],
+        "fact_ids": [
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "closing": "雪山向けの服という参照説明は、現在の素材仕様とは別に示されている。記事で確認できるのは、カシミヤ糸の説明、綾織りの生地、綿・シルクの裏地までで、具体的な歴史上の型は同定できない。",
+    "bridge_title": "雪山への参照を、カシミヤツイードのパーカーへ。",
+    "bridge": "LANEGANは、空気を含ませながら紡いだカシミヤ糸のツイード・スノーパーカー。NICENESSは綾織りの生地、綿70％・シルク30％の裏地、日本製の表示と、雪山用ミリタリーウェアへの参照を記す。商品ページに季節表記はない。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "雪山カモフラージュ用ミリタリーウェアはNICENESSが挙げるデザイン参照として扱う。紡績方法の仕組み、保温性能、具体的な軍服・年代・着用者、発売シーズンは確認していない。",
+    "product_title": "空気を含ませて紡いだ糸を、綾織りに。",
+    "product_paragraphs": [
+      "空気を含ませながら紡いだカシミヤ糸を用いるというNICENESSの説明と、綾織りの表地、綿・シルク混の裏地を紹介する。商品ページには日本製の表示があるが、季節は記載されていない。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "LANEGAN",
+        "season": "季節表記なし",
+        "number": "NN-1602B18",
+        "url": "https://www.niceness.jp/products/lanegan",
+        "id": "lanegan-official-listing",
+        "retained": "雪山でのカモフラージュを目的とするミリタリーウェアへのブランド参照。",
+        "changed": "空気を含ませながら紡いだカシミヤ糸の綾織りツイードに、綿・シルク裏地を合わせたスノーパーカー。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS LANEGAN",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/lanegan",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T349",
+    "slug": "russell-a2-calf-leather-dyed-waxed",
+    "regions": [
+      {
+        "id": "in",
+        "name": "インド",
+        "role": "子牛革のなめし地としての公式説明"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "染色・ワックス加工地と製造表示"
+      },
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "1930〜40年代のUSAF・飛行士ジャケットへのデザイン参照"
+      }
+    ],
+    "eras": [
+      "1930s",
+      "1940s",
+      "2020s"
+    ],
+    "tags": [
+      "A2",
+      "レザージャケット",
+      "染色",
+      "ワックス仕上げ"
+    ],
+    "category": "MAKE / つくる",
+    "model": "RUSSELL",
+    "season": "AW25",
+    "item": "russell-aw25",
+    "title": "革はインドでなめし、日本で仕上げる\nRUSSELLのA2ジャケット",
+    "deck": "一着の説明に、革のなめし地、仕上げ地、デザイン参照が別々に記される。",
+    "place": "インド（なめし）・日本（仕上げと製造表示）・米国（デザイン参照）",
+    "period": "1930〜40年代への公式参照／AW25",
+    "context": "A2ジャケットの革と仕立て",
+    "opening": "同じ革でも、商品説明には複数の場所が記されている。RUSSELLの子牛革はインドでなめし、その後、日本の工場で染色とワックス仕上げを行うとNICENESSは説明する。",
+    "opening_refs": [
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "leather",
+        "title": "なめしはインド、染色と仕上げは日本。",
+        "paragraphs": [
+          "NICENESSの商品説明によれば、RUSSELLの子牛革はインドでなめされ、日本の工場で染色・ワックス仕上げされる。ここで分けているのはブランドが公表する工程地であり、革の原皮産地や各工程の実施者は示されていない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "pattern",
+        "title": "A2への参照に、デニムジャケットの構成を重ねる。",
+        "paragraphs": [
+          "商品ページは1930〜40年代のUSAFと飛行士ジャケットをデザイン参照に挙げながら、着心地と動きやすさのためデニムジャケットの構造を取り入れたと説明する。これは現行商品の設計についてのブランド説明で、当時のA2の仕様を独立に記した資料ではない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "rib",
+        "title": "細いウール糸の丸編みリブ。",
+        "paragraphs": [
+          "革のほかに、細いウール糸を使った丸編みリブを用いるとNICENESSは記す。素材欄は表地を子牛革、身頃裏地をポリエステル63％・レーヨン35％・ポリウレタン2％、袖裏地をポリエステル60％・キュプラ40％、リブをウール89％・ナイロン10％・ポリウレタン1％とし、日本製と表示する。柔らかな触感という説明はブランドの評価として扱う。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "RUSSELLの商品ページは、1930〜40年代へのデザイン参照を掲げつつ、現在の革の工程地とデニムジャケット由来の構成を別に説明する。これらを歴史上のA2の製法や産地と同一視しない。",
+    "bridge_title": "飛行士ジャケットへの参照と、現在の革の工程。",
+    "bridge": "RUSSELLは1930〜40年代のUSAF・飛行士ジャケットを参照するA2型ジャケット。NICENESSは子牛革をインドでなめし、日本で染色・ワックス仕上げし、デニムジャケットの構造を採用したと説明する。製品ページはAW25の商品として掲載され、日本製と表示する。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "1930〜40年代のジャケットはNICENESSの商品ページが挙げるデザイン参照として扱う。革の希少性、着用性能、歴史上のA2の仕様、原皮の産地、各工程の製造者は独立確認していない。",
+    "product_title": "革の工程地と、ジャケットの構造を分けて読む。",
+    "product_paragraphs": [
+      "NICENESSはRUSSELLを1930〜40年代のUSAF・飛行士ジャケットへの参照として説明し、子牛革をインドでなめして日本の工場で染色・ワックス仕上げすると記す。デニムジャケットの構造と、細いウール糸による丸編みリブも商品ページにある。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "RUSSELL",
+        "season": "AW25",
+        "number": "NN-0201B16",
+        "url": "https://www.niceness.jp/en/products/russell",
+        "id": "russell-aw25",
+        "retained": "1930〜40年代のUSAF・飛行士ジャケットへのブランド参照。",
+        "changed": "インドでなめした子牛革を日本で染色・ワックス仕上げし、デニムジャケットの構造を取り入れたと説明。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS RUSSELL AW25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/russell",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T350",
+    "slug": "tracy-minimal-cut-mouton-capelet",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "商品ページのラムレザー産地説明"
+      },
+      {
+        "id": "it",
+        "name": "イタリア",
+        "role": "商品ページのメリノムートン産地説明"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品ページの製造表示"
+      }
+    ],
+    "eras": [
+      "present"
+    ],
+    "tags": [
+      "ケープレット",
+      "ムートン",
+      "ラムレザー",
+      "革の裁断"
+    ],
+    "category": "MAKE / つくる",
+    "model": "TRACY",
+    "season": "季節表記なし",
+    "item": "tracy-official-listing",
+    "title": "裁断を抑え、一枚革を生かす\nTRACYのムートンケープレット",
+    "deck": "使う革の産地と、裁断を少なくするという設計説明。素材の変化はブランドの予測として分けて読む。",
+    "place": "英国（ラムレザー）・イタリア（メリノムートン）・日本（製造表示）",
+    "period": "公式商品ページ掲載・季節表記なし",
+    "context": "一枚革を生かす裁断",
+    "opening": "ケープレットの形を、裁断を最小限にして革の表情を生かす設計とNICENESSは説明する。TRACYでは英国産のラムレザーとイタリア産のメリノライニングムートンを組み合わせている。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "cutting",
+        "title": "裁断を減らし、革の面を残す。",
+        "paragraphs": [
+          "商品説明は、裁断を最小限に抑え、存在感のある一枚革の表情を生かすデザインとする。パーツの正確な数や配置、革をどのように裁断したかは公開説明にないため、作業工程を補わない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "materials",
+        "title": "英国のラムレザーと、イタリアのメリノムートン。",
+        "paragraphs": [
+          "NICENESSは英国産ラムレザーとイタリア産のメリノライニングムートンを使用すると記す。素材欄では本体をムートンレザー、一部をラムレザーと牛革と表示し、日本製としている。産地の説明は素材ごとに区別する。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F03"
+        ]
+      },
+      {
+        "id": "surface",
+        "title": "使い込んだ後の表情は、ブランドの説明。",
+        "paragraphs": [
+          "商品ページは、着用を重ねると銀面が割れて下地の茶色がうっすら見え、ヴィンテージ感につながると説明する。これはブランドが紹介する経年変化の見込みで、特定個体の観察や耐久試験の結果ではない。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "革の面を生かす裁断、素材ごとの産地、着用後の変化。TRACYについて確認できるのは、NICENESSが公開するこの仕様と見込みまでで、使用者による実例や変化の条件は示されていない。",
+    "bridge_title": "裁断を抑えたケープレットに、二種の羊革を合わせる。",
+    "bridge": "TRACYは、英国産ラムレザーとイタリア産メリノライニングムートンを使うケープレット。NICENESSは裁断を最小限にして一枚革を生かすと説明し、着用後に銀面が割れて茶色い下地が見える変化も紹介する。ページに季節表記はない。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "裁断の少なさ、素材の産地、経年変化はNICENESSの商品説明に帰属させる。特定個体の観察、革の裁断配置、変化の速度や程度、着用感、発売シーズンは確認していない。",
+    "product_title": "裁断を抑え、一枚革を生かす。",
+    "product_paragraphs": [
+      "TRACYの商品ページは、裁断を最小限にして一枚革の表情を生かすデザインを説明する。英国産ラムレザーとイタリア産メリノライニングムートンを使い、銀面が割れて茶色い下地が現れる経年変化をブランドの説明として紹介している。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "model": "TRACY",
+        "season": "季節表記なし",
+        "number": "NN-3301A18",
+        "url": "https://www.niceness.jp/products/tracy",
+        "id": "tracy-official-listing",
+        "retained": "英国産ラムレザーとイタリア産メリノライニングムートンの組合せ。",
+        "changed": "裁断を抑えて一枚革の表情を生かすケープレット。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS TRACY",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/tracy",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T351",
+    "slug": "h-rollo-hand-stencil",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "京都の加工工程と商品の製造表示"
+      }
+    ],
+    "eras": [
+      "1920s",
+      "1930s",
+      "1940s",
+      "2020s"
+    ],
+    "tags": [
+      "ユーティリティジャケット",
+      "ステンシル",
+      "染色",
+      "ヘリンボーン"
+    ],
+    "category": "MAKE / つくる",
+    "model": "H.ROLLO",
+    "season": "SS26",
+    "item": "h-rollo-26ss",
+    "title": "手で切った型から、染料を吹く\nH.ROLLOのユーティリティジャケット",
+    "deck": "麻綿のヘリンボーンに、手切りのステンシルで文字を染める。",
+    "place": "日本（京都の加工工程・製造表示）",
+    "period": "1920〜40年代への商品参照・SS26",
+    "context": "ステンシルと手仕事の差",
+    "opening": "NICENESSは、H.ROLLOを麻と綿のヘリンボーン生地に全面の手刷りステンシルを施したジャケットと説明する。公式Episode 18は、その染色工程を京都の職人によるエアブラシ作業として紹介している。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "fabric",
+        "title": "麻綿ヘリンボーンを土台に。",
+        "paragraphs": [
+          "商品ページによると、H.ROLLOの身頃は麻60％・綿40％、背ヨークは綿100％。生地は麻綿混のヘリンボーンで、日本製と表示されている。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "stencil",
+        "title": "手で切った型から、染料を吹く。",
+        "paragraphs": [
+          "Episode 18は、京都の職人が手で切ったステンシルを通して、エアブラシで染料を施すと説明する。型の置き方や空気圧によって濃淡やにじみが変わり、ブランドは手作業が一着ごとの差につながるとしている。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "references",
+        "title": "作業着への参照を、縫い目に。",
+        "paragraphs": [
+          "NICENESSはウエスタンヨーク風のステッチと、1920〜40年代のワークウェアに見られるディテールを取り入れたと説明する。ここでは商品ページに記された意匠上の参照として紹介し、特定の歴史的な一着を指すとは扱わない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "生地、型、空気圧。NICENESSの説明は、模様を作る工程と、その結果の差を結び付けている。",
+    "bridge_title": "手作業のステンシルを、ヘリンボーンに。",
+    "bridge": "H.ROLLOは麻綿混のヘリンボーンに全面の手刷りステンシルを施したユーティリティジャケット。商品ページはウエスタンヨーク風のステッチ、日本製、身頃と背ヨークの素材を記載している。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "ステンシルの工程と仕上がりの差はブランドの説明として扱う。型紙、プリント文言の形状、個々の商品の仕上がりは独立確認していない。ウエスタンヨークとワークウェアの記述も、公式ページに示されたデザイン参照を超えて歴史的な原型へ結び付けない。",
+    "product_title": "手作業のステンシルを、麻綿ヘリンボーンに。",
+    "product_paragraphs": [
+      "H.ROLLOは、麻60％・綿40％の身頃に全面の手刷りステンシルを施したユーティリティジャケット。Episode 18は京都での手切りステンシルとエアブラシによる染色を紹介し、商品ページは背ヨークを綿100％、製造表示を日本としている。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "h-rollo-26ss",
+        "model": "H.ROLLO",
+        "season": "SS26",
+        "number": "NN-2407B17",
+        "url": "https://www.niceness.jp/en/products/h-rollo-26ss",
+        "retained": "ヘリンボーン生地、ウエスタンヨーク風ステッチ、1920〜40年代ワークウェアへのデザイン参照。",
+        "changed": "京都での手切りステンシルとエアブラシ染色を公式Episodeが紹介。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS H.ROLLO SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/h-rollo-26ss",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS Episode 18: Message in Public",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/episode/message-in-public",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T352",
+    "slug": "n-hopkins-stole-factory-denim",
+    "regions": [
+      {
+        "id": "in",
+        "name": "インド",
+        "role": "商品説明にある生地の織り場所と製造表示"
+      }
+    ],
+    "eras": [
+      "1970s",
+      "2020s"
+    ],
+    "tags": [
+      "デニム",
+      "ジャケット",
+      "織物",
+      "ヨーク"
+    ],
+    "category": "MAKE / つくる",
+    "model": "N.HOPKINS",
+    "season": "SS26",
+    "item": "n-hopkins-26ss",
+    "title": "ストール工場で織られたデニム\nN.HOPKINSのジャケット",
+    "deck": "生地の織り場所と、ジャケットの参照が商品説明に並ぶ。",
+    "place": "インド（北部の織り場所・製造表示）",
+    "period": "1970年代のデニムジャケットへの商品参照・SS26",
+    "context": "デニムの織り場所",
+    "opening": "NICENESSは、N.HOPKINSを「北インドのストール工場で織られた」デニムを使うウエスタンヨークのジャケットと紹介する。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "weaving-place",
+        "title": "北インドの工場で織られた生地。",
+        "paragraphs": [
+          "商品説明は、デニムを北インドのストール工場で織ったものと記す。工場名や、ストール製造とデニム製造の関係については説明していない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "1970年代のジャケットを、現代的に更新する。",
+        "paragraphs": [
+          "NICENESSは、初期の自社製品を思わせる1970年代のデニムジャケットを参照し、型紙と構造を現代的に更新したと説明する。控えめなドロップショルダーも、ブランドが挙げる設計上の特徴である。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "composition",
+        "title": "表地と裏地で異なる混率。",
+        "paragraphs": [
+          "素材欄では表地は綿100％、裏地と背フラップは綿95％・シルク5％。生産国はインドと表示されている。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "公開されている説明から読めるのは、織りの場所、ブランドが示す参照、素材表示までだ。",
+    "bridge_title": "北インドのデニムを、ウエスタンヨークに。",
+    "bridge": "N.HOPKINSは、北インドのストール工場で織られたデニムを使うとNICENESSが説明するジャケット。商品ページは1970年代のデニムジャケットへの参照、表地と裏地の混率、インド製の表示を記載している。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "工場名、デニムの織り方、ストール生産との工程上の関係は未確認。初期NICENESSの特定商品や、実在する1970年代の一着との直接の系譜も確認していない。商品ページが示す参照と仕様の範囲に限定する。",
+    "product_title": "ストール工場で織られたデニムを、ウエスタンヨークのジャケットに。",
+    "product_paragraphs": [
+      "NICENESSはN.HOPKINSの生地を北インドのストール工場で織ったデニムと説明する。1970年代のデニムジャケットを参照し、型紙と構造を現代的に更新。表地は綿100％、裏地と背フラップは綿95％・シルク5％、インド製と表示されている。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "n-hopkins-26ss",
+        "model": "N.HOPKINS",
+        "season": "SS26",
+        "number": "NN-1601B17",
+        "url": "https://www.niceness.jp/en/products/n-hopkins-26ss",
+        "retained": "初期NICENESSを思わせる1970年代のデニムジャケット、ウエスタンヨークの参照。",
+        "changed": "北インドのストール工場で織ったデニム、更新した型紙・構造、綿・シルクの裏地。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS N.HOPKINS SS26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/n-hopkins-26ss",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T353",
+    "slug": "cobain-thunder-jacquard-cardigan",
+    "regions": [
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "公式商品説明にあるデザイン参照"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "1950s",
+      "2020s"
+    ],
+    "tags": [
+      "カーディガン",
+      "モヘア",
+      "シルク",
+      "ジャカード"
+    ],
+    "category": "MAKE / つくる",
+    "model": "COBAIN",
+    "season": "AW25",
+    "item": "cobain-aw25",
+    "title": "雷の柄をジャカードに編む\nCOBAINのカーディガン",
+    "deck": "糸染めモヘアシルクに、ブランドが語る1950年代の参照を重ねる。",
+    "place": "米国（デザイン参照）・日本（製造表示）",
+    "period": "1950年代への商品参照・AW25",
+    "context": "雷の柄とニット",
+    "opening": "NICENESSは、糸染めのモヘアシルクで編んだジャカードカーディガンに、再解釈した雷の柄を配したと説明する。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "pattern",
+        "title": "ジャカードで表す雷の柄。",
+        "paragraphs": [
+          "商品説明は、COBAINを雷のパターンを再解釈したジャカード編みのカーディガンと記す。柄の具体的な原資料や編成条件は記載されていない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "references",
+        "title": "1950年代のカデットカーディガンから着想を得て。",
+        "paragraphs": [
+          "NICENESSは1950年代のカデットカーディガンと、米国アウトドアブランドが好んだグラフィックをデザインの着想源として挙げる。これはブランドの参照説明であり、特定の製品やブランドは示されていない。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "fibers",
+        "title": "モヘア60％、シルク40％。",
+        "paragraphs": [
+          "素材欄はモヘア60％・シルク40％、日本製と表示する。シルクの光沢やモヘアの長い毛足がもたらす印象も、NICENESSの商品説明にある表現として読む。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "ここで確認できる歴史的なつながりは、NICENESSが商品ページに記したデザイン参照の範囲にとどまる。",
+    "bridge_title": "雷の柄を、モヘアシルクに。",
+    "bridge": "COBAINは糸染めのモヘアシルクを使ったジャカードカーディガン。NICENESSは1950年代のカデットカーディガンと米国アウトドアブランドの図案を参照に挙げ、素材はモヘア60％・シルク40％、日本製と記している。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "参照先となる具体的なカデットカーディガンやアウトドアブランドは特定されていない。柄の来歴、編み組織の詳細、実物の着用感について、公式説明を超える独立の主張は加えない。",
+    "product_title": "雷の柄を、糸染めのモヘアシルクに。",
+    "product_paragraphs": [
+      "COBAINは糸染めのモヘアシルクを使ったジャカードカーディガン。NICENESSは1950年代のカデットカーディガンや米国アウトドアブランドのグラフィックを参照に挙げている。素材表示はモヘア60％・シルク40％、日本製。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "cobain-aw25",
+        "model": "COBAIN",
+        "season": "AW25",
+        "number": "NN-3501K16",
+        "url": "https://www.niceness.jp/en/products/cobain",
+        "retained": "1950年代のカデットカーディガンと米国アウトドアブランドのグラフィックへの参照。",
+        "changed": "糸染めのモヘアシルクによる雷柄のジャカードカーディガン。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS COBAIN AW25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/cobain",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T354",
+    "slug": "simonon-braided-leather-edges",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "商品説明にあるデザイン上の参照"
+      },
+      {
+        "id": "us",
+        "name": "米国",
+        "role": "商品説明にあるデザイン上の参照"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "チョアジャケット",
+      "鹿革",
+      "編み込み",
+      "ボタン"
+    ],
+    "category": "MAKE / つくる",
+    "model": "SIMONON",
+    "season": "SS25",
+    "item": "simonon-ss25",
+    "title": "襟とポケットの縁を革で編む\nSIMONONのチョアジャケット",
+    "deck": "細い革の編み込みと、角・樹脂製のボタン。",
+    "place": "フランス・米国（デザイン参照）・日本（製造表示）",
+    "period": "SS25",
+    "context": "革の縁飾り",
+    "opening": "SIMONONの商品ページは、鹿革のチョアジャケットの襟とポケットの縁に、細く切った革を編み込んだと説明する。",
+    "opening_refs": [
+      "F01"
+    ],
+    "sections": [
+      {
+        "id": "name",
+        "title": "“creak”と“creek”、二つの綴り。",
+        "paragraphs": [
+          "商品ページは鹿革を“creak leather”と表記し、擦ったときの音に由来すると説明する。一方、直接リンクされたEpisode 06は同素材を“creek deerskin”と記す。綴りは一致していないため、ここでは両方をブランド資料の表記として残す。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      },
+      {
+        "id": "braiding",
+        "title": "襟とポケットの縁に、細い革。",
+        "paragraphs": [
+          "商品ページは、細く切った革を襟とポケットの縁に編み込んだと記す。Episode 06もチョアジャケットの縁に細い革を編み込んだと紹介している。"
+        ],
+        "fact_ids": [
+          "F01",
+          "F02"
+        ]
+      },
+      {
+        "id": "buttons",
+        "title": "角と樹脂のカスタムボタン。",
+        "paragraphs": [
+          "NICENESSは、バッファローホーンと樹脂で作ったカスタムボタンを用い、デザインはフランスと米国の美学を組み合わせたと説明する。素材欄は表地を鹿革、裏地をアセテート100％、日本製と表示している。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "目に留まる縁の編み込みとボタン。革の呼び名には、商品ページとEpisodeで表記の差が残る。",
+    "bridge_title": "鹿革の縁に、編み込みを置く。",
+    "bridge": "SIMONONは鹿革のチョアジャケット。NICENESSは襟とポケットの縁の編み込み、バッファローホーンと樹脂製ボタンを説明し、商品ページに日本製と記載している。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "商品ページの“creak leather”とEpisode 06の“creek deerskin”の表記差は未解決。擦ったときの音や革の性質はブランドの説明として扱い、独立に確認した体験・評価としては書かない。編み込みの具体的な手順も推定しない。",
+    "product_title": "細い革を編んだ縁と、角・樹脂のボタン。",
+    "product_paragraphs": [
+      "SIMONONは、襟とポケットの縁に細い革を編み込んだ鹿革のチョアジャケット。商品ページはバッファローホーンと樹脂製のカスタムボタン、フランスと米国の美学への参照も挙げる。表地は鹿革、裏地はアセテート100％、日本製と表示されている。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "simonon-ss25",
+        "model": "SIMONON",
+        "season": "SS25",
+        "number": "NN-0101V15",
+        "url": "https://www.niceness.jp/en/products/simonon",
+        "retained": "フランスと米国の美学への商品説明上の参照。",
+        "changed": "鹿革のチョアジャケットに細い革の縁編み、バッファローホーンと樹脂製のボタン。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS SIMONON SS25",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/simonon",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS Episode 06: In Praise of Hands",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/episode/in-praise-of-hands",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T355",
+    "slug": "p-jamet-floral-scarves-shirt",
+    "regions": [
+      {
+        "id": "uk",
+        "name": "英国",
+        "role": "Episode 22が回想するロンドンの市場と街"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "オープンカラーシャツ",
+      "スカーフ",
+      "花柄",
+      "パターンメイキング"
+    ],
+    "category": "MAKE / つくる",
+    "model": "P.JAMET",
+    "season": "AW26",
+    "item": "p-jamet-aw26",
+    "title": "花を一つずつ描き、シャツへ組み直す\nP.JAMETのオープンカラーシャツ",
+    "deck": "花と幾何学の図案を、複数のスカーフプリントから一着へ。",
+    "place": "英国（Episode 22の回想）・日本（製造表示）",
+    "period": "Episode 22・AW26",
+    "context": "花柄スカーフをシャツへ再構成",
+    "opening": "NICENESSの公式Episode 22は、花を持ち帰る人々や街の空気を写した写真への一人称の回想から、花と幾何学を組み合わせた図案へと話を進める。本文末尾にはKIYOTAKA HATANAKAの名が記されている。P.JAMETの商品ページは、複数のプリントスカーフを一着のシャツに再構成したと説明する。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "photographs",
+        "title": "写真に残る、花を運ぶ人々。",
+        "paragraphs": [
+          "Episode 22はColumbia Road Flower Marketで撮られた写真への一人称の回想で始まり、花そのものではなく、花を持ち帰る人々や通りの空気を語る。本文中ではKIYOTAKA HATANAKAを写真家として紹介し、末尾に同氏の名を記している。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "motif",
+        "title": "同じ花を、複製しない。",
+        "paragraphs": [
+          "Episode 22は、花のモチーフと幾何学模様を組み合わせるというデザインの出発点を記す。花は一つを複製して並べるのではなく、形、花弁の数、色、茎の曲線をそれぞれ少しずつ変えて描いたと説明される。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "reconstruction",
+        "title": "複数のスカーフから、一着のシャツへ。",
+        "paragraphs": [
+          "商品ページによると、季節のテーマに沿った図柄をプリントした複数のスカーフを、独自のパターンメイキングで一着のシャツに再構成する。生地は極細シルク経糸と綿の空紡緯糸による軽量ローン。素材欄は綿70％・シルク30％、日本製と記している。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      }
+    ],
+    "closing": "写真の回想、花を一つずつ描く図案、複数のスカーフから作るシャツ。つながりは公式資料が示す範囲で読む。",
+    "bridge_title": "スカーフの図案を、オープンカラーシャツに。",
+    "bridge": "P.JAMETは、複数のプリントスカーフを独自のパターンメイキングで再構成したシャツ。生地はシルク経糸と綿の空紡緯糸によるローンで、綿70％・シルク30％、日本製と表示されている。",
+    "bridge_refs": [
+      "F01"
+    ],
+    "boundary": "Episode 22は本文中でKIYOTAKA HATANAKAを写真家として紹介し、末尾に同氏の名を記している。ここでは掲載された一人称の回想と記名の範囲で扱う。ロンドンや市場の歴史、プリント技法の詳細、実際のスカーフを裁断・縫製する具体的工程について、Episodeや商品ページを超える事実を加えない。",
+    "product_title": "スカーフの図案を、ローンのシャツへ。",
+    "product_paragraphs": [
+      "P.JAMETは、季節のテーマを描いた複数のプリントスカーフを一着に再構成したオープンカラーシャツ。商品ページは、極細シルク経糸と綿の空紡緯糸によるローン、綿70％・シルク30％、日本製と記載する。"
+    ],
+    "product_refs": [
+      "F01"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "p-jamet-aw26",
+        "model": "P.JAMET",
+        "season": "AW26",
+        "number": "NN-0201Y18",
+        "url": "https://www.niceness.jp/en/products/p-jamet",
+        "retained": "花と幾何学を組み合わせた季節テーマの図案。",
+        "changed": "複数のプリントスカーフを独自のパターンメイキングで一着のシャツへ再構成。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS P.JAMET AW26",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/p-jamet",
+        "kind": "brand"
+      },
+      {
+        "id": "B02",
+        "title": "NICENESS Episode 22: Everything a Fiver!",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/episode/everything-a-fiver",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
   }
 ]

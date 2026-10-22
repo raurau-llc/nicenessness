@@ -11,7 +11,7 @@
 
 今後決めるもの：継続的なメンテナーと資料確認担当、コードと記事のライセンス、貢献者名の表示方針、自動デプロイの導入。CODEOWNERSには実在する担当者が決まってから登録します。第三者の原文・写真・ロゴへ一括してライセンスを付与しません。
 
-現在は217記事。研究全件の記事化は後続です。地図は概略図。投稿受付はGitHub Issueを使用し、サイト内の下書き保存そのものは送信ではありません。
+現在は257記事（うち256記事を公開）。研究全件の記事化は後続です。地図は概略図。投稿受付はGitHub Issueを使用し、サイト内の下書き保存そのものは送信ではありません。
 
 ## 記事追加 v4（2026-09-12）
 
@@ -55,3 +55,7 @@ Added 20 stories from SHA-matched fixed research snapshots in release.v11. Each 
 Held back from this batch: T091, T097 and T099, the same three held at the 150-article batch. Their research files no longer hash to their validation records — T097 and T099 were rewritten by the recorded `history-source-type-repair.v1` pass, and T091 differs with no repair record. Adopting them needs a fresh validation record from the research side, not a hash copied out of the file. Eleven snapshots show this drift in total. T048 is not among the open ones: its mismatch was reconciled when it was adopted at batch 03, against the validated 25daded snapshot. T075 carries the same drift with no reconciliation recorded and is not published; re-checking it is a separate task.
 
 Topics without an independently sourced historical fact remain unpublished. Of the 845 completed research topics, 648 were unpublished before this batch and only 52 carry at least one historical fact backed by a non-NICENESS source; brand-statement-only topics are not made into articles.
+
+## 2026-10-22: reviewed publication batch
+
+Adopted 40 independently reviewed proposals and 19 site-gap stories, including corrected T263; T289 remains held pending direct access to its cited primary source. The canonical record and exact-head review outcomes are in `content/revalidation.v21.json`. The production site is expected to contain 256 stories after deployment.
