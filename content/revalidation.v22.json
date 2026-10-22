@@ -12,8 +12,8 @@
   "sourceRecords": [
     {
       "topicId": "T356",
-      "articleStatus": "review",
-      "publicPageGenerated": false,
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
       "sourceUrl": "https://www.niceness.jp/en/products/jordan-26ss",
       "sourceUrls": [
         "https://www.niceness.jp/en/products/jordan-26ss"
@@ -49,12 +49,12 @@
       "overlapScreen": "既存記事のJORDANとの一致なし。既存のチノ・トラウザー記事と異なり、別注チノの説明およびタックへ縫い込むリバーシブルベルトの仕様に限定する。",
       "seasonDisclosure": "SS26",
       "sourceCheckSha256": "acbf7b8e887b152d063fb46f424a6ce6513c3068ff57631b472b16dea93dcec7",
-      "storySha256": "797f9559fa2edd536bfb07f10fa81723c7401a3ac0d5573accfdb016f383a35b"
+      "storySha256": "cc15c1987e6e1691573e3182ee5b1d8668c96670aebb8146af518efe7e2274a2"
     },
     {
       "topicId": "T357",
-      "articleStatus": "review",
-      "publicPageGenerated": false,
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
       "sourceUrl": "https://www.niceness.jp/en/products/d-pomona-26ss",
       "sourceUrls": [
         "https://www.niceness.jp/en/products/d-pomona-26ss"
@@ -90,12 +90,12 @@
       "overlapScreen": "既存記事にD.POMONAの商品記事なし。既存のプルオーバー記事とは、二つのネックラインを持つダブルフロント構造と手作業の加工仕様に焦点を絞って区別する。",
       "seasonDisclosure": "SS26",
       "sourceCheckSha256": "40673553b4be8ac0ea3469bb8521b7e7d67ed9e2137df0815cf53e86322c25c5",
-      "storySha256": "7b2657694dc61e84319002a33214385892e5dbd1facff8b0474bf481958add8b"
+      "storySha256": "1e9f36ec63c37fc2adc00b3657252b0540a4e7180e3b04e7c26f9269511c5716"
     },
     {
       "topicId": "T358",
-      "articleStatus": "review",
-      "publicPageGenerated": false,
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
       "sourceUrl": "https://www.niceness.jp/en/products/s-morton-26ss",
       "sourceUrls": [
         "https://www.niceness.jp/en/products/s-morton-26ss"
@@ -131,12 +131,12 @@
       "overlapScreen": "既存記事にS.MORTONの商品記事なし。既存のジャケット記事と異なり、ツイルチェックの起毛、立体的な一枚仕立ての袖、ボタン配置の説明に限定する。",
       "seasonDisclosure": "SS26",
       "sourceCheckSha256": "d40256ff9c09443f1530ba42bcc36cb8cd16d9ce9855e2600ca098ac9f1817ed",
-      "storySha256": "12a1f26bd43486dbfb06e067735b4558ae7a05947cd0b75ce563e497fcbfdd42"
+      "storySha256": "74fa7786cecafef3453421c7bbd86ae398e9630c7c00ed020e46f65a262105f3"
     },
     {
       "topicId": "T359",
-      "articleStatus": "review",
-      "publicPageGenerated": false,
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
       "sourceUrl": "https://www.niceness.jp/en/products/burman-26ss",
       "sourceUrls": [
         "https://www.niceness.jp/en/products/burman-26ss"
@@ -164,12 +164,12 @@
       "overlapScreen": "既存記事にBURMANの商品記事なし。既存のストール・マフラー記事と異なり、綿ツイルと13色のウールチェックの両面構成、手縫いによる接合を中心にする。",
       "seasonDisclosure": "SS26",
       "sourceCheckSha256": "c266d095dd6ac61595a8ba0728083182899ddc75344f9bdc1f74ac7c55a744c0",
-      "storySha256": "955bc6a5430fca38fa40ad15986c5282d4d82b3629457b36baa5f75a13d5462d"
+      "storySha256": "99a58a7fcddf755bedf92cdbd10a65f327c46624af8cdfbcd240bce70bc88047"
     },
     {
       "topicId": "T360",
-      "articleStatus": "review",
-      "publicPageGenerated": false,
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
       "sourceUrl": "https://www.niceness.jp/en/products/h-klaus-26ss",
       "sourceUrls": [
         "https://www.niceness.jp/en/products/h-klaus-26ss"
@@ -205,7 +205,7 @@
       "overlapScreen": "既存記事にH.KLAUSの商品記事なし。既存のバッグ記事とは異なり、モバイル機器用ケースの側面ファスナー収納と別売りストラップの使い方に限定する。",
       "seasonDisclosure": "SS26",
       "sourceCheckSha256": "cad2b938e2f34c90cc65d36f95d5071874847ed28f009ff22cb9af9010f0342b",
-      "storySha256": "a498a1a08d3ceaedb77ddd2dd6560be948955fae4c7d8555680255810fad9d1d"
+      "storySha256": "bf8ecb902e2423f4380e379da875d014f9daad686e4722bb07253f1698582bbd"
     }
   ],
   "heldArticles": [
@@ -226,5 +226,19 @@
       "status": "review"
     }
   ],
-  "images": "No new image assets were added."
+  "images": "No new image assets were added.",
+  "publicationStatus": "Adoption: T356–T360 promoted to ready after exact-head independent Luna review. Four held articles remain review-only.",
+  "independentReview": {
+    "model": "gpt-6-luna",
+    "reviewedHead": "770684d221f516995f0d0ceb29fa70d16b18aa2c",
+    "pass": [
+      "T356",
+      "T357",
+      "T358",
+      "T359",
+      "T360"
+    ],
+    "hold": [],
+    "summary": "All five articles passed the independent follow-up review. T356 belt-material provenance and T360 mobile-device wording were verified."
+  }
 }

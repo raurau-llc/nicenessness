@@ -9001,7 +9001,7 @@
           ]
         }
       ],
-      "storySha256": "797f9559fa2edd536bfb07f10fa81723c7401a3ac0d5573accfdb016f383a35b",
+      "storySha256": "cc15c1987e6e1691573e3182ee5b1d8668c96670aebb8146af518efe7e2274a2",
       "storyHashBasis": "Canonical SHA-256 of the complete article object in content/articles.json."
     },
     {
@@ -9032,7 +9032,7 @@
           ]
         }
       ],
-      "storySha256": "7b2657694dc61e84319002a33214385892e5dbd1facff8b0474bf481958add8b",
+      "storySha256": "1e9f36ec63c37fc2adc00b3657252b0540a4e7180e3b04e7c26f9269511c5716",
       "storyHashBasis": "Canonical SHA-256 of the complete article object in content/articles.json."
     },
     {
@@ -9063,7 +9063,7 @@
           ]
         }
       ],
-      "storySha256": "12a1f26bd43486dbfb06e067735b4558ae7a05947cd0b75ce563e497fcbfdd42",
+      "storySha256": "74fa7786cecafef3453421c7bbd86ae398e9630c7c00ed020e46f65a262105f3",
       "storyHashBasis": "Canonical SHA-256 of the complete article object in content/articles.json."
     },
     {
@@ -9087,7 +9087,7 @@
           ]
         }
       ],
-      "storySha256": "955bc6a5430fca38fa40ad15986c5282d4d82b3629457b36baa5f75a13d5462d",
+      "storySha256": "99a58a7fcddf755bedf92cdbd10a65f327c46624af8cdfbcd240bce70bc88047",
       "storyHashBasis": "Canonical SHA-256 of the complete article object in content/articles.json."
     },
     {
@@ -9118,7 +9118,7 @@
           ]
         }
       ],
-      "storySha256": "a498a1a08d3ceaedb77ddd2dd6560be948955fae4c7d8555680255810fad9d1d",
+      "storySha256": "bf8ecb902e2423f4380e379da875d014f9daad686e4722bb07253f1698582bbd",
       "storyHashBasis": "Canonical SHA-256 of the complete article object in content/articles.json."
     }
   ],
@@ -9168,5 +9168,25 @@
   ],
   "verificationRecord": "revalidation.v21.json",
   "publicationNote": "Publication dates record the actual 2026-10-22 adoption date. T330, T253, T323 and T289 remain held; see revalidation.v21.json.",
-  "recordedOn": "2026-10-22"
+  "recordedOn": "2026-10-22",
+  "publicationStatus": "Adopted for public release: 262 records, 261 ready stories. T289, T330, T253 and T323 remain review-only.",
+  "independentReview": {
+    "proposalReviews": [
+      {
+        "pr": 25,
+        "reviewedHead": "770684d221f516995f0d0ceb29fa70d16b18aa2c",
+        "pass": [
+          "T356",
+          "T357",
+          "T358",
+          "T359",
+          "T360"
+        ],
+        "hold": [],
+        "summary": "Independent gpt-6-luna exact-head review passed all five. T356 and T360 corrections verified; T357–T359 had no content changes.",
+        "model": "gpt-6-luna",
+        "ci": "GitHub Actions #94 verify, npm ci, test and build succeeded on the reviewed head."
+      }
+    ]
+  }
 }

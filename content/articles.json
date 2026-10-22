@@ -32870,7 +32870,7 @@
       "F02",
       "F03"
     ],
-    "status": "review",
+    "status": "ready",
     "editorialCredit": "NICENESSness 編集",
     "products": [
       {
@@ -32896,7 +32896,9 @@
         "url": "https://www.niceness.jp/en/products/jordan-26ss",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
   },
   {
     "id": "T357",
@@ -32982,7 +32984,7 @@
       "F02",
       "F03"
     ],
-    "status": "review",
+    "status": "ready",
     "editorialCredit": "NICENESSness 編集",
     "products": [
       {
@@ -33007,7 +33009,9 @@
         "url": "https://www.niceness.jp/en/products/d-pomona-26ss",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
   },
   {
     "id": "T358",
@@ -33103,7 +33107,7 @@
       "F02",
       "F03"
     ],
-    "status": "review",
+    "status": "ready",
     "editorialCredit": "NICENESSness 編集",
     "products": [
       {
@@ -33129,7 +33133,9 @@
         "url": "https://www.niceness.jp/en/products/s-morton-26ss",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
   },
   {
     "id": "T359",
@@ -33202,7 +33208,7 @@
       "F01",
       "F02"
     ],
-    "status": "review",
+    "status": "ready",
     "editorialCredit": "NICENESSness 編集",
     "products": [
       {
@@ -33226,7 +33232,9 @@
         "url": "https://www.niceness.jp/en/products/burman-26ss",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
   },
   {
     "id": "T360",
@@ -33317,7 +33325,7 @@
       "F02",
       "F03"
     ],
-    "status": "review",
+    "status": "ready",
     "editorialCredit": "NICENESSness 編集",
     "products": [
       {
@@ -33342,6 +33350,8 @@
         "url": "https://www.niceness.jp/en/products/h-klaus-26ss",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-22",
+    "modifiedAt": "2026-10-22"
   }
 ]
