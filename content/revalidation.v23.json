@@ -3,10 +3,10 @@
   "recordedOn": "2026-10-22",
   "baseline": {
     "commit": "5ef28f60d15442b1628bd4b33fb0c1d28ca815e2",
-    "publicSiteVersion": 15,
-    "publicSiteSource": "388cc5be158ab68b2385455c2aead7e64ecacb36",
+    "publicSiteVersion": 16,
+    "publicSiteSource": "5ef28f60d15442b1628bd4b33fb0c1d28ca815e2",
     "mainArticleCount": 262,
-    "publicArticleCount": 256
+    "publicArticleCount": 261
   },
   "scope": "Draft review articles T361–T365; source claims are confined to official NICENESS product pages. They are not adopted and no public pages are generated.",
   "sourceRecords": [
