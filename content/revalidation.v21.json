@@ -1,0 +1,2751 @@
+{
+  "version": 21,
+  "recordedOn": "2026-10-22",
+  "baseline": {
+    "commit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+    "publicSiteVersion": 14,
+    "publicSiteSource": "b72039181196960518420e3a8deaaf05c17cc314",
+    "mainArticleCount": 217,
+    "publicArticleCount": 197
+  },
+  "publicationStatus": "Adoption proposal: 257 records, 256 ready stories. On merge/deploy, 19 corrected/approved gap stories and 40 proposal stories become public. T289 remains review-only. No held PR article was copied into articles.json.",
+  "independentReview": {
+    "model": "gpt-6-luna",
+    "proposalReviews": [
+      {
+        "pr": 14,
+        "head": "68d61204a3d877b835c285da4c88dd335a5419a6",
+        "pass": [
+          "T102",
+          "T222",
+          "T243",
+          "T300",
+          "T304"
+        ],
+        "hold": [],
+        "summary": "Primary record fidelity, factual boundaries, overlap and Japanese copy passed.",
+        "model": "gpt-6-luna",
+        "ci": "Article and site checks completed successfully at exact reviewed head."
+      },
+      {
+        "pr": 15,
+        "head": "321aee02949e78e0f7ce0e221d22cea9c2bfa693",
+        "pass": [
+          "T091",
+          "T097",
+          "T099",
+          "T317"
+        ],
+        "hold": [],
+        "summary": "Primary record fidelity, source type, overlap, attributed recollection and Japanese copy passed.",
+        "model": "gpt-6-luna",
+        "ci": "Article and site checks completed successfully at exact reviewed head."
+      },
+      {
+        "pr": 17,
+        "head": "4831714e83be0413843713914f6fc812257a284a",
+        "pass": [
+          "T267",
+          "T276",
+          "T277",
+          "T279",
+          "T285",
+          "T290",
+          "T297",
+          "T077"
+        ],
+        "hold": [
+          "T330"
+        ],
+        "summary": "Eight pass; T330 held because cited DoD/Army pages were not retrievable.",
+        "model": "gpt-6-luna",
+        "ci": "Article and site checks completed successfully at exact reviewed head."
+      },
+      {
+        "pr": 18,
+        "head": "1e532f79d971aa95a1533ed5daec354b8d0a6223",
+        "pass": [
+          "T131"
+        ],
+        "hold": [
+          "T253"
+        ],
+        "summary": "T131 passes with 1991/1996 discrepancy disclosed. T253 held: source does not establish MARSH as a direct source or specific issue/use, and Luna found insufficient distinct reader value.",
+        "model": "gpt-6-luna",
+        "ci": "Article and site checks completed successfully at exact reviewed head."
+      },
+      {
+        "pr": 19,
+        "head": "07dbf498315e35c50291b9e9758ad7c6b0f8bf58",
+        "pass": [
+          "T041",
+          "T341",
+          "T039",
+          "T331",
+          "T001",
+          "T015",
+          "T191",
+          "T219"
+        ],
+        "hold": [
+          "T323"
+        ],
+        "summary": "Eight pass; T323 held because H.KENT claims depend on a saved document with unverified issuer/official status.",
+        "model": "gpt-6-luna",
+        "ci": "Article and site checks completed successfully at exact reviewed head."
+      },
+      {
+        "pr": 20,
+        "head": "33ec6c1809894f4f23dec9bb07d54b77a982cad7",
+        "reviewedTree": "535dff8c (matches Luna-reviewed local tree)",
+        "pass": [
+          "T342",
+          "T343",
+          "T344",
+          "T345"
+        ],
+        "hold": [],
+        "summary": "All four official product-specific claims pass.",
+        "model": "gpt-6-luna",
+        "ci": "Article and site checks completed successfully at exact reviewed head."
+      },
+      {
+        "pr": 21,
+        "head": "9cf4bbda13509ec904389fb6b61ee34c5c0b6b19",
+        "pass": [
+          "T346",
+          "T347",
+          "T348",
+          "T349",
+          "T350"
+        ],
+        "hold": [],
+        "summary": "All five pass source, scope, overlap and copy review.",
+        "model": "gpt-6-luna",
+        "ci": "Article and site checks completed successfully at exact reviewed head."
+      },
+      {
+        "pr": 22,
+        "head": "93924332c31884596b81c9646acf44e44d93ed7b",
+        "pass": [
+          "T351",
+          "T352",
+          "T353",
+          "T354",
+          "T355"
+        ],
+        "hold": [],
+        "summary": "All five pass final exact-head review; T351 deck and T353 heading corrections are present.",
+        "model": "gpt-6-luna",
+        "ci": "Article and site checks completed successfully at exact reviewed head."
+      }
+    ],
+    "gapReview": {
+      "reviewedHead": "27d0011a37efe562445ee912ab036a711c767c37",
+      "sourceHead": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+      "pass": [
+        "T010",
+        "T238",
+        "T239",
+        "T250",
+        "T263",
+        "T264",
+        "T269",
+        "T270",
+        "T271",
+        "T272",
+        "T274",
+        "T293",
+        "T298",
+        "T299",
+        "T302",
+        "T314",
+        "T316",
+        "T318",
+        "T327"
+      ],
+      "hold": [
+        "T289"
+      ],
+      "findings": {
+        "T263": "Exact-head review confirms the corrected metadata separates the 1952 museum object from its “M 1951” interior label. Adopted as ready.",
+        "T289": "Held because the cited Library of Congress primary PDF returned 403 and the draft generalizes from one 1952 advertisement."
+      }
+    },
+    "reviewCounts": {
+      "proposalPass": 40,
+      "proposalHold": [
+        "T253",
+        "T323",
+        "T330"
+      ],
+      "gapPass": 19,
+      "gapHold": [
+        "T289"
+      ]
+    },
+    "finalMetadataFixReview": {
+      "reviewer": "independent gpt-6-luna",
+      "reviewedArticleContentSha256": "33d37e92a4bfab62e8cfd60c42eaf801c5f454a1b373151f33b9131a09f870e0",
+      "scope": [
+        "T279 regions[0].id gb→uk",
+        "T355 regions[0].id gb→uk",
+        "T346 products[0].id c-joshua-26ss"
+      ],
+      "conclusion": "PASS. Canonical site geography maps UK as uk, and c-joshua-26ss matches the official product URL/article item field and restores the static item route. Compared to original candidate objects, no sourced claim or editorial copy changed."
+    }
+  },
+  "sourceRecords": [
+    {
+      "sourceRevalidation": "v12",
+      "sourceRecord": {
+        "topicId": "T102",
+        "researchSha256": "b0eaaa5d758b0d6e9833a21c0b0377fbec375f4ceafdf979d849d2c9e54f24b9",
+        "previousValidationSha256": "cd46a0f4af0d8b641c16ada62e3d0e2f5557a8f0422573048089adf5cc55784c",
+        "previousValidationMatches": false,
+        "status": "claims_rechecked_for_proposed_article",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "World Rugby MuseumはBritish & Irish Lionsが1950年に初めて赤いシャツを着用したと説明する。",
+            "sourceIds": [
+              "M01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "Rugby Australiaの収蔵記録はE.R. Johnが1950年豪州遠征で着たシャツを、綿100％、赤身頃・白襟・前に白い3ボタン・背番号24と記す。",
+            "sourceIds": [
+              "M02"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "historical_fact",
+            "claim": "同記録はそのシャツがJohnと対戦相手の豪州選手Sir Nicholas Shehadieの間で交換されたと説明する。",
+            "sourceIds": [
+              "M02"
+            ]
+          },
+          {
+            "id": "F05",
+            "kind": "brand_statement",
+            "claim": "SHACKLOCKは1950年代仏ドレスシャツと英国ラガーシャツを参照し、絹・カディ綿の手織り生地と2色の着脱襟を採用したと公式資料に記す。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F06",
+            "kind": "brand_statement",
+            "claim": "GLASCOCKは1950年代仏ドレスシャツと英国ラガーシャツを参照し、加工した高密度綿ブロードと2色の着脱襟を採用したと公式資料に記す。",
+            "sourceIds": [
+              "B02"
+            ]
+          }
+        ],
+        "primarySources": [
+          {
+            "id": "M01",
+            "url": "https://worldrugbymuseum.com/news/exhibitions/new-special-exhibitions-launched-at-the-world-rugby-museum",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03"
+          },
+          {
+            "id": "M02",
+            "url": "https://artsandculture.google.com/asset/swEMqzlsxcfRKQ?childAssetId=TwFqReIP7ETS0Q",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03"
+          }
+        ],
+        "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
+        "independentApproval": "pending",
+        "boundaries": "1950年の所蔵シャツが直接の原型かは未確認で、襟が取り外せるとも記録されていない。公式説明の「1950年代」が英国ラガーシャツにもかかるか、素材の原料・製織・縫製地も、ここでは補わない。",
+        "overlapReview": "No shared primary-history URL or duplicate central subject found among the 217 existing articles.",
+        "revalidationReason": "The prior validation is stale. Only the selected claims were checked again against live primary sources; archive records and earlier hashes remain unchanged."
+      }
+    },
+    {
+      "sourceRevalidation": "v12",
+      "sourceRecord": {
+        "topicId": "T222",
+        "researchSha256": "2cf3f92327430bc4094753f670537013a9c3d8ee60eeec45553a141f3f814f0b",
+        "previousValidationSha256": "0153253b99ef718738b2b3702bdd559f993c3aab93b193ece2874a3368880888",
+        "previousValidationMatches": false,
+        "status": "claims_rechecked_for_proposed_article",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "UNHの目録は1915〜17年の黒いオットマン絹の婦人スーツ188aの襟先をcloverleafと記述する。作者は不明で、前身頃の左右の襟が重なる。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "AW23 K.ROLANDはクローバーの葉のような丸い襟を特徴とし、1950〜60年代イタリアのジャケットを参照した太番手梳毛のチェック接結生地と説明する。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "primarySources": [
+          {
+            "id": "H01",
+            "url": "https://scholars.unh.edu/bowen_collection/220/",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03"
+          }
+        ],
+        "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
+        "independentApproval": "pending",
+        "boundaries": "1915〜17年のスーツの製造地・着用地、当時の襟型の呼び名、K.ROLANDの具体的な原型は未確認。米国は所蔵地であり、イタリアまでの伝播経路を示すものではない。判読できなかった公式資料の部分も補っていない。",
+        "overlapReview": "K.ROLAND also appears in T063. That article concerns Italian tailoring and London adoption; this article concerns the rounded collar of object 188a and does not repeat that historical narrative.",
+        "revalidationReason": "The prior validation is stale. Only the selected claims were checked again against live primary sources; archive records and earlier hashes remain unchanged."
+      }
+    },
+    {
+      "sourceRevalidation": "v12",
+      "sourceRecord": {
+        "topicId": "T243",
+        "researchSha256": "32da0cb0560ab8c9c786339f363969e8ffef5808f17927a1b2f35aca9a35a2bc",
+        "previousValidationSha256": "32da0cb0560ab8c9c786339f363969e8ffef5808f17927a1b2f35aca9a35a2bc",
+        "previousValidationMatches": true,
+        "status": "claims_rechecked_for_proposed_article",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "UNTは2006.007.023を1973年の白綿Tシャツとして収蔵し、赤い人物図像とMillennium ’73の文字、デザイナーAnn, Kerryを記録する。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "KARLは1970年代米国古着Tシャツの細幅付け襟と袖口仕様を参照し、超長綿強撚生地、ステンシル抜染、製品洗いとタンブラー加工を用いる。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "primarySources": [
+          {
+            "id": "H01",
+            "url": "https://digital.library.unt.edu/ark:/67531/metadc2416402/",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03"
+          }
+        ],
+        "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
+        "independentApproval": "pending",
+        "boundaries": "所蔵品の人物、催事内容、着用者、製造地は未確認。KARLの直接の原型や、同じプリント・襟・袖口を持つ一着とは扱わない。目録のUnited Statesという地域欄から、製造地や着用地を決めていない。",
+        "overlapReview": "No shared primary-history URL or duplicate central subject found among the 217 existing articles."
+      }
+    },
+    {
+      "sourceRevalidation": "v12",
+      "sourceRecord": {
+        "topicId": "T300",
+        "researchSha256": "4fce8f9409734eaceecfd6ebc1d6389aeedda62ebc3d31bc70b0ed4398517b07",
+        "previousValidationSha256": "4fce8f9409734eaceecfd6ebc1d6389aeedda62ebc3d31bc70b0ed4398517b07",
+        "previousValidationMatches": true,
+        "status": "claims_rechecked_for_proposed_article",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "Museum of Indian Arts and Cultureの展覧会説明は、米国南西部のturquoise jewelryを扱い、turquoiseが水・空、豊作、健康、保護を表すと館学芸員の説明を記す。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "同展覧会はturquoiseを地質、採掘、歴史、真正性、価値の各面から扱い、石の意味を物性・流通・文化と併せて検討する。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "DWIGHTはsilver925製horse-head bangleの両目にturquoiseを入れ、繁栄、成功、健やかな身体への願いを込めたと公式資料に記載される。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "primarySources": [
+          {
+            "id": "H01",
+            "url": "https://media.newmexicoculture.org/press_releases.php/292/?action=detail&releaseID=292",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03"
+          }
+        ],
+        "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
+        "independentApproval": "pending",
+        "boundaries": "DWIGHTの石の産地・採掘地・加工者、願いの文化的な出典は未確認。展覧会が紹介する意味との類似から、特定の共同体の伝統を直接継ぐ装身具とはしていない。願いを、石による実際の効能とも扱わない。",
+        "overlapReview": "No shared primary-history URL or duplicate central subject found among the 217 existing articles."
+      }
+    },
+    {
+      "sourceRevalidation": "v12",
+      "sourceRecord": {
+        "topicId": "T304",
+        "researchSha256": "18dbabb6706b640621e503e210659a88a3c4b78a693e1967c6a614ebb2bcc409",
+        "previousValidationSha256": "18dbabb6706b640621e503e210659a88a3c4b78a693e1967c6a614ebb2bcc409",
+        "previousValidationMatches": true,
+        "status": "claims_rechecked_for_proposed_article",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "Cardinのバルーンドレスは1950年代の造形例として扱う。公式沿革はbubble dressを1954年、シンガポール国立博物館は導入を1950年代末と記すため、導入年を断定しない。同館は1960年代の幾何学的シフトドレスも記す。",
+            "sourceIds": [
+              "H01",
+              "H03"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "The Museum at FITは1957〜68年Paris coutureとready-to-wearの変化を扱い、1960年代に複数couturierが彫刻的silhouetteを作ったと示す。",
+            "sourceIds": [
+              "H02"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "CALMは1960年代Parisのcouturierが好んだballoon silhouetteをcasual itemへ落とし込んだと公式資料に記載される。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "primarySources": [
+          {
+            "id": "H01",
+            "url": "https://www.roots.gov.sg/Collection-Landing/listing/1020294",
+            "retrieval": "body_read",
+            "method": "browser",
+            "checkedOn": "2026-10-03"
+          },
+          {
+            "id": "H02",
+            "url": "https://www.fitnyc.edu/museum/exhibitions/paris-refashioned.php",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03"
+          },
+          {
+            "id": "H03",
+            "url": "https://pierrecardin.com/en/pages/la-maison",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03",
+            "locator": "PIERRE CARDIN / VISIONARY CREATOR AND BUSINESSMAN",
+            "verifiedClaim": "The House states that Cardin created the bubble dress in 1954."
+          }
+        ],
+        "brandEvidence": "Fixed official product snapshot or user-attested official archive book; paraphrased, no full description or scan copied.",
+        "independentApproval": "pending",
+        "boundaries": "CALMが直接参照したクチュリエ、作品、製作年は未特定。CardinのドレスをCALMの原型とはしていない。Cardin公式沿革はbubble dressを1954年、博物館解説はバルーンドレスの導入を1950年代末と記すため、本記事では1950年代の造形例として扱い、導入年を一つに断定しない。",
+        "overlapReview": "No shared primary-history URL or duplicate central subject found among the 217 existing articles.",
+        "editorialCorrection": {
+          "factId": "F01",
+          "reason": "Independent review found conflicting dates. The live official Cardin history was read; adoption-year comparison was removed and the article broadened to the 1950s.",
+          "researchArchiveChanged": false,
+          "researchHashMeaning": "Hash still identifies the unchanged research snapshot; this verification record explicitly corrects the selected claim for the article.",
+          "independentApproval": "pending"
+        }
+      }
+    },
+    {
+      "sourceRevalidation": "v13",
+      "sourceRecord": {
+        "topicId": "T091",
+        "researchSha256": "ec1c5e059b4fa46d479d9edc7413b810be489dce243199104ab1437520446ffa",
+        "previousValidationSha256": "4615ada8f671790a01d19441f83a661cbd4a59535d0599525b3173e9884487dd",
+        "status": "claims_rechecked_for_proposed_article",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "Met所蔵「桑名 七里渡口」JP1491は歌川広重の1833〜34年頃の紙上多色木版で、船が桑名港へ到着する場面と解説される。",
+            "sourceIds": [
+              "M01"
+            ]
+          },
+          {
+            "id": "F04",
+            "kind": "historical_fact",
+            "claim": "Metは「御油」の画中表示を、絵師Ichiryūsai、彫師Jirobei、摺師Heibei、版元Takenouchiと解説する。",
+            "sourceIds": [
+              "M03"
+            ]
+          },
+          {
+            "id": "F06",
+            "kind": "brand_statement",
+            "claim": "B.MAXIMは東海道五十三次から帆船・富士山・桜・松の風景柄を着想し、北陸製織・京都抜染の生地にフェード加工したと公式に説明する。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F07",
+            "kind": "brand_statement",
+            "claim": "B.PALMERは東海道五十三次に着想した港町風景を、北陸製織・京都着色抜染の生地とフェード加工で表したと公式に説明する。",
+            "sourceIds": [
+              "B02"
+            ]
+          }
+        ],
+        "primarySources": [
+          {
+            "id": "M01",
+            "url": "https://www.metmuseum.org/art/collection/search/55587",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03",
+            "locator": "Artwork details / JP1491",
+            "verifiedClaim": "The Met states two boats in the foreground are about to reach Kuwana port. No claim of raised sails in these arriving boats. Hiroshige, ca.1833–34, multicolor woodblock on paper."
+          },
+          {
+            "id": "M03",
+            "url": "https://www.metmuseum.org/art/collection/search/36957",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03",
+            "locator": "Curatorial description / JP506",
+            "verifiedClaim": "Cartouches identify artist, engraver and printer; publisher name appears in a partially hidden circle."
+          }
+        ],
+        "brandEvidence": "Fixed official Web corpus snapshot (2026-09-08); current public URLs were checked where body retrievable. No price, availability or unsupported provenance inferred.",
+        "independentApproval": "pending",
+        "boundaries": "NICENESSが参照した絵師、シリーズの版、宿場、具体的な原図は未特定。所蔵版画を商品の直接の原型とはしていない。版画の制作分担を、現在の服の製作工程と同一視もしない。",
+        "hashDriftEvidence": "Current research matches committed85fcb8e snapshot, while old history-validation hash differs. No later full-research validation is claimed. Selected claims F01/F04 were rechecked against live Met bodies; unused F02/F03/F05 not adopted.",
+        "overlapReview": "No duplicate central subject or primary history URL among217 baseline articles or the five pending PR14 additions.",
+        "inputResearchSha256": "8b506ff6376297ae4be91b280ecc955653d3cc384e487837006ce454f814adf7",
+        "freshResearchRecord": "research-revalidation-20261004/T091.rechecked.json",
+        "freshResearchValidation": "research-revalidation-20261004/T091.validation.json",
+        "freshValidationScope": "Only the explicitly adopted claims for this proposed article; no certification of unused claims or entire archive.",
+        "brandSnapshotChecks": [
+          {
+            "model": "B.MAXIM",
+            "productId": "gid://shopify/Product/9219503751336",
+            "sourceUrl": "https://www.niceness.jp/products/b-maxim-26ss",
+            "descriptionSha256": "089bcf2a2a17496e124df8088627da271de18bbeab3e57ee26ec54659a100f10",
+            "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+          },
+          {
+            "model": "B.PALMER",
+            "productId": "gid://shopify/Product/9219503882408",
+            "sourceUrl": "https://www.niceness.jp/products/b-palmer-26ss",
+            "descriptionSha256": "2fd39c32cae7eed9393625c7e855d25dbee3a2c1aed096c54a3f24c8abbeda22",
+            "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+          }
+        ],
+        "officialCorpusSha256": "503cc52f1a2e78d0e6c952ffb78a2a1bad71660d5cf07cbad353dce0e0f3f5cd",
+        "previousValidationMatchesInputSnapshot": false,
+        "editorialCorrection": "Independent review found the foreground arriving boats have lowered sails; changed the opening to two boats approaching Kuwana, as the Met text directly states. No product or other historical claims changed."
+      }
+    },
+    {
+      "sourceRevalidation": "v13",
+      "sourceRecord": {
+        "topicId": "T097",
+        "researchSha256": "32f77a68e4dcee17319fecaaaa6df57e8a5105aea2c6b9f907f13d0bfb24dbf9",
+        "previousValidationSha256": "9db75e1bacb64e05777f2155080223fb58dc8d5f37b78d85eb582c2b18793165",
+        "status": "claims_rechecked_for_proposed_article",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "London MuseumはKim Philpottsが1980年代に購入したKatharine Hamnettの綿ジーンズを収蔵し、製作年代を1980〜1989年とする。",
+            "sourceIds": [
+              "M01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "同館はPhilpottsがロンドン転居後に英国の女性デザイナーの服を好み、1980年代にはLevi’s 501も着用したと記す。",
+            "sourceIds": [
+              "M01"
+            ]
+          },
+          {
+            "id": "F04",
+            "kind": "brand_statement",
+            "claim": "CHARLESは1980年代英国デニムトラウザーを参照した後ろ高の型に、ムラ感のある綿デニムとグラフィック入り裏地を採用したと公式に説明する。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F05",
+            "kind": "brand_statement",
+            "claim": "P.CHARLESは1980年代英国デニムトラウザーを参照した後ろ高の型に、14ウェールコーデュロイと京都で加工した花柄を採用したと公式に説明する。",
+            "sourceIds": [
+              "B02"
+            ]
+          }
+        ],
+        "primarySources": [
+          {
+            "id": "M01",
+            "url": "https://www.londonmuseum.org.uk/collections/v/object-782287/trousers-jeans/",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03",
+            "locator": "Description and Object details / 2010.53/23",
+            "verifiedClaim": "Kim Philpotts bought Hamnett cotton jeans in the 1980s; wore Levi’s501; records one individual wardrobe, not a general dress code."
+          }
+        ],
+        "brandEvidence": "Fixed official Web corpus snapshot (2026-09-08); current public URLs were checked where body retrievable. No price, availability or unsupported provenance inferred.",
+        "independentApproval": "pending",
+        "boundaries": "Hamnettの所蔵品の型紙や背面の高さは、目録本文では確認できない。CHARLESの直接の原型ともしていない。持ち主の生活地を縫製地へ読み替えず、ひとりの服選びを英国全体の着用規範へ広げない。",
+        "hashDriftEvidence": "research target-preparation/history-source-type-repair.v1/validation.json reports PASS. Before/current diff contains only retailer source.type normalization, no fact changes. Historical claims were separately re-read from primary source bodies today; old validation remains unchanged.",
+        "overlapReview": "No duplicate central subject or primary history URL among217 baseline articles or the five pending PR14 additions.",
+        "inputResearchSha256": "9ce1ec434b2f74194761e5a2f250cea1d670e355c529eb2c69aba39d54c5496d",
+        "freshResearchRecord": "research-revalidation-20261004/T097.rechecked.json",
+        "freshResearchValidation": "research-revalidation-20261004/T097.validation.json",
+        "freshValidationScope": "Only the explicitly adopted claims for this proposed article; no certification of unused claims or entire archive.",
+        "brandSnapshotChecks": [
+          {
+            "model": "CHARLES",
+            "productId": "gid://shopify/Product/9468654420136",
+            "sourceUrl": "https://www.niceness.jp/products/charles",
+            "descriptionSha256": "bc2793b253722c24f4165d3cbcddd1879a74f2d64e2909c11d26ad3ab549c175",
+            "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+          },
+          {
+            "model": "P.CHARLES",
+            "productId": "gid://shopify/Product/9469536501928",
+            "sourceUrl": "https://www.niceness.jp/products/p-charles",
+            "descriptionSha256": "d07285fc65e4f28bc9bbd196cdb7acab4e46226ea492fc049a51f63207d71716",
+            "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+          }
+        ],
+        "officialCorpusSha256": "503cc52f1a2e78d0e6c952ffb78a2a1bad71660d5cf07cbad353dce0e0f3f5cd",
+        "previousValidationMatchesInputSnapshot": false
+      }
+    },
+    {
+      "sourceRevalidation": "v13",
+      "sourceRecord": {
+        "topicId": "T099",
+        "researchSha256": "8f5287aa03cbd9b909c08552432044791a685f186a7ca832859e103a7f775e9b",
+        "previousValidationSha256": "411cdead5324f1c8e8584d9cd5a60688fdd3def67488016ca9dfa8638a45b92b",
+        "status": "claims_rechecked_for_proposed_article",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "Archie Greenはフリスコジーンズを厚い黒綿綾織のストレートパンツと説明し、Ben Davisが1935年からサンフランシスコで製造したと記す。",
+            "sourceIds": [
+              "E01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "同紙の1948年レイバーデー行進写真は、Market Streetを歩くSUP集団の装いを白シャツ、フリスコジーンズ、白い帽子と説明する。",
+            "sourceIds": [
+              "E01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "historical_fact",
+            "claim": "同記事が引用する船員Joe Gladstoneの回想は、黒いフリスコジーンズを含む非公式な装いを、西海岸船員への帰属感と結び付けている。",
+            "sourceIds": [
+              "E01"
+            ]
+          },
+          {
+            "id": "F04",
+            "kind": "brand_statement",
+            "claim": "N.MORLEYは1950年代米国フリスコ型に英国スラックスの構造を組み合わせ、リネンに1950年代デニムの表情を転写したと公式に説明する。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F05",
+            "kind": "brand_statement",
+            "claim": "S.MORLEYは1950年代米国フリスコ型に英国スラックスの構造を組み合わせ、裏面にシルクを配した絹綿コーデュロイで製作したと公式に説明する。",
+            "sourceIds": [
+              "B02"
+            ]
+          }
+        ],
+        "primarySources": [
+          {
+            "id": "E01",
+            "url": "https://www.sailors.org/sites/default/files/newsletter/pdf/harrylundebergcentennial.pdf",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03",
+            "locator": "WEST COAST SAILORS 2001-03-30, printed page3",
+            "verifiedClaim": "Green describes straight-leg heavy black cotton twill pants; the1948 parade caption lists frisco jeans; quoted later Gladstone memoir calls clothing unofficial and associates it with West Coast belonging."
+          }
+        ],
+        "brandEvidence": "Fixed official Web corpus snapshot (2026-09-08); current public URLs were checked where body retrievable. No price, availability or unsupported provenance inferred.",
+        "independentApproval": "pending",
+        "boundaries": "1948年の写真は、ブランドが挙げる1950年代より前の比較例。Greenの記事は2001年の回顧資料で、Gladstoneの体験も後年の回想を通して伝わる。写真のパンツの製造者や、NICENESSの具体的な原型は特定していない。",
+        "hashDriftEvidence": "research target-preparation/history-source-type-repair.v1/validation.json reports PASS. Before/current diff contains only retailer source.type normalization, no fact changes. Historical claims were separately re-read from primary source bodies today; old validation remains unchanged.",
+        "overlapReview": "No duplicate central subject or primary history URL among217 baseline articles or the five pending PR14 additions.",
+        "inputResearchSha256": "4f4bf484d255c5e3b8352f804945447730de8caf6fae9c49c7785bed35ae82bc",
+        "freshResearchRecord": "research-revalidation-20261004/T099.rechecked.json",
+        "freshResearchValidation": "research-revalidation-20261004/T099.validation.json",
+        "freshValidationScope": "Only the explicitly adopted claims for this proposed article; no certification of unused claims or entire archive.",
+        "brandSnapshotChecks": [
+          {
+            "model": "N.MORLEY",
+            "productId": "gid://shopify/Product/9469546856616",
+            "sourceUrl": "https://www.niceness.jp/products/n-morley",
+            "descriptionSha256": "b3858d0c7c9d0e9aa2e5e6f2d17d2c779aefff7a1748de9dc40d4a13542e124f",
+            "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+          },
+          {
+            "model": "S.MORLEY",
+            "productId": "gid://shopify/Product/9469550166184",
+            "sourceUrl": "https://www.niceness.jp/products/s-morley",
+            "descriptionSha256": "8f04a3874687c50920726a2a5548cf768f0fdd45e0e8fcca4c6d117f6daaaf84",
+            "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+          }
+        ],
+        "officialCorpusSha256": "503cc52f1a2e78d0e6c952ffb78a2a1bad71660d5cf07cbad353dce0e0f3f5cd",
+        "previousValidationMatchesInputSnapshot": false
+      }
+    },
+    {
+      "sourceRevalidation": "v13",
+      "sourceRecord": {
+        "topicId": "T317",
+        "researchSha256": "6ccf49c259a6f7b8f7ec4c28bbf39d1799c2ad21b6ed6dcb530f733b81ee0a4a",
+        "previousValidationSha256": "f5ada0ccb04e19c9747e04f5ec3ea969d271c43d0faa4a170a7949bfd6f21778",
+        "status": "claims_rechecked_for_proposed_article",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "Denmark国立博物館所蔵の英国M/1953 infantry combat smockはolive canvas、zip、epaulette、胸・side pocketを備える。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "LYNELLは1970年代米英仏field jacketの要素を織り交ぜたoriginal型と公式資料に記載される。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "primarySources": [
+          {
+            "id": "H01",
+            "url": "https://samlinger.natmus.dk/khs/object/48332",
+            "retrieval": "body_read",
+            "method": "web",
+            "checkedOn": "2026-10-03",
+            "locator": "Beskrivelse; Brugt / object48332",
+            "verifiedClaim": "M/1953, olive canvas, zipper, shoulder straps, breast and side pockets. Usage is presumed, broadly1945–1991; does not establish specific1970s wear."
+          }
+        ],
+        "brandEvidence": "Fixed official Web corpus snapshot (2026-09-08); current public URLs were checked where body retrievable. No price, availability or unsupported provenance inferred.",
+        "independentApproval": "pending",
+        "boundaries": "所蔵スモックをLYNELLの直接の原型とは扱わない。M/1953を1970年代の服と断定せず、所蔵地のデンマークを製造地にも読み替えない。既存記事が扱う米国での型式選択とは別に、ここでは英国の個体の構成を読む。",
+        "overlapReview": "LYNELL also appears inT316, which concerns US model choice and civilian adoption. This article concerns the structure and catalog limits of British object48332; no historical source or narrative reused.",
+        "additionalSourceFields": [
+          "object number e3486.a.2",
+          "presumed usage England1945–1991"
+        ],
+        "inputResearchSha256": "f5ada0ccb04e19c9747e04f5ec3ea969d271c43d0faa4a170a7949bfd6f21778",
+        "freshResearchRecord": "research-revalidation-20261004/T317.rechecked.json",
+        "freshResearchValidation": "research-revalidation-20261004/T317.validation.json",
+        "freshValidationScope": "Only the explicitly adopted claims for this proposed article; no certification of unused claims or entire archive.",
+        "brandSnapshotChecks": [
+          {
+            "model": "LYNELL",
+            "productId": "gid://shopify/Product/9219459842216",
+            "sourceUrl": "https://www.niceness.jp/products/lynell-26ss",
+            "descriptionSha256": "d65f00c1a0d4604e5b121d84161905ecd83efed1ff3d4d145e32c978959f35e0",
+            "verifiedFrom": "fixed official corpus snapshot 2026-09-08; selected statements directly read and compared to article"
+          }
+        ],
+        "officialCorpusSha256": "503cc52f1a2e78d0e6c952ffb78a2a1bad71660d5cf07cbad353dce0e0f3f5cd",
+        "previousValidationMatchesInputSnapshot": true
+      }
+    },
+    {
+      "sourceRevalidation": "v14",
+      "sourceRecord": {
+        "topicId": "T267",
+        "researchSha256": "36c4d2abd66d38b36e0d190acac70cb1cd62f57e3cf208daa76cbdf303f5d2ff",
+        "previousValidationSha256": "36c4d2abd66d38b36e0d190acac70cb1cd62f57e3cf208daa76cbdf303f5d2ff",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "Georgia O’Keeffe MuseumはLiving Modern展で、本人が衣服と撮影時のポーズを通じて進歩的で独立した生活像を作ったと位置づける。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "Cleveland Museum of ArtはO’Keeffeが機能的で簡素な服、ローブやケープ、ラップ、ポケットを好んだという展覧会講演を紹介する。",
+            "sourceIds": [
+              "H02"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "SS26 GEORGIAは米軍ボートシューズとO’Keeffeの汚れた「コモドール」をイメージした革製ヨットシューズと説明される。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F04",
+            "kind": "historical_fact",
+            "claim": "Georgia O’Keeffe Museum Accessの個体2000.3.689はSperry Top-Siderの白いキャンバススニーカーと記録される。NICENESSが呼ぶ「Commodore」と同一品かは確認できない。",
+            "sourceIds": [
+              "H03"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H01",
+            "title": "Georgia O’Keeffe: Living Modern",
+            "publisher": "Georgia O’Keeffe Museum",
+            "type": "museum_exhibition",
+            "url": "https://collections.okeeffemuseum.org/exhibition/34/"
+          },
+          {
+            "id": "H02",
+            "title": "Dressing for the Photographer: Georgia O’Keeffe and Her Clothes",
+            "publisher": "Cleveland Museum of Art",
+            "type": "museum_article",
+            "url": "https://www.clevelandart.org/articles/dressing-photographer-georgia-okeeffe-and-her-clothes"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS GEORGIA",
+            "publisher": "NICENESS",
+            "type": "official_product_fixed_snapshot",
+            "url": "https://www.niceness.jp/products/georgia-1"
+          },
+          {
+            "id": "H03",
+            "title": "Sperry Top-Sider white canvas sneakers, well-worn and soiled with clay",
+            "publisher": "Georgia O’Keeffe Museum Access",
+            "type": "museum_collection",
+            "url": "https://access-ok.okeeffemuseum.org/object/10108/"
+          }
+        ],
+        "claimsStatus": "Existing exhibition and clothing claims were mapped to fixed records; the Access object record for Sperry Top-Sider was reopened. The museum record does not identify a Commodore shoe or establish a link to GEORGIA.",
+        "brandEvidence": "Public official product page used for the GEORGIA wording. The Sperry record is a separate museum object record.",
+        "editorialReview": "Pending independent editorial review.",
+        "boundary": "「Commodore」はブランド説明の呼称として扱う。美術館記録との同一性やGEORGIAの直接の原型関係は特定できない。",
+        "overlapReview": "T267 remains a clothing-and-portrait story. The Sperry record distinguishes a museum catalog entry from the brand’s “Commodore” phrasing; it does not establish a same-shoe identification. A curated link points to T266 for the separate shoe record."
+      }
+    },
+    {
+      "sourceRevalidation": "v14",
+      "sourceRecord": {
+        "topicId": "T276",
+        "researchSha256": "eb74a5b1fd88e319edea54d0f7eb47b82f331dc55bb58958990a5166ee50cfb7",
+        "previousValidationSha256": "eb74a5b1fd88e319edea54d0f7eb47b82f331dc55bb58958990a5166ee50cfb7",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+        "usedFacts": [
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "Paris Muséesの個体2016.1.143.1はPeau d’Ane製、Saint-Tropez、製作circa 1970と登録される一方、写真説明はcirca 1961とする。短い袖なし綿ベストで前合わせとボタンがある。製作年と写真年の記載は整合しない。",
+            "sourceIds": [
+              "H02"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "FLINTは1960年代フランス農夫ベストの要素を同年代米国エンジニアジャケットへ合わせたと公式資料に記載される。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H02",
+            "title": "Gilet",
+            "publisher": "Paris Musées",
+            "type": "museum_collection",
+            "url": "https://www.parismuseescollections.paris.fr/en/node/1016466"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS FLINT",
+            "publisher": "NICENESS",
+            "type": "official_user_attested_document",
+            "url": null
+          }
+        ],
+        "claimsStatus": "Paris Musées record reopened. It separately lists circa-1970 production and circa-1961 photography; this contradiction is preserved rather than resolved.",
+        "brandEvidence": "The saved FLINT material was visually inspected at the claim-bearing portion. It was supplied as NICENESS material by the user; issuer and contents have not been independently authenticated, and it has no public URL.",
+        "editorialReview": "Pending independent editorial review.",
+        "boundary": "Paris Muséesの一着は製作 circa 1970・写真 circa 1961と記録され、その不一致は未解決。製作者、用途、着用者を「農夫」とは特定しない。FLINTと同じ型や原型とも確認されていない。",
+        "overlapReview": "The new focus is one Paris Musées record and its conflicting production/photo dates. It does not identify the wearer as a farmer; the INA context was removed."
+      }
+    },
+    {
+      "sourceRevalidation": "v14",
+      "sourceRecord": {
+        "topicId": "T277",
+        "researchSha256": "c28187d1d91e733434835280b84767ceacade7870121b1f11c9cb3de22709112",
+        "previousValidationSha256": "c28187d1d91e733434835280b84767ceacade7870121b1f11c9cb3de22709112",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "Martha’s Vineyard Museumの写真目録には、1950年代または1960年代、長袖ジャケットと胸までのウェーダーを着用して波打ち際で釣りをする男性の写真が記録される。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "LYLEは1960年代フィッシャーマンジャケットをデザインの参照にし、フランス農夫ベストの要素を加え、1950年代フランスのワークウェアの凹凸ストライプを参照した別注生地で仕立てたと公式資料に記載される。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H01",
+            "title": "Martha's Vineyard Museum Photograph Collection RU 515",
+            "publisher": "Martha's Vineyard Museum",
+            "type": "public_archive_catalog",
+            "url": "https://www.mvmuseum.org/EAD_FindingAids/findingaid_get.php?record-unit=RU515"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS LYLE",
+            "publisher": "NICENESS",
+            "type": "official_user_attested_document",
+            "url": null
+          }
+        ],
+        "claimsStatus": "MVM finding-aid record reopened. The Les Pêcheries PDF was not retrievable and its claims/source were removed.",
+        "brandEvidence": "The saved LYLE material was visually inspected at the claim-bearing portion. It was supplied as NICENESS material by the user; issuer and contents have not been independently authenticated, and it has no public URL.",
+        "editorialReview": "Pending independent editorial review.",
+        "boundary": "Martha’s Vineyard Museumの目録は写真の人物を職業的な漁師とは特定せず、ジャケットを防水着とも記していない。LYLEとの直接の原型関係も確認されていない。",
+        "overlapReview": "The central item is MVM photo catalog record 2001.32.916, a surf-fishing scene. It says neither occupation nor waterproofing; the inaccessible Les Pêcheries comparison was removed."
+      }
+    },
+    {
+      "sourceRevalidation": "v14",
+      "sourceRecord": {
+        "topicId": "T279",
+        "researchSha256": "72e1746502307e65fa45317dfdc3fd9849a7510ccefdb04bf5f1242aa71cb0e4",
+        "previousValidationSha256": "72e1746502307e65fa45317dfdc3fd9849a7510ccefdb04bf5f1242aa71cb0e4",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+        "usedFacts": [
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "Australian War Memorial所蔵の英国軍復員兵用Pattern M259は約1946年の英国製で、綿ギャバジンの表地、タータン裏地、茶色のプラスチックボタン、左右の腰ポケットを備える。",
+            "sourceIds": [
+              "H02"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "FINNは1950年代の英国軍レインコートとフランスのアトリエコートを掛け合わせ、リネン・コットン二重織りにシルケット加工と洗い加工を施し、手縫いで仕立てたと公式資料に記載される。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H02",
+            "title": "British Army Demobilized Serviceman’s Raincoat",
+            "publisher": "Australian War Memorial",
+            "type": "museum_collection",
+            "url": "https://www.awm.gov.au/collection/C317465"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS FINN",
+            "publisher": "NICENESS",
+            "type": "official_user_attested_document",
+            "url": null
+          }
+        ],
+        "claimsStatus": "AWM record reopened. The record’s button material is represented as “plastic.” The inaccessible NAM inventory was removed with its comparative claims.",
+        "brandEvidence": "The saved FINN material was visually inspected at the claim-bearing portion. It was supplied as NICENESS material by the user; issuer and contents have not been independently authenticated, and it has no public URL.",
+        "editorialReview": "Pending independent editorial review.",
+        "boundary": "M259は1946年頃の英国製一着で、FINNの公式参照と同じ型式とは確認されていない。歴史的な素材・仕様と現行品の説明は別々に示す。",
+        "overlapReview": "The article treats only AWM object M259, recorded circa 1946. The inaccessible NAM comparison was removed; “表地” and “プラスチックボタン” follow the source. A curated link points to T280 for the atelier-workwear context."
+      }
+    },
+    {
+      "sourceRevalidation": "v14",
+      "sourceRecord": {
+        "topicId": "T285",
+        "researchSha256": "1554536e75eab9461c34b6c9f856cf38471a11fbb6ec117bd95432532b334141",
+        "previousValidationSha256": "1554536e75eab9461c34b6c9f856cf38471a11fbb6ec117bd95432532b334141",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "MoMAはフーディを中央ジップの有無がある厚手の綿ジャージーまたはポリエステル製フード付きスウェットと説明し、1950〜60年代に大学生へ、1970年代半ば以降にNew Yorkのhip-hop文化等へ広がったとする。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "The Metは個別の「Sweat shirt」を1979年、Culture: American、素材はcotton, plastic, acrylicと登録する。記録はフードや製造国を示していない。",
+            "sourceIds": [
+              "H02"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "GRAAFは1960〜70年代米国フーディを参照し、着脱のためジップを追加し、デルタナイロンと綿の32ゲージ裏毛でヘッドカバーに再構成したと公式資料に記載される。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H01",
+            "title": "Champion Hooded Sweatshirt model VC178012",
+            "publisher": "Museum of Modern Art",
+            "type": "museum_collection",
+            "url": "https://www.moma.org/collection/works/274908"
+          },
+          {
+            "id": "H02",
+            "title": "Sweat shirt",
+            "publisher": "The Metropolitan Museum of Art",
+            "type": "museum_collection",
+            "url": "https://www.metmuseum.org/art/collection/search/99005"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS GRAAF",
+            "publisher": "NICENESS",
+            "type": "official_user_attested_document",
+            "url": null
+          }
+        ],
+        "claimsStatus": "MoMA and Met collection records reopened. Met is represented as the individual 1979 sweat shirt record; no hoodie or manufacturing-country claim is made.",
+        "brandEvidence": "The saved GRAAF material was visually inspected at the claim-bearing portion. It was supplied as NICENESS material by the user; issuer and contents have not been independently authenticated, and it has no public URL.",
+        "editorialReview": "Pending independent editorial review.",
+        "boundary": "Metの1979年のスウェットシャツはフーディーとは確認できない。GRAAFはその収蔵品の再現ではなく、現代商品の素材・構成はブランド保存資料の説明として扱う。",
+        "overlapReview": "The article focuses on hooded-sweatshirt shape and adoption. The Met 1979 “Sweat shirt” is not called a hoodie and “Culture: American” is not treated as manufacturing country."
+      }
+    },
+    {
+      "sourceRevalidation": "v14",
+      "sourceRecord": {
+        "topicId": "T290",
+        "researchSha256": "fc32f720331f7d402c84770d612c3d1622717f310b94e89aa86e9e7e5d1f9832",
+        "previousValidationSha256": "fc32f720331f7d402c84770d612c3d1622717f310b94e89aa86e9e7e5d1f9832",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+        "usedFacts": [
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "Autry MuseumのEddie Dean舞台スーツはDate欄が1950–1975、Remarksがcirca early 1950s。毛ギャバジンのジャケットに胸・腰ポケットと背腰の青いパイピングが記録される。",
+            "sourceIds": [
+              "H02"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "historical_fact",
+            "claim": "Philadelphia Museum所蔵の1940年代後半〜50年代初頭Claire McCardell製女性用suitは、businessとcasual双方に適する短いjacketを備え、縁飾りとwelt pocketを用いる。",
+            "sourceIds": [
+              "H03"
+            ]
+          },
+          {
+            "id": "F04",
+            "kind": "brand_statement",
+            "claim": "C.MAXIMは1940〜50年代US sports jacketを参照し、立体形と着物に通じる直線構成、流鏑馬とcowboyの図柄を北陸製rayon・cotton gabardineへ京都で手刷りしたと公式資料に記載される。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H02",
+            "title": "Suit by Nudie’s Rodeo Tailors",
+            "publisher": "Autry Museum of the American West",
+            "type": "museum_collection",
+            "url": "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM504559%3Btype%3D101"
+          },
+          {
+            "id": "H03",
+            "title": "Woman’s Suit: Jacket and Skirt",
+            "publisher": "Philadelphia Museum of Art",
+            "type": "museum_collection",
+            "url": "https://www.philamuseum.org/objects/92566"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS C.MAXIM",
+            "publisher": "NICENESS",
+            "type": "official_product_fixed_snapshot",
+            "url": "https://www.niceness.jp/products/c-maxim-26ss"
+          }
+        ],
+        "claimsStatus": "Autry Museum record reopened. The broad Date field (1950–1975) is distinguished from Remarks (circa early 1950s); the latter is the stated source of the approximate date in the article. The suit is identified as Eddie Dean stagewear; blue piping is located at the back waist.",
+        "brandEvidence": "Current public C.MAXIM product page reopened; its product season is SS26.",
+        "editorialReview": "Pending independent editorial review.",
+        "boundary": "Autryの舞台衣装やMcCardellの女性用スーツがC.MAXIMの直接の原型とは確認されていない。ブランドが挙げるスポーツジャケットの参照は別の説明として扱い、収蔵例を一般的なスポーツジャケットの標準とはしない。",
+        "overlapReview": "The story compares Autry’s Eddie Dean stage suit with the Philadelphia Museum of Art women’s business/casual suit, distinct from T157/T158; curated links point to the existing Yabusame and western motif stories. Neither collection record is presented as C.MAXIM’s direct source."
+      }
+    },
+    {
+      "sourceRevalidation": "v14",
+      "sourceRecord": {
+        "topicId": "T297",
+        "researchSha256": "3d93829ec9e9217d0abaf912a90d0ad4395c68a809a5dc00832fef38f787b2a8",
+        "previousValidationSha256": "3d93829ec9e9217d0abaf912a90d0ad4395c68a809a5dc00832fef38f787b2a8",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "The Museum at FITは1930年代にski、golf、swimwearなどのactivewearが拡大し、装飾printもsportswearに取り入れられたと説明する。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "R.PARADAは1930年代後半sweatshirtを参照したhalf-zip pulloverに、往年sportswearを想起させる胸graphicを配したと公式資料に記載される。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H01",
+            "title": "Elegance in an Age of Crisis: Fashions of the 1930s",
+            "publisher": "The Museum at FIT",
+            "type": "museum_exhibition",
+            "url": "https://exhibitions.fitnyc.edu/fashions-of-the-1930s/"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS R.PARADA",
+            "publisher": "NICENESS",
+            "type": "official_product_fixed_snapshot",
+            "url": "https://www.niceness.jp/products/r-parada"
+          }
+        ],
+        "claimsStatus": "FIT exhibition record and R.PARADA page reopened. The exhibition is described as a museum catalog context, not as the product’s direct source.",
+        "brandEvidence": "Current public R.PARADA product page reopened; its product season is AW25.",
+        "editorialReview": "Pending independent editorial review.",
+        "boundary": "The Museum at FITの所蔵品・展覧会記録は、R.PARADAの直接の参照元や胸グラフィックの原図ではない。競技名、所属、グラフィックの制作年代は公式商品説明から特定できない。",
+        "overlapReview": "FIT exhibition objects illustrate 1930s activewear prints; they do not identify R.PARADA’s graphic source, sport, or original. Distinct from T187’s photo-color process, T258’s numerals/badges, and T093–T095 motif stories."
+      }
+    },
+    {
+      "sourceRevalidation": "v14",
+      "sourceRecord": {
+        "topicId": "T077",
+        "researchSha256": "08c3797c1f7144dfd127fffc43ba92ad407afbd0d02d49855ed51a879a205d8b",
+        "previousValidationSha256": "08c3797c1f7144dfd127fffc43ba92ad407afbd0d02d49855ed51a879a205d8b",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "Heritage Auctionsは茶色ナイロン・金色トリムのDa Vinciシャツを、1950年代頃のBuddy Hollyの舞台着として記録する。",
+            "sourceIds": [
+              "E01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "NICENESSはG.SWISHを、ミッドセンチュリーの音楽家の舞台衣装を参照したホックシャツとして説明する。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "E01",
+            "title": "Buddy Holly Brown Da Vinci Shirt, lot 38619 / auction 7433",
+            "publisher": "Heritage Auctions",
+            "type": "auction_object_record",
+            "url": "https://entertainment.ha.com/itm/music-memorabilia/memorabilia/buddy-holly-owned-and-worn-brown-da-vinci-shirt-ca-1950s-/a/7433-38619.s"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS G.SWISH",
+            "publisher": "NICENESS",
+            "type": "official_product_fixed_snapshot",
+            "url": "https://www.niceness.jp/products/g-swish"
+          }
+        ],
+        "claimsStatus": "Heritage Auctions listing and the G.SWISH page reopened. Buddy Holly provenance is explicitly treated as the auction listing’s attribution; certificate and performance photos were not inspected.",
+        "brandEvidence": "Current public G.SWISH product page reopened; its product season is SS25.",
+        "editorialReview": "Pending independent editorial review.",
+        "boundary": "Buddy Hollyの所有・着用という来歴はHeritage Auctionsによる出品目録の帰属説明で、証明書原本と舞台写真は未確認。G.SWISHがその競売品を再現した、または直接参照したという根拠はない。",
+        "overlapReview": "The story reports Heritage Auctions’ attribution as an auction-house claim, without validating the COA. G.SWISH’s general stagewear reference is a separate product statement; no Buddy Holly connection is claimed. Distinct from PR15 T099 sailor trousers."
+      }
+    },
+    {
+      "sourceRevalidation": "v14",
+      "sourceRecord": {
+        "topicId": "T330",
+        "researchSha256": "6700a52c7b7a0652f57f92bfefac38c471fee209bd4c040b7bf9897c8c6de06b",
+        "previousValidationSha256": "6700a52c7b7a0652f57f92bfefac38c471fee209bd4c040b7bf9897c8c6de06b",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "米国防総省・国立海兵隊博物館の展示は、欧州戦域のウール制服と太平洋方面の海兵隊herringbone twill制服を区別して説明するが、この箇所はHBTの繊維を明記しない。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "米陸軍史料は朝鮮戦争期のオリーブドラブのウール製シャツ・トラウザーと、元は作業服だった濃いオリーブ色の綿HBT戦闘服を区別する。",
+            "sourceIds": [
+              "H02"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "H.TWEEDYは20世紀初頭英米軍採用のwool herringboneを参考にbespoke生地を作ったと公式資料に記載される。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H01",
+            "title": "Common Threads: Marine Corps",
+            "publisher": "U.S. Department of Defense / National Museum of the Marine Corps",
+            "type": "military_museum",
+            "url": "https://www.defense.gov/Multimedia/Experience/Common-Threads/Common-Threads-Marine-Corps/source/GovDelivery/"
+          },
+          {
+            "id": "H02",
+            "title": "Noncommissioned Officer: Images of an Army in Action",
+            "publisher": "U.S. Army Center of Military History",
+            "type": "military_history",
+            "url": "https://history.army.mil/Publications/Publications-Catalog/Noncommissioned-Officer-Images-of-an-Army-in-Action/"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS H.TWEEDY",
+            "publisher": "NICENESS",
+            "type": "official_product_fixed_snapshot",
+            "url": "https://www.niceness.jp/products/h-tweedy"
+          }
+        ],
+        "claimsStatus": "Not a publication candidate in this batch. The DoD and Army history pages were not retrievable in this pass; the fixed research records are insufficient for final publication approval. No further retrieval loop was run.",
+        "brandEvidence": "Current public H.TWEEDY product page reopened; its product season is AW25.",
+        "editorialReview": "Held from the publication candidate set pending independent verification of the DoD and Army source pages. Article remains review-only.",
+        "boundary": "第二次大戦・朝鮮戦争の資料はH.TWEEDYの直接の原型を示さない。H.TWEEDYの商品説明にある初期の英米軍用ウールと、後年の米軍ウール制服・綿HBT制服を同一の服として扱わない。",
+        "overlapReview": "The wool-uniform/cotton-HBT comparison is distinct from T096, T036, and T020, but remains held because the DoD and Army source pages have not been independently retrieved in this review."
+      }
+    },
+    {
+      "sourceRevalidation": "v15",
+      "sourceRecord": {
+        "topicId": "T131",
+        "researchSha256": "cc3bbd33268490e2988b5b0bc97261ab98743ebf379fd64a2537652504aad575",
+        "previousValidationSha256": "cc3bbd33268490e2988b5b0bc97261ab98743ebf379fd64a2537652504aad575",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not verify the linked source or revalidate its claims.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "The Mountainの自社史は、ベルト販売と1972年の初店舗を記す。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "historical_fact",
+            "claim": "The Mountainの自社史は、Tシャツ工房の設立、店舗網、自社プリントTシャツ、および店舗売却後に印刷へ専念したと記す。年表の1991年表示と本文の1996年記載が一致しない。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "historical_fact",
+            "claim": "The Mountainの自社史は、Three Wolf Moon後にBig Face動物Tシャツを始めたと記す。",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F04",
+            "kind": "brand_statement",
+            "claim": "NICENESSの公式商品ページはG.BERNARDのイメージソース、色別の重ね刷り、6.0oz、現行品のニカラグア製を説明している。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H01",
+            "title": "Our Story",
+            "publisher": "The Mountain",
+            "type": "manufacturer_retrospective",
+            "url": "https://themountain.com/our-storys/"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS G.BERNARD",
+            "publisher": "NICENESS",
+            "type": "official_product_page",
+            "url": "https://www.niceness.jp/products/g-bernard"
+          }
+        ],
+        "claimsStatus": "The Mountain’s official timeline places its 30 retail locations in the 1972 section and the print shop in a separate 1976 section. The page does not date the 30-store milestone, so the article no longer implies the stores followed the print shop. Its 1996 prose and 1991 timeline heading remain explicitly discrepant.",
+        "independentReview": "Pending. The author’s source recheck is not represented as independent editorial review.",
+        "editorialCorrection": "Updated the headline and separated the 1976 print-shop account from the undated 30-store account; no unsupported order is stated."
+      }
+    },
+    {
+      "sourceRevalidation": "v15",
+      "sourceRecord": {
+        "topicId": "T253",
+        "researchSha256": "a86b22f1f85af24902100ca7a874b2c22b08144292e1276738d6b8242dcec211",
+        "previousValidationSha256": "a86b22f1f85af24902100ca7a874b2c22b08144292e1276738d6b8242dcec211",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "The September 1955 revision of DoD Instruction 4210.2 lists “Jacket, Flying Man’s Type N-2B” in its Air Force textile-items table for quarterly receipt reporting.",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "NICENESS describes MARSH as a Japan-made cold-weather vest editing details seen on 1950s US N-2/N-3 flight jackets and other military garments.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H01",
+            "title": "Department of Defense Instruction 4210.2, Change 1",
+            "publisher": "U.S. Department of Defense / National Archives",
+            "type": "government_record",
+            "url": "https://nara-media.s3.amazonaws.com/electronic-records/rg-330/Directives/rec_160415.PDF"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS MARSH AW24",
+            "publisher": "NICENESS",
+            "type": "official_product_page",
+            "url": "https://www.niceness.jp/products/marsh"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "H01",
+            "checkedOn": "2026-10-04",
+            "locator": "Air Force textile items table, p.9",
+            "verifiedClaim": "The 1955 revision includes “Jacket, Flying Man’s Type N-2B”; the list records an item label, not a specific wearer or conditions."
+          },
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "Product description / MARSH",
+            "verifiedClaim": "Official page describes the Japan-made wool/nylon cold-weather vest, North American coyote fur and editing of N-2/N-3 and other military details."
+          }
+        ],
+        "claimsStatus": "Existing research and validation hashes match. The government list establishes the item label; it does not identify MARSH’s direct source or specific issue/use.",
+        "boundary": "The DoD list gives a type label, not a detailed garment or wear record. NICENESS names N-2/N-3 and various military details but does not identify N-2B as its direct source.",
+        "independentReview": "Pending; source rechecking by the drafter is not independent editorial review.",
+        "editorialOverlap": "Main T137 already uses a nearby N-3-series type and the distinction between a type label and an identified reference garment. T253 uses a different 1955 Air Force document and N-2B label, but currently adds little about the garment’s form or use; keep it in review until its separate reader value is established."
+      }
+    },
+    {
+      "sourceRevalidation": "v16",
+      "sourceRecord": {
+        "topicId": "T323",
+        "researchSha256": "53f54c99f42155e6e24efc9e93052dc8a3403aa55439436c230d334dba198218",
+        "previousValidationSha256": "53f54c99f42155e6e24efc9e93052dc8a3403aa55439436c230d334dba198218",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not by itself verify the linked source or establish independent review.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "historical_fact",
+            "claim": "NPS records a circa-1950 single-breasted western-style sports jacket combining leather and tan herringbone, made by California Sportswear Co. in Los Angeles.",
+            "sourceIds": [
+              "H01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "user_provided_statement",
+            "claim": "The user-provided saved document says H.KENT references 1950s–60s US sports jackets and UK hunting jackets, and describes reversible double-woven worsted construction with fewer seams; issuer and official status are unverified.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "H01",
+            "title": "Sports Jacket - Circa 1950",
+            "publisher": "Harry S Truman National Historic Site",
+            "type": "museum_collection",
+            "url": "https://www.nps.gov/hstr/learn/historyculture/sports-jacket-circa-1950.htm"
+          },
+          {
+            "id": "B01",
+            "title": "H.KENT AW23に関する保存資料",
+            "publisher": "User-provided saved document; issuer and official status unverified",
+            "type": "user_provided_archive_document_unverified",
+            "url": null
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "H01",
+            "checkedOn": "2026-10-04",
+            "locator": "object description",
+            "verifiedClaim": "The live NPS entry identifies the garment as single-breasted, leather and tan herringbone, western style, circa 1950, made by California Sportswear Co., Los Angeles."
+          },
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "user-provided saved document; no public URL",
+            "verifiedClaim": "The user provided a saved document containing these statements. Its publisher, issuer and NICENESS official status have not been independently verified. No visual observations are claimed."
+          }
+        ],
+        "claimsStatus": "The NPS entry confirms the circa-1950 specimen material, structure, label and maker/location. It does not identify wearer or specific use. The H.KENT statements are attributed only to a user-provided saved document whose issuer and official status are unverified.",
+        "boundary": "The NPS specimen and user-provided document are kept separate. No direct prototype claim or claim of official NICENESS authorship is made.",
+        "independentReview": "Independent AI editorial review (not human review) passed T323 content and source-to-claim mapping on exact PR head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582. Reviewer: separate worker /root/review_new_article_batch; specified model: gpt-6-luna. No factual/source correction was reported. Maintainer adoption remains pending.",
+        "editorialOverlap": "Compared against the 237-entry main/open-PR topic index before the first three-article correction; T323 is distinct from T289 because it focuses one documented garment’s leather + tan herringbone and single-breasted structure. The generic wearer/use caution is limited to one sentence."
+      }
+    },
+    {
+      "sourceRevalidation": "v16",
+      "sourceRecord": {
+        "topicId": "T041",
+        "researchSha256": "826a03760b4840d5d36b3eb3b8a596cdfad123e7761b4a675a40b815a5c9d9b7",
+        "previousValidationSha256": "826a03760b4840d5d36b3eb3b8a596cdfad123e7761b4a675a40b815a5c9d9b7",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not by itself verify the linked source or establish independent review.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "claim": "NICENESS’s public episode describes the graphic as based on Leonardo da Vinci drawings, without naming a specific drawing.",
+            "sourceIds": [
+              "A01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "The episode describes using the pattern on LEO, V.CHAD and V.IOMMI, and as lining in SLASH and SCHENKER items.",
+            "sourceIds": [
+              "A01"
+            ]
+          },
+          {
+            "id": "F04",
+            "kind": "brand_statement",
+            "claim": "LEO’s official product page describes a 100% silk scarf with a graphic inspired by da Vinci’s style and symbolic motifs/hidden messages; it does not identify their meaning.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "A01",
+            "title": "Drawings and Discoveries — Episode #11",
+            "publisher": "NICENESS",
+            "type": "official_editorial_article",
+            "url": "https://www.niceness.jp/episode/drawings-and-discoveries/"
+          },
+          {
+            "id": "B01",
+            "title": "NICENESS LEO AW25",
+            "publisher": "NICENESS",
+            "type": "official_product_page",
+            "url": "https://www.niceness.jp/products/leo"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "A01",
+            "checkedOn": "2026-10-04",
+            "locator": "paragraph on the pattern / product list",
+            "verifiedClaim": "The live official episode names the drawing motif, the three products, and the use of the pattern on SLASH/SCHENKER linings."
+          },
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "product description and materials",
+            "verifiedClaim": "The live product page names LEO, silk composition, Japan-made marking, and describes the graphic; no specific drawing or symbol interpretation is provided."
+          }
+        ],
+        "claimsStatus": "The current official episode and product page support a design-process reading about one pattern across exterior garment surfaces, scarf, and lining. They do not identify a drawing sheet, exact original, or meaning for individual symbols.",
+        "boundary": "The article reports NICENESS’s own design explanation and does not assert reproduction of a named Leonardo work or decode a hidden message.",
+        "independentReview": "Independent AI editorial review (not human review) passed T041 content and source-to-claim mapping on exact PR head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582. Reviewer: separate worker /root/review_new_article_batch; specified model: gpt-6-luna. No factual/source correction was reported. Maintainer adoption remains pending.",
+        "editorialOverlap": "Compared against the 240-entry index after adding these three PR19 articles. T041 concerns one drawing-inspired graphic’s placement across exterior surfaces, scarf and linings; distinct from T035’s portrait and T209’s scientific imagery."
+      }
+    },
+    {
+      "sourceRevalidation": "v16",
+      "sourceRecord": {
+        "topicId": "T341",
+        "researchSha256": "54405d4acb959c38e13e6755ba7ff8c9564957ad6558c847d5f2af2522f2133e",
+        "previousValidationSha256": "54405d4acb959c38e13e6755ba7ff8c9564957ad6558c847d5f2af2522f2133e",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the local research record only; it does not by itself verify the linked source or establish independent review.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "claim": "NICENESS’s GUARINO page attributes the body to a 1970s British casual shirt, sleeve/collar details to French dress-shirt patterns, the dobby fabric to an Italian mill operating since the 1950s, and detail finishing to hand sewing.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "B01",
+            "title": "NICENESS GUARINO AW24",
+            "publisher": "NICENESS",
+            "type": "official_product_page",
+            "url": "https://www.niceness.jp/products/guarino"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "product description / material panel",
+            "verifiedClaim": "The live page states the design references and hand-sewn detail finish; it displays MADE IN JAPAN while the description also attributes sewing to Salvatore Piccolo in Italy, without explaining their relationship."
+          }
+        ],
+        "claimsStatus": "The product page supports a design statement and hand-finish claim. It does not name the specific hand-sewn seams. Its country label and sewing attribution are not reconciled, so final-garment origin is left unasserted.",
+        "boundary": "The article separates inspiration/material geography from finished-garment origin. It makes no country-of-manufacture claim and does not infer which stitches were hand-sewn.",
+        "independentReview": "Independent AI editorial review (not human review) passed T341 content and source-to-claim mapping on exact PR head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582. Reviewer: separate worker /root/review_new_article_batch; specified model: gpt-6-luna. No factual/source correction was reported. Maintainer adoption remains pending.",
+        "editorialOverlap": "Compared against the 240-entry index after adding these three PR19 articles. T341 uses GUARINO and focuses a split of body/collar/fabric references and the hand-finish statement; distinct from T007’s TOTTI."
+      }
+    },
+    {
+      "sourceRevalidation": "v16",
+      "sourceRecord": {
+        "topicId": "T039",
+        "researchSha256": "f60a255a40d2774c0fd550440c4bd3bbfa56a27bed6bc9b1e0b4e4e053dabe1f",
+        "previousValidationSha256": "f60a255a40d2774c0fd550440c4bd3bbfa56a27bed6bc9b1e0b4e4e053dabe1f",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "PR source-claim map snapshot",
+        "hashInterpretation": "SHA-256 covers this PR’s claim/source map snapshot only; it does not independently verify the linked product page or historical background.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "claim": "NICENESS describes C.IOMMI as a long shirt using densely woven end-on-end chambray made with Supima compact yarn, with bio processing for drape and smooth touch.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "NICENESS says two color collars are included and may be changed or the shirt may be worn as a band-collar shirt.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "NICENESS names 1920s US dress shirts and British military shirts as references for cuts/details; no specific historical specimen is named.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "B01",
+            "title": "NICENESS C.IOMMI AW25",
+            "publisher": "NICENESS",
+            "type": "official_product_page",
+            "url": "https://www.niceness.jp/products/c-iommi"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "product description and material/origin panel",
+            "verifiedClaim": "Page identifies C.IOMMI NN-3102Y16, end-on-end chambray long shirt; description states high-density Supima compact yarn, bio-processing, two color collars, detachable/replacement use, band-collar option, and 1920s US dress-shirt/British military-shirt references. These remain attributed design statements."
+          }
+        ],
+        "claimsStatus": "The live official product page supports the garment, fabric, collar options, construction/design statement and made-in-Japan label. It does not name a specific historical specimen or document the historical use of these collar options.",
+        "boundary": "The article reports only NICENESS’s public product-page statements about its product and stated references. Historical prototypes and technical effects beyond that wording are not asserted.",
+        "independentReview": "Independent AI editorial review (not human review) passed T039 content and source-to-claim mapping on exact PR head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582. Reviewer: separate worker /root/review_new_article_batch; specified model: gpt-6-luna. No factual/source correction was reported. Maintainer adoption remains pending.",
+        "editorialOverlap": "Compared against 240 main/open-PR index entries. No existing indexed article covers C.IOMMI AW25 or its interchangeable two-color collar plus band-collar wearing options. A separate existing T041 mention of V.IOMMI concerns a graphic print and a different item."
+      }
+    },
+    {
+      "sourceRevalidation": "v16",
+      "sourceRecord": {
+        "topicId": "T331",
+        "researchSha256": "e83c8b74ea60a94c327b642750b3d214d7c78d48034097b44d6b3a5e3f9f97dd",
+        "previousValidationSha256": "e83c8b74ea60a94c327b642750b3d214d7c78d48034097b44d6b3a5e3f9f97dd",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "PR source-claim map snapshot",
+        "hashInterpretation": "SHA-256 covers this PR’s claim/source map snapshot only; it does not independently verify the linked product page or historical background.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "claim": "NICENESS describes HAYES as a hunting jacket using strong-twist cotton duck treated with sulfur dye and bio processing.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "NICENESS says special processing gives the fabric vintage-like color and raised three-dimensional texture; it does not assign each effect to an individual step.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "NICENESS says the fabric was produced with reference to 1930s US-made fireman canvas; it does not identify a particular canvas specimen.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "B01",
+            "title": "NICENESS HAYES AW25",
+            "publisher": "NICENESS",
+            "type": "official_product_page",
+            "url": "https://www.niceness.jp/products/hayes"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "product description and material/origin panel",
+            "verifiedClaim": "Page identifies HAYES NN-1801B16, strong-twist cotton duck, sulfur dye, bio processing, vintage-like colors and raised texture associated with special processing, and a 1930s US-made fireman-canvas fabric reference. No unlisted chemical details or performance claims are inferred."
+          }
+        ],
+        "claimsStatus": "The live official product page supports the material, named processing, brand-described appearance, reference statement, and made-in-Japan label. It does not explain processing sequence, individual process effects, durability, care, or a specific historical canvas specimen.",
+        "boundary": "The article reports only NICENESS’s public product-page statements about its product and stated references. Historical prototypes and technical effects beyond that wording are not asserted.",
+        "independentReview": "Independent AI editorial review (not human review) passed T331 content and source-to-claim mapping on exact PR head 2d6afb2dc949493d48bbac7d58b34e0e8fe4c582. Reviewer: separate worker /root/review_new_article_batch; specified model: gpt-6-luna. No factual/source correction was reported. Maintainer adoption remains pending.",
+        "editorialOverlap": "Compared against 240 main/open-PR index entries. Existing T189 covers HAYES removable hood and T264 its placket/field-jacket structure; T331 has a distinct, narrow focus on the official fabric-treatment statement and material appearance.",
+        "postReviewChange": "After the reviewed head, the user requested a title-only wording change to avoid implying processing order: “硫化染めとバイオ加工のHAYES / 強撚コットンダックの色と凹凸”. No article claim, fact mapping or cited source changed. The title itself was not part of the reviewed head."
+      }
+    },
+    {
+      "sourceRevalidation": "v16",
+      "sourceRecord": {
+        "topicId": "T001",
+        "researchSha256": "7c143f0dc25cfdea37f62d0afad8cef32eb329fe6732531d9f130fd66afd6e58",
+        "previousValidationSha256": "7c143f0dc25cfdea37f62d0afad8cef32eb329fe6732531d9f130fd66afd6e58",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the unchanged local research record only; it does not itself verify a source or establish independent review.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "claim": "NICENESS states that H.LEDZ references American tool bags from the 1920s to 1950s.",
+            "sourceIds": [
+              "B12"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "NICENESS says the bag retains vintage features such as riveted gussets and adds modernized details; the article does not assign historic function or performance.",
+            "sourceIds": [
+              "B12"
+            ]
+          },
+          {
+            "id": "F07",
+            "kind": "brand_statement",
+            "claim": "The live H.LEDZ AW25 page lists a horse-leather shell, cotton lining and a made-in-Japan mark. This is a supplemental current product specification, not an edit to the fixed research manifest.",
+            "sourceIds": [
+              "B12"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "B12",
+            "title": "NICENESS H.LEDZ / AW25",
+            "publisher": "NICENESS",
+            "type": "official_product_fixed_snapshot",
+            "url": "https://www.niceness.jp/products/h-ledz-2"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "B12",
+            "checkedOn": "2026-10-04",
+            "locator": "product description and material/origin panel",
+            "verifiedClaim": "The live official AW25 H.LEDZ page identifies a shoulder-strap tote inspired by 1920s–1950s US tool bags, states that riveted gussets are retained with modernized detailing, lists horse leather shell, cotton lining, and a made-in-Japan mark."
+          }
+        ],
+        "claimsStatus": "The selected official/manufacturer pages were reopened on 2026-10-04. Product statements remain attributed to their publishers; historical references are not promoted to independently verified facts.",
+        "boundary": "1920〜50年代の特定のツールバッグ、作り手、使い手は独立に確認していない。リベットの歴史的用途や耐荷重、現行品の耐久性も商品説明から推測しない。",
+        "editorialOverlap": "Compared with the 246 current index entries: T013 covers a helmet bag, T033 a hunting bag, T062 a messenger-bag wearing/fit question, and T186 a quilted outer pocket on a tote. T001 focuses H.LEDZ AW25 and the official riveted-gusset detail; no bag image was copied.",
+        "independentReview": "The follow-up independent Luna review reported on PR head 035cd2f5b467e36fc1063601c1a6d680b6cf988d found that the source supports riveted gussets but not folded construction. The title and copy now state only riveted gussets; the revised wording has not yet been independently rechecked. Keep status review.",
+        "supplementalFactNote": "This article-side fact ID records a directly checked current product specification. It is not written to or represented as an edit of the fixed historical research manifest."
+      }
+    },
+    {
+      "sourceRevalidation": "v16",
+      "sourceRecord": {
+        "topicId": "T015",
+        "researchSha256": "7ad8489ce6da7be3986e6127c33e11df4b655afc59cc36d29964df88e473dfa6",
+        "previousValidationSha256": "7ad8489ce6da7be3986e6127c33e11df4b655afc59cc36d29964df88e473dfa6",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the unchanged local research record only; it does not itself verify a source or establish independent review.",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "retailer_statement",
+            "claim": "Village Hat Shop describes its current long-bill cap as providing sun protection and reducing glare with its green underbrim.",
+            "sourceIds": [
+              "E01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "Duck Camp describes its current fishing cap as providing face shade and says the dark underbrim helps absorb water reflection.",
+            "sourceIds": [
+              "E02"
+            ]
+          },
+          {
+            "id": "F06",
+            "kind": "brand_statement",
+            "claim": "NICENESS describes LOESS as a long-bill cap referencing 1970s outdoor scenes and specifies chino and reversible suede details.",
+            "sourceIds": [
+              "B02"
+            ]
+          },
+          {
+            "id": "F08",
+            "kind": "brand_statement",
+            "claim": "The live LOESS SS26 page describes original chino with impurities removed from the yarn, reversible suede from an Italian tannery for the belt, cotton body/brim, cow-leather belt and a made-in-Japan mark. This is a supplemental current product specification, not an edit to the fixed research manifest.",
+            "sourceIds": [
+              "B02"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "E01",
+            "title": "VHS Long Bill Adjustable Baseball Cap, 222440",
+            "publisher": "Village Hat Shop",
+            "type": "retail_product_description",
+            "url": "https://www.villagehatshop.com/products/vhs-long-bill-adjustable-baseball-cap"
+          },
+          {
+            "id": "E02",
+            "title": "Brrr Performance Flats Cap Long Bill - Sagebrush",
+            "publisher": "Duck Camp",
+            "type": "manufacturer_product_description",
+            "url": "https://duckcamp.com/products/brrr-performance-flats-cap-long-bill-sagebrush"
+          },
+          {
+            "id": "B02",
+            "title": "NICENESS LOESS",
+            "publisher": "NICENESS",
+            "type": "official_product_fixed_snapshot",
+            "url": "https://www.niceness.jp/products/loess-26ss"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "E01",
+            "checkedOn": "2026-10-04",
+            "locator": "product description and details",
+            "verifiedClaim": "The live Village Hat Shop retail product page attributes sun protection to the long bill and glare reduction to the green underside. This is a retailer’s current product listing, not proof that the retailer manufactured the hat or a historical record."
+          },
+          {
+            "id": "E02",
+            "checkedOn": "2026-10-04",
+            "locator": "product description and Product Features",
+            "verifiedClaim": "The live Duck Camp product description identifies a current fishing cap and says its slightly extended bill provides face shade; Product Features says the dark underbrim helps absorb water reflection. This is a current product claim."
+          },
+          {
+            "id": "B02",
+            "checkedOn": "2026-10-04",
+            "locator": "product description and material/origin panel",
+            "verifiedClaim": "The live official LOESS page describes a long-bill silhouette referencing 1970s outdoor scenes, original chino fabric with impurities removed from the yarn, a reversible suede belt from an Italian tannery, cotton body/brim and a made-in-Japan mark."
+          }
+        ],
+        "claimsStatus": "The selected official/manufacturer pages were reopened on 2026-10-04. Product statements remain attributed to their publishers; historical references are not promoted to independently verified facts.",
+        "boundary": "Village Hat Shopの販売ページとDuck Campの商品説明は現在流通する別製品の用途説明であり、効果を独立測定した結果ではない。NICENESSの商品ページも1970年代の具体的な着用者、地域、用途や原型を示していない。",
+        "editorialOverlap": "Compared with the 246 current index entries: existing hat stories address a sailor hat, safari hat, bucket hat, watch cap and college cap; none centers long-bill function statements against NICENESS’s 1970s-outdoor design reference. The independent maker pages are treated only as present-day product claims.",
+        "independentReview": "The follow-up independent Luna review reported on PR head 035cd2f5b467e36fc1063601c1a6d680b6cf988d identified Village Hat Shop as a retailer page. The article now attributes that statement to the sales page, not to a hat manufacturer; the revised wording has not yet been independently rechecked. Keep status review.",
+        "supplementalFactNote": "This article-side fact ID records a directly checked current product specification. It is not written to or represented as an edit of the fixed historical research manifest."
+      }
+    },
+    {
+      "sourceRevalidation": "v16",
+      "sourceRecord": {
+        "topicId": "T191",
+        "researchSha256": "a819ca9deece2f644190667149106c9570a0907221ebc794453376c5661dd58b",
+        "previousValidationSha256": "a819ca9deece2f644190667149106c9570a0907221ebc794453376c5661dd58b",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the unchanged local research record only; it does not itself verify a source or establish independent review.",
+        "usedFacts": [
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "NICENESS describes METHOD as referencing 1940s–50s US chino shorts and military shorts; the article keeps this attributed to the brand and identifies no historical specimen.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "NICENESS describes a suede belt from an Italian tannery sewn into deep-set tucks and tumbler-treated bespoke chino. The METHOD product page does not describe the belt as reversible.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F04",
+            "kind": "brand_statement",
+            "claim": "The live METHOD SS26 page lists a 100% cotton body, cow-leather belt and a made-in-Japan mark. This is a supplemental current product specification, not an edit to the fixed research manifest.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "B01",
+            "title": "NICENESS METHOD",
+            "publisher": "NICENESS",
+            "type": "official_product_fixed_snapshot",
+            "url": "https://www.niceness.jp/products/method-26ss"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "product description and material/origin panel",
+            "verifiedClaim": "The live official METHOD page identifies SS26 NN-2303T17; it states that deep-set tucks incorporate a sewn-in suede belt from an Italian tannery, describes the specification as beltless, names bespoke chino fabric with impurities removed from yarn and tumbler treatment, lists cotton shell and cow-leather belt, and marks made in Japan. The page does not say the belt is reversible."
+          }
+        ],
+        "claimsStatus": "The selected official/manufacturer pages were reopened on 2026-10-04. Product statements remain attributed to their publishers; historical references are not promoted to independently verified facts.",
+        "boundary": "1940〜50年代の特定のパンツや軍規格、縫い込みベルトとの歴史的連続性は確認していない。革や加工の一般的性能、着用感、耐久性も推測しない。",
+        "editorialOverlap": "Compared with the 246 current index entries: T123 concerns climbing shorts; T302 records a 1942 trouser back strap on a different model; T303 research is not an article, and published trouser items do not cover METHOD SS26’s sewn-in suede belt in a deep tuck. This article does not claim military uniform identity.",
+        "independentReview": "The follow-up independent Luna review reported on PR head 035cd2f5b467e36fc1063601c1a6d680b6cf988d corrected the period reference to 1940s–50s US chino shorts/military shorts, rejected the unsupported reversible-belt wording, and noted duplicate Japan-origin wording. Those corrections are applied; the revised wording has not yet been independently rechecked. Keep status review.",
+        "supplementalFactNote": "This article-side fact ID records a directly checked current product specification. It is not written to or represented as an edit of the fixed historical research manifest."
+      }
+    },
+    {
+      "sourceRevalidation": "v16",
+      "sourceRecord": {
+        "topicId": "T219",
+        "researchSha256": "a7a55ccd3a89a7de31415d37fdfcc4c6f2bedce387f1af9ae6d9855ed0697da2",
+        "previousValidationSha256": "a7a55ccd3a89a7de31415d37fdfcc4c6f2bedce387f1af9ae6d9855ed0697da2",
+        "previousValidationMatches": true,
+        "previousValidationStatus": "partial",
+        "hashInterpretation": "SHA-256 equality identifies the unchanged local research record only; it does not itself verify a source or establish independent review.",
+        "usedFacts": [
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "NICENESS describes the JOAN rover-pants use range, high-density cotton, and articulated pattern designed with knee flexion in mind; no historical rover-pants origin is asserted.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "The live JOAN SS26 page lists a cotton shell, cotton/silk lining and a made-in-Japan mark, and also states a 900mm water-pressure rating, waterproof/windproof performance and a water-repellent finish. Those are brand product-page statements, not independent test results, and are described that way in the article.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "B01",
+            "title": "NICENESS JOAN",
+            "publisher": "NICENESS",
+            "type": "official_product_fixed_snapshot",
+            "url": "https://www.niceness.jp/products/joan-26ss"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "product description and material/origin panel",
+            "verifiedClaim": "The live official JOAN page identifies SS26 NN-0903T17 and describes a loose rover-pants silhouette, high-density 100% cotton, articulated patterning for knee flexion, and city-to-outdoors use. Material panel lists cotton shell and cotton/silk lining, with a made-in-Japan mark. Additional water-resistance statements are visible but are not relied on as measured results."
+          }
+        ],
+        "claimsStatus": "The selected official/manufacturer pages were reopened on 2026-10-04. Product statements remain attributed to their publishers; historical references are not promoted to independently verified facts.",
+        "boundary": "服型としてのローバーパンツの歴史、特定の着用者・職業、JOANという名称の由来は確認していない。耐水圧や防水・防風・撥水の表示はNICENESSの製品説明に帰属させ、独立測定や着用評価として述べない。",
+        "editorialOverlap": "Compared with the 246 current index entries: related pant stories concern bootcut shape, hem/cuff structure, drawcords, back straps, and uniform history; none concerns JOAN SS26’s articulated knee pattern and its official city/outdoor framing.",
+        "independentReview": "The follow-up independent Luna review reported on exact PR head 035cd2f5b467e36fc1063601c1a6d680b6cf988d approved T219 unchanged. It remains status review pending maintainer adoption.",
+        "supplementalFactNote": "This article-side fact ID records a directly checked current product specification. It is not written to or represented as an edit of the fixed historical research manifest."
+      }
+    },
+    {
+      "sourceRevalidation": "v17",
+      "sourceRecord": {
+        "topicId": "T342",
+        "recordType": "PR-local supplemental official product source-check; no fixed historical research manifest ID exists for these current-product claims.",
+        "sourceCheckSha256": "3448e8261c6c62bac3072dbb0222517bdcdc57a8b38d49a39b3856ab46684fe1",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "claim": "NICENESSの公式商品ページは、LENNOXを1960〜70年代の米国カバーオールと英国のパターンメイキングに着想を得たデザインとして説明する。特定の歴史的個体は示していない。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "NICENESSは完成後に一着ずつ漂白スプレーを施し、わずかな個体差を持つ仕上がりになると説明する。薬剤・噴霧箇所・個体差の機序は記していない。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "公式ページはラグラン袖のカバーオールを軽量のフェイクスエードで仕立て、表地をポリエステル65％・ポリウレタン35％、裏地を綿100％、日本製と表示する。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "B01",
+            "title": "NICENESS LENNOX",
+            "publisher": "NICENESS",
+            "url": "https://www.niceness.jp/en/products/lennox",
+            "kind": "brand"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "official product description and material / manufacturing panel",
+            "verifiedClaim": "商品名・説明・素材／製造表示を照合。NN-0101B18、ラグラン袖のカバーオール、軽量のフェイクスエード、縫製後の個別漂白スプレーと個体差の説明、表地・裏地の組成、日本製表示を確認。耐久性・柔軟性・退色耐性のブランド記述は本文で性能証明として使用していない。"
+          }
+        ],
+        "claimsStatus": "縫製後の個別スプレーと見え方の差はブランドの現行商品説明に帰属させた。素材欄は組成・製造表示のみを用いた。",
+        "boundary": "縫製後に個別の漂白スプレーを行い、個体差を意図するというNICENESSの説明に限る。薬剤の種類、噴霧箇所、色差の原因や耐久性は確認していない。1960〜70年代の特定の原型も同定していない。",
+        "editorialOverlap": "246件のmain／open-PR索引でLENNOXと縫製後の漂白スプレーに該当する記事なし。T331のHAYESは強撚ダックの硫化染め・バイオ加工のブランド説明が主題で、素材と工程の記載が異なる。",
+        "independentReview": "Pending independent gpt-6-luna editorial review on the final proposed PR head."
+      }
+    },
+    {
+      "sourceRevalidation": "v17",
+      "sourceRecord": {
+        "topicId": "T343",
+        "recordType": "PR-local supplemental official product source-check; no fixed historical research manifest ID exists for these current-product claims.",
+        "sourceCheckSha256": "5df99f08367f1715c907d8ad3552bdcaa149e074add402844e1fa6f844753721",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "claim": "NICENESSはADAMSONの着想源を1960年代の英国ハンティングトラウザーと米国のミリタリーオーバーパンツの組み合わせとして説明する。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "公式説明は超高密度モールスキンに中白の糸を用い、エイジング加工によるフェード感を際立たせると述べる。糸の構造・染色や加工条件は説明していない。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "公式ページは別注マドラスチェックの裏地、表地・裏地の綿100％、日本製表示を記載する。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "B01",
+            "title": "NICENESS ADAMSON",
+            "publisher": "NICENESS",
+            "url": "https://www.niceness.jp/products/adamson",
+            "kind": "brand"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "official product description and material / manufacturing panel",
+            "verifiedClaim": "商品名・説明・素材／製造表示を照合。NN-1503T18、高密度モールスキン、「中白の糸」、エイジング加工でフェード感を際立たせるという説明、英国ハンティングトラウザー／米国ミリタリーオーバーパンツの着想説明、マドラスチェック裏地、表裏地の組成と日本製表示を確認。糸構造や実着用による色落ちは本文に補っていない。"
+          }
+        ],
+        "claimsStatus": "糸の仕様とフェード感の関係は公式商品説明に帰属させる。「中白」の技術的定義や加工結果を独立試験の事実として扱っていない。",
+        "boundary": "「中白の糸」という公式表記と、ブランドが述べるフェード感の狙いに限る。糸の断面構造・染色法・加工薬剤、実際の着用による色落ちや耐久性は確認していない。歴史的なパンツの個体や軍規格も特定していない。",
+        "editorialOverlap": "246件のmain／open-PR索引でADAMSON、モールスキン、中白糸を扱う記事なし。T331はHAYESのコットンダックと硫化染め／バイオ加工の説明が主題で、織物と仕上げの組み合わせが異なる。",
+        "independentReview": "Pending independent gpt-6-luna editorial review on the final proposed PR head."
+      }
+    },
+    {
+      "sourceRevalidation": "v17",
+      "sourceRecord": {
+        "topicId": "T344",
+        "recordType": "PR-local supplemental official product source-check; no fixed historical research manifest ID exists for these current-product claims.",
+        "sourceCheckSha256": "c369dad2ef743f6b6602cebf268acaef55041470661197616670b59ce2d2d34a",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "claim": "NICENESSはH.WISHBONEを、経糸にオーガニックウール梳毛糸、緯糸にヘンプ糸を使ったストライプ生地のトラウザーと説明する。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "公式説明は杢糸とトップカラーを組み合わせたドビー縞、ヘンプのスラブ感とドライな質感を記述する。織機・織組織や染色工程は説明していない。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "商品ページは2タック仕様、表地ウール72％・ヘンプ28％、リヨセル裏地、綿・ポリエステル混の腰裏地、日本製表示を記載する。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "B01",
+            "title": "NICENESS H.WISHBONE",
+            "publisher": "NICENESS",
+            "url": "https://www.niceness.jp/products/h-wishbone",
+            "kind": "brand"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "official product description and material / manufacturing panel",
+            "verifiedClaim": "商品名・説明・素材／製造表示を照合。NN-2002T18、ウール梳毛糸の経糸・ヘンプ緯糸、杢糸とトップカラーによるドビー縞、ヘンプのスラブ感とドライさの公式説明、2タック、表地・裏地・腰裏地の素材比率、日本製表示を確認。踵のFlying V説明はこの記事の事実主張に使っていない。"
+          }
+        ],
+        "claimsStatus": "混率と素材配置は公式ページの仕様。ドビーの技術的な構造、表面効果の機序、繊維性能は独立に検証していない。",
+        "boundary": "経糸と緯糸の素材配置、ドビー縞、ヘンプに関する風合いは商品ページの説明に帰属させた。織機・組織・染色の具体的工程や、素材の性能・手触りを独立に検証していない。既存のFlying Vモチーフ記事と同じ踵ディテールの話は扱わない。",
+        "editorialOverlap": "246件索引にH.WISHBONEの商品記事なし。T341はGUARINOの身頃・襟・生地の参照と手縫いの説明、T011はN.JETTのFlying Vモチーフが主題。本文はウール／ヘンプの糸方向とドビー縞に限定し、踵ディテールを展開しない。",
+        "independentReview": "Pending independent gpt-6-luna editorial review on the final proposed PR head."
+      }
+    },
+    {
+      "sourceRevalidation": "v17",
+      "sourceRecord": {
+        "topicId": "T345",
+        "recordType": "PR-local supplemental official product source-check; no fixed historical research manifest ID exists for these current-product claims.",
+        "sourceCheckSha256": "c15e7a31df30104c2d294946356b2836f1907e0350cf54a63990120030db2c5a",
+        "usedFacts": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "claim": "NICENESSはS.MORLEYを8ウェールの絹綿コーデュロイで仕立て、布の裏面のシルクを肌に触れる側に配置し、快適性につなげたと説明する。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "claim": "公式ページの素材欄はシルク53％・綿47％と日本製を表示する。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "claim": "NICENESSはS.MORLEYを立体的なストレートシルエットとして説明する。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "sources": [
+          {
+            "id": "B01",
+            "title": "NICENESS S.MORLEY",
+            "publisher": "NICENESS",
+            "url": "https://www.niceness.jp/products/s-morley",
+            "kind": "brand"
+          }
+        ],
+        "sourceChecks": [
+          {
+            "id": "B01",
+            "checkedOn": "2026-10-04",
+            "locator": "official product description and material / manufacturing panel",
+            "verifiedClaim": "商品名・説明・素材／製造表示を照合。NN-0304T18、8ウェールの絹綿コーデュロイ、裏面シルクを肌側へ配する説明と快適性の表現、シルク53％・綿47％、立体的なストレートシルエット、日本製表示を確認。価格・在庫・Friscoの歴史説明は本文の事実主張に使っていない。"
+          }
+        ],
+        "claimsStatus": "布の混率・構成とシルエットは公式の商品説明。着用快適性を独立した試験・体験として扱っていない。",
+        "boundary": "8ウェール、混率、裏面のシルク配置、シルエットは公式ページに記載された仕様・説明に限る。快適性はメーカー主張として扱い、個人の着用評価、手入れ、耐久性を推測しない。Friscoの歴史・着用者・用途はこの記事の対象にしない。",
+        "editorialOverlap": "246件索引でS.MORLEYの商品記事なし。T099はFrisco trousersと船員史を扱う。T345はその歴史を再話せず、シルク53％・綿47％の8ウェールコーデュロイと裏面のシルク配置に限定する。",
+        "independentReview": "Pending independent gpt-6-luna editorial review on the final proposed PR head."
+      }
+    },
+    {
+      "sourceRevalidation": "v18",
+      "sourceRecord": {
+        "topicId": "T346",
+        "articleStatus": "review",
+        "publicPageGenerated": false,
+        "sourceUrl": "https://www.niceness.jp/products/c-joshua-26ss",
+        "sourcePublisher": "NICENESS official product page",
+        "claims": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "statement": "NICENESS describes 150-count hand-spun and hand-woven khadi and a boxy silhouette referring to 1950s US vintage shirts.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "statement": "The check interval is 5 × 7 cm, its lines are 4 mm wide, and NICENESS says it expresses the lines by pulling threads one at a time by hand.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "statement": "The composition is 100% cotton and the country-of-manufacture label says India.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "boundary": "格子の寸法、糸を抜く方法、生地とシルエットはNICENESSの商品説明に記された仕様・参照として紹介する。どの方向の糸を何本抜くか、工程順や処理方法、参照元となった特定の古着は確認していない。",
+        "overlapScreen": "Distinct from T002 (kasuri jacket) and PR20 T344 (warp/weft dobby stripe); focus is measured hand-pulled lattice on this khadi shirt.",
+        "sourceCheckSha256": "b734d18e375b365373d76bbdd4898830403000dd26d9ad37498cff147b0cfa04",
+        "storySha256": "77a43091b3ea8a70f209f76cbdf06ce1bc7e92329509ccf4b0d0e69d70a211fe",
+        "seasonDisclosure": "SS26"
+      }
+    },
+    {
+      "sourceRevalidation": "v18",
+      "sourceRecord": {
+        "topicId": "T347",
+        "articleStatus": "review",
+        "publicPageGenerated": false,
+        "sourceUrl": "https://www.niceness.jp/products/lockie",
+        "sourcePublisher": "NICENESS official product page",
+        "claims": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "statement": "NICENESS describes the low-volume triangle shape and its intended relation to wrapping and ornament.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "statement": "The apple motif is expressed on a 28-gauge computer jacquard machine; the yarn is described as Südwolle 15.5 micron Super160s wool and as shrink-resistant finished.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "statement": "The material label says 100% wool and the country-of-manufacture label says Japan.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "boundary": "三角形のフォルム、リンゴ柄の製法、糸の規格、防縮仕上げは公式の商品説明に帰属させる。図案の由来、具体的な編み目構造や加工条件、独立した着用評価は確認していない。",
+        "overlapScreen": "Distinct from T041 (scarf motif) and T015 (cap brim); focus is the apple jacquard and triangle form of this scarf.",
+        "sourceCheckSha256": "21848f146636659eb6ea854828e766b1c725ef1ea5d595ca4a1897399841f42d",
+        "storySha256": "473ae498ae525f793ca45ddf089d4b2cc41e8186482f4a54b5f5d0c1c7aea43d",
+        "seasonDisclosure": "AW26"
+      }
+    },
+    {
+      "sourceRevalidation": "v18",
+      "sourceRecord": {
+        "topicId": "T348",
+        "articleStatus": "review",
+        "publicPageGenerated": false,
+        "sourceUrl": "https://www.niceness.jp/products/lanegan",
+        "sourcePublisher": "NICENESS official product page",
+        "claims": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "statement": "NICENESS cites snow-camouflage military garments as the design reference, without identifying a specific uniform or period.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "statement": "The product uses a light cashmere tweed made with cashmere yarn spun while incorporating air; the outer fabric is twill.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "statement": "The shell is 100% cashmere, the lining is 70% cotton and 30% silk, and the country-of-manufacture label says Japan; the page does not state a season.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "boundary": "雪山カモフラージュ用ミリタリーウェアはNICENESSが挙げるデザイン参照として扱う。紡績方法の仕組み、保温性能、具体的な軍服・年代・着用者、発売シーズンは確認していない。",
+        "overlapScreen": "Avoids T099 (Frisco history) and PR20 T344 (weaving); focus is current cashmere-yarn/twill/lining construction. Season not stated.",
+        "sourceCheckSha256": "cb62bc944acc950bca397418fef7c123441a3f44aedcf770584a0313e36a5f5e",
+        "storySha256": "54ba7a20b9c94c80339d84b2ac2c8976952fdcafc86020ed04220177312e9c29",
+        "seasonDisclosure": "季節表記なし"
+      }
+    },
+    {
+      "sourceRevalidation": "v18",
+      "sourceRecord": {
+        "topicId": "T349",
+        "articleStatus": "review",
+        "publicPageGenerated": false,
+        "sourceUrl": "https://www.niceness.jp/en/products/russell",
+        "sourcePublisher": "NICENESS official product page",
+        "claims": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "statement": "NICENESS cites 1930s–40s USAAF/aviator jackets as a design reference and says the current design adopts denim-jacket construction.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "statement": "The calf leather is tanned in India and dyed and wax-finished at a factory in Japan; this does not establish rawhide origin or individual operators.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "statement": "The material listing identifies calf leather shell, body lining of 63% polyester/35% rayon/2% polyurethane, sleeve lining of 60% polyester/40% cupro, and 89% wool/10% nylon/1% polyurethane rib, with Japan as country of manufacture.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "boundary": "1930〜40年代のジャケットはNICENESSの商品ページが挙げるデザイン参照として扱う。革の希少性、着用性能、歴史上のA2の仕様、原皮の産地、各工程の製造者は独立確認していない。",
+        "overlapScreen": "Distinct from T110 (British riding-jacket/GEOFF) and T323 (sports-jacket record); focus is the current leather-treatment route and the brand’s A2/denim-construction explanation.",
+        "sourceCheckSha256": "b0e1ae886fcf870695b478b1df1f2398612ebceb749edcb5565d32c17ec087a6",
+        "storySha256": "fd1b2292d606c07354c6acdcc6cc1210a4b31e0de935e64708d36cd8d6c94ca9",
+        "seasonDisclosure": "AW25"
+      }
+    },
+    {
+      "sourceRevalidation": "v18",
+      "sourceRecord": {
+        "topicId": "T350",
+        "articleStatus": "review",
+        "publicPageGenerated": false,
+        "sourceUrl": "https://www.niceness.jp/products/tracy",
+        "sourcePublisher": "NICENESS official product page",
+        "claims": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "statement": "NICENESS describes minimizing cutting to retain the expression of a single hide and identifies UK lamb leather and Italian merino lining mouton.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "statement": "The product page predicts that wear may crack the grain and reveal the brown base; this is a brand statement, not an observed user outcome or durability test.",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F03",
+            "kind": "brand_statement",
+            "statement": "The material listing identifies mouton leather for the body and lamb leather and cowhide for some parts, with Japan as country of manufacture; the page does not state a season.",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "boundary": "裁断の少なさ、素材の産地、経年変化はNICENESSの商品説明に帰属させる。特定個体の観察、革の裁断配置、変化の速度や程度、着用感、発売シーズンは確認していない。",
+        "overlapScreen": "Adjacent to T292 (shearling/deerhide jacket) and T334 (leather artisan workflow), but limited to TRACY’s minimized-cut design, material origins, and explicitly brand-attributed aging prediction. Season not stated.",
+        "sourceCheckSha256": "40e7fc8c7d0dea7857ddb0b619ead47357d15b67540e9de25d9dde7846bce933",
+        "storySha256": "50633998843b38d72732b8f62f7d5061f7f9b50e8c0b0b59d2c6a942e02e7cd1",
+        "seasonDisclosure": "季節表記なし"
+      }
+    },
+    {
+      "sourceRevalidation": "v19",
+      "sourceRecord": {
+        "topicId": "T351",
+        "articleStatus": "review",
+        "publicPageGenerated": false,
+        "sourceUrl": "https://www.niceness.jp/en/products/h-rollo-26ss",
+        "sourceUrls": [
+          "https://www.niceness.jp/en/products/h-rollo-26ss",
+          "https://www.niceness.jp/en/episode/message-in-public"
+        ],
+        "sourcePublisher": "NICENESS official product page and directly linked official episode",
+        "claims": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "statement": "H.ROLLOは麻綿混のヘリンボーン生地に全面の手刷りステンシルを施す。商品ページはウエスタンヨーク風ステッチ、1920〜40年代ワークウェアへの参照、身頃60％麻・40％綿、背ヨーク綿100％、日本製表示を記載する。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "statement": "NICENESS Episode 18は、京都の職人が手で切ったステンシルを通してエアブラシで染料を施し、型の配置や空気圧で濃淡・にじみが変わると説明する。仕上がり差はブランドの説明である。",
+            "sourceIds": [
+              "B02"
+            ]
+          }
+        ],
+        "boundary": "ステンシルの工程と仕上がりの差はブランドの説明として扱う。型紙、プリント文言の形状、個々の商品の仕上がりは独立確認していない。ウエスタンヨークとワークウェアの記述も、公式ページに示されたデザイン参照を超えて歴史的な原型へ結び付けない。",
+        "overlapScreen": "T036とT045はH.ROLLOを関連商品資料として参照し、ユーティリティウェアやヨークの線を扱う。T187は横浜写真の手彩色とEDを扱う。新稿はH.ROLLO固有の手切りステンシル・エアブラシ染色に限定し、写真の彩色史やヨーク史を繰り返さない。",
+        "seasonDisclosure": "SS26",
+        "sourceCheckSha256": "b4c5cfe115f7b5f9bb4ed76e7676941c3dea975c61b3cc5e6c357f36291994a2",
+        "storySha256": "bbabba0733c27a5c94c4c11ccdb09af3cceda3400e8b7121e7177f2671b40661"
+      }
+    },
+    {
+      "sourceRevalidation": "v19",
+      "sourceRecord": {
+        "topicId": "T352",
+        "articleStatus": "review",
+        "publicPageGenerated": false,
+        "sourceUrl": "https://www.niceness.jp/en/products/n-hopkins-26ss",
+        "sourceUrls": [
+          "https://www.niceness.jp/en/products/n-hopkins-26ss"
+        ],
+        "sourcePublisher": "NICENESS official product page",
+        "claims": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "statement": "NICENESSはN.HOPKINSのデニムを北インドのストール工場で織ったものと説明し、1970年代デニムジャケットを参照して型紙・構造を更新したと記す。ウエスタンヨークと控えめなドロップショルダーを含む。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "statement": "素材欄は表地を綿100％、裏地・背フラップを綿95％・シルク5％、製造表示をインドとする。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "boundary": "工場名、デニムの織り方、ストール生産との工程上の関係は未確認。初期NICENESSの特定商品や、実在する1970年代の一着との直接の系譜も確認していない。商品ページが示す参照と仕様の範囲に限定する。",
+        "overlapScreen": "T005、T100、T205などのデニムジャケット記事と題材が近い。新稿は加工、カスタマイズ、色落ち、耐久性を扱わず、公式商品説明にある織り場所・シルエット参照・組成に限定する。工場名やストールとデニムの工程関係は未確認。",
+        "seasonDisclosure": "SS26",
+        "sourceCheckSha256": "b9a5dd01f3f2e6f297151c7454c95fbb832891bec9fb851bc5c47cc8e0d66f96",
+        "storySha256": "6195f2f18fbf54443b47ef821c3697a748331e12f2668057590e20df6fa699dd"
+      }
+    },
+    {
+      "sourceRevalidation": "v19",
+      "sourceRecord": {
+        "topicId": "T353",
+        "articleStatus": "review",
+        "publicPageGenerated": false,
+        "sourceUrl": "https://www.niceness.jp/en/products/cobain",
+        "sourceUrls": [
+          "https://www.niceness.jp/en/products/cobain"
+        ],
+        "sourcePublisher": "NICENESS official product page",
+        "claims": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "statement": "NICENESSは糸染めモヘアシルクを用いた雷柄のジャカードカーディガンと説明し、1950年代のカデットカーディガンと米国アウトドアブランドの図案をデザイン参照に挙げる。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "statement": "素材欄はモヘア60％・シルク40％、日本製とする。",
+            "sourceIds": [
+              "B01"
+            ]
+          }
+        ],
+        "boundary": "参照先となる具体的なカデットカーディガンやアウトドアブランドは特定されていない。柄の来歴、編み組織の詳細、実物の着用感について、公式説明を超える独立の主張は加えない。",
+        "overlapScreen": "T220はサンダーバード図像、PR21 T347はリンゴ柄のジャカードスカーフ。新稿はCOBAINの雷柄とモヘアシルクカーディガンに限定し、図柄の一般史・特定原型は主張しない。",
+        "seasonDisclosure": "AW25",
+        "sourceCheckSha256": "58c5b75a7ed6eae083514850ad80fd13d19da0d9a37eddfaca71d8a48cfc0f7f",
+        "storySha256": "c8e4efc2f54d5f44369d3fe0fbe9e445b80dd795e1c75279b130ced2b6d5f56e"
+      }
+    },
+    {
+      "sourceRevalidation": "v19",
+      "sourceRecord": {
+        "topicId": "T354",
+        "articleStatus": "review",
+        "publicPageGenerated": false,
+        "sourceUrl": "https://www.niceness.jp/en/products/simonon",
+        "sourceUrls": [
+          "https://www.niceness.jp/en/products/simonon",
+          "https://www.niceness.jp/en/episode/in-praise-of-hands"
+        ],
+        "sourcePublisher": "NICENESS official product page and directly linked official episode",
+        "claims": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "statement": "NICENESS商品ページは、鹿革を“creak leather”と表記し擦ったときの音に由来すると説明する。襟・ポケット縁の細い革の編み込み、バッファローホーンと樹脂製ボタン、仏米の美学への参照、鹿革表地・アセテート100％裏地、日本製を記す。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "statement": "直接リンクされたEpisode 06は素材を“creek deerskin”と表記し、チョアジャケットの縁に細い革を編み込んだと記す。商品ページとの綴りの差は未解決。",
+            "sourceIds": [
+              "B02"
+            ]
+          }
+        ],
+        "boundary": "商品ページの“creak leather”とEpisode 06の“creek deerskin”の表記差は未解決。擦ったときの音や革の性質はブランドの説明として扱い、独立に確認した体験・評価としては書かない。編み込みの具体的な手順も推定しない。",
+        "overlapScreen": "T292は羊皮・鹿革を組み合わせたジャケット、T334は靴職人やベルト作りの工程史を扱う。新稿はSIMONONの編み込み縁とボタンに限定し、一般的な革仕事の工程を商品へ当てはめない。公式資料間の英語表記差は未解決として残す。",
+        "seasonDisclosure": "SS25",
+        "sourceCheckSha256": "0cc590399285f97e86794d5babebb9ec55644b4a06272adfa6196662d36db526",
+        "storySha256": "0501a4943aa77b392bc2986b012c876236d94efb747ccc040e07909b8a8ae11c"
+      }
+    },
+    {
+      "sourceRevalidation": "v19",
+      "sourceRecord": {
+        "topicId": "T355",
+        "articleStatus": "review",
+        "publicPageGenerated": false,
+        "sourceUrl": "https://www.niceness.jp/en/products/p-jamet",
+        "sourceUrls": [
+          "https://www.niceness.jp/en/products/p-jamet",
+          "https://www.niceness.jp/en/episode/everything-a-fiver"
+        ],
+        "sourcePublisher": "NICENESS official product page and directly linked official episode",
+        "claims": [
+          {
+            "id": "F01",
+            "kind": "brand_statement",
+            "statement": "NICENESS商品ページは季節テーマの図柄を印刷した複数のスカーフを独自パターンメイキングで一着へ再構成すると記す。生地は極細シルク経糸・綿の空紡緯糸による軽量ローン、素材欄は綿70％・シルク30％、日本製。",
+            "sourceIds": [
+              "B01"
+            ]
+          },
+          {
+            "id": "F02",
+            "kind": "brand_statement",
+            "statement": "NICENESS Episode 22はColumbia Road Flower Marketで花を持ち帰る人々を写した写真への一人称の回想と、花・幾何学を組み合わせる意図、花を個別に描いた説明を掲載する。本文中でKIYOTAKA HATANAKAを写真家として紹介し、末尾に同氏の名を記す。",
+            "sourceIds": [
+              "B02"
+            ]
+          }
+        ],
+        "boundary": "Episode 22は本文中でKIYOTAKA HATANAKAを写真家として紹介し、末尾に同氏の名を記している。ここでは掲載された一人称の回想と記名の範囲で扱う。ロンドンや市場の歴史、プリント技法の詳細、実際のスカーフを裁断・縫製する具体的工程について、Episodeや商品ページを超える事実を加えない。",
+        "overlapScreen": "T041は別図案のシルクスカーフ、T187は横浜写真の手彩色とED、T243/T297は別のプリント史を扱う。新稿はP.JAMETの花と幾何学の図案、写真への回想、複数スカーフからの服への再構成に限定する。EpisodeはHATANAKA名義の一人称回想として扱い、独自のロンドン史を加えない。",
+        "seasonDisclosure": "AW26 (Episode 22; product page links to the episode)",
+        "sourceCheckSha256": "88f37ebbd92d3c0900c7941eed2db440f98fe816f32c2ecc6e58edd253bb83f5",
+        "storySha256": "0f8b381ae04a4c854af3d975bd0d8399f451f50e542db9b78b4a9e27b9adc2db"
+      }
+    }
+  ],
+  "images": "No new image assets were added.",
+  "adoption": "The user authorized adoption and publication of quality-passed articles. Source validations are carried from original release records and their public revalidation sources; research hashes were not invented or rewritten.",
+  "heldArticles": [
+    {
+      "topicId": "T253",
+      "sourceProposal": "PR18",
+      "reason": "Source does not establish MARSH as direct source or specific issue/use; Luna review found insufficient distinct reader value."
+    },
+    {
+      "topicId": "T323",
+      "sourceProposal": "PR19",
+      "reason": "H.KENT claims depend on a saved document of unverified issuer/official status."
+    },
+    {
+      "topicId": "T330",
+      "sourceProposal": "PR17",
+      "reason": "DoD/Army primary history pages were not retrievable for direct verification."
+    },
+    {
+      "topicId": "T289",
+      "sourceProposal": "main gap",
+      "reason": "LOC primary newspaper PDF returned 403 and draft generalizes from one advertisement."
+    }
+  ],
+  "previousGapAudit": {
+    "version": 20,
+    "recordedOn": "2026-10-22",
+    "baseline": {
+      "commit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+      "publicSiteVersion": 14,
+      "publicSiteSource": "b72039181196960518420e3a8deaaf05c17cc314",
+      "mainArticleCount": 217,
+      "publicArticleCount": 197
+    },
+    "independentReview": {
+      "model": "gpt-6-luna",
+      "reviewedHead": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+      "scope": [
+        "T010",
+        "T238",
+        "T239",
+        "T250",
+        "T263",
+        "T264",
+        "T269",
+        "T270",
+        "T271",
+        "T272",
+        "T274",
+        "T289",
+        "T293",
+        "T298",
+        "T299",
+        "T302",
+        "T314",
+        "T316",
+        "T318",
+        "T327"
+      ],
+      "conclusion": "18 articles pass subject to source-access limits recorded below; T263 requires final review of the corrected wording before adoption; T289 remains review because its newspaper advertisement could not be independently retrieved and its current draft generalizes from one page.",
+      "pass": [
+        "T010",
+        "T238",
+        "T239",
+        "T250",
+        "T264",
+        "T269",
+        "T270",
+        "T271",
+        "T272",
+        "T274",
+        "T293",
+        "T298",
+        "T299",
+        "T302",
+        "T314",
+        "T316",
+        "T318",
+        "T327"
+      ],
+      "findings": [
+        {
+          "topicId": "T263",
+          "status": "review",
+          "finding": "The National Museum of Denmark catalog records a British-made 1952 parka. “M 1951” is text on its interior label, not an independently established identity of the object as a US M-1951 parka.",
+          "response": "Revised the article to identify the collection object as a British-made 1952 parka, quote the sewn-in label separately, and neutralize the period metadata. Keep status review pending final exact-head confirmation."
+        },
+        {
+          "topicId": "T289",
+          "status": "review",
+          "finding": "The draft generalizes the market from a single 1952 advertisement, and the linked Library of Congress newspaper page returned 403 during independent review.",
+          "response": "Held from publication pending direct confirmation of the cited primary source and a narrowed interpretation."
+        },
+        {
+          "topicId": "T238",
+          "status": "ready",
+          "finding": "The 1963 advertisement describes a “Soft Fleece Lining”; the draft used “裏起毛”.",
+          "response": "Changed to “フリース裏地” for closer source fidelity."
+        }
+      ],
+      "sourceAccessLimits": {
+        "T239": "Catalog title is supported by indexed search result; PDF body was not retrievable in this review.",
+        "T264": "Paris Musées page timed out; cited item was not directly confirmed in this review.",
+        "T270": "USU archive record confirms a 1970 catalog cover only; the article limits claims to that record and separately attributes a vest example to Crescent Down Works.",
+        "T271": "Brussels collection page returned 403; ASU FIDM Museum account supports the printed leather context.",
+        "T293": "Government public-info URL returned 403; sleeve examples were checked against Spencer and British Museum collection records, and the dimension claim is indexed in search results.",
+        "T327": "LOC page returned 403; NPS report and related LOC series results support the production figure. The exact cited LOC item was not directly retrieved."
+      },
+      "overlap": "T263 is adjacent to T189 detachable hoods; T302 and T318 both concern waist adjustment; T327 is adjacent to T161/T163 khaki trousers. Reviewer judged the exact objects, national records, and article questions sufficiently distinct. T010 and T293 concern different kimono questions: cutting method versus sleeve-end form.",
+      "images": "No new image assets were added."
+    },
+    "articleUpdates": {
+      "T238": "Source wording revised from “柔らかな裏起毛” to “柔らかなフリース裏地”.",
+      "T263": "Corrected the National Museum item description to identify a British-made 1952 parka and separately quote the interior “Parka Shell, M 1951” label.",
+      "T289": "Article remains review; publication date removed pending source verification."
+    }
+  },
+  "postAuditMetadataFixes": [
+    {
+      "topicId": "T279",
+      "field": "regions[0].id",
+      "change": "gb → uk",
+      "reason": "Canonical site geography uses the United Kingdom ID uk; the article region name and role remain the British M259 manufacturing record."
+    },
+    {
+      "topicId": "T355",
+      "field": "regions[0].id",
+      "change": "gb → uk",
+      "reason": "Canonical site geography uses the United Kingdom ID uk; the article source still locates Episode 22 in London."
+    },
+    {
+      "topicId": "T346",
+      "field": "products[0].id",
+      "change": "added c-joshua-26ss",
+      "reason": "The C.JOSHUA official product page and article item field use c-joshua-26ss; the missing item route ID prevented static page generation."
+    }
+  ]
+}

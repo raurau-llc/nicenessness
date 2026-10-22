@@ -1,0 +1,93 @@
+{
+  "version": 20,
+  "recordedOn": "2026-10-22",
+  "baseline": {
+    "commit": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+    "publicSiteVersion": 14,
+    "publicSiteSource": "b72039181196960518420e3a8deaaf05c17cc314",
+    "mainArticleCount": 217,
+    "publicArticleCount": 197
+  },
+  "independentReview": {
+    "model": "gpt-6-luna",
+    "reviewedHead": "704e0d3fe5305caa05f73485fd1f5328914b80a2",
+    "scope": [
+      "T010",
+      "T238",
+      "T239",
+      "T250",
+      "T263",
+      "T264",
+      "T269",
+      "T270",
+      "T271",
+      "T272",
+      "T274",
+      "T289",
+      "T293",
+      "T298",
+      "T299",
+      "T302",
+      "T314",
+      "T316",
+      "T318",
+      "T327"
+    ],
+    "conclusion": "18 articles pass subject to source-access limits recorded below; T263 requires final review of the corrected wording before adoption; T289 remains review because its newspaper advertisement could not be independently retrieved and its current draft generalizes from one page.",
+    "pass": [
+      "T010",
+      "T238",
+      "T239",
+      "T250",
+      "T264",
+      "T269",
+      "T270",
+      "T271",
+      "T272",
+      "T274",
+      "T293",
+      "T298",
+      "T299",
+      "T302",
+      "T314",
+      "T316",
+      "T318",
+      "T327"
+    ],
+    "findings": [
+      {
+        "topicId": "T263",
+        "status": "review",
+        "finding": "The National Museum of Denmark catalog records a British-made 1952 parka. “M 1951” is text on its interior label, not an independently established identity of the object as a US M-1951 parka.",
+        "response": "Revised the article to identify the collection object as a British-made 1952 parka, quote the sewn-in label separately, and neutralize the period metadata. Keep status review pending final exact-head confirmation."
+      },
+      {
+        "topicId": "T289",
+        "status": "review",
+        "finding": "The draft generalizes the market from a single 1952 advertisement, and the linked Library of Congress newspaper page returned 403 during independent review.",
+        "response": "Held from publication pending direct confirmation of the cited primary source and a narrowed interpretation."
+      },
+      {
+        "topicId": "T238",
+        "status": "ready",
+        "finding": "The 1963 advertisement describes a “Soft Fleece Lining”; the draft used “裏起毛”.",
+        "response": "Changed to “フリース裏地” for closer source fidelity."
+      }
+    ],
+    "sourceAccessLimits": {
+      "T239": "Catalog title is supported by indexed search result; PDF body was not retrievable in this review.",
+      "T264": "Paris Musées page timed out; cited item was not directly confirmed in this review.",
+      "T270": "USU archive record confirms a 1970 catalog cover only; the article limits claims to that record and separately attributes a vest example to Crescent Down Works.",
+      "T271": "Brussels collection page returned 403; ASU FIDM Museum account supports the printed leather context.",
+      "T293": "Government public-info URL returned 403; sleeve examples were checked against Spencer and British Museum collection records, and the dimension claim is indexed in search results.",
+      "T327": "LOC page returned 403; NPS report and related LOC series results support the production figure. The exact cited LOC item was not directly retrieved."
+    },
+    "overlap": "T263 is adjacent to T189 detachable hoods; T302 and T318 both concern waist adjustment; T327 is adjacent to T161/T163 khaki trousers. Reviewer judged the exact objects, national records, and article questions sufficiently distinct. T010 and T293 concern different kimono questions: cutting method versus sleeve-end form.",
+    "images": "No new image assets were added."
+  },
+  "articleUpdates": {
+    "T238": "Source wording revised from “柔らかな裏起毛” to “柔らかなフリース裏地”.",
+    "T263": "Corrected the National Museum item description to identify a British-made 1952 parka and separately quote the interior “Parka Shell, M 1951” label.",
+    "T289": "Article remains review; publication date removed pending source verification."
+  }
+}
