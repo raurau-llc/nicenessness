@@ -32775,5 +32775,573 @@
     ],
     "publishedAt": "2026-10-22",
     "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T356",
+    "slug": "jordan-integrated-reversible-suede-belt",
+    "regions": [
+      {
+        "id": "us",
+        "name": "アメリカ",
+        "role": "商品ページが参照する1940〜50年代のチノトラウザーとミリタリーパンツ"
+      },
+      {
+        "id": "it",
+        "name": "イタリア",
+        "role": "商品ページが記すリバーシブルスエードベルトの素材の産地"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "チノトラウザー",
+      "スエードベルト",
+      "タック",
+      "SS26"
+    ],
+    "category": "MAKE / つくる",
+    "model": "JORDAN",
+    "season": "SS26",
+    "item": "jordan-26ss",
+    "title": "タックに縫い込む、リバーシブルのスエードベルト\nJORDANのチノトラウザー",
+    "deck": "ベルトを外付けせず、深いタックの内側へ組み込む。",
+    "place": "アメリカ・イタリア・日本",
+    "period": "SS26",
+    "context": "タックに縫い込む、リバーシブルのスエードベルト / JORDANのチノトラウザー",
+    "opening": "NICENESSの商品ページは、1940〜50年代のアメリカのチノトラウザーとミリタリーパンツを参照し、独自のパターンで再構成したと説明する。特徴は深いタックに縫い込まれた、イタリア製タンナーのリバーシブルスエードベルト。",
+    "opening_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "reference",
+        "title": "参照先は、1940〜50年代のチノとミリタリー。",
+        "paragraphs": [
+          "ブランドはJORDANのデザインが1940〜50年代のアメリカのチノトラウザーとミリタリーパンツを参照すると記す。素材は糸の不純物を取り除いた別注チノで、タンブラー加工を施したという。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "belt",
+        "title": "深いタックの中に、ベルトを縫い込む。",
+        "paragraphs": [
+          "深いタックには、イタリアのタンナーによるリバーシブルスエードのベルトが縫い込まれている。商品ページはこの仕様を「ベルトレス」と説明する。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "materials",
+        "title": "本体は綿、ベルトは牛革。",
+        "paragraphs": [
+          "素材欄は本体を綿100％、ベルトを牛革と表示し、製造国を日本としている。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "歴史的なチノやミリタリーパンツとのつながり、タックに縫い込むベルトの構造はいずれもブランドの説明に基づく。",
+    "bridge_title": "ベルトをタックへ縫い込むチノトラウザー。",
+    "bridge": "JORDANは別注チノを使い、深いタックにイタリア製リバーシブルスエードベルトを縫い込んだトラウザー。素材欄は本体を綿、ベルトを牛革、日本製と記す。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "参照年代やデザイン上の系譜は商品ページの説明として扱う。特定の軍用衣服を忠実に複製した、またはベルトを外して着用できるとは記載しない。",
+    "product_title": "ベルトをタックに縫い込む、JORDAN。",
+    "product_paragraphs": [
+      "深いタックにイタリア製のリバーシブルスエードベルトを縫い込んだチノトラウザー。素材欄は本体を綿100％、ベルトを牛革、日本製と表示する。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "jordan-26ss",
+        "model": "JORDAN",
+        "season": "SS26",
+        "number": "NN-2302T17",
+        "url": "https://www.niceness.jp/en/products/jordan-26ss",
+        "retained": "NICENESS商品ページは、別注チノの糸から不純物を取り除いてタンブラー加工し、1940〜50年代のアメリカのチノトラウザーとミリタリーパンツを参照した独自パターンと説明する。",
+        "changed": "NICENESS商品ページは、深いタックにイタリアのタンナーによるリバーシブルスエードベルトを縫い込み、ベルトレス仕様にしたと説明する。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS JORDAN SS26 Product",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/jordan-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T357",
+    "slug": "d-pomona-double-front-chambray-pullover",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "プルオーバー",
+      "シャンブレー",
+      "インディゴ",
+      "SS26"
+    ],
+    "category": "MAKE / つくる",
+    "model": "D.POMONA",
+    "season": "SS26",
+    "item": "d-pomona-26ss",
+    "title": "Vネックとクルーネックを、前後に置く\nD.POMONAのダブルフロント",
+    "deck": "どちら側も前として着られる、二つのネックライン。",
+    "place": "日本",
+    "period": "SS26",
+    "context": "Vネックとクルーネックを、前後に置く / D.POMONAのダブルフロント",
+    "opening": "D.POMONAは、Vネックとクルーネックの二つの前身頃を備え、どちら向きにも着られるプルオーバー。NICENESSは高密度シャンブレー、インディゴ染め、職人によるフェードとオーバーダイ加工を説明する。",
+    "opening_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "fronts",
+        "title": "Vネック側、クルーネック側。",
+        "paragraphs": [
+          "商品ページはダブルフロント仕様として、Vネックとクルーネックのどちらを前にしても着用できると説明する。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "fabric",
+        "title": "高密度シャンブレーに、インディゴの色。",
+        "paragraphs": [
+          "生地は高密度のシャンブレー。ブランドはインディゴ染めによる深い色合いと自然な光沢を特徴として挙げる。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "finish",
+        "title": "フェード加工とオーバーダイ。",
+        "paragraphs": [
+          "商品ページによれば、職人が特別なフェード加工とオーバーダイ仕上げを手作業で行い、ヴィンテージ風の表情を加える。素材欄は身頃を麻63％・綿37％、リブを綿100％、日本製と記す。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "着る向きを選べる構造と加工の説明は、NICENESSの商品ページに記された仕様に限って紹介した。",
+    "bridge_title": "前後に異なるネックラインを配したプルオーバー。",
+    "bridge": "D.POMONAはVネックとクルーネックを備えるダブルフロントのプルオーバー。素材欄は麻63％・綿37％の身頃と綿100％のリブ、日本製と表示する。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "フェードやオーバーダイの工程、ヴィンテージ風という表現はブランドの説明として記す。経年変化の速度や着用時の効果は推定しない。",
+    "product_title": "前後を替えて着られる、D.POMONA。",
+    "product_paragraphs": [
+      "Vネックとクルーネックを備え、どちら向きにも着られるプルオーバー。高密度シャンブレーを使い、素材欄は麻・綿の混紡と日本製を表示する。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "d-pomona-26ss",
+        "model": "D.POMONA",
+        "season": "SS26",
+        "url": "https://www.niceness.jp/en/products/d-pomona-26ss",
+        "retained": "NICENESS商品ページは、Vネックとクルーネックを備えるダブルフロント仕様で、どちら向きにも着用できると説明する。",
+        "changed": "NICENESS商品ページは高密度シャンブレー、インディゴ染めによる深い色合いと自然な光沢を記す。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS D.POMONA SS26 Product",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/d-pomona-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T358",
+    "slug": "s-morton-three-dimensional-single-layer-sleeves",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "商品ページが参照するテーラリングの様式"
+      },
+      {
+        "id": "uk",
+        "name": "イギリス",
+        "role": "商品ページが参照するダブルブレストジャケット"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "ローブジャケット",
+      "ダブルブレスト",
+      "ツイルチェック",
+      "SS26"
+    ],
+    "category": "MAKE / つくる",
+    "model": "S.MORTON",
+    "season": "SS26",
+    "item": "s-morton-26ss",
+    "title": "一枚仕立てで立体をつくる袖\nS.MORTONのローブジャケット",
+    "deck": "袖の構造とボタン位置で、表情を変えるダブルブレスト。",
+    "place": "フランス・イギリス・日本",
+    "period": "SS26",
+    "context": "一枚仕立てで立体をつくる袖 / S.MORTONのローブジャケット",
+    "opening": "S.MORTONは、起毛加工を施したツイルチェック地のダブルブレストジャケット。NICENESSはフランスのテーラリングと英国のダブルブレストジャケットを参照し、立体的な一枚仕立ての袖とボタン位置の工夫を説明する。",
+    "opening_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "references",
+        "title": "フランスのテーラリング、英国のダブルブレスト。",
+        "paragraphs": [
+          "商品ページは、フランスのテーラリングと英国のダブルブレストジャケットを参照した独自のパターンと説明する。生地は起毛加工を施したツイルチェック。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "sleeves",
+        "title": "袖は、立体的な一枚仕立て。",
+        "paragraphs": [
+          "袖には立体的なシングルレイヤー構造を採用したとブランドは記す。ボタンの配置により、ジャケットの表情を変えられるデザインとしている。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "materials",
+        "title": "ウールの表地と、綿の裏地。",
+        "paragraphs": [
+          "素材欄は表地をウール100％、裏地を綿100％、製造国を日本と表示する。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "歴史的な系譜はブランドによる参照説明として扱い、特定の時代の実物を再現したとは述べない。",
+    "bridge_title": "袖の構造とボタン配置に工夫を置くジャケット。",
+    "bridge": "S.MORTONは起毛ツイルチェック地のダブルブレストジャケット。商品ページは立体的な一枚仕立ての袖とボタン配置を特徴として記す。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "フランス・英国の服飾史上の具体的な年代や特定の衣服との直接的な系譜は、商品ページに記載がないため加えない。リゾートウェアという説明もブランドの提案として扱う。",
+    "product_title": "一枚仕立ての袖を採用した、S.MORTON。",
+    "product_paragraphs": [
+      "起毛ツイルチェック地のダブルブレストジャケット。素材欄はウール100％の表地、綿100％の裏地、日本製と表示する。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "s-morton-26ss",
+        "model": "S.MORTON",
+        "season": "SS26",
+        "number": "NN-0701B17",
+        "url": "https://www.niceness.jp/en/products/s-morton-26ss",
+        "retained": "NICENESS商品ページは、起毛加工を施したツイルチェック地と、フランスのテーラリング・英国のダブルブレストジャケットを参照した独自パターンを記す。",
+        "changed": "NICENESS商品ページは袖の立体的な一枚仕立て構造と、ボタン配置によって表情を変えるデザインを説明する。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS S.MORTON SS26 Product",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/s-morton-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T359",
+    "slug": "burman-cotton-twill-and-13-color-ombre-check",
+    "regions": [
+      {
+        "id": "in",
+        "name": "インド",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "ストール",
+      "オンブレチェック",
+      "ウール",
+      "SS26"
+    ],
+    "category": "MAKE / つくる",
+    "model": "BURMAN",
+    "season": "SS26",
+    "item": "burman-26ss",
+    "title": "片面はコットンツイル、裏は13色のチェック\nBURMANのストール",
+    "deck": "異なる二つの布を、手縫いでつなぐ。",
+    "place": "インド",
+    "period": "SS26",
+    "context": "片面はコットンツイル、裏は13色のチェック / BURMANのストール",
+    "opening": "BURMANは、綿ツイルと多色のオンブレチェックを両面に配したストール。商品ページは、裏面のチェックに極細ウール糸13色を用い、異なる質感の二つの生地を手作業で縫い合わせたと説明する。",
+    "opening_refs": [
+      "F01",
+      "F02"
+    ],
+    "sections": [
+      {
+        "id": "two-fabrics",
+        "title": "表と裏で、異なる生地を合わせる。",
+        "paragraphs": [
+          "片面にはコットンツイル、もう片面には極細ウール糸で織ったオンブレチェックを使うとNICENESSは記す。チェックには13色を用いる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "joining",
+        "title": "手縫いでつなぐ二つの質感。",
+        "paragraphs": [
+          "商品ページは、異なる質感の二つの生地を職人の手縫いでつなぎ合わせたと説明する。素材欄はウール100％、製造国をインドと表示する。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      }
+    ],
+    "closing": "二つの生地の配置、色数、接合方法はブランドの商品説明に記された範囲で紹介した。",
+    "bridge_title": "二つの布を手縫いでつないだストール。",
+    "bridge": "BURMANはコットンツイルと13色のウール糸によるオンブレチェックを合わせたストール。素材欄はウール100％、インド製と表示する。",
+    "bridge_refs": [
+      "F01",
+      "F02"
+    ],
+    "boundary": "綿ツイルの面を含むが、素材欄の表示はウール100％。この差を解消する混率や構成は商品ページに明記されていないため、混率を推定しない。",
+    "product_title": "表裏で生地を切り替えた、BURMAN。",
+    "product_paragraphs": [
+      "片面に綿ツイル、もう片面に13色の極細ウール糸によるオンブレチェックを配したストール。二つの生地は手縫いでつなぐと説明される。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "burman-26ss",
+        "model": "BURMAN",
+        "season": "SS26",
+        "url": "https://www.niceness.jp/en/products/burman-26ss",
+        "retained": "NICENESS商品ページは片面に綿ツイル、もう片面に極細ウール糸13色による多色オンブレチェックを配すると記す。",
+        "changed": "NICENESS商品ページは異なる質感の二つの生地を職人が手縫いでつなぎ、素材欄はウール100%、製造国インドと表示する。",
+        "factRefs": [
+          "F01",
+          "F02"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS BURMAN SS26 Product",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/burman-26ss",
+        "kind": "brand"
+      }
+    ]
+  },
+  {
+    "id": "T360",
+    "slug": "h-klaus-taurillon-lagoon-gadget-case",
+    "regions": [
+      {
+        "id": "fr",
+        "name": "フランス",
+        "role": "商品ページが記すTaurillon Lagoonレザーの名称"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "ガジェットケース",
+      "牛革",
+      "ストラップ",
+      "SS26"
+    ],
+    "category": "MAKE / つくる",
+    "model": "H.KLAUS",
+    "season": "SS26",
+    "item": "h-klaus-26ss",
+    "title": "スマートフォンとカードを、ひとつの革ケースへ\nH.KLAUSのガジェットケース",
+    "deck": "側面のファスナーと、別売りストラップに対応するつくり。",
+    "place": "フランス・日本",
+    "period": "SS26",
+    "context": "スマートフォンとカードを、ひとつの革ケースへ / H.KLAUSのガジェットケース",
+    "opening": "H.KLAUSは、スマートフォンを収める牛革のケース。NICENESSの商品ページはフランスのTaurillon Lagoonレザーを使い、側面のファスナーにカード類や小物を収納できると説明する。別売りストラップを組み合わせられる。",
+    "opening_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "leather",
+        "title": "Taurillon Lagoonレザーを使う。",
+        "paragraphs": [
+          "商品ページは素材をフランスのTaurillon Lagoonレザーと記す。素材欄は牛革、製造国を日本と表示する。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "storage",
+        "title": "スマートフォンと、側面のファスナーポケット。",
+        "paragraphs": [
+          "ケースはモバイル機器を持ち運ぶ用途として案内され、側面のファスナーにはカードや小物を入れられると説明される。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "straps",
+        "title": "ストラップは別売り。",
+        "paragraphs": [
+          "別売りのストラップを合わせることで、首掛け、肩掛け、またはポケット内での携帯に対応すると商品ページは記す。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "革の名称、収納場所、別売りストラップの使い方はいずれもNICENESSの商品説明に基づく。",
+    "bridge_title": "ファスナーポケットを備えた牛革のガジェットケース。",
+    "bridge": "H.KLAUSはTaurillon Lagoonレザーを使ったケース。側面のファスナーにカードや小物を収められ、別売りストラップを組み合わせられる。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "Taurillon Lagoonの鞣し工程や原皮の産地、収納できる機種寸法は商品ページに記載がないため補わない。ストラップは本体に付属せず別売りとする。",
+    "product_title": "別売りストラップに対応する、H.KLAUS。",
+    "product_paragraphs": [
+      "フランスのTaurillon Lagoonレザーを使った牛革ケース。側面ファスナーにカードや小物を収納でき、別売りストラップに対応する。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "review",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "h-klaus-26ss",
+        "model": "H.KLAUS",
+        "season": "SS26",
+        "url": "https://www.niceness.jp/en/products/h-klaus-26ss",
+        "retained": "NICENESS商品ページはフランスのTaurillon Lagoonレザーを使用し、素材欄を牛革、製造国を日本と表示する。",
+        "changed": "NICENESS商品ページはモバイル機器用ケースの側面にファスナーを備え、カードや小物を収納できると説明する。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS H.KLAUS SS26 Product",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/h-klaus-26ss",
+        "kind": "brand"
+      }
+    ]
   }
 ]
