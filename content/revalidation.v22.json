@@ -1,0 +1,244 @@
+{
+  "version": 22,
+  "recordedOn": "2026-10-22",
+  "baseline": {
+    "commit": "388cc5be158ab68b2385455c2aead7e64ecacb36",
+    "publicSiteVersion": 15,
+    "publicSiteSource": "388cc5be158ab68b2385455c2aead7e64ecacb36",
+    "mainArticleCount": 257,
+    "publicArticleCount": 256
+  },
+  "scope": "T356–T360 are new SS26 item-specific articles. Source claims are attributed to NICENESS product pages; no independent manufacturing or fashion-history facts are added.",
+  "sourceRecords": [
+    {
+      "topicId": "T356",
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
+      "sourceUrl": "https://www.niceness.jp/en/products/jordan-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/jordan-26ss"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは、別注チノの糸から不純物を取り除いてタンブラー加工し、1940〜50年代のアメリカのチノトラウザーとミリタリーパンツを参照した独自パターンと説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは、深いタックにリバーシブルスエードのベルトを縫い込み、ベルトには高級スエードを専門とするイタリアのタンナーの素材を用いたベルトレス仕様と説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "NICENESS素材欄は本体100%綿、ベルト牛革、製造国日本と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "参照年代やデザイン上の系譜は商品ページの説明として扱う。特定の軍用衣服を忠実に複製した、またはベルトを外して着用できるとは記載しない。",
+      "overlapScreen": "既存記事のJORDANとの一致なし。既存のチノ・トラウザー記事と異なり、別注チノの説明およびタックへ縫い込むリバーシブルベルトの仕様に限定する。",
+      "seasonDisclosure": "SS26",
+      "sourceCheckSha256": "acbf7b8e887b152d063fb46f424a6ce6513c3068ff57631b472b16dea93dcec7",
+      "storySha256": "cc15c1987e6e1691573e3182ee5b1d8668c96670aebb8146af518efe7e2274a2"
+    },
+    {
+      "topicId": "T357",
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
+      "sourceUrl": "https://www.niceness.jp/en/products/d-pomona-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/d-pomona-26ss"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは、Vネックとクルーネックを備えるダブルフロント仕様で、どちら向きにも着用できると説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは高密度シャンブレー、インディゴ染めによる深い色合いと自然な光沢を記す。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは職人によるフェード加工とオーバーダイを説明し、素材を身頃麻63%・綿37%、リブ綿100%、日本製と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "フェードやオーバーダイの工程、ヴィンテージ風という表現はブランドの説明として記す。経年変化の速度や着用時の効果は推定しない。",
+      "overlapScreen": "既存記事にD.POMONAの商品記事なし。既存のプルオーバー記事とは、二つのネックラインを持つダブルフロント構造と手作業の加工仕様に焦点を絞って区別する。",
+      "seasonDisclosure": "SS26",
+      "sourceCheckSha256": "40673553b4be8ac0ea3469bb8521b7e7d67ed9e2137df0815cf53e86322c25c5",
+      "storySha256": "1e9f36ec63c37fc2adc00b3657252b0540a4e7180e3b04e7c26f9269511c5716"
+    },
+    {
+      "topicId": "T358",
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
+      "sourceUrl": "https://www.niceness.jp/en/products/s-morton-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/s-morton-26ss"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは、起毛加工を施したツイルチェック地と、フランスのテーラリング・英国のダブルブレストジャケットを参照した独自パターンを記す。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは袖の立体的な一枚仕立て構造と、ボタン配置によって表情を変えるデザインを説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "NICENESS素材欄は表地ウール100%、裏地綿100%、製造国日本と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "フランス・英国の服飾史上の具体的な年代や特定の衣服との直接的な系譜は、商品ページに記載がないため加えない。リゾートウェアという説明もブランドの提案として扱う。",
+      "overlapScreen": "既存記事にS.MORTONの商品記事なし。既存のジャケット記事と異なり、ツイルチェックの起毛、立体的な一枚仕立ての袖、ボタン配置の説明に限定する。",
+      "seasonDisclosure": "SS26",
+      "sourceCheckSha256": "d40256ff9c09443f1530ba42bcc36cb8cd16d9ce9855e2600ca098ac9f1817ed",
+      "storySha256": "74fa7786cecafef3453421c7bbd86ae398e9630c7c00ed020e46f65a262105f3"
+    },
+    {
+      "topicId": "T359",
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
+      "sourceUrl": "https://www.niceness.jp/en/products/burman-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/burman-26ss"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは片面に綿ツイル、もう片面に極細ウール糸13色による多色オンブレチェックを配すると記す。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは異なる質感の二つの生地を職人が手縫いでつなぎ、素材欄はウール100%、製造国インドと表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "綿ツイルの面を含むが、素材欄の表示はウール100％。この差を解消する混率や構成は商品ページに明記されていないため、混率を推定しない。",
+      "overlapScreen": "既存記事にBURMANの商品記事なし。既存のストール・マフラー記事と異なり、綿ツイルと13色のウールチェックの両面構成、手縫いによる接合を中心にする。",
+      "seasonDisclosure": "SS26",
+      "sourceCheckSha256": "c266d095dd6ac61595a8ba0728083182899ddc75344f9bdc1f74ac7c55a744c0",
+      "storySha256": "99a58a7fcddf755bedf92cdbd10a65f327c46624af8cdfbcd240bce70bc88047"
+    },
+    {
+      "topicId": "T360",
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
+      "sourceUrl": "https://www.niceness.jp/en/products/h-klaus-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/h-klaus-26ss"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページはフランスのTaurillon Lagoonレザーを使用し、素材欄を牛革、製造国を日本と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページはモバイル機器用ケースの側面にファスナーを備え、カードや小物を収納できると説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは別売りストラップとの組み合わせにより、首掛け・肩掛け・ポケット内での携帯ができると説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "Taurillon Lagoonの鞣し工程や原皮の産地、収納できる機種寸法は商品ページに記載がないため補わない。ストラップは本体に付属せず別売りとする。",
+      "overlapScreen": "既存記事にH.KLAUSの商品記事なし。既存のバッグ記事とは異なり、モバイル機器用ケースの側面ファスナー収納と別売りストラップの使い方に限定する。",
+      "seasonDisclosure": "SS26",
+      "sourceCheckSha256": "cad2b938e2f34c90cc65d36f95d5071874847ed28f009ff22cb9af9010f0342b",
+      "storySha256": "bf8ecb902e2423f4380e379da875d014f9daad686e4722bb07253f1698582bbd"
+    }
+  ],
+  "heldArticles": [
+    {
+      "topicId": "T289",
+      "status": "review"
+    },
+    {
+      "topicId": "T330",
+      "status": "review"
+    },
+    {
+      "topicId": "T253",
+      "status": "review"
+    },
+    {
+      "topicId": "T323",
+      "status": "review"
+    }
+  ],
+  "images": "No new image assets were added.",
+  "publicationStatus": "Adoption: T356–T360 promoted to ready after exact-head independent Luna review. Four held articles remain review-only.",
+  "independentReview": {
+    "model": "gpt-6-luna",
+    "reviewedHead": "770684d221f516995f0d0ceb29fa70d16b18aa2c",
+    "pass": [
+      "T356",
+      "T357",
+      "T358",
+      "T359",
+      "T360"
+    ],
+    "hold": [],
+    "summary": "All five articles passed the independent follow-up review. T356 belt-material provenance and T360 mobile-device wording were verified."
+  }
+}
