@@ -31,7 +31,7 @@
         {
           "id": "F02",
           "kind": "brand_statement",
-          "statement": "NICENESS商品ページは、深いタックにイタリアのタンナーによるリバーシブルスエードベルトを縫い込み、ベルトレス仕様にしたと説明する。",
+          "statement": "NICENESS商品ページは、深いタックにリバーシブルスエードのベルトを縫い込み、ベルトには高級スエードを専門とするイタリアのタンナーの素材を用いたベルトレス仕様と説明する。",
           "sourceIds": [
             "B01"
           ]
@@ -48,8 +48,8 @@
       "boundary": "参照年代やデザイン上の系譜は商品ページの説明として扱う。特定の軍用衣服を忠実に複製した、またはベルトを外して着用できるとは記載しない。",
       "overlapScreen": "既存記事のJORDANとの一致なし。既存のチノ・トラウザー記事と異なり、別注チノの説明およびタックへ縫い込むリバーシブルベルトの仕様に限定する。",
       "seasonDisclosure": "SS26",
-      "sourceCheckSha256": "66d90decb4d76358eb062634c1adf231f4afe72b6fb55972c4c4afecd684786e",
-      "storySha256": "11cbc6271353167bcd9e749951b1a68d33c7ddcdea0b7166ad367c57c7371568"
+      "sourceCheckSha256": "acbf7b8e887b152d063fb46f424a6ce6513c3068ff57631b472b16dea93dcec7",
+      "storySha256": "797f9559fa2edd536bfb07f10fa81723c7401a3ac0d5573accfdb016f383a35b"
     },
     {
       "topicId": "T357",
@@ -202,10 +202,10 @@
         }
       ],
       "boundary": "Taurillon Lagoonの鞣し工程や原皮の産地、収納できる機種寸法は商品ページに記載がないため補わない。ストラップは本体に付属せず別売りとする。",
-      "overlapScreen": "既存記事にH.KLAUSの商品記事なし。既存のバッグ記事とは異なり、スマートフォン用ケースの側面ファスナー収納と別売りストラップの使い方に限定する。",
+      "overlapScreen": "既存記事にH.KLAUSの商品記事なし。既存のバッグ記事とは異なり、モバイル機器用ケースの側面ファスナー収納と別売りストラップの使い方に限定する。",
       "seasonDisclosure": "SS26",
-      "sourceCheckSha256": "9efe377b075c3e10f6a2bdfd930ea7e1fd8cff0c87e3ae693c4d1eb75fb0cc04",
-      "storySha256": "41c4ca5588639bdf1b90029d714641661d8ce19961f1c93770845383c71dcc9c"
+      "sourceCheckSha256": "cad2b938e2f34c90cc65d36f95d5071874847ed28f009ff22cb9af9010f0342b",
+      "storySha256": "a498a1a08d3ceaedb77ddd2dd6560be948955fae4c7d8555680255810fad9d1d"
     }
   ],
   "heldArticles": [
