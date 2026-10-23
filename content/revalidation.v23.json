@@ -49,7 +49,7 @@
       "overlapScreen": "Existing articles checked by model, product id, and topic: no matching item article for ROMEO romeo-26ss; T361 remains review-only.",
       "seasonDisclosure": "SS26 product",
       "sourceCheckSha256": "a97faa1bac3def359f32e8a624524993e7e37f7cd53d2f3ede9118199c51b992",
-      "storySha256": "14b21529613e0e3591ff588ee906f0fa3e78b8939f3591a407f27e859a86789a"
+      "storySha256": "a438aa0160dcffc4b269f0d1be62ed4a0e73612f5156795b3144f4a03d6f673a"
     },
     {
       "topicId": "T362",
@@ -90,7 +90,7 @@
       "overlapScreen": "Existing articles checked by model, product id, and topic: no matching item article for OVAL oval-26ss; T362 remains review-only.",
       "seasonDisclosure": "SS26 product",
       "sourceCheckSha256": "a19f99b7a2839d94c11d077dd4e60d87662eae375295f4bcc6e12b5e08b58ffc",
-      "storySha256": "728390e7253fe941fe0d31c72cc03868273b318c7465e1d46b8c8029a3c07247"
+      "storySha256": "0da05837046f957685b57f0a3af84b9c9833399908451627d069826b99db52b7"
     },
     {
       "topicId": "T363",
@@ -131,7 +131,7 @@
       "overlapScreen": "Existing articles checked by model, product id, and topic: no matching item article for THOM thom-26ss; T363 remains review-only.",
       "seasonDisclosure": "SS26 product",
       "sourceCheckSha256": "94e9cd40b84a2a2a358be7b774d1048caf9a15a1f714ec5b64dd03145cb16d59",
-      "storySha256": "0ca3145451acb0132e6feb145d5a1fa9aa01a03f4958cbfb09d2d911484646c4"
+      "storySha256": "fad0b969c308c105ce14a5953be6f471dafc39076ad99b6bd6a1bf489f4d7756"
     },
     {
       "topicId": "T364",
@@ -162,7 +162,7 @@
         {
           "id": "F03",
           "kind": "brand_statement",
-          "statement": "NICENESS商品ページは北斎漫画をモチーフにした裏地を特徴として挙げ、表地・裏地を綿100％、製造国を日本と表示する。",
+          "statement": "NICENESS商品ページは北斎漫画をモチーフにした裏地を特徴として挙げ、表地は毛100％、身頃裏地と袖裏地は綿100％、製造国は日本と表示する。",
           "sourceIds": [
             "B01"
           ]
@@ -171,8 +171,8 @@
       "boundary": "ジャケット自体のイタリア製や、特定の職人・工房による制作は記載がないため推定しない。",
       "overlapScreen": "Existing articles checked by model, product id, and topic: no matching item article for T.ROLAND t-roland-26ss; T364 remains review-only.",
       "seasonDisclosure": "SS26 product",
-      "sourceCheckSha256": "1a98367845567cb5a485239bc1547eb65907b87f0f5c6a720ac7f0ce58241f94",
-      "storySha256": "a5dfc17747f7acb2dcb151c6fcc2d6aed4cd26c0682f15d93982435d9154a02f"
+      "sourceCheckSha256": "5acaff94a85f7b03145081dae2d0c9073bbb1fe0326f03b1c9a27eee8ee44d68",
+      "storySha256": "e81f5331dc1929e2206f3986a5056d76c3500044779200d7b7e956176c352703"
     },
     {
       "topicId": "T365",
@@ -195,7 +195,7 @@
         {
           "id": "F02",
           "kind": "brand_statement",
-          "statement": "NICENESS商品ページはシルク糸を使ったテクニカルなダブルニットと両面起毛を説明し、表地を絹100％と表示する。",
+          "statement": "NICENESS商品ページはシルクフリースに両面起毛を施したと説明し、表地を絹100％と表示する。",
           "sourceIds": [
             "B01"
           ]
@@ -203,7 +203,7 @@
         {
           "id": "F03",
           "kind": "brand_statement",
-          "statement": "NICENESS商品ページは人間工学的な観点で開発したパターンを記す。裏地はポリエステル100％、複数の別布混率と日本製を表示し、ページにシーズン表記はない。",
+          "statement": "NICENESS商品ページは別途、テクニカルなダブルニット生地と人間工学的な観点で開発したパターンを記す。裏地はポリエステル100％、複数の別布混率と日本製を表示し、ページにシーズン表記はない。",
           "sourceIds": [
             "B01"
           ]
@@ -212,8 +212,8 @@
       "boundary": "公式ページに季節・販売時期の表記がないためシーズンを推定しない。起毛による保温性や防風性も商品記述を越えて補わない。",
       "overlapScreen": "Existing articles checked by model, product id, and topic: no matching item article for S.BAILEY s-bailey; T365 remains review-only.",
       "seasonDisclosure": "Official page has no season notation; no season inferred",
-      "sourceCheckSha256": "6f537a2bf85111697c59915163baa740f12d5bfafeefc512e314e069558fcd52",
-      "storySha256": "c2eee6e9aab35056e1953c2296f5749dc50bb8cc43423d36b381eac31b475013"
+      "sourceCheckSha256": "e2c686e3ae8b35a8501735abb4e4623bd9b1f881308c328b22d3bb5e5d72e8b3",
+      "storySha256": "7c15a7a931838ab58c0733087f864cff408ae25a1962b129dd8f50939397ba49"
     }
   ],
   "heldArticles": [
