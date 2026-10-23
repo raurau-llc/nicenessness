@@ -19,3 +19,9 @@ test('item metadata omits an unconfirmed season', () => {
   assert.equal(meta.numberLine,'NN-2402J18');
   assert.doesNotMatch(Object.values(meta).join(' '),/undefined/);
 });
+
+test('story item link label has no trailing slash without a season', () => {
+  const label=itemDisplayMeta({model:'S.BAILEY',number:'NN-2402J18'}).eyebrow;
+  assert.equal(label,'NICENESS');
+  assert.doesNotMatch(label,/\/$/);
+});
