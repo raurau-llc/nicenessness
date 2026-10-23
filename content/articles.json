@@ -33442,7 +33442,7 @@
       "F02",
       "F03"
     ],
-    "status": "review",
+    "status": "ready",
     "editorialCredit": "NICENESSness 編集",
     "products": [
       {
@@ -33468,7 +33468,9 @@
         "url": "https://www.niceness.jp/en/products/romeo-26ss",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-23",
+    "modifiedAt": "2026-10-23"
   },
   {
     "id": "T362",
@@ -33554,7 +33556,7 @@
       "F02",
       "F03"
     ],
-    "status": "review",
+    "status": "ready",
     "editorialCredit": "NICENESSness 編集",
     "products": [
       {
@@ -33580,7 +33582,9 @@
         "url": "https://www.niceness.jp/en/products/oval-26ss",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-23",
+    "modifiedAt": "2026-10-23"
   },
   {
     "id": "T363",
@@ -33666,7 +33670,7 @@
       "F02",
       "F03"
     ],
-    "status": "review",
+    "status": "ready",
     "editorialCredit": "NICENESSness 編集",
     "products": [
       {
@@ -33692,7 +33696,9 @@
         "url": "https://www.niceness.jp/en/products/thom-26ss",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-23",
+    "modifiedAt": "2026-10-23"
   },
   {
     "id": "T364",
@@ -33783,7 +33789,7 @@
       "F02",
       "F03"
     ],
-    "status": "review",
+    "status": "ready",
     "editorialCredit": "NICENESSness 編集",
     "products": [
       {
@@ -33809,7 +33815,9 @@
         "url": "https://www.niceness.jp/en/products/t-roland-26ss",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-23",
+    "modifiedAt": "2026-10-23"
   },
   {
     "id": "T365",
@@ -33893,7 +33901,7 @@
       "F02",
       "F03"
     ],
-    "status": "review",
+    "status": "ready",
     "editorialCredit": "NICENESSness 編集",
     "products": [
       {
@@ -33918,6 +33926,8 @@
         "url": "https://www.niceness.jp/products/s-bailey",
         "kind": "brand"
       }
-    ]
+    ],
+    "publishedAt": "2026-10-23",
+    "modifiedAt": "2026-10-23"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "version": 23,
   "sourceRevision": "5ef28f60d15442b1628bd4b33fb0c1d28ca815e2",
-  "scope": "Five review-only stories T361–T365 based on NICENESS official product pages. T289, T330, T253 and T323 remain held. No article is adopted or public in this release.",
+  "scope": "T361–T365 are adopted, ready-to-publish item-specific stories based on NICENESS official product pages. T289, T330, T253 and T323 remain held.",
   "articles": [
     {
       "topicId": "T170",
@@ -9149,7 +9149,7 @@
           ]
         }
       ],
-      "storySha256": "a438aa0160dcffc4b269f0d1be62ed4a0e73612f5156795b3144f4a03d6f673a",
+      "storySha256": "722ac3bce11430a9c6727a581f89b9a664a6a5bb5def86623da383192584673c",
       "storyHashBasis": "Canonical SHA-256 of the complete review article in content/articles.json."
     },
     {
@@ -9180,7 +9180,7 @@
           ]
         }
       ],
-      "storySha256": "0da05837046f957685b57f0a3af84b9c9833399908451627d069826b99db52b7",
+      "storySha256": "15cc664ad117df993126c10859c5dcb38bfa43d95ce56cf1b0cd336b35125aaa",
       "storyHashBasis": "Canonical SHA-256 of the complete review article in content/articles.json."
     },
     {
@@ -9211,7 +9211,7 @@
           ]
         }
       ],
-      "storySha256": "fad0b969c308c105ce14a5953be6f471dafc39076ad99b6bd6a1bf489f4d7756",
+      "storySha256": "3dab0a02eb1bed88b0e7fe26d4ed78d41ab68d3f6cc470188900050f489f313e",
       "storyHashBasis": "Canonical SHA-256 of the complete review article in content/articles.json."
     },
     {
@@ -9242,7 +9242,7 @@
           ]
         }
       ],
-      "storySha256": "e81f5331dc1929e2206f3986a5056d76c3500044779200d7b7e956176c352703",
+      "storySha256": "8567fae5768ab44a88b3982cc5aafb0db6e1f886e5c3bbe056c0c5360360e33f",
       "storyHashBasis": "Canonical SHA-256 of the complete review article in content/articles.json."
     },
     {
@@ -9273,7 +9273,7 @@
           ]
         }
       ],
-      "storySha256": "30740723a3822c82cb1ec1ef3d963800729f0fcedb06a1f003764aa675263679",
+      "storySha256": "fda6df70c3cf009839df616a7de073091d45bdaeb2eb9dcaa1935f013b87f643",
       "storyHashBasis": "Canonical SHA-256 of the complete review article in content/articles.json."
     }
   ],
@@ -9287,9 +9287,9 @@
     "T365"
   ],
   "verificationRecord": "content/revalidation.v23.json",
-  "publicationNote": "Publication dates record the actual 2026-10-22 adoption date. T289, T330, T253 and T323 remain held; see revalidation.v22.json.",
-  "recordedOn": "2026-10-22",
-  "publicationStatus": "Adopted for public release: 262 records, 261 ready stories. T289, T330, T253 and T323 remain review-only.",
+  "publicationNote": "Publication dates record the actual 2026-10-23 adoption date. T289, T330, T253 and T323 remain held; see revalidation.v23.json.",
+  "recordedOn": "2026-10-23",
+  "publicationStatus": "Adopted for public release: 267 article records, 266 ready stories. T289, T330, T253 and T323 remain review-only.",
   "independentReview": {
     "proposalReviews": [
       {
@@ -9306,6 +9306,21 @@
         "summary": "Independent gpt-6-luna exact-head review passed all five. T356 and T360 corrections verified; T357–T359 had no content changes.",
         "model": "gpt-6-luna",
         "ci": "GitHub Actions #94 verify, npm ci, test and build succeeded on the reviewed head."
+      },
+      {
+        "pr": 27,
+        "reviewedHead": "5e7633308c5150495d5db3b3d65c207f617faf3b",
+        "pass": [
+          "T361",
+          "T362",
+          "T363",
+          "T364",
+          "T365"
+        ],
+        "hold": [],
+        "summary": "Independent gpt-6-luna exact-head review passed all five. T361–T365 content and missing-season display fixes passed; CI #112 verify, npm ci, test and build succeeded on the reviewed head.",
+        "model": "gpt-6-luna",
+        "ci": "GitHub Actions #112 succeeded on the reviewed head."
       }
     ]
   }
