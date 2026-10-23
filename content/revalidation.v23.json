@@ -1,0 +1,252 @@
+{
+  "version": 23,
+  "recordedOn": "2026-10-23",
+  "baseline": {
+    "commit": "5ef28f60d15442b1628bd4b33fb0c1d28ca815e2",
+    "publicSiteVersion": 16,
+    "publicSiteSource": "5ef28f60d15442b1628bd4b33fb0c1d28ca815e2",
+    "mainArticleCount": 262,
+    "publicArticleCount": 261
+  },
+  "scope": "T361–T365 are adopted and their public story pages are generated in the release build. Claims remain limited to NICENESS official product pages; S.BAILEY has no season notation and none is inferred.",
+  "sourceRecords": [
+    {
+      "topicId": "T361",
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
+      "sourceUrl": "https://www.niceness.jp/en/products/romeo-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/romeo-26ss"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページはROMEOをイタリアのデッドストック生地を用いたライトブルーの柄シャツと説明する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは1940年代の洗練されたボックスシルエットをデザインの参照先として挙げる。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは胸ポケットをアメリカのワークシャツを着想源とするホームベース型と説明し、日本のシャツ専門工場で生産、綿100％・日本製と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "生地の織元や年代、シャツ自体のイタリア製は商品ページに記載がないため補わない。",
+      "overlapScreen": "Existing articles checked by model, product id, and topic: no matching item article for ROMEO romeo-26ss; T361 remains review-only.",
+      "seasonDisclosure": "SS26 product",
+      "sourceCheckSha256": "a97faa1bac3def359f32e8a624524993e7e37f7cd53d2f3ede9118199c51b992",
+      "storySha256": "722ac3bce11430a9c6727a581f89b9a664a6a5bb5def86623da383192584673c"
+    },
+    {
+      "topicId": "T362",
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
+      "sourceUrl": "https://www.niceness.jp/en/products/oval-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/oval-26ss"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは細番手のポリエステルとウール糸による杢調の表情を説明し、本体をポリエステル68％・毛29％・ポリウレタン3％と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは1960〜70年代のスポーツ用スウェットパンツをデザインの着想源として挙げる。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは1990年代のストリートカルチャーとクチュール的な仕立ての技術を重ねたデザインと説明する。ひもはレーヨン70％・麻30％、革パーツは牛革、日本製と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "具体的な吸湿性、耐久性、着用時のシルエット効果は商品ページから確認できないため推定しない。",
+      "overlapScreen": "Existing articles checked by model, product id, and topic: no matching item article for OVAL oval-26ss; T362 remains review-only.",
+      "seasonDisclosure": "SS26 product",
+      "sourceCheckSha256": "a19f99b7a2839d94c11d077dd4e60d87662eae375295f4bcc6e12b5e08b58ffc",
+      "storySha256": "15cc664ad117df993126c10859c5dcb38bfa43d95ce56cf1b0cd336b35125aaa"
+    },
+    {
+      "topicId": "T363",
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
+      "sourceUrl": "https://www.niceness.jp/en/products/thom-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/thom-26ss"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページはマルチカラーのオンブレチェックを上質な極細ウール糸で表現し、身頃を毛100％と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページはTHOMをジャケットとシャツの要素をつなぐオープンカラーのデザインとして紹介する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページはインドで立体的な仕立てと職人的な手仕事を施したと記し、後ろ襟・後ろヨークは綿100％、製造国はインドと表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "手仕事の具体的工程や担当工場、素材の原産地は商品ページに記載がないため補わない。",
+      "overlapScreen": "Existing articles checked by model, product id, and topic: no matching item article for THOM thom-26ss; T363 remains review-only.",
+      "seasonDisclosure": "SS26 product",
+      "sourceCheckSha256": "94e9cd40b84a2a2a358be7b774d1048caf9a15a1f714ec5b64dd03145cb16d59",
+      "storySha256": "3dab0a02eb1bed88b0e7fe26d4ed78d41ab68d3f6cc470188900050f489f313e"
+    },
+    {
+      "topicId": "T364",
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
+      "sourceUrl": "https://www.niceness.jp/en/products/t-roland-26ss",
+      "sourceUrls": [
+        "https://www.niceness.jp/en/products/t-roland-26ss"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは三種のメリノウールを組み合わせて別注で紡いだヘリンボーン生地と説明し、表地を毛100％と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは1950〜60年代のイタリアのビスポークテーラリングをデザインの参照先として挙げる。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは北斎漫画をモチーフにした裏地を特徴として挙げ、表地は毛100％、身頃裏地と袖裏地は綿100％、製造国は日本と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "ジャケット自体のイタリア製や、特定の職人・工房による制作は記載がないため推定しない。",
+      "overlapScreen": "Existing articles checked by model, product id, and topic: no matching item article for T.ROLAND t-roland-26ss; T364 remains review-only.",
+      "seasonDisclosure": "SS26 product",
+      "sourceCheckSha256": "5acaff94a85f7b03145081dae2d0c9073bbb1fe0326f03b1c9a27eee8ee44d68",
+      "storySha256": "8567fae5768ab44a88b3982cc5aafb0db6e1f886e5c3bbe056c0c5360360e33f"
+    },
+    {
+      "topicId": "T365",
+      "articleStatus": "ready",
+      "publicPageGenerated": true,
+      "sourceUrl": "https://www.niceness.jp/products/s-bailey",
+      "sourceUrls": [
+        "https://www.niceness.jp/products/s-bailey"
+      ],
+      "sourcePublisher": "NICENESS official product page",
+      "claims": [
+        {
+          "id": "F01",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは1990年代のミリタリーフリースジャケットをデザインの着想源として挙げる。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F02",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページはシルクフリースに両面起毛を施したと説明し、表地を絹100％と表示する。",
+          "sourceIds": [
+            "B01"
+          ]
+        },
+        {
+          "id": "F03",
+          "kind": "brand_statement",
+          "statement": "NICENESS商品ページは別途、テクニカルなダブルニット生地と人間工学的な観点で開発したパターンを記す。裏地はポリエステル100％、複数の別布混率と日本製を表示し、ページにシーズン表記はない。",
+          "sourceIds": [
+            "B01"
+          ]
+        }
+      ],
+      "boundary": "公式ページに季節・販売時期の表記がないためシーズンを推定しない。起毛による保温性や防風性も商品記述を越えて補わない。",
+      "overlapScreen": "Existing articles checked by model, product id, and topic: no matching item article for S.BAILEY s-bailey; T365 remains review-only.",
+      "seasonDisclosure": "Official page has no season notation; no season inferred",
+      "sourceCheckSha256": "e2c686e3ae8b35a8501735abb4e4623bd9b1f881308c328b22d3bb5e5d72e8b3",
+      "storySha256": "fda6df70c3cf009839df616a7de073091d45bdaeb2eb9dcaa1935f013b87f643"
+    }
+  ],
+  "heldArticles": [
+    {
+      "topicId": "T289",
+      "status": "review"
+    },
+    {
+      "topicId": "T330",
+      "status": "review"
+    },
+    {
+      "topicId": "T253",
+      "status": "review"
+    },
+    {
+      "topicId": "T323",
+      "status": "review"
+    }
+  ],
+  "images": "No new image assets were added.",
+  "publicationStatus": "Adoption: T361–T365 promoted to ready after independent exact-head Luna review. Four held topics remain review-only.",
+  "independentReview": {
+    "model": "gpt-6-luna",
+    "reviewedHead": "5e7633308c5150495d5db3b3d65c207f617faf3b",
+    "pass": [
+      "T361",
+      "T362",
+      "T363",
+      "T364",
+      "T365"
+    ],
+    "hold": [],
+    "summary": "T361–T365 passed independent review. Corrected T365 naming and missing-season article-link display passed review; Actions #112 succeeded."
+  }
+}

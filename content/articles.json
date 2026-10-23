@@ -33353,5 +33353,581 @@
     ],
     "publishedAt": "2026-10-22",
     "modifiedAt": "2026-10-22"
+  },
+  {
+    "id": "T361",
+    "slug": "romeo-deadstock-light-blue-shirt",
+    "regions": [
+      {
+        "id": "it",
+        "name": "イタリア",
+        "role": "商品ページが記すデッドストック生地の由来"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示とシャツ専門工場"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "ドレスシャツ",
+      "デッドストック",
+      "SS26"
+    ],
+    "category": "MAKE / つくる",
+    "model": "ROMEO",
+    "season": "SS26",
+    "item": "romeo-26ss",
+    "title": "デッドストックの青い生地に、1940年代の箱型を重ねる\nROMEOのシャツ",
+    "deck": "イタリアのデッドストック生地を、日本のシャツ工場で仕立てる。",
+    "place": "イタリア・日本",
+    "period": "SS26",
+    "context": "デッドストックの青い生地に、1940年代の箱型を重ねる / ROMEOのシャツ",
+    "opening": "ROMEOは、イタリアのデッドストック生地を用いたライトブルーの柄シャツ。NICENESSは1940年代の端正なボックスシルエットと、アメリカのワークシャツに見られるホームベース型の胸ポケットをデザインの参照先として挙げる。",
+    "opening_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "fabric",
+        "title": "イタリアのデッドストック生地。",
+        "paragraphs": [
+          "商品ページは素材をイタリアのデッドストック生地と説明し、品名をライトブルーの柄シャツと記す。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "shape",
+        "title": "1940年代の端正なボックスシルエット。",
+        "paragraphs": [
+          "NICENESSは1940年代のドレスシャツに見られる、洗練された箱型のシルエットをデザインの参照先として説明する。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "pocket",
+        "title": "ワークシャツを思わせる胸ポケット。",
+        "paragraphs": [
+          "胸ポケットはアメリカのワークシャツを着想源とするホームベース型。商品ページは日本のシャツ専門工場で生産したと記し、素材欄は綿100％、日本製と表示する。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "生地の由来、シルエットとポケットの参照先はNICENESSの商品説明に基づく。",
+    "bridge_title": "デッドストックの青い生地に、1940年代の箱型を重ねる。",
+    "bridge": "ROMEOは、イタリアのデッドストック生地を用いたライトブルーの柄シャツ。NICENESSは1940年代の端正なボックスシルエットと、アメリカのワークシャツに見られるホームベース型の胸ポケットをデザインの参照先として挙げる。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "生地の織元や年代、シャツ自体のイタリア製は商品ページに記載がないため補わない。",
+    "product_title": "ROMEOの商品仕様を、公式ページの記述から。",
+    "product_paragraphs": [
+      "ROMEOは、イタリアのデッドストック生地を用いたライトブルーの柄シャツ。NICENESSは1940年代の端正なボックスシルエットと、アメリカのワークシャツに見られるホームベース型の胸ポケットをデザインの参照先として挙げる。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "romeo-26ss",
+        "model": "ROMEO",
+        "season": "SS26",
+        "number": "NN-2701Y17",
+        "url": "https://www.niceness.jp/en/products/romeo-26ss",
+        "retained": "NICENESS商品ページはROMEOをイタリアのデッドストック生地を用いたライトブルーの柄シャツと説明する。",
+        "changed": "NICENESS商品ページは1940年代の洗練されたボックスシルエットをデザインの参照先として挙げる。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS ROMEO SS26 Product",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/romeo-26ss",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-23",
+    "modifiedAt": "2026-10-23"
+  },
+  {
+    "id": "T362",
+    "slug": "oval-melange-drape-easy-trousers",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "イージートラウザー",
+      "メランジ",
+      "スポーツウェア",
+      "SS26"
+    ],
+    "category": "MAKE / つくる",
+    "model": "OVAL",
+    "season": "SS26",
+    "item": "oval-26ss",
+    "title": "スポーツウェアの霜降りを、テーラリングの線へ\nOVALのイージートラウザー",
+    "deck": "細番手糸によるメランジ表情のイージートラウザー。",
+    "place": "日本",
+    "period": "SS26",
+    "context": "スポーツウェアの霜降りを、テーラリングの線へ / OVALのイージートラウザー",
+    "opening": "OVALは、ドレープ感のあるイージートラウザー。NICENESSは細番手のポリエステルとウールによるメランジ表情を、ヴィンテージのスポーツウェアに重ねて説明し、1960〜70年代のアスレチックパンツと1990年代のストリートカルチャーを着想源に挙げる。",
+    "opening_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "cloth",
+        "title": "細番手のポリエステルとウール。",
+        "paragraphs": [
+          "商品ページはポリエステルとウールの細番手糸による、杢調の表情を特徴として紹介する。素材欄は本体をポリエステル68％・毛29％・ポリウレタン3％と表示する。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "references",
+        "title": "1960〜70年代のアスレチックパンツ。",
+        "paragraphs": [
+          "NICENESSは1960〜70年代のスポーツ用スウェットパンツをデザインの着想源として記す。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "line",
+        "title": "1990年代のストリートとテーラリング。",
+        "paragraphs": [
+          "商品説明は1990年代のストリートカルチャーと、クチュール的な仕立ての技術を重ねたデザインとしている。ひもはレーヨン70％・麻30％、革パーツは牛革、日本製と表示する。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "素材の混率とデザインの参照先を、商品ページの説明に限って記録した。",
+    "bridge_title": "スポーツウェアの霜降りを、テーラリングの線へ。",
+    "bridge": "OVALは、ドレープ感のあるイージートラウザー。NICENESSは細番手のポリエステルとウールによるメランジ表情を、ヴィンテージのスポーツウェアに重ねて説明し、1960〜70年代のアスレチックパンツと1990年代のストリートカルチャーを着想源に挙げる。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "具体的な吸湿性、耐久性、着用時のシルエット効果は商品ページから確認できないため推定しない。",
+    "product_title": "OVALの商品仕様を、公式ページの記述から。",
+    "product_paragraphs": [
+      "OVALは、ドレープ感のあるイージートラウザー。NICENESSは細番手のポリエステルとウールによるメランジ表情を、ヴィンテージのスポーツウェアに重ねて説明し、1960〜70年代のアスレチックパンツと1990年代のストリートカルチャーを着想源に挙げる。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "oval-26ss",
+        "model": "OVAL",
+        "season": "SS26",
+        "number": "NN-0602T17",
+        "url": "https://www.niceness.jp/en/products/oval-26ss",
+        "retained": "NICENESS商品ページは細番手のポリエステルとウール糸による杢調の表情を説明し、本体をポリエステル68％・毛29％・ポリウレタン3％と表示する。",
+        "changed": "NICENESS商品ページは1960〜70年代のスポーツ用スウェットパンツをデザインの着想源として挙げる。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS OVAL SS26 Product",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/oval-26ss",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-23",
+    "modifiedAt": "2026-10-23"
+  },
+  {
+    "id": "T363",
+    "slug": "thom-ombre-check-wool-jacket-shirt",
+    "regions": [
+      {
+        "id": "in",
+        "name": "インド",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "オープンカラー",
+      "オンブレチェック",
+      "ウール",
+      "SS26"
+    ],
+    "category": "MAKE / つくる",
+    "model": "THOM",
+    "season": "SS26",
+    "item": "thom-26ss",
+    "title": "チェックの色をぼかし、ジャケットとシャツの間へ\nTHOMのオープンカラー",
+    "deck": "極細ウールのオンブレチェックを、インドの手仕事で立体的に仕立てる。",
+    "place": "インド",
+    "period": "SS26",
+    "context": "チェックの色をぼかし、ジャケットとシャツの間へ / THOMのオープンカラー",
+    "opening": "THOMは、複数色のオンブレチェックを配したオープンカラーのジャケットシャツ。NICENESSは極細ウール糸による柄を用い、ジャケットとシャツの間をつなぐデザインとして、インドで立体的な仕立てと手仕事を加えたと説明する。",
+    "opening_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "check",
+        "title": "極細ウール糸のマルチカラー。",
+        "paragraphs": [
+          "商品ページは複数色のオンブレチェックを、上質な極細ウール糸で表現したと説明する。身頃の素材欄は毛100％。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "form",
+        "title": "ジャケットとシャツのあいだ。",
+        "paragraphs": [
+          "NICENESSはTHOMを、ジャケットとシャツの要素をつなぐオープンカラーのデザインとして紹介する。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "making",
+        "title": "インドで立体的に仕立てる。",
+        "paragraphs": [
+          "商品ページはインドで立体的な仕立てと職人的な手仕事を施したと記す。後ろ襟と後ろヨークは綿100％、製造国はインドと表示する。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "チェックの素材、服の位置づけ、製造について、NICENESSの商品記述を整理した。",
+    "bridge_title": "チェックの色をぼかし、ジャケットとシャツの間へ。",
+    "bridge": "THOMは、複数色のオンブレチェックを配したオープンカラーのジャケットシャツ。NICENESSは極細ウール糸による柄を用い、ジャケットとシャツの間をつなぐデザインとして、インドで立体的な仕立てと手仕事を加えたと説明する。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "手仕事の具体的工程や担当工場、素材の原産地は商品ページに記載がないため補わない。",
+    "product_title": "THOMの商品仕様を、公式ページの記述から。",
+    "product_paragraphs": [
+      "THOMは、複数色のオンブレチェックを配したオープンカラーのジャケットシャツ。NICENESSは極細ウール糸による柄を用い、ジャケットとシャツの間をつなぐデザインとして、インドで立体的な仕立てと手仕事を加えたと説明する。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "thom-26ss",
+        "model": "THOM",
+        "season": "SS26",
+        "number": "NN-0302Y17",
+        "url": "https://www.niceness.jp/en/products/thom-26ss",
+        "retained": "NICENESS商品ページはマルチカラーのオンブレチェックを上質な極細ウール糸で表現し、身頃を毛100％と表示する。",
+        "changed": "NICENESS商品ページはTHOMをジャケットとシャツの要素をつなぐオープンカラーのデザインとして紹介する。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS THOM SS26 Product",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/thom-26ss",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-23",
+    "modifiedAt": "2026-10-23"
+  },
+  {
+    "id": "T364",
+    "slug": "t-roland-cloverleaf-merino-herringbone",
+    "regions": [
+      {
+        "id": "it",
+        "name": "イタリア",
+        "role": "商品ページが記すビスポークのデザイン参照先"
+      },
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "テーラードジャケット",
+      "ヘリンボーン",
+      "メリノウール",
+      "SS26"
+    ],
+    "category": "MAKE / つくる",
+    "model": "T.ROLAND",
+    "season": "SS26",
+    "item": "t-roland-26ss",
+    "title": "三種のメリノを紡いだ、クローバーリーフのヘリンボーン\nT.ROLANDのジャケット",
+    "deck": "1950〜60年代のイタリアンビスポークを参照し、日本で仕立てる。",
+    "place": "イタリア・日本",
+    "period": "SS26",
+    "context": "三種のメリノを紡いだ、クローバーリーフのヘリンボーン / T.ROLANDのジャケット",
+    "opening": "T.ROLANDは、三種のメリノウールを別注で紡いだクローバーリーフ・メランジのヘリンボーンジャケット。NICENESSは1950〜60年代のイタリアのビスポークをデザインの参照先として挙げ、北斎漫画をモチーフにした裏地を用いる。",
+    "opening_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "yarn",
+        "title": "三種のメリノウールを紡ぐ。",
+        "paragraphs": [
+          "商品ページは異なる三種のメリノウールを組み合わせ、別注で紡いだヘリンボーン生地と説明する。表地は毛100％。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "reference",
+        "title": "1950〜60年代のイタリアンビスポーク。",
+        "paragraphs": [
+          "NICENESSは1950〜60年代のイタリアのビスポークテーラリングを、デザイン上の参照先として記す。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "lining",
+        "title": "北斎漫画をモチーフにした裏地。",
+        "paragraphs": [
+          "商品ページは北斎漫画をモチーフとした裏地を特徴として挙げる。表地は毛100％、身頃裏地と袖裏地は綿100％、製造国は日本と表示する。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "生地と裏地、デザインの参照先は商品ページに明記された範囲で紹介した。",
+    "bridge_title": "三種のメリノを紡いだ、クローバーリーフのヘリンボーン。",
+    "bridge": "T.ROLANDは、三種のメリノウールを別注で紡いだクローバーリーフ・メランジのヘリンボーンジャケット。NICENESSは1950〜60年代のイタリアのビスポークをデザインの参照先として挙げ、北斎漫画をモチーフにした裏地を用いる。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "ジャケット自体のイタリア製や、特定の職人・工房による制作は記載がないため推定しない。",
+    "product_title": "T.ROLANDの商品仕様を、公式ページの記述から。",
+    "product_paragraphs": [
+      "T.ROLANDは、三種のメリノウールを別注で紡いだクローバーリーフ・メランジのヘリンボーンジャケット。NICENESSは1950〜60年代のイタリアのビスポークをデザインの参照先として挙げ、北斎漫画をモチーフにした裏地を用いる。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "t-roland-26ss",
+        "model": "T.ROLAND",
+        "season": "SS26",
+        "number": "NN-1501B17",
+        "url": "https://www.niceness.jp/en/products/t-roland-26ss",
+        "retained": "NICENESS商品ページは三種のメリノウールを組み合わせて別注で紡いだヘリンボーン生地と説明し、表地を毛100％と表示する。",
+        "changed": "NICENESS商品ページは1950〜60年代のイタリアのビスポークテーラリングをデザインの参照先として挙げる。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS T.ROLAND SS26 Product",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/en/products/t-roland-26ss",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-23",
+    "modifiedAt": "2026-10-23"
+  },
+  {
+    "id": "T365",
+    "slug": "s-bailey-silk-fleece-field-blouson",
+    "regions": [
+      {
+        "id": "jp",
+        "name": "日本",
+        "role": "商品の製造表示"
+      }
+    ],
+    "eras": [
+      "2020s"
+    ],
+    "tags": [
+      "フィールドブルゾン",
+      "シルク",
+      "ダブルニット"
+    ],
+    "category": "MAKE / つくる",
+    "model": "S.BAILEY",
+    "item": "s-bailey",
+    "title": "シルクフリースを両面起毛した、フィールドブルゾン\nS.BAILEYのシルクフリース",
+    "deck": "1990年代のミリタリーフリースを参照する、シーズン表記のないモデル。",
+    "place": "日本",
+    "period": "シーズン表記なし",
+    "context": "シルクフリースを両面起毛した、フィールドブルゾン / S.BAILEYのシルクフリース",
+    "opening": "S.BAILEYはシルクフリースを用いたフィールドブルゾン。NICENESSは1990年代のミリタリーフリースジャケットを着想源とし、シルクフリースへの両面起毛を説明する。商品ページは別途、テクニカルなダブルニット生地と身体の動きを考慮したパターンを挙げる。公式商品ページにシーズン表記はない。",
+    "opening_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "sections": [
+      {
+        "id": "inspiration",
+        "title": "1990年代のミリタリーフリース。",
+        "paragraphs": [
+          "商品ページは1990年代のミリタリーフリースジャケットをデザインの着想源として挙げる。"
+        ],
+        "fact_ids": [
+          "F01"
+        ]
+      },
+      {
+        "id": "fabric",
+        "title": "シルクフリースへの両面起毛。",
+        "paragraphs": [
+          "商品ページはシルクフリースに両面起毛を施したと説明し、素材欄は表地を絹100％と表示する。テクニカルなダブルニット生地は別途記されている。"
+        ],
+        "fact_ids": [
+          "F02"
+        ]
+      },
+      {
+        "id": "pattern",
+        "title": "別途記されるダブルニットと、パターン。",
+        "paragraphs": [
+          "商品ページは別途、テクニカルなダブルニット生地と人間工学的な観点で開発したパターンを挙げる。裏地はポリエステル100％、別布には綿・ポリエステル・ナイロンの混紡等を使用し、日本製と表示する。公式ページにシーズン表記はない。"
+        ],
+        "fact_ids": [
+          "F03"
+        ]
+      }
+    ],
+    "closing": "シルクフリースの両面起毛と、別途記載されたテクニカルなダブルニットを分けて紹介した。シーズンは公式表記を確認できなかった。",
+    "bridge_title": "シルクフリースに両面起毛を施した、フィールドブルゾン。",
+    "bridge": "S.BAILEYはシルクフリースを用いたフィールドブルゾン。NICENESSは1990年代のミリタリーフリースジャケットを着想源とし、シルクフリースへの両面起毛を説明する。商品ページは別途、テクニカルなダブルニット生地と身体の動きを考慮したパターンを挙げる。公式商品ページにシーズン表記はない。",
+    "bridge_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "boundary": "商品ページで別々に記されたシルクフリースとテクニカルなダブルニットを同じ生地とは扱わない。公式ページに季節・販売時期の表記がないためシーズンを推定しない。起毛による保温性や防風性も商品記述を越えて補わない。",
+    "product_title": "S.BAILEYの商品仕様を、公式ページの記述から。",
+    "product_paragraphs": [
+      "S.BAILEYはシルクフリースを用いたフィールドブルゾン。NICENESSは1990年代のミリタリーフリースジャケットを着想源とし、シルクフリースへの両面起毛を説明する。商品ページは別途、テクニカルなダブルニット生地と身体の動きを考慮したパターンを挙げる。公式商品ページにシーズン表記はない。"
+    ],
+    "product_refs": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "status": "ready",
+    "editorialCredit": "NICENESSness 編集",
+    "products": [
+      {
+        "id": "s-bailey",
+        "model": "S.BAILEY",
+        "number": "NN-2402J18",
+        "url": "https://www.niceness.jp/products/s-bailey",
+        "retained": "NICENESS商品ページは1990年代のミリタリーフリースジャケットをデザインの着想源として挙げる。",
+        "changed": "NICENESS商品ページは、シルクフリースへの両面起毛を説明し、表地を絹100％と表示する。テクニカルなダブルニット生地は別途記載されている。",
+        "factRefs": [
+          "F01",
+          "F02",
+          "F03"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "B01",
+        "title": "NICENESS S.BAILEY Product",
+        "publisher": "NICENESS",
+        "url": "https://www.niceness.jp/products/s-bailey",
+        "kind": "brand"
+      }
+    ],
+    "publishedAt": "2026-10-23",
+    "modifiedAt": "2026-10-23"
   }
 ]
